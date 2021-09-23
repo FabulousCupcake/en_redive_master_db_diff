@@ -30,7 +30,7 @@ jobs:
           pip install lz
           npm ci
           ln -s .. out
-          node priconne-en_db-fetch/app.js
+          node app.js
           cd ..
 
       - name: Check if we have new version
