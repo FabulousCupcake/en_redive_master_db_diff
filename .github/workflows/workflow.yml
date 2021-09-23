@@ -43,7 +43,7 @@ jobs:
 
       - name: Generate .csv dump
         run: |
-          . .github/scripts/dump.sh priconne-en_db-fetch/out/master.mdb
+          . .github/scripts/dump.sh master.db
 
       - name: Commit, create PR, and merge
         run: |
