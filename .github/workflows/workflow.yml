@@ -47,8 +47,8 @@ jobs:
 
       - name: Commit, create PR, and merge
         run: |
+          export GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
           VERSION="$(jq .truth_version version)"
-          GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
