@@ -38,7 +38,7 @@ jobs:
           DIFF="$(git diff -p -1 version)"
           if [[ "$DIFF" = "" ]]; then
             echo "There is no new version!"
-            exit 1
+            exit 0
           fi
 
       - name: Generate .csv dump
