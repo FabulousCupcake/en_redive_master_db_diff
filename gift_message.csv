@@ -1,0 +1,66 @@
+2001,"Item obtained on day {1} of {0}.",1,2,0,0
+2002,"Item obtained from {0}.",3,0,0,0
+2003,"Item obtained from {0}.",4,0,0,0
+2004,"Reward for ranking {0} in the Battle Arena.",5,0,0,0
+2005,"Reward for ranking {0} in the Princess Arena.",6,0,0,0
+2006,"Reward for ranking {2} in period {1} of the {0} Clan Battle.",10,11,7,0
+2007,"Reward for ranking {1} in the {0} Clan Battle's monthly rankings.",10,8,0,0
+2008,"Reward obtained from {0}.",9,0,0,0
+2009,"Reward for ranking {2} in the {0} Clan Battle.",10,11,7,0
+2010,"Compensation for {1} day(s)' worth of {0}.",1,2,0,0
+2011,"Item obtained from {0} on Day {1} of {2} .",1,2,16,0
+2012,"Item obtained on day {1} of {0}.",17,2,0,0
+2013,"Item obtained from {0}.",1,0,0,0
+3001,"Item obtained for unlocking the 2nd floor of Guildhouse.",0,0,0,0
+3002,"Item obtaind for unlocking the third floor of the Guildhouse.",0,0,0,0
+9101,"Compensation from the Admin team.",0,0,0,0
+9102,"Supplementary item from the Admin team.",0,0,0,0
+9103,"Please claim in less than 4 attempts.",0,0,0,0
+9201,"Thank you for your cooperation during the maintenance.",0,0,0,0
+9202,"Thank you for updating versions.",0,0,0,0
+9203,"Present from the Admin team.",0,0,0,0
+9204,"Reward for reaching 500,000 users during the pre-registration campaign.",0,0,0,0
+9205,"Thank You Bonus.",0,0,0,0
+9206,"Reward for reaching 15,000 followers on Instagram.",0,0,0,0
+9208,"A gift to celebrate the release of the Global version of Princess Connect! Re: Dive.",0,0,0,0
+9209,-,0,0,0,0
+9210,"Reward for pre-registering with Princess Connect Re: Dive.",0,0,0,0
+9211,-,0,0,0,0
+9212,-,0,0,0,0
+9213,"Present for the Guildhouse from the Admin team.",0,0,0,0
+9214,-,0,0,0,0
+9215,"Present for the update of Tower of Luna.",0,0,0,0
+9216,"Present for a change in mission rewards.",0,0,0,0
+9301,"Stamina obtained over the possession limit.",0,0,0,0
+9302,"Battle Arena defense reward.",0,0,0,0
+9303,"Princess Arena defense reward.",0,0,0,0
+9304,"Reward obtained from clan support.",0,0,0,0
+9305,"Some of the items that were used to refine equipment before ranking up.",0,0,0,0
+9306,"Mana converted from EXP.",0,0,0,0
+9307,"Item obtained from the Clan Battle victory rewards.",0,0,0,0
+9308,"Mana obtained for a like from a clan member.",0,0,0,0
+9309,"Battle Arena timed rewards obtained over the possession limit.",0,0,0,0
+9310,"Battle Arena rewards obtained over the possession limit.",0,0,0,0
+9311,"Princess Arena timed rewards obtained over the possession limit.",0,0,0,0
+9312,"Princess Arena rewards obtained over the possession limit.",0,0,0,0
+9313,"Character exchange rewards obtained over the possession limit.",0,0,0,0
+9314,"Item converted from character exchange points when the Gacha updated.",0,0,0,0
+9401,"Daily Jewel Pack",0,0,0,0
+9501,"Item obtained from the event login bonus day {1}.",13,2,0,0
+9502,"Item obtained for clearing event quest for the first time.",13,0,0,0
+9503,"Item obtained for clearing event quest {1}.",13,14,0,0
+9504,"Item obtained for defeating event boss {1} for the first time.",13,15,0,0
+9505,"Item obtained for battling the event boss {1}.",13,15,0,0
+9506,"Item obtained for completing event missions.",13,0,0,0
+9507,"Item obtained from {1}.",13,12,0,0
+9508,"Item obtained from {0}.",13,0,0,0
+9509,"Item obtained for solving a riddle.",0,0,0,0
+9600,"Item obtained from a minigame.",0,0,0,0
+9700,"Ranking reward earned in Attack of the Robo Lima!",0,0,0,0
+9701,"Attack reward earned in Attack of the Robo Lima!",0,0,0,0
+9800,"A present in celebration of a character’s birthday.",0,0,0,0
+9801,"Celebrating 100 wonderful days!",0,0,0,0
+9802,"Celebrating 150K Social Media Followers!",0,0,0,0
+9803,"Celebrating Princess Connect! Re: Dive at the Virtual Crunchyroll Expo!",0,0,0,0
+9804,"A present in celebration of Japan's National Rice Day",0,0,0,0
+9805,"Celebrating 5M Downloads!",0,0,0,0

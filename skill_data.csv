@@ -1,0 +1,606 @@
+1001001,"Hiyori Rush",0,0,0.0,100100101,100100102,100100103,0,0,0,0,0,100100102,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and deals moderate physical damage to all enemies in a small radius around it.",1001
+1001002,"Kitty Kapow",0,0,1.125,100100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1001003,"Kitty Combo",0,0,1.295,100100301,100100302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front. Boosts own physical attack by a moderate amount.",2001
+1001501,"Paw Power",0,0,0.0,100150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1001511,"Paw Power+",0,0,0.0,100151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1002001,"Group Heal",1,0,0.0,100200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers a moderate amount of HP for all allies.",1005
+1002002,"Blooming Blast",1,0,1.6,100200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
+1002003,"Flower Guard",1,0,1.46,100200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to physical defense of all allies.",2003
+1002501,"Floral Aura",0,0,0.0,100250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1002511,"Floral Aura+",0,0,0.0,100251101,100251102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
+1003001,"Hurricane Slash",0,0,0.0,100300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
+1003002,"Wind Thrust",0,0,0.955,100300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1003003,"Counter Slash",0,0,1.3275,100300301,100300302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Boost to damage dealt based on the damage taken while in pre-attack stance.",2001
+1003501,"Rapid Riposte",0,0,0.0,100350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1003511,"Rapid Riposte+",0,0,0.0,100351101,100351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to max HP at start of battle.",3001
+1004001,"Trick Bomber",0,0,0.0,100400101,100400102,0,0,0,0,0,0,100400101,0,0,0,0,0,"Deals moderate physical damage to enemies in a radius around the 2nd closest enemy.",1001
+1004002,"Ink Spray",0,0,1.55,100400201,100400202,0,0,0,0,0,0,100400201,0,0,0,0,0,"Deals small physical damage to the 2nd closest enemy and inflicts Blind.",2010
+1004003,"Water Balloon",0,0,1.18,100400301,100400302,100400303,0,0,0,0,0,100400301,0,0,0,0,0,"Deals small physical damage to an enemy with the highest physical attack and lowers its physical attack by a small amount. Small boost to own physical attack.",2004
+1004501,"Professional Prankster",0,0,0.0,100450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1004511,"Professional Prankster+",0,0,0.0,100451101,100451102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to physical attack at start of battle.",3002
+1005001,"Tiger Heroic Bomber",0,0,0.0,100500101,100500102,100500103,0,0,0,0,0,0,100500102,0,0,0,0,"Leaps toward the third-closest enemy and deals large physical damage to all enemies in an area around oneself.",1001
+1005002,"Tiger Shock",0,0,0.76,100500201,100500202,0,0,0,0,0,0,100500201,0,0,0,0,0,"Deals small physical damage to all enemies in an area around oneself and inflicts Stun.",2018
+1005003,"Tiger Spin",0,0,1.5,100500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in an area around oneself.",2001
+1005501,"Hero's Code",0,0,0.0,100550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1005511,"Hero's Code+",0,0,0.0,100551101,100551102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to own physical defense at start of battle.",3001
+1006001,"Little Devil's Cheer",1,0,0.0,100600101,100600102,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magical attack of all allies and recovers their HP based on the damage dealt by their next attack.",1003
+1006002,"Shadow Bolt",0,0,1.18,100600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
+1006003,"Impish Kiss",1,0,1.25,100600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers magical defense of an enemy directly in front by a moderate amount.",2004
+1006501,"Sweet Ignition",0,0,0.0,100650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1006511,"Sweet Ignition+",0,0,0.0,100651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1007001,"You're Pudding Now!",1,0,0.0,100700101,100700102,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts large physical damage to one enemy directly in front while also healing own HP by a large amount.",1001
+1007002,BOO!,0,0,0.0,100700201,100700202,100700203,0,0,0,0,0,0,100700202,0,0,0,0,"[Transform] Transforms into a ghost, becoming invincible for a short time.",2017
+1007003,"Snack Time!",1,0,0.27,100700301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers own HP by a moderate amount.",2005
+1007501,"Floaty Wispy Ghosty!",0,0,0.0,100750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1007511,"Floaty Wispy Ghosty!+",0,0,0.0,100751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
+1008001,"Bow to My Beauty!",1,0,0.0,100800101,100800102,0,0,0,0,0,0,100800101,0,0,0,0,0,"Deals small magical damage to all enemies in the front and lowers their physical defense by a small amount.",1002
+1008002,"My Beauty Is Blinding ♪",1,0,1.93,100800201,100800202,0,0,0,0,0,0,100800201,0,0,0,0,0,"Deals small magical damage to the 2nd closest enemy and inflicts Blind.",2010
+1008003,"The Cutest Supporter ♪",1,0,1.6,100800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the TP of the party member with the highest TP by a medium amount.",2006
+1008501,"The Cutest Hard Worker",0,0,0.0,100850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1008511,"The Cutest Hard Worker+",0,0,0.0,100851101,100851102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to physical defense at start of battle.",3003
+1009001,"Demonic Salvation: Apocalypse Dawn",1,0,0.0,100900101,100900102,100900103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies. Lowers own physical and magical defense by a massive amount after use.",1002
+1009002,"Demonic Salvation: Infinity",1,0,1.58,100900201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
+1009003,"Void Accession",1,2160,1.25,100900301,100900302,100900303,100900304,0,0,0,0,0,0,0,0,0,0,"[Self Destruct] Activates when HP falls to 10% or below. Deals large magical damage to all enemies in range but knocks herself out.",2017
+1009501,"Hellfire of the Dark Conqueror",0,0,0.0,100950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1009511,"Hellfire of the Dark Conqueror+",0,0,0.0,100951101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1010001,"Fairy-tale Garden",1,0,0.0,101000101,101000102,101000103,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magical attack and physical defense of all allies and recovers their TP by a small amount.",1003
+1010002,"Maho-Maho Healing",1,0,1.53,101000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a moderate amount.",2005
+1010003,"Maho-Maho Darkness",1,0,2.13,101000301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts Blind to an enemy in the 2nd position.",2010
+1010501,"Fanciful Furor",0,0,0.0,101050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1010511,"Fanciful Furor+",0,0,0.0,101051101,101051102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to magical attack at start of battle.",3002
+1011001,"Arrow Rain",0,0,0.0,101100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",1001
+1011002,Concentration,0,0,1.07,101100202,101100201,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and physical critical rate.",2003
+1011003,"Crushing Shot",0,0,1.5,101100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1011501,Penetration,0,0,0.0,101150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1011511,Penetration+,0,0,0.0,101151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1012001,"Shooting☆Star",1,0,0.0,101200101,101200102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small magical damage to all enemies that use physical attacks. Deals moderate magical damage to all enemies.",1002
+1012002,"Psychic☆Blast",1,0,1.4,101200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to the enemy with the highest physical attack.",2002
+1012003,"Star☆Light",1,0,1.4,101200301,101200302,0,0,0,0,0,0,101200301,0,0,0,0,0,"Deals small magical damage to the enemy with the highest physical attack and inflicts Stun.",2002
+1012501,"Happy☆Energy",0,0,0.0,101250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1012511,"Happy☆Energy+",0,0,0.0,101251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1015001,"Sister's Blessing",1,0,0.0,101500101,101500102,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies by a moderate amount. Small boost to their magical defense.",1005
+1015002,"Divine Force",1,0,1.17,101500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to magical attack of all nearby allies.",2003
+1015003,"Caring Cure",1,0,1.6,101500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grants HP regen to the foremost ally.",2005
+1015501,"Angelic Majesty",0,0,0.0,101550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1015511,"Angelic Majesty+",0,0,0.0,101551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1016001,"Heart Breaker",1,0,0.0,101600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. This always results in a critical hit.",1001
+1016002,"Meany Missile",0,0,0.71,101600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. This always results in a critical hit.",2001
+1016003,"Charming Aura ♪",1,0,1.4,101600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack.",2003
+1016501,"Super Cute Sensation",0,0,0.0,101650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1016511,"Super Cute Sensation+",0,0,0.0,101651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1017001,"Ryukyu-Ken Knuckle Cannon",0,0,0.0,101700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
+1017002,"Midline Thrust",0,0,1.0,101700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1017003,"Mental Focus",0,0,1.0,101700301,0,0,0,0,0,0,0,0,0,0,0,0,0,"After activation, boosts damage dealt with each attack. Stacks up to 5 times.",2003
+1017501,"Ryukyu-Ken Martial Breathing",0,0,0.0,101750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1017511,"Ryukyu-Ken Martial Breathing+",0,0,0.0,101751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1018001,"Lovely Heart Storm",1,0,0.0,101800101,101800102,0,0,0,0,0,0,101800101,0,0,0,0,0,"Deals small magical damage and inflicts Charm to all enemies.",1009
+1018002,"Tail Whip",1,0,1.66,101800201,101800202,0,0,0,0,0,0,101800201,0,0,0,0,0,"Deals small magical damage to all enemies in range.",2002
+1018003,"Soul Drain",1,0,1.33,101800301,101800302,0,0,0,0,0,0,0,0,0,0,0,0,"Reduces the TP of one random enemy by a small amount while also recovering own TP by a small amount.",2006
+1018501,"Sweet, Loving Heart",0,0,0.0,101850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1018511,"Sweet, Loving Heart+",0,0,0.0,101851101,101851102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
+1020001,"Bunny Blade",1,0,0.0,102000101,102000102,102000103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and large physical damage to the 2nd closest enemy.",1001
+1020002,"Hippety Hackety",1,0,0.85,102000201,102000202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1020003,"Bunny Boost",0,0,0.42,102000301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to physical attack of all allies.",2003
+1020501,"Bunny Power",0,0,0.0,102050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1020511,"Bunny Power+",0,0,0.0,102051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1021001,"Fearful Bell Bash",0,0,0.0,102100101,102100102,0,0,0,0,0,0,102100101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun for a long period.",1018
+1021002,"Bravery Bell",0,0,1.375,102100201,102100202,0,0,0,0,0,0,102100201,0,0,0,0,0,"Small boost to physical and magical defense of all nearby allies.",2003
+1021003,"Bell Ringer",1,0,1.375,102100301,102100302,0,0,0,0,0,0,102100301,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Stun.",2018
+1021501,"Brilliant Resolve",0,0,0.0,102150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own max HP at start of battle.",3005
+1021511,"Brilliant Resolve+",0,0,0.0,102151101,102151102,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own max HP and small boost to magical defense at start of battle.",3005
+1022001,"Lightning Javelin",0,0,0.0,102200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in range.",1002
+1022002,Overcharge,0,0,1.25,102200201,102200202,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at the cost of HP.",2003
+1022003,"Shadow Blast",1,0,0.98,102200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in range.",2002
+1022501,"Lightning Surge",0,0,0.0,102250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1022511,"Lightning Surge+",0,0,0.0,102251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1023001,"Pukichi Fullswing",0,0,0.0,102300101,102300102,102300103,102300104,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front, inflicts Stun, and knocks it back a large distance.",1001
+1023002,"Pukichi Pummel",0,0,1.125,102300201,102300202,0,0,0,0,0,0,102300201,0,0,0,0,0,"Deals small physical damage and inflicts Stun to all enemies in range.",2018
+1023003,"Pukichi Hurricane",0,0,0.855,102300301,102300302,0,0,0,0,0,0,102300301,0,0,0,0,0,"Deals small physical damage to all enemies in range and lowers their physical defense by a small amount.",2001
+1023501,"Pretty Pulverizer",0,0,0.0,102350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1023511,"Pretty Pulverizer+",0,0,0.0,102351101,102351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to magical defense at start of battle.",3001
+1025001,Whirlwind,1,0,0.0,102500101,102500102,102500103,102500104,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in range and lowers their physical defense by a small to moderate amount.",1002
+1025002,"Wind Blast",1,0,1.6,102500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small magical damage to all enemies in range.",2002
+1025003,"Maid's Comfort",1,0,1.46,102500301,102500302,0,0,0,0,0,0,102500301,0,0,0,0,0,"Recovers HP and boosts physical attack of all nearby allies by a small amount.",2005
+1025501,"Maid's Dedication",0,0,0.0,102550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1025511,"Maid's Dedication+",0,0,0.0,102551101,102551102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
+1026001,"Homemade Sweet Bun Boost",1,0,0.0,102600101,102600102,102600103,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies by a small amount. Small boost to their physical attack and magical defense.",1003
+1026002,"Patience Is a Virtue",1,0,0.59,102600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to magical defense of all nearby allies.",2003
+1026003,"Acorn Barrage",1,0,0.92,102600301,102600302,0,0,0,0,0,0,102600301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Stun.",2018
+1026501,"Amped on Acorns",0,0,0.0,102650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1026511,"Amped on Acorns+",0,0,0.0,102651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
+1027001,"Deadly Discipline",0,0,0.0,102700101,102700102,102700103,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Boost to own physical attack if the enemy is defeated by this skill.",1001
+1027002,Obsession,0,0,1.125,102700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to own physical attack.",2003
+1027003,"Poison Mist",0,0,1.125,102700301,102700302,0,0,0,0,0,0,102700301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Poison.",2022
+1027501,"Unrelenting Obsession",0,0,0.0,102750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1027511,"Unrelenting Obsession+",0,0,0.0,102751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1028001,"Phoenix Sword",1,0,0.0,102800101,102800102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. The lower Saren's HP, the greater the damage dealt.",1001
+1028002,"Fiery Slash",1,0,1.45,102800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to all enemies in range.",2001
+1028003,"Elegant Ovation",0,0,1.25,102800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the TP of the closest party member by a moderate amount.",2006
+1028501,"Aristocratic Spirit",0,0,0.0,102850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1028511,"Aristocratic Spirit+",0,0,0.0,102851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1029001,"Live on Stage",0,0,0.0,102900101,102900102,102900103,102900104,0,0,0,0,0,0,0,0,0,0,"[Taunt] Taunts all enemies. Moderate boost to own physical and magical defense. Small boost to physical attack of all allies.",1003
+1029002,"Glamorous Slice",1,0,1.25,102900201,102900202,0,0,0,0,0,0,102900201,0,0,0,0,0,"Deals small physical damage and inflicts Stun to all enemies in range.",2018
+1029003,"Idol's Encouragement",1,0,1.65,102900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all nearby allies by a small amount.",2005
+1029501,"Radiant Smile",0,0,0.0,102950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1029511,"Radiant Smile+",0,0,0.0,102951101,102951102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to magical defense at start of battle.",3002
+1030001,"Ninpo: Scorching Hell",1,0,0.0,103000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",1001
+1030002,"Hurricane Assault",0,0,1.85,103000201,103000202,103000203,103000204,0,0,0,0,103000201,103000201,0,0,0,0,"Deals small physical damage to all enemies in range. Recovers own TP by a moderate amount if an enemy is defeated by this skill.",2001
+1030003,"Blazing Fan",0,0,0.85,103000301,103000302,0,0,0,0,0,0,103000301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and knocks them back slightly.",2001
+1030501,"Honnoji Hustle",0,0,0.0,103050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1030511,"Honnoji Hustle+",0,0,0.0,103051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1031001,"Phantom Terror",1,0,0.0,103100101,103100102,0,0,0,0,0,0,103100101,0,0,0,0,0,"Deals moderate physical damage to all enemies in range and lowers their physical defense by a small amount.",1001
+1031002,"Otherworldly Beckoning",1,0,1.38,103100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Summons a skull in front of oneself, which attacks an enemy directly in front.",2017
+1031003,"Hungry Wraith",1,0,2.01,103100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers physical defense of all enemies by a small amount.",2004
+1031501,"Twilight Elegy",0,0,0.0,103150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1031511,"Twilight Elegy+",0,0,0.0,103151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1032001,"Benevolent Beatdown",1,0,0.0,103200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
+1032002,"Haughty Hack",1,0,1.3575,103200201,103200202,103200203,103200204,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack. If attacked while laughing, unleashes a counterattack on enemies in range.",2001
+1032003,"Rejuvenating Jewels",0,0,1.5575,103200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a field that recovers HP of all nearby allies by a small amount.",2016
+1032501,"Burning Soul",0,0,0.0,103250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1032511,"Burning Soul+",0,0,0.0,103251101,103251102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
+1033001,Elizabeth,0,0,0.0,103300101,103300102,0,0,0,0,0,0,103300101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun.",1001
+1033002,"Milk Can Slam",0,0,1.4,103300201,103300202,0,0,0,0,0,0,103300201,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and knocks it back slightly.",2001
+1033003,"Pitchfork Pummel",0,0,1.4,103300301,103300302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack.",2001
+1033501,"Opening One-Liner",0,0,0.0,103350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1033511,"Opening One-Liner+",0,0,0.0,103351101,103351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
+1034001,"Seven Veils",1,0,0.0,103400101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates magical damage around all allies.",1013
+1034002,"Aqua Vitae",1,0,1.4,103400201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a moderate amount.",2005
+1034003,Moonlight,1,0,1.13,103400301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the TP of the party member with the lowest TP by a medium amount.",2006
+1034501,"Liquid Courage",0,0,0.0,103450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1034511,"Liquid Courage+",0,0,0.0,103451101,103451102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense and small boost to physical attack at start of battle.",3004
+1036001,"Cosmo Blue Flash",1,0,0.0,103600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to an enemy directly in front.",1002
+1036002,"Ice Lance",1,0,1.83,103600201,0,0,0,0,0,0,0,103600201,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
+1036003,"Magical Surge",1,0,1.4,103600301,0,0,0,0,0,0,0,103600301,0,0,0,0,0,"Large boost to own magical attack for a brief period.",2003
+1036501,"Pinch of Bravery",0,0,0.0,103650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1036511,"Pinch of Bravery+",0,0,0.0,103651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1037001,"Mikuma Hidden Art: Asura",0,0,0.0,103700101,103700102,103700103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Massive boost to own physical attack and moderate boost to own action speed.",1001
+1037002,"Mikuma Style: Gale Strike",0,0,0.76,103700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",2001
+1037003,"Mikuma Style: Returning Swallow",0,0,1.5,103700301,103700302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and recovers own TP by a small amount.",2001
+1037501,"Vital Resonance: Sheer Focus",0,0,0.0,103750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1037511,"Vital Resonance: Sheer Focus+",0,0,0.0,103751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1038001,"Enchanted Arrow",0,0,0.0,103800101,103800102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Large boost to own physical attack.",1001
+1038002,"Triple Shot",0,0,0.76,103800201,103800202,103800203,103800204,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to up to 3 enemies directly in front. Recovers own TP by a small amount.",2001
+1038003,"Wind Arrow",0,0,1.5,103800301,103800302,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts moderate physical damage to one enemy directly in front while also recovering own TP by a small amount.",2001
+1038501,"Enhanced Aim",0,0,0.0,103850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1038511,"Enhanced Aim+",0,0,0.0,103851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1040001,"Twisting Vines",1,0,0.0,104000101,104000102,0,0,0,0,0,0,104000101,0,0,0,0,0,"Deals moderate physical damage to enemies in a radius around the closest enemy.",1001
+1040002,"Poison Arrow",1,0,1.06,104000201,104000202,0,0,0,0,0,0,104000201,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Poison.",2022
+1040003,"Paralyzing Shot",1,0,1.06,104000301,104000302,0,0,0,0,0,0,104000301,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Paralyze.",2007
+1040501,"Woodland Marksman",0,0,0.0,104050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1040511,"Woodland Marksman+",0,0,0.0,104051101,104051102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
+1042001,"Sylvan Blessing",1,0,0.0,104200101,104200102,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies in front of her by a moderate amount and summons a fairy beside the foremost ally.",1005
+1042002,"Rousing Ballad",1,0,1.5,104200201,104200202,0,0,0,0,0,0,104200201,0,0,0,0,0,"Small boost to physical attack of all allies in a radius around the foremost ally.",2003
+1042003,"Fairy's Lullaby",1,0,2.03,104200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers physical attack of an enemy directly in front by a moderate amount.",2004
+1042501,"Gifted Voice",0,0,0.0,104250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1042511,"Gifted Voice+",0,0,0.0,104251101,104251102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
+1043001,"Wolven Rend",0,0,0.0,104300101,104300102,0,0,0,0,0,0,104300101,0,0,0,0,0,"Deals physical damage to an enemy directly in front and lowers its physical defense by a moderate amount.",1001
+1043002,"Hard Slash",0,0,1.125,104300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1043003,"Heroic Howl",0,0,1.895,104300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers physical defense of an enemy directly in front by a moderate amount.",2004
+1043501,"Raging Wolf Fang",0,0,0.0,104350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1043511,"Raging Wolf Fang+",0,0,0.0,104351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1044001,"Vermilion Bite",1,0,0.0,104400101,104400102,104400103,104400104,0,0,0,0,104400101,0,0,0,0,0,"Deals large magical damage to all enemies in range and recovers own HP by a moderate amount.",1002
+1044002,"Bloodthirsty Blast",1,0,1.125,104400201,104400202,104400203,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack. Deals moderate magical damage to an enemy directly in front at the cost of own HP.",2002
+1044003,"Bloody Spear",1,0,0.865,104400301,104400302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in range at the cost of own HP.",2002
+1044501,"Blood Pact",0,0,0.0,104450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1044511,"Blood Pact+",0,0,0.0,104451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1045001,"Throes of Ecstasy",1,0,0.0,104500101,104500102,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.",1013
+1045002,"Play with Me Instead!",1,0,0.375,104500201,104500202,0,0,0,0,0,0,0,0,0,0,0,0,"[Taunt] Taunts all enemies. Small boost to own physical defense.",2012
+1045003,"I Like It Rough!",1,0,1.375,104500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense.",2003
+1045501,"Sheltered by Fantasy",0,0,0.0,104550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1045511,"Sheltered by Fantasy+",0,0,0.0,104551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
+1046001,"Kitty Cat-aclysm",0,0,0.0,104600101,104600102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy with the highest magical attack.",1001
+1046002,"Feline Fling",0,0,1.325,104600201,104600202,0,0,0,0,0,0,104600201,0,0,0,0,0,"Deals moderate physical damage to the enemy with the highest magical attack and lowers its magical attack by a small amount.",2001
+1046003,"Finicky Feline",0,0,1.325,104600301,104600302,0,0,0,0,0,0,0,0,0,0,0,0,"Reduces the TP of the enemy with the highest magical attack power by a small amount while also recovering own TP by a small amount.",2006
+1046501,"One Myarvelous Cat",0,0,0.0,104650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1046511,"One Myarvelous Cat+",0,0,0.0,104651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1047001,"Inferno Shield",1,0,0.0,104700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier around oneself that absorbs physical and magic damage.",1013
+1047002,"Inspiring Courage",0,0,0.475,104700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of the nearby ally with the lowest HP by a small amount.",2005
+1047003,"Armor Breaker",0,0,0.875,104700301,104700302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount.",2001
+1047501,"Justice Barrier",0,0,0.0,104750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1047511,"Justice Barrier+",0,0,0.0,104751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
+1048001,"Tsunami Dive",0,0,0.0,104800101,104800102,104800103,0,0,0,0,0,0,104800102,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun.",1001
+1048002,"First Aid",0,0,1.25,104800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers own HP by a large amount.",2005
+1048003,"Hydro Slice",1,0,1.31,104800301,104800302,0,0,0,0,0,0,104800301,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Stun.",2001
+1048501,"Mercenary's Pride",0,0,0.0,104850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1048511,"Mercenary's Pride+",0,0,0.0,104851101,104851102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
+1049001,"Sacred Punishment",1,0,0.0,104900101,104900102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Deploys a barrier around oneself that absorbs physical damage.",1001
+1049002,"Saintly Succor",1,0,1.375,104900201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a moderate amount.",2005
+1049003,Protection,1,0,1.375,104900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates physical damage around nearby allies.",2013
+1049501,"Big Sis Power",0,0,0.0,104950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1049511,"Big Sis Power+",0,0,0.0,104951101,104951102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to physical attack at start of battle.",3002
+1050001,"All-Destroying Eye",1,0,0.0,105000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in the front.",1002
+1050002,"Dark Photon",1,0,1.4,105000201,105000202,0,0,0,0,0,0,105000201,0,0,0,0,0,"Deals small magical damage to an enemy directly in front and reduces their action speed by a small amount.",2002
+1050003,"Eyeball Volley",1,0,0.9,105000301,105000302,105000303,105000304,105000305,105000306,0,0,105000301,0,105000303,0,105000305,0,"Deals small magical damage to all enemies in a radius around the closest enemy 3 times.",2002
+1050501,"True Lady's Etiquette",0,0,0.0,105050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1050511,"True Lady's Etiquette+",0,0,0.0,105051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1051001,"Bloody Rose",1,0,0.0,105100101,105100102,105100103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Recovers own HP for each foe defeated by this skill.",1001
+1051002,"Cursed Bloom",1,0,1.41,105100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts Curse to all enemies in range.",2008
+1051003,"Field of Thorns",1,0,0.28,105100301,105100302,0,0,0,0,0,0,105100301,0,0,0,0,0,"Deploys a field that lowers physical defense of all enemies in range.",2015
+1051501,"One-Eyed Devil",0,0,0.0,105150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1051511,"One-Eyed Devil+",0,0,0.0,105151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1052001,"Woolly Wallop",0,0,0.0,105200101,105200102,105200103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Large boost to own physical defense.",1001
+1052002,"Fuzzy Fury",0,4000,0.0,105200201,105200202,105200203,105200204,105200205,0,0,0,0,105200202,0,0,0,0,"Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Small boost to own physical defense.",2001
+1052003,"Hairy Headbutt",0,0,1.375,105200301,105200302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Stun.",2001
+1052501,"Downy Defense",0,0,0.0,105250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1052511,"Downy Defense+",0,0,0.0,105251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
+1053001,"Violetshock Flare",0,0,0.0,105300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1001
+1053002,"Flügel Fanfare",1,0,1.06,105300201,105300202,105300203,0,0,0,0,0,105300201,105300201,0,0,0,0,"Small boost to physical and magical attack and action speeds of all allies.",2003
+1053003,"Musket Shot",0,0,0.86,105300301,105300302,0,0,0,0,0,0,105300301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Stun.",2001
+1053501,"Blessing of the White Wings",0,0,0.0,105350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1053511,"Blessing of the White Wings+",0,0,0.0,105351101,105351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
+1054001,"Terminal Tie-Up",0,0,0.0,105400101,105400102,105400103,105400104,0,0,0,0,0,0,105400101,0,0,0,"Deals small physical damage to all enemies in range and inflicts Bind. Draws the farthest enemy in range slightly closer and knocks the closest enemy back slightly.",1007
+1054002,"Threading Snare",0,0,1.23,105400201,105400202,0,0,0,0,0,0,105400201,0,0,0,0,0,"Deals small physical damage to the enemy in the 2nd position and draws them slightly closer.",2001
+1054003,Yarn-ado,0,0,1.23,105400301,105400302,105400303,0,0,0,0,0,105400301,0,0,0,0,0,"Deals small physical damage to all enemies in range and reduces their movement speed and action speed by a small amount.",2001
+1054501,"Tailor's Grit",0,0,0.0,105450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1054511,"Tailor's Grit+",0,0,0.0,105451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
+1055001,"Violetshock Flare",0,0,0.0,105500101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1001
+1055002,"Curely Cheer",0,0,1.23,105500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to physical attack and physical defense of all allies.",1003
+1055003,"Bravely Cheer",1,0,1.23,105500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magic attack and magic defense of all allies.",1003
+1057001,"Tempest Blade",1,0,0.0,105700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
+1057002,"Wide Blade",1,0,1.125,105700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1057003,"Weapon Burst",1,0,1.125,105700301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers own TP by a moderate amount.",2006
+1057501,"Tornado Blade",0,0,0.0,105750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1057511,"Tornado Blade+",0,0,0.0,105751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1058001,"Princess Strike",0,0,0.0,105800101,105800102,105800103,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Moderate boost to own physical and magical defense.",1001
+1058002,Lunchtime,0,0,0.21,105800201,105800202,0,0,0,0,0,0,0,0,0,0,0,0,"Increases own magical defense by a small amount and recovers own HP by a small amount.",2003
+1058003,"Falling Slash",0,0,1.21,105800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1058501,"Princess Power",0,0,0.0,105850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own max HP at start of battle.",3005
+1058511,"Princess Power+",0,0,0.0,105851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own max HP at start of battle.",3005
+1059001,Aurora,1,0,0.0,105900101,105900102,105900103,0,0,0,0,0,105900101,0,0,0,0,0,"Increases physical and magical attack power of all allies by a small amount, and recovers own HP by a small amount.",1005
+1059002,Tri-Slash,0,0,0.66,105900201,105900202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1059003,"Speed Boost",0,0,1.4,105900301,105900302,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to action speed and physical attack of all allies.",2003
+1059501,"Spiritual Epiphany",0,0,0.0,105950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1059511,"Spiritual Epiphany+",0,0,0.0,105951101,105951102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to magical defense at start of battle.",3001
+1060001,"Grim Burst",1,0,0.0,106000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies.",1002
+1060002,"Lightning Sphere",1,0,1.27,106000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
+1060003,"Reduce Armor",1,0,0.83,106000301,106000302,0,0,0,0,0,0,106000301,0,0,0,0,0,"Lowers physical and magical defense of an enemy directly in front by a small amount.",2004
+1060501,"Dark Eclipse",0,0,0.0,106050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1060511,"Dark Eclipse+",0,0,0.0,106051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1063001,"I'll Fill You With Arrows!",1,0,0.0,106300101,106300102,106300103,106300104,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Boost to damage dealt if this skill has already been used.",1001
+1063002,"Clinging Vines",1,0,0.75,106300201,106300202,0,0,0,0,0,0,106300201,0,0,0,0,0,"Deals small physical damage to the enemy with the highest magical attack and reduces their action speed by a small amount.",2001
+1063003,"Shimmering Wings",1,0,1.35,106300301,106300302,106300303,0,0,0,0,0,0,0,0,0,0,0,"Recovers own TP by a moderate amount. This amount increases if ""I'll Fill You With Arrows!"" has been used.",2006
+1063501,"Elven Archery",0,0,0.0,106350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1063511,"Elven Archery+",0,0,0.0,106351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1075001,"Princess Splash",1,0,0.0,107500101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1001
+1075002,"Dessert Time",1,0,0.0649999999999999,107500201,107500202,0,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to own physical attack. Also lowers own magical defense by a moderate amount.",2003
+1075003,"Parasol Assault",1,0,1.125,107500301,107500302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to all enemies in range and knocks back slightly an enemy directly in front.",2001
+1075501,"Seafood Power",0,0,0.0,107550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1075511,"Seafood Power+",0,0,0.0,107551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1076001,"Ocean's Healing",1,0,0.0,107600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the ally with the lowest HP by a massive amount.",1005
+1076002,"Nereid Spear",1,0,0.69,107600201,107600202,107600203,0,0,0,0,0,0,107600202,0,0,0,0,"Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount.",2001
+1076003,"Naval Support",1,0,0.59,107600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to all allies' physical attack.",2003
+1076501,"Summer Oracle",0,0,0.0,107650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1076511,"Summer Oracle+",0,0,0.0,107651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
+1077001,"Tropical Vacation",1,0,0.0,107700101,107700102,107700103,0,0,0,0,0,0,0,0,0,0,0,"Small boost to all allies' physical and magical defense. Grants HP regen to all allies.",1003
+1077002,"Summon Mini-Golem",1,0,0.85,107700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front.",2017
+1077003,"Soda Support",1,0,0.92,107700301,107700302,0,0,0,0,0,0,107700301,0,0,0,0,0,"Moderate boost to magical defense of allies in a radius around the foremost ally.",2003
+1077501,"Tropical Maid",0,0,0.0,107750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1077511,"Tropical Maid+",0,0,0.0,107751101,107751102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense and small boost to own physical defense at start of battle.",3004
+1078001,"Rubber Rampage",1,0,0.0,107800101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to an enemy directly in front.",1002
+1078002,"Aqua Bullet",1,0,0.74,107800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
+1078003,"Spiral Wave",1,0,1.14,107800301,107800302,0,0,0,0,0,0,107800301,0,0,0,0,0,"Deals small magical damage to an enemy directly in front and lowers their magical defense by a moderate amount.",2004
+1078501,"Hydro Link",0,0,0.0,107850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1078511,"Hydro Link+",0,0,0.0,107851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1079001,"Kitty-Cat Summer Rave",1,0,0.0,107900101,107900102,107900103,107900104,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to a random enemy in range 4 times.",1001
+1079002,"Summer Sun Absorption",1,0,0.5,107900201,107900202,0,0,0,0,0,0,107600201,0,0,0,0,0,"Lowers the TP of an enemy directly in front by a small amount and recovers own TP by a small amount.",2006
+1079003,"Ice Breaker",1,0,1.1,107900301,107900302,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack and action speed.",2003
+1079501,"Kitty in Paradise",0,0,0.0,107950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1079511,"Kitty in Paradise+",0,0,0.0,107951101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1080001,"Leviathan Lance",1,0,0.0,108000101,108000102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Moderate boost to all allies' physical attack.",1001
+1080002,"Hydro Swing",1,0,1.05,108000201,108000202,108000203,0,0,0,0,0,0,108000202,0,0,0,0,"Deals small physical damage to an enemy directly in front, and additional small physical damage to enemies nearby the target.",2001
+1080003,"Hunting Mode",1,0,1.19,108000301,108000302,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and physical critical rate.",2003
+1080501,"Summer Mercenary",0,0,0.0,108050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1080511,"Summer Mercenary+",0,0,0.0,108051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
+2004001,"",0,0,3.0,200400101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2007001,"",1,0,3.0,200700101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2007011,"",1,0,3.0,200701101,200701102,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2008001,"",0,0,3.0,200800101,200800102,0,0,0,0,0,0,200800101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2008011,"",0,0,3.0,200801101,200801102,0,0,0,0,0,0,200801101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2010001,"",1,0,3.0,201000101,201000102,0,0,0,0,0,0,201000101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2011001,"",0,0,3.0,201100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2011011,"",1,0,4.0,201101101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2013001,"",0,0,3.0,201300101,201300102,0,0,0,0,0,0,201300101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2013011,"",0,0,3.0,201301101,201301102,0,0,0,0,0,0,201301101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2013021,"",0,0,3.0,201302101,201302102,0,0,0,0,0,0,201302101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2014001,"",1,0,2.5,201400101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2014002,"",1,0,3.0,201400201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2015001,"",1,0,5.0,201500101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2015002,"",1,0,3.0,201500201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2016001,"",1,0,3.0,201600101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2019001,"",0,0,3.0,201900101,201900102,0,0,0,0,0,0,201900101,0,0,0,0,0,sample,1001
+2019011,"",0,0,3.0,201901101,201901102,0,0,0,0,0,0,201901101,0,0,0,0,0,"Magma Salamander",1001
+2020001,"",0,0,3.0,202000101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2023001,"",1,0,3.0,202300101,202300102,0,0,0,0,0,0,202300101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2026001,"",0,0,5.0,202600101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2028001,"",0,0,3.0,202800101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2028021,"",1,0,3.0,202800101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2029031,"",0,0,90.0,202903101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2029032,"",0,0,90.0,202903201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2029033,"",0,0,90.0,202903301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2029034,"",0,0,90.0,202903401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2029041,"",0,0,4.0,202904101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2033011,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
+2033012,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
+2033013,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
+2034001,"",1,0,4.0,203400101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2035001,"",0,0,3.0,203500101,203500102,0,0,0,0,0,0,203500101,0,0,0,0,0,sample,1001
+2035011,"",0,0,3.0,203501101,203501102,0,0,0,0,0,0,203501101,0,0,0,0,0,sample,1001
+2037001,"",0,0,3.0,203700101,203700102,0,0,0,0,0,0,203700101,0,0,0,0,0,sample,1001
+2042001,"",1,0,5.0,204200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2043001,"",1,0,3.0,204300101,204300102,0,0,0,0,0,0,204300101,0,0,0,0,0,sample,1001
+2044001,"",1,0,3.0,204400101,204400102,0,0,0,0,0,0,204400101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
+2046001,"",1,0,3.5,204600101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2047001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
+2047002,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
+2047003,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
+2047021,"",1,0,3.0,204702101,204702102,0,0,0,0,0,0,204702101,0,0,0,0,0,"Wild Boar skill",1001
+2051001,"",0,0,3.0,205100101,205100102,205100103,0,0,0,0,0,0,205100102,0,0,0,0,sample,1001
+2052001,"",1,0,3.0,205200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2053001,"",1,0,3.0,205300101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2054001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
+2054011,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,"Magma Fish",1001
+2055001,"",0,0,3.0,205500101,205500102,205500103,0,0,0,0,0,205500101,205500102,0,0,0,0,sample,1001
+2060001,"",1,0,4.0,206000101,206000102,206000103,206000104,0,0,0,0,206000101,206000101,206000101,0,0,0,"Sealidon skill",1001
+2063001,"",1,0,5.0,206300101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
+3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
+3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
+3001004,"",0,0,3.0,300100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3001005,"",0,0,3.0,300100501,300100502,300100503,0,0,0,0,0,300100501,300100501,0,0,0,0,sample,1001
+3001006,"",0,0,3.0,300100601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3002001,"",1,0,1.5,300200101,300200102,0,0,0,0,0,0,300200101,0,0,0,0,0,-,1001
+3002002,"",1,0,1.5,300200201,300200202,300200203,0,0,0,0,0,300200201,300200202,0,0,0,0,-,1001
+3002003,"",1,0,1.5,300200301,300200302,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3002004,"",1,0,1.5,300200401,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3002005,"",1,0,1.5,300200501,300200502,300200503,0,0,0,0,0,300200501,300200501,0,0,0,0,-,1001
+3002006,"",1,0,3.0,300200601,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3003001,"",1,0,3.0,300300101,300300102,300300103,0,0,0,0,0,300300101,300300102,0,0,0,0,Nightmare,1001
+3003002,"",1,0,3.0,300300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Purple Boom",1001
+3003003,"",1,0,2.5,300300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Dream Shackles",1001
+3003004,"",0,0,3.0,300300401,300300402,0,0,0,0,0,0,300300401,0,0,0,0,0,"Bope Skill 3",1001
+3003005,"",0,0,3.0,300300501,300300502,300300503,0,0,0,0,0,300300501,300300501,0,0,0,0,Awakening,1001
+3003006,"",0,0,3.0,300300601,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3004001,"",1,0,3.0,300400101,300400102,300400103,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3004002,"",1,0,1.6,300400201,300400202,300400203,0,0,0,0,0,300400201,0,0,0,0,0,-,1001
+3004003,"",1,0,1.6,300400301,300400302,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3004004,"",0,0,1.6,300400401,300400402,0,0,0,0,0,0,300400401,0,0,0,0,0,"",1001
+3004005,"",0,0,1.6,300400501,300400502,300400503,0,0,0,0,0,300400501,300400501,0,0,0,0,Awakening,1001
+3004006,"",0,0,3.0,300400601,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3005001,"",0,0,2.0,300500101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lizardman Skill 1",1001
+3005002,"",0,0,2.0,300500201,300500202,300500203,0,0,0,0,0,300500201,300500202,0,0,0,0,"Lizardman Skill 2",1001
+3006001,"",0,0,2.0,300600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Creeper Skill 1",1001
+3006002,"",0,0,2.0,300600201,300600202,0,0,0,0,0,0,300600201,0,0,0,0,0,"Creeper Skill 2",1001
+3006011,"",0,0,2.0,300601101,300601102,0,0,0,0,0,0,300601101,0,0,0,0,0,"Creeper Skill 1",1001
+3006012,"",0,0,2.0,300601201,300601202,0,0,0,0,0,0,300601201,0,0,0,0,0,"Creeper Skill 2",1001
+3006021,"",0,0,2.0,300602101,300602102,0,0,0,0,0,0,300602101,0,0,0,0,0,"Needle Creeper (Lap 2) Skill 1",1001
+3006022,"",0,0,2.0,300602201,300602202,0,0,0,0,0,0,300602201,0,0,0,0,0,"Needle Creeper (Lap 2) Skill 2",1001
+3007001,"",0,0,2.0,300700101,300700102,0,0,0,0,0,0,300700101,0,0,0,0,0,"Orc Leader Skill 1",1001
+3007002,"",0,0,2.0,300700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Orc Leader Skill 2",1001
+3007011,"",0,0,2.0,300701101,300701102,0,0,0,0,0,0,300701101,0,0,0,0,0,"Orc Chief Skill 1",1001
+3007012,"",0,0,2.0,300701201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Orc Chief Skill 2",1001
+3008001,"",0,0,2.0,300800101,300800102,0,0,0,0,0,0,300800101,0,0,0,0,0,"Elder Staghorn Skill 1",1001
+3008002,"",0,0,2.0,300800201,300800202,300800203,0,0,0,0,0,300800201,300800202,0,0,0,0,"Elder Staghorn Skill 2",1001
+3008011,"",0,0,2.0,300801101,300801102,300801103,0,0,0,0,0,300801101,300801102,0,0,0,0,"Elder Staghorn Skill 1",1001
+3008012,"",0,0,2.0,300801201,300801202,300801203,0,0,0,0,0,300801201,300801202,0,0,0,0,"Elder Staghorn Skill 2",1001
+3009001,"",0,0,2.0,300900101,300900102,0,0,0,0,0,0,300900101,0,0,0,0,0,"Elder Tyrant Skill 1",1001
+3009002,"",0,0,2.0,300900201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Elder Tyrant Skill 2",1001
+3010001,"",0,0,2.0,301000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sea Drake Skill 1",1001
+3010002,"",0,0,2.0,301000201,301000202,0,0,0,0,0,0,301000201,0,0,0,0,0,"Sea Drake Skill 2",1001
+3011001,"",0,0,2.0,301100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Orc Leader Skill 1",1001
+3011002,"",0,0,2.0,301100201,301100202,301100203,0,0,0,0,0,301100201,301100202,0,0,0,0,"Orc Leader Skill 2",1001
+3011011,"",0,0,2.0,301101101,301101102,0,0,0,0,0,0,301101101,0,0,0,0,0,"Orc Leader Skill 1",1001
+3011012,"",0,0,2.0,301101201,301100202,0,0,0,0,0,0,301100201,0,0,0,0,0,"Orc Leader Skill 2",1001
+3012001,"",0,0,2.0,301200101,301200102,0,0,0,0,0,0,301200101,0,0,0,0,0,"Greater Golem Skill 1",1001
+3012002,"",0,0,2.0,301200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Greater Golem Skill 2",1001
+3013001,"",0,0,4.0,301300101,301300102,301300103,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3013002,"",0,0,4.0,301300201,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3013003,"",0,0,4.0,301300301,301300302,301300303,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3013004,"",0,0,4.0,301300401,301300402,0,0,0,0,0,0,301300401,0,0,0,0,0,-,1001
+3013005,"",0,0,4.0,301300501,301300502,301300503,0,0,0,0,0,301300501,301300501,0,0,0,0,-,1001
+3013006,"",0,0,4.0,300100601,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3014001,"",0,0,2.0,301400101,301400102,0,0,0,0,0,0,0,0,0,0,0,0,"Medusa Skill 0",1001
+3014002,"",0,0,2.0,301400201,301400202,301400203,0,0,0,0,0,0,301400202,0,0,0,0,"Medusa Skill 1",1001
+3014003,"",0,0,2.0,301400301,301400302,0,0,0,0,0,0,301400301,0,0,0,0,0,"Medusa Skill 2",1001
+3014004,"",0,0,3.0,301400401,301400402,301400403,0,0,0,0,0,301400401,301400402,0,0,0,0,"Medusa Skill 3",1001
+3014005,"",0,0,3.0,301400501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Medusa Skill 4",1001
+3014006,"",0,0,3.0,300100601,0,0,0,0,0,0,0,0,0,0,0,0,0,"Medusa Skill 5",1001
+3015001,"",0,0,2.0,301500101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ulfhedinn Skill 1",1001
+3015002,"",0,0,2.0,301500201,301500202,0,0,0,0,0,0,301500201,0,0,0,0,0,"Ulfhedinn Skill 2",1001
+3015003,"",0,0,2.0,301500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ulfhedinn Skill 3",1001
+3016001,"",0,0,1.5,301600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ziz Skill 0",1001
+3016002,"",0,0,1.5,301600201,301600202,301600203,0,0,0,0,0,301600201,301600202,0,0,0,0,"Ziz Skill 1",1001
+3016003,"",0,0,1.5,301600301,301600302,0,0,0,0,0,0,301600301,0,0,0,0,0,"Ziz Skill 2",1001
+3016004,"",0,0,1.5,301600401,301600402,0,0,0,0,0,0,301600401,0,0,0,0,0,"Ziz Skill 3",1001
+3016011,"",0,0,1.5,301601101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ziz Skill 0",1001
+3016012,"",0,0,1.5,301601201,301601202,301601203,0,0,0,0,0,301601201,301601202,0,0,0,0,"Ziz Skill 1",1001
+3016013,"",0,0,1.5,301601301,301601302,0,0,0,0,0,0,301601301,0,0,0,0,0,"Ziz Skill 2",1001
+3016014,"",0,0,1.5,301601401,301601402,301601403,0,0,0,0,0,301601401,301601401,0,0,0,0,"Ziz Skill 3",1001
+3017001,"",0,0,0.0,301700101,301700102,301700103,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3017002,"",0,0,3.0,301700201,301700202,301700203,0,0,0,0,0,301700201,301700201,0,0,0,0,-,1001
+3017003,"",0,0,1.5,301700301,301700302,301700303,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3017004,"",0,0,0.0,301700401,301700402,301700403,301700404,301700405,0,0,0,0,0,0,0,0,0,-,1001
+3017005,"",0,0,0.0,301700501,301700502,301700503,301700504,301700505,301700506,301700507,0,0,0,0,0,0,0,-,1001
+3017006,"",0,0,3.0,300100601,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3018001,"",0,0,2.0,301800101,301800102,301800103,0,0,0,0,0,0,301800102,0,0,0,0,-,1001
+3018002,"",0,0,2.0,301800201,301800202,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3018003,"",0,0,2.0,301800301,301800302,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3018004,"",0,0,3.0,301800401,301800402,301800403,0,0,0,0,0,301800401,301800401,0,0,0,0,-,1001
+3018005,"",0,0,3.0,301800501,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3018006,"",0,0,3.0,300100601,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3019001,"",0,0,2.0,301900101,301900102,0,0,0,0,0,0,301900101,0,0,0,0,0,sample,1001
+3019002,"",1,0,2.0,301900201,301900202,0,0,0,0,0,0,301900201,0,0,0,0,0,sample,1001
+3020001,"",1,0,2.0,302000101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3020002,"",0,0,2.0,300100201,300100202,0,0,0,0,0,0,300100201,0,0,0,0,0,sample,1001
+3020011,"",1,0,2.0,302001101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3021001,"",1,0,2.0,302100101,302100102,0,0,0,0,0,0,302100101,0,0,0,0,0,sample,1001
+3021002,"",0,0,2.0,300100201,300100202,0,0,0,0,0,0,300100201,0,0,0,0,0,sample,1001
+3021011,"",1,0,2.0,302101101,302101102,0,0,0,0,0,0,302101101,0,0,0,0,0,sample,1001
+3022001,"",1,0,2.0,302200101,302200102,0,0,0,0,0,0,302200101,0,0,0,0,0,sample,1001
+3022002,"",0,0,2.0,302200201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3022003,"",1,0,2.0,302200301,302200302,0,0,0,0,0,0,302200301,0,0,0,0,0,sample,1001
+3022004,"",0,0,2.0,302200401,302200402,302200403,0,0,0,0,0,302200401,302200401,0,0,0,0,sample,1001
+3023001,"",1,0,2.0,302300101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3023002,"",0,0,2.0,302300201,302300202,0,0,0,0,0,0,302300201,0,0,0,0,0,sample,1001
+3024001,"",1,0,2.0,302400101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3024002,"",0,0,2.0,302400201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3024003,"",1,0,2.0,302400301,302400302,0,0,0,0,0,0,302400301,0,0,0,0,0,sample,1001
+3025001,"",0,0,2.0,302500101,302500102,302500103,302500104,302500105,0,0,0,0,302500102,0,302500104,0,0,sample,1001
+3025002,"",1,0,2.0,302500201,302500202,0,0,0,0,0,0,302500201,0,0,0,0,0,sample,1001
+3025003,"",0,0,2.0,302500301,302500302,302500303,302500304,0,0,0,0,302500301,302500301,302500301,0,0,0,sample,1001
+3025004,"",0,0,3.0,302500401,302500402,302500403,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3025005,"",0,0,3.0,302500501,302500502,302500503,0,0,0,0,0,302500501,302500501,0,0,0,0,sample,1001
+3025006,"",0,0,3.0,302500601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3026001,"",0,0,2.0,302600101,302600102,0,0,0,0,0,0,302600101,0,0,0,0,0,sample,1001
+3026002,"",0,0,2.0,302600201,302600202,0,0,0,0,0,0,302600201,0,0,0,0,0,sample,1001
+3026003,"",0,0,2.0,302600301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3026004,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3026005,"",0,0,3.0,302600501,302600502,302600503,0,0,0,0,0,302600501,302600501,0,0,0,0,sample,1001
+3026006,"",0,0,3.0,302600601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3026011,"",0,0,2.0,302601101,302601102,0,0,0,0,0,0,302601101,0,0,0,0,0,"Twin Pigs Lap 2 Skill 0",1001
+3026012,"",0,0,2.0,302601201,302601202,0,0,0,0,0,0,302601201,0,0,0,0,0,"Twin Pigs Lap 2 Skill 1",1001
+3026013,"",0,0,2.0,302601301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Lap 2 Skill 2",1001
+3026014,"",0,0,3.0,302601401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Lap 2 Skill 3",1001
+3026015,"",0,0,3.0,302601501,302601502,302601503,0,0,0,0,0,302601501,302601501,0,0,0,0,"Twin Pigs Lap 2 Skill 4",1001
+3026016,"",0,0,3.0,302601601,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Lap 2 Skill 5",1001
+3027001,"",0,0,2.0,302700101,302700102,0,0,0,0,0,0,302700101,0,0,0,0,0,-,1001
+3027002,"",0,0,2.0,302700201,302700202,0,0,0,0,0,0,302700201,0,0,0,0,0,-,1001
+3027003,"",0,0,2.0,302700301,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3027004,"",0,0,3.0,302700401,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3027005,"",0,0,3.0,302700501,302700502,302700503,0,0,0,0,0,302700501,302700501,0,0,0,0,-,1001
+3027006,"",0,0,3.0,302700601,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3028001,"",0,0,2.0,302800101,302800102,302800103,0,0,0,0,0,0,302800102,0,0,0,0,sample,1001
+3028002,"",0,0,2.0,302800201,302800202,302800203,0,0,0,0,0,0,302800202,0,0,0,0,sample,1001
+3028003,"",0,0,2.0,302800301,302800302,302800303,0,0,0,0,0,0,302800302,0,0,0,0,sample,1001
+3028004,"",0,0,3.0,302800401,302800402,302800403,0,0,0,0,0,302800401,302800401,0,0,0,0,sample,1001
+3028005,"",0,0,3.0,302800501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3028006,"",0,0,3.0,302800601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3029001,"",0,0,0.0,302900101,302900102,302900103,302900104,302900105,302900106,0,0,0,302900102,0,302900104,302900105,0,sample,1001
+3029002,"",0,0,0.2,302900201,302900202,302900203,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3029003,"",0,0,0.86,302900301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3029004,"",0,0,3.0,302900401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3029005,"",0,0,3.0,302900501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3029006,"",0,0,3.0,302900601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3030001,"",0,0,2.0,303000101,303000102,303000103,0,0,0,0,0,0,0,0,0,0,0,UB,1001
+3030002,"",0,0,2.0,303000201,0,0,0,0,0,0,0,0,0,0,0,0,0,Skill1,1001
+3030003,"",0,0,2.0,303000301,303000302,0,0,0,0,0,0,303000301,0,0,0,0,0,Skill2,1001
+3030004,"",0,0,3.0,303000401,0,0,0,0,0,0,0,0,0,0,0,0,0,Awakening,1001
+3030005,"",0,0,3.0,303000501,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
+3030006,"",0,0,3.0,303000601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3031001,"",0,0,0.0,303100101,303100102,0,0,0,0,0,0,0,0,0,0,0,0,"Slumbear: Union Burst",1001
+3031002,"",0,0,1.5,303100201,303100202,303100203,303100204,0,0,0,0,0,303100202,303100202,0,0,0,"Slumbear: Skill",1001
+3032001,"",0,0,2.0,303200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3032002,"",0,0,2.0,303200201,303200202,0,0,0,0,0,0,303200201,0,0,0,0,0,sample,1001
+3033001,"",1,0,2.0,303300101,303300102,303300103,0,0,0,0,0,303300101,303300102,0,0,0,0,sample,1001
+3033002,"",1,0,2.0,303300201,303300202,0,0,0,0,0,0,300100201,0,0,0,0,0,sample,1001
+3034001,"",0,0,2.0,303400101,303400102,303400103,0,0,0,0,0,303400101,0,0,0,0,0,sample,1001
+3034002,"",0,0,2.0,303400201,303400202,303400203,303400204,0,0,0,0,303400201,303400202,303400203,0,0,0,sample,1001
+3035001,"",1,0,2.0,303500101,303500102,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3035002,"",1,0,2.0,303500201,303500202,303500203,0,0,0,0,0,303500201,303500202,0,0,0,0,sample,1001
+3036001,"",0,0,2.0,303600101,303600102,0,0,0,0,0,0,0,0,0,0,0,0,"Smoldersaurus: Union Burst",1001
+3036002,"",0,0,2.0,303600201,303600202,0,0,0,0,0,0,303600201,0,0,0,0,0,"Smoldersaurus: Skill",1001
+3037001,"",0,0,0.0,303700101,303700102,303700103,0,0,0,0,0,303700101,0,0,0,0,0,"Hellhound: Union Burst",1001
+3037002,"",0,0,3.5,303700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Hellhound: Skill",1001
+3038001,"",1,0,3.0,303800101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Alma: Union Burst",1001
+3038002,"",0,0,1.5,303800201,303800202,0,0,0,0,0,0,303800201,0,0,0,0,0,"Alma: Attacks enemy with hammer",1001
+3038003,"",1,0,1.5,303800301,303800302,303800303,0,0,0,0,0,303800301,303800301,0,0,0,0,"Alma: Fires a sub-unit to attack enemy",1001
+3038004,"",0,0,1.5,303800401,303800402,303800403,0,0,0,0,0,303800401,303800401,0,0,0,0,"Alma: Awakening",1001
+3038011,"",1,0,3.0,303801101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Alma: Union Burst",1001
+3038012,"",0,0,1.5,303801201,303801202,0,0,0,0,0,0,303801201,0,0,0,0,0,"Alma: Attacks enemy with hammer",1001
+3038013,"",1,0,1.5,303800301,303800302,303800303,0,0,0,0,0,303800301,303800301,0,0,0,0,"Alma: Fires a sub-unit to attack enemy",1001
+3038014,"",0,0,1.5,303800401,303800402,303800403,0,0,0,0,0,303800401,303800401,0,0,0,0,"Alma: Awakening",1001
+3039001,"",1,0,2.0,303900101,303900102,303900103,303900104,0,0,0,0,303900101,303900102,0,0,0,0,"Cyclops: Union Burst",1001
+3039002,"",0,0,2.0,303900201,303900202,303900203,303900204,0,0,0,0,303900201,303900202,303900203,0,0,0,"Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)",1001
+3039011,"",1,0,2.0,303901101,303901102,303901103,303901104,0,0,0,0,303901101,303901102,0,0,0,0,"Cyclops: Skill 0 (Union Burst)",1001
+3039012,"",0,0,2.0,303901201,303901202,303901203,303901204,0,0,0,0,303901201,303901202,303901203,0,0,0,"Cyclops: Skill 1 (Proportional DMG to enemy with highest physical attack)",1001
+3040001,"",1,0,2.0,304000101,304000102,0,0,0,0,0,0,304000101,0,0,0,0,0,"Nightmare Skill 1",1001
+3040002,"",0,0,2.0,304000201,304000202,304000203,0,0,0,0,0,304000201,304000202,0,0,0,0,"Nightmare Skill 2",1001
+3042001,"",1,0,0.0,304200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3042002,"",1,0,1.5,304200201,304200202,0,0,0,0,0,0,304200201,0,0,0,0,0,sample,1001
+3042003,"",1,0,1.5,304200301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3042004,"",1,0,0.0,304200401,304200402,304200403,0,0,0,0,0,304200401,304200401,0,0,0,0,sample,1001
+3042011,"",1,0,0.0,304201101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3042012,"",1,0,1.5,304201201,304201202,0,0,0,0,0,0,304201201,0,0,0,0,0,sample,1001
+3042013,"",1,0,1.5,304201301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3042014,"",1,0,0.0,304201401,304201402,304201403,0,0,0,0,0,304201401,304201401,0,0,0,0,sample,1001
+3043001,"",1,0,0.0,304300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Union Burst",1001
+3043002,"",2,0,1.5,304300201,304300202,304300203,304300204,0,0,0,0,304300201,304300201,304300201,0,0,0,"Tentapus Ink Bomb",1001
+3043003,"",1,0,1.5,304300301,304300302,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 1",1001
+3043004,"",1,0,0.0,304300401,304300402,304300403,304300404,0,0,0,0,0,0,0,0,0,0,"Tentapus Awakening",1001
+3043005,"",1,0,1.5,304300501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Standard Attack",1001
+3043006,"",1,0,1.5,304300601,304300602,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 2",1001
+3043007,"",1,0,1.5,304300701,304300702,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 3",1001
+3043008,"",1,0,1.5,304300801,304300802,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 4",1001
+3043009,"",1,0,1.5,304300901,304300902,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 5",1001
+3044001,"",1,0,0.0,304400101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Island Whale Union Burst",1001
+3044002,"",2,0,1.5,304400201,304400202,304400203,0,0,0,0,0,0,0,0,0,0,0,"Island Whale Skill 1",1001
+3044003,"",1,0,6.0,304400301,304400302,0,0,0,0,0,0,304400301,0,0,0,0,0,"Island Whale Skill 2",1001
+3044004,"",1,0,0.0,304400401,304400402,304400403,304400404,0,0,0,0,0,0,0,0,0,0,"Island Whale Awakening",1001
+3045001,"",0,0,1.5,304500101,304500102,304500103,304500104,304500105,0,0,0,304500101,0,0,0,0,0,"Ninja Stag Beetle Skill 0",1001
+3045002,"",0,0,1.5,304500201,304500202,304500203,0,0,0,0,0,0,0,304500202,0,0,0,"Ninja Stag Beetle Skill 1",1001
+3046001,"",1,0,1.5,304600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rai-Rai Skill 0",1001
+3046002,"",1,0,1.5,304600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rai-Rai Skill 1",1001
+3047001,"",1,0,2.7,304700101,304700102,304700103,0,0,0,0,0,304700101,304700101,0,0,0,0,"Living Mail Union Burst",1001
+3047002,"",1,0,2.2,304700203,304700204,304700201,304700202,0,0,0,0,0,0,0,0,0,0,"Living Mail Skill 1",1001
+3047003,"",1,0,3.5,304700301,0,0,0,0,0,0,0,304700301,0,0,0,0,0,"Living Mail Skill 2",1001
+3047004,"",1,0,2.7,304700401,304700402,304700403,0,0,0,0,0,0,0,0,0,0,0,"Living Mail Awakening",1001
+3048001,"",2,0,1.5,304800101,304800102,0,0,0,0,0,0,304800101,0,0,0,0,0,"Wraithlord Skill 0",1001
+3048002,"",2,0,1.5,304800201,304800202,304800203,0,0,0,0,0,0,0,0,0,0,0,"Wraithlord Skill 1",1001
+3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3901005,"",0,0,3.0,390100501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+3901006,"",0,0,90.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+4008012,"",0,0,3.0,400801201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a nearby enemy.",1001
+4008101,"",0,0,3.0,400810101,400810102,400810103,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a nearby enemy.",1001
+4012012,"",0,0,3.0,401201201,401201202,0,0,0,0,0,0,401201201,0,0,0,0,0,"Lobs a boulder to deal damage to a nearby enemy.",1001
+4025012,Avalanche,0,0,3.0,402501201,402501202,0,0,0,0,0,0,402501201,0,0,0,0,0,"Lobs a boulder to deal damage to a nearby enemy.",1001
+4042032,"Energy Heal",0,0,3.0,404203201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers TP of an ally.",1001
+4042042,Cure,0,0,3.0,404204201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of an ally.",1001
+4084022,Heal,0,0,3.0,408402201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the HP of a party member.",1001
+4084032,"Energy Heal",0,0,3.0,408403201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the HP of a party member.",1001
+9000002,"",0,0,3.0,900000201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9000004,"",0,0,3.0,900000401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9000005,"",0,0,3.0,900000501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9000006,"",0,0,3.0,900000601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9000007,"",0,0,90.0,900000701,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9000008,"",0,0,3.0,900000801,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9001001,"",0,0,3.0,900100101,900100102,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9001002,"",0,0,3.0,900100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9001003,"",0,0,3.0,900100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9001004,"",0,0,3.0,900100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9001005,"",0,0,3.0,900100501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9001006,"",0,0,3.0,900100601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9001007,"",0,0,90.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9002001,"",0,0,3.0,900200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9002002,"",0,0,3.0,900200201,900200202,0,0,0,0,0,0,900200201,0,0,0,0,0,sample,1001
+9002003,"",0,0,3.0,900200301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9002004,"",0,0,3.0,900200401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9002005,"",0,0,3.0,900200501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9002006,"",0,0,90.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9003001,"",0,0,3.0,900300101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9003002,"",0,0,3.0,900300201,900300202,0,0,0,0,0,0,900300201,0,0,0,0,0,sample,1001
+9003003,"",0,0,3.0,900300301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9003004,"",0,0,3.0,900300401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9003005,"",0,0,90.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9004004,"",0,0,90.0,900400401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9004005,"",0,0,90.0,900400501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9004006,"",0,0,90.0,900400601,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9004007,"",0,0,90.0,900400701,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9010004,"",0,0,0.0,901000401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the TP of the closest party member by a small amount.",1006
+9012003,"",0,0,3.0,901200301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9012004,"",0,0,3.0,901200401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9012005,"",0,0,90.0,901200501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9017004,"",0,0,0.0,901700401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the TP of the closest party member by a small amount.",1006
+9028001,"Phoenix Sword",1,0,0.0,902800101,902800102,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts a large amount of physical damage to all enemies neighboring the vanguard. The lower Saren's HP, the greater the damage dealt.",1001
+9028002,"Noble Guard",1,0,1.25,902800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Increases the magical defense of all party members by a small amount.",1003
+9028003,"Elegant Ovation",0,0,1.25,902800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the TP of the closest party member by a small amount.",1006
+9036004,"",0,0,90.0,903600401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9036005,"",0,0,90.0,903600501,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9038004,"",0,0,90.0,903800401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+9044004,"",0,0,0.0,904400401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the TP of the closest party member by a small amount.",1006
+9075004,"",0,0,0.0,907500401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the TP of the closest party member by a small amount.",1006
+9077004,"",0,0,0.0,907700401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the TP of the closest party member by a small amount.",1006
+9078002,"",0,0,0.0,907800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Restores the TP of the closest party member by a small amount.",1006

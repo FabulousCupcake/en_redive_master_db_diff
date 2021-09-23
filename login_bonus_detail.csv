@@ -1,0 +1,45 @@
+1,20010,1,8,91002,100,0,"","",0,0
+2,20010,1,2,23001,20,0,"","",0,0
+3,20010,2,8,91002,100,0,"","",0,0
+4,20010,2,2,23001,20,0,"","",0,0
+5,20010,3,8,91002,100,0,"","",0,0
+6,20010,3,2,23001,20,0,"","",0,0
+7,20010,4,8,91002,100,0,"","",0,0
+8,20010,4,2,23001,20,0,"","",0,0
+9,20010,5,8,91002,200,0,"","",0,0
+10,20010,5,2,23001,20,0,"","",0,0
+11,20010,6,8,91002,100,0,"","",0,0
+12,20010,6,2,23001,20,0,"","",0,0
+13,20010,7,8,91002,100,0,"","",0,0
+14,20010,7,2,23001,20,0,"","",0,0
+15,20010,8,8,91002,100,0,"","",0,0
+16,20010,8,2,23001,20,0,"","",0,0
+17,20010,9,8,91002,100,0,"","",0,0
+18,20010,9,2,23001,20,0,"","",0,0
+19,20010,10,8,91002,300,0,"","",0,0
+20,20010,10,2,23001,20,0,"","",0,0
+21,30000,1,2,23001,5,0,"","",0,0
+22,30000,2,2,90007,1000,0,"","",0,0
+23,30000,3,2,20002,5,0,"","",0,0
+24,30000,4,8,91002,50,0,"","",0,0
+25,30000,5,12,94002,30000,0,"","",0,0
+26,30000,6,2,23001,10,0,"","",0,0
+27,30000,7,2,90007,1500,0,"","",0,0
+28,30000,8,2,20002,10,0,"","",0,0
+29,30000,9,8,91002,80,0,"","",0,0
+30,30000,10,2,24001,1,0,"","",0,0
+31,30000,11,2,23001,15,0,"","",0,0
+32,30000,12,2,90007,2000,0,"","",0,0
+33,30000,13,2,22002,3,0,"","",0,0
+34,30000,14,8,91002,100,0,"","",0,0
+35,30000,15,2,24001,1,0,"","",0,0
+37,40001,1,8,91002,150,107501,Pecorine,"Special days mean celebrations!\nBarbecue, sushi, pizza, cake~☆\nIsn't being able to party together\njust the greatest? ♪",1,0
+38,40001,2,8,91002,150,107601,Kokkoro,"It is all thanks to your talents\nthat we made it to this occasion.\nI expected no less, my lord.\nWhat a good boy you are! ♪",1,0
+39,40001,3,8,91002,150,107801,Karyl,"Hey, this is actually kind of a big\ndeal, huh? I guess I'm a little bit...\nw-well, okay, a lot impressed.\nKeep up the good work! ♪",1,0
+40,40001,4,8,91002,150,107701,Suzume,"This celebration is a special time\nfor both of us. You give me the\ncourage to always do my best!",1,0
+41,40001,5,8,91002,150,107901,Tamaki,"I'd nyever miss out on\ncelebrating your special occasion.\nI'm a huge fan of all the fur-\nraising exploits you get up to! ♪",1,0
+42,40001,6,8,91002,150,107501,Pecorine,"Ahhh, I ate too much shaved ice,\nand now my body's freezing!\nYou'll help me warm up,\nwon't you? Big hugs~! ♪",2,0
+43,40001,7,8,91002,150,107601,Kokkoro,"One frequently hears that the\nsummer season is rife with\ndangers... But I will protect you\nno matter what arises, my lord.",2,0
+44,40001,8,8,91002,150,107801,Karyl,"How did I end up spending my\nsummer with you of all people?\nOh well, I guess it's been fun.\nCome on, we're not done yet!",2,0
+45,40001,9,8,91002,150,107701,Suzume,"Our very first summer together...\nI'm so excited, I might collapse!\nI'm sure it'll be another wonderful\nexperience to remember!",2,0
+46,40001,10,8,91002,150,107901,Tamaki,"Summer's big for business,\nbut somehow this year I want to\nspend it with you. You're nyot\ngonna make me regret it, are ya?",2,0
