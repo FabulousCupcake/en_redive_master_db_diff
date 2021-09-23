@@ -47,10 +47,12 @@ jobs:
 
       - name: Commit, create PR, and merge
         run: |
+          VERSION="$(jq .truth_version version)"
+          GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
+
           git add *.csv version
-          VERSION="$(jq .truth_version version)"
           git checkout -b "patch/$VERSION"
           git commit -m "$VERSION"
           git push -u origin "patch/$VERSION"
