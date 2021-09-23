@@ -1,0 +1,54 @@
+name: Synchronize
+
+on:
+  schedule:
+    - cron: '0/5 * * * *'
+
+jobs:
+  sync:
+    name: "Synchronize"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
+      - name: Checkout fetcher
+        uses: actions/checkout@v2
+        with:
+          repository: Expugn/priconne-en_db-fetch
+          ref: 90e0ffdedc845f7dd7b0d4eced9202ab0ef903fe
+
+      - name: Run Fetcher
+        run: |
+          cd priconne-en_db-fetch
+          pip install lz
+          npm ci
+          ln -s .. out
+          node priconne-en_db-fetch/app.js
+          cd ..
+
+      - name: Check if we have new version
+        run: |
+          git diff -p -1 version
+          if [[ "$DIFF" = "" ]]; then
+            echo "There is no new version!"
+            exit 1
+          fi
+
+      - name: Generate .csv dump
+        run: |
+          . .github/scripts/dump.sh priconne-en_db-fetch/out/master.mdb
+
+      - name: Commit, create PR, and merge
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.csv version
+          VERSION="$(jq .truth_version version)"
+          git checkout -b "patch/$VERSION"
+          git commit -m "$VERSION"
+          git push -u origin "patch/$VERSION"
+          gh pr create --title "Update $VERSION" --body "Created automatically w/ github actions"
+          gh pr merge --merge -d
