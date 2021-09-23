@@ -34,18 +34,21 @@ jobs:
           cd ..
 
       - name: Check if we have new version
+        id: new_version
         run: |
           DIFF="$(git diff -p -1 version)"
           if [[ "$DIFF" = "" ]]; then
             echo "There is no new version!"
-            exit 0
+            exit 1
           fi
 
       - name: Generate .csv dump
+        if: steps.new_version.conclusion == 'success'
         run: |
           . .github/scripts/dump.sh master.db
 
       - name: Commit, create PR, and merge
+        if: steps.new_version.conclusion == 'success'
         run: |
           export GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
           VERSION="$(jq .truth_version version)"
