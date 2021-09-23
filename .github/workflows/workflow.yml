@@ -39,16 +39,17 @@ jobs:
           DIFF="$(git diff -p -1 version)"
           if [[ "$DIFF" = "" ]]; then
             echo "There is no new version!"
-            exit 1
+            exit 0
           fi
+          echo "::set-output name=exists::true"
 
       - name: Generate .csv dump
-        if: steps.new_version.conclusion == 'success'
+        if: steps.new_version.exists == 'true'
         run: |
           . .github/scripts/dump.sh master.db
 
       - name: Commit, create PR, and merge
-        if: steps.new_version.conclusion == 'success'
+        if: steps.new_version.exists == 'true'
         run: |
           export GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
           VERSION="$(jq .truth_version version)"
