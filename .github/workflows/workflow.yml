@@ -35,7 +35,7 @@ jobs:
 
       - name: Check if we have new version
         run: |
-          git diff -p -1 version
+          DIFF="$(git diff -p -1 version)"
           if [[ "$DIFF" = "" ]]; then
             echo "There is no new version!"
             exit 1
