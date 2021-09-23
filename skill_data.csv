@@ -291,6 +291,16 @@
 1080003,"Hunting Mode",1,0,1.19,108000301,108000302,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and physical critical rate.",2003
 1080501,"Summer Mercenary",0,0,0.0,108050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1080511,"Summer Mercenary+",0,0,0.0,108051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1081001,"Halloween Terror",1,0,0.0,108100101,108100102,108100103,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to the enemy with the lowest HP percentage. Deals additional moderate physical damage to all enemies if the enemy is defeated by this skill.",1001
+1081002,"Wraith Weapon",1,0,0.75,108100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack.",2003
+1081003,"Hollow Scythe",1,0,1.35,108100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",2001
+1081501,"Netherworld Nocturne",0,0,0.0,108150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1081511,"Netherworld Nocturne+",0,0,0.0,108151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1082001,"Trick or Pudding!",1,0,0.0,108200101,108200102,108200103,0,0,0,0,0,0,108200102,0,0,0,0,"Deals large physical damage to the farthest enemy and inflicts Curse.",1001
+1082002,"I'm a Were-Miyako!",1,0,0.75,108200201,108200202,108200203,0,0,0,0,0,0,0,0,0,0,0,"Reduces the farthest enemy's TP by a small amount and inflicts Stun.",2018
+1082003,Ghosty-Go-Round!,1,0,0.55,108200301,108200302,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers the physical and magical attack of the farthest enemy by a moderate amount.",2004
+1082501,Growly-Growl!,0,0,0.0,108250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1082511,Growly-Growl!+,0,0,0.0,108251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -550,6 +560,10 @@
 3047004,"",1,0,2.7,304700401,304700402,304700403,0,0,0,0,0,0,0,0,0,0,0,"Living Mail Awakening",1001
 3048001,"",2,0,1.5,304800101,304800102,0,0,0,0,0,0,304800101,0,0,0,0,0,"Wraithlord Skill 0",1001
 3048002,"",2,0,1.5,304800201,304800202,304800203,0,0,0,0,0,0,0,0,0,0,0,"Wraithlord Skill 1",1001
+3050001,"",1,0,0.0,305000101,305000102,305000103,0,0,0,0,0,0,305000102,0,0,0,0,"Pudding Union Burst",1001
+3050002,"",1,0,1.8,305000201,305000202,0,0,0,0,0,0,0,0,0,0,0,0,"Pudding Skill 1",1001
+3050003,"",1,0,2.7,305000301,305000302,305000303,305000304,0,0,0,0,0,305000302,305000303,0,0,0,"Pudding Skill 2",1001
+3050004,"",1,0,0.0,305000401,305000402,305000403,305000404,0,0,0,0,0,0,0,0,0,0,"Pudding Awakening",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
