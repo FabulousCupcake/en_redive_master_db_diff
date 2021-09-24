@@ -17,6 +17,9 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Expose Runner Virtual Environment Image Version
+        run: echo "ImageVersion=$ImageVersion" >> $GITHUB_ENV
+
       - name: Cache fetcher
         id: cache-primes
         uses: actions/cache@v2
