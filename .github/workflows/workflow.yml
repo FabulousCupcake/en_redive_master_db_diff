@@ -44,12 +44,12 @@ jobs:
           echo "::set-output name=exists::true"
 
       - name: Generate .csv dump
-        if: steps.new_version.exists == 'true'
+        if: steps.new_version.outputs.exists == 'true'
         run: |
           . .github/scripts/dump.sh master.db
 
       - name: Commit, create PR, and merge
-        if: steps.new_version.exists == 'true'
+        if: steps.new_version.outputs.exists == 'true'
         run: |
           export GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
           VERSION="$(jq .truth_version version)"
