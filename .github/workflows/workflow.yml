@@ -17,19 +17,35 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Cache fetcher
+        id: cache-primes
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.cache/pip
+            priconne-en_db-fetch
+          key: ${{ runner.os }}-fetcher
+
       - name: Checkout fetcher
+        if: steps.cache-primes.outputs.cache-hit != 'true'
         uses: actions/checkout@v2
         with:
           repository: Expugn/priconne-en_db-fetch
           ref: 90e0ffdedc845f7dd7b0d4eced9202ab0ef903fe
           path: priconne-en_db-fetch
 
-      - name: Run Fetcher
+      - name: Install fetcher deps
+        if: steps.cache-primes.outputs.cache-hit != 'true'
         run: |
           cd priconne-en_db-fetch
           pip install lz4
           npm ci
           ln -s .. out
+          cd ..
+
+      - name: Run fetcher
+        run: |
+          cd priconne-en_db-fetch
           node app.js
           cd ..
 
