@@ -24,7 +24,7 @@ jobs:
           path: |
             ~/.cache/pip
             priconne-en_db-fetch
-          key: ${{ runner.os }}-fetcher
+          key: ${{ runner.os }}-${{ env.ImageVersion }}-fetcher
 
       - name: Checkout fetcher
         if: steps.cache-primes.outputs.cache-hit != 'true'
@@ -45,6 +45,7 @@ jobs:
 
       - name: Run fetcher
         run: |
+          pip install lz4
           cd priconne-en_db-fetch
           node app.js
           cd ..
