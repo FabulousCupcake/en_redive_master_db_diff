@@ -1,3 +1,4 @@
+daily_mission_id,disp_group,category_icon,description,mission_condition,condition_value_1,condition_value_2,condition_value_3,condition_num,mission_reward_id,system_id,event_id,start_time,end_time
 61001001,101,601,"Battle Ziz 1 time (NORMAL/HARD)",9012,0,0,0,1,61001001,6008,10001,"2021/02/17 23:00:00","2021/03/06 22:59:59"
 61001002,102,601,"Clear 10 event quests",9004,0,0,0,10,61001002,6004,10001,"2021/02/17 23:00:00","2021/03/06 22:59:59"
 61002001,101,601,"Battle Alma 1 time (NORMAL/HARD)",9012,0,0,0,1,61002001,6008,10002,"2021/03/22 23:00:00","2021/04/11 22:59:59"

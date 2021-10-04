@@ -1,3 +1,4 @@
+story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love_level,requirement_id,unlock_quest_id,story_quest_id,reward_type_1,reward_id_1,reward_value_1,reward_type_2,reward_id_2,reward_value_2,reward_type_3,reward_id_3,reward_value_3,start_time,end_time
 7001000,7001,"Tower of Luna Chapter 1: Opening","The Exploration Begins!",2,0,0,0,108,0,0,8,91002,20,0,0,0,0,0,0,"2021/09/10 13:00:00","2030/04/24 14:59:59"
 7001001,7001,"Tower of Luna Chapter 1: Episode 1","The Investigation Continues",2,0,7001000,0,108,71010020,0,8,91002,20,0,0,0,0,0,0,"2021/09/10 13:00:00","2030/04/24 14:59:59"
 7001002,7001,"Tower of Luna Chapter 1: Episode 2","Love Is War",2,0,7001001,0,108,71010040,0,8,91002,20,0,0,0,0,0,0,"2021/09/10 13:00:00","2030/04/24 14:59:59"

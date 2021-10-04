@@ -1,3 +1,4 @@
+comment_id,where_type,character_id,face_type,character_name,description,voice_id,start_time,end_time,pos_x,pos_y,change_face_time,change_face_type,event_id
 7001,7,106001,1,Karyl,"Doesn't hurt to work\ntogether sometimes,\nI guess. I'll lend you\na hand, too.",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363.0,0.0,0.0,1,0
 7002,7,105901,1,Kokkoro,"Here you can work together with\nothers and engage in battle.\nI am certain you will play\na very active role, my lord.",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363.0,0.0,0.0,1,0
 7003,7,105801,1,Pecorine,"This is a Co-op Battle\nwhere you play together\nwith lots of people!\nGood luck! ☆",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363.0,0.0,0.0,1,0

@@ -1,3 +1,4 @@
+enemy_id,unit_id,level,rarity,promotion_level,hp,atk,magic_str,def,magic_def,physical_critical,magic_critical,wave_hp_recovery,wave_energy_recovery,dodge,physical_penetrate,magic_penetrate,life_steal,hp_recovery_rate,energy_recovery_rate,energy_reduce_rate,union_burst_level,main_skill_lv_1,main_skill_lv_2,main_skill_lv_3,main_skill_lv_4,main_skill_lv_5,main_skill_lv_6,main_skill_lv_7,main_skill_lv_8,main_skill_lv_9,main_skill_lv_10,ex_skill_lv_1,ex_skill_lv_2,ex_skill_lv_3,ex_skill_lv_4,ex_skill_lv_5,resist_status_id,accuracy
 620010001,200100,1,1,1,329,24,0,4,3,10,10,0,0,1,0,0,0,0,30,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,200000006,0
 620010002,200100,2,1,1,338,28,0,9,3,10,10,0,0,1,0,0,0,0,30,0,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,200000006,0
 620010003,200100,3,1,1,347,32,0,5,4,10,10,0,0,1,0,0,0,0,30,0,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,200000006,0

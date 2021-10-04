@@ -10,7 +10,7 @@ TABLES="$(sqlite3 "$1" .table | tr " " "\n" | sort | uniq | awk NF)"
 while IFS= read -r TABLE; do
   printf "Dumping %-50s" "$TABLE.csv... "
 
-  CONTENT="$(sqlite3 "$1" "SELECT * FROM $TABLE" -csv)"
+  CONTENT="$(sqlite3 -header "$1" "SELECT * FROM $TABLE" -csv)"
   if [[ "$CONTENT" ]]; then
      echo "$CONTENT" > "$TABLE.csv"
      printf "OK. \n"

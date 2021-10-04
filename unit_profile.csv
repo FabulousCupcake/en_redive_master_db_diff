@@ -1,3 +1,4 @@
+unit_id,unit_name,age,guild,race,height,weight,birth_month,birth_day,blood_type,favorite,voice,voice_id,catch_copy,self_text,guild_id
 100101,Hiyori,16,"Twinkle Wish",beastfolk,155,44,8,27,A,"helping others, cheering","Nao Toyama",0,"An optimistic fighter who loves helping people","",2
 100201,Yui,17,"Twinkle Wish",humanfolk,158,47,4,5,O,"cooking, people watching","Risa Taneda",0,"A kind girl who excels at combat support","",2
 100301,Rei,18,"Twinkle Wish",demonfolk,163,46,1,12,B,"reading, riding horses, tea","Saori Hayami",0,"A cool-headed swordswoman who faces everything head-on","",2

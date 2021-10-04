@@ -1,3 +1,4 @@
+item_id,item_name,description,promotion_level,item_type,value,price,limit_num,start_time,end_time
 20001,"Mini EXP Potion","Used to upgrade a Character's Level. Adds 60 Character EXP.",1,1,60,80,99999,"2015/12/17 15:00:00","2030/08/01 14:59:59"
 20002,"EXP Potion","Used to upgrade a Character's Level. Adds 300 Character EXP.",2,1,300,400,99999,"2015/12/17 15:00:00","2030/08/01 14:59:59"
 20003,"Super EXP Potion","Used to upgrade a character's level. Adds 1500 character EXP.",3,1,1500,2000,99999,"2015/12/17 15:00:00","2030/08/01 14:59:59"

@@ -1,3 +1,4 @@
+equipment_id,crafted_cost,condition_equipment_id_1,consume_num_1,condition_equipment_id_2,consume_num_2,condition_equipment_id_3,consume_num_3,condition_equipment_id_4,consume_num_4,condition_equipment_id_5,consume_num_5,condition_equipment_id_6,consume_num_6,condition_equipment_id_7,consume_num_7,condition_equipment_id_8,consume_num_8,condition_equipment_id_9,consume_num_9,condition_equipment_id_10,consume_num_10
 102282,2000,122282,1,102281,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 102311,1500,122311,1,101281,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 102312,2000,122312,1,102311,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

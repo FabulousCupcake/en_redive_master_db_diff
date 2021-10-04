@@ -1,3 +1,4 @@
+id,buy_count,use_jewel_count,get_gold_count,goldset_odds_1,goldset_odds_2,goldset_odds_3,additional_gold_min_rate,additional_gold_max_rate
 1,1,10,12000,90001,0,90043,10000,30000
 2,2,20,24000,90002,0,90047,10000,30000
 3,3,20,24000,90002,0,90047,10000,30000

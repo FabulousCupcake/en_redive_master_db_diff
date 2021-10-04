@@ -1,3 +1,4 @@
+id,login_bonus_id,count,reward_type,reward_id,reward_num,character_id,character_name,description,voice_id,bg_id
 1,20010,1,8,91002,100,0,"","",0,0
 2,20010,1,2,23001,20,0,"","",0,0
 3,20010,2,8,91002,100,0,"","",0,0

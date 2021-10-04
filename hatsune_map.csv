@@ -1,3 +1,4 @@
+course_id,event_id,name,map_id,sheet_id,que_id,start_area_id,end_area_id
 10001,10001,"Targum Region",10001,bgm_M32,bgm_M32,10001101,10001101
 10002,10002,"Macina Region",10002,bgm_M98,bgm_M98_2,10002101,10002101
 10003,10003,"Landosol Outskirts",10003,bgm_M106,bgm_M106,10003101,10003101

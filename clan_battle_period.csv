@@ -1,3 +1,4 @@
+clan_battle_id,period,period_detail,period_detail_bg,period_detail_bg_position,period_detail_boss_position_x,period_detail_boss_position_y,start_time,end_time,interval_start,interval_end,calc_start,result_start,result_end
 1001,1,"Begin Clan Battle!\nWork with clan members to defeat monsters!",101011,0,0,0,"2021/02/10 13:00:00","2021/02/15 7:59:59","2021/02/15 8:00:00","2021/03/06 12:59:59","2021/02/15 8:00:00","2021/02/15 12:00:00","2021/03/06 12:59:59"
 1002,1,"Work with clan members\nto defeat the stronger monsters!",101021,0,0,0,"2021/03/07 13:00:00","2021/03/12 7:59:59","2021/03/12 8:00:00","2021/04/12 12:59:59","2021/03/12 8:00:00","2021/03/16 23:00:00","2021/04/12 12:59:59"
 1003,1,"Work with clan members\nto defeat the stronger monsters!",101042,0,0,0,"2021/04/12 13:00:00","2021/04/17 7:59:59","2021/04/17 8:00:00","2021/05/19 12:59:59","2021/04/17 8:00:00","2021/04/22 2:00:00","2021/05/19 12:59:59"

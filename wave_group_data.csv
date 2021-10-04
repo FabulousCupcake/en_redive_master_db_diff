@@ -1,3 +1,4 @@
+id,wave_group_id,odds,enemy_id_1,drop_gold_1,drop_reward_id_1,enemy_id_2,drop_gold_2,drop_reward_id_2,enemy_id_3,drop_gold_3,drop_reward_id_3,enemy_id_4,drop_gold_4,drop_reward_id_4,enemy_id_5,drop_gold_5,drop_reward_id_5
 100000001,512000021,100,100000001,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 100000002,512000022,100,100000001,0,0,100000001,0,0,100000002,0,0,0,0,0,0,0,0
 101000001,110010011,100,101010101,255,11001011,101010101,0,11999091,0,0,0,0,0,0,0,0,0

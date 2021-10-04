@@ -1,3 +1,4 @@
+skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,action_3,action_4,action_5,action_6,action_7,depend_action_1,depend_action_2,depend_action_3,depend_action_4,depend_action_5,depend_action_6,depend_action_7,description,icon_type
 1001001,"Hiyori Rush",0,0,0.0,100100101,100100102,100100103,0,0,0,0,0,100100102,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and deals moderate physical damage to all enemies in a small radius around it.",1001
 1001002,"Kitty Kapow",0,0,1.125,100100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1001003,"Kitty Combo",0,0,1.295,100100301,100100302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front. Boosts own physical attack by a moderate amount.",2001

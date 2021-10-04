@@ -1,3 +1,4 @@
+story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love_level,requirement_id,unlock_quest_id,story_quest_id,reward_type_1,reward_id_1,reward_value_1,reward_type_2,reward_id_2,reward_value_2,reward_type_3,reward_id_3,reward_value_3,start_time,end_time
 5001000,5001,Opening,"Operation: Hatsune's Perfect Present!",0,0,0,0,0,0,0,8,91002,20,2,31012,1,0,0,0,"2021/02/17 23:00:00","2030/04/24 14:59:59"
 5001001,5001,"Episode 1","A Walk Down Memory Lane",0,0,5001000,0,0,0,0,8,91002,20,2,31038,1,0,0,0,"2021/02/17 23:00:00","2030/04/24 14:59:59"
 5001002,5001,"Episode 2","A Curious Find",0,0,5001001,0,0,0,0,8,91002,20,2,31012,1,0,0,0,"2021/02/17 23:00:00","2030/04/24 14:59:59"

@@ -1,3 +1,4 @@
+odds_group_id,team_level_from,team_level_to,odds_csv_1,odds_csv_2,odds_csv_3,odds_csv_4,odds_csv_5,odds_csv_6,odds_csv_7,odds_csv_8,odds_csv_9,odds_csv_10
 3100101,1,29,31001_01,"","","","","","","","",""
 3100101,30,59,31001_03,"","","","","","","","",""
 3100101,60,-1,31001_05,"","","","","","","","",""

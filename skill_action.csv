@@ -1,3 +1,4 @@
+action_id,class_id,action_type,action_detail_1,action_detail_2,action_detail_3,action_value_1,action_value_2,action_value_3,action_value_4,action_value_5,action_value_6,action_value_7,target_assignment,target_area,target_range,target_type,target_number,target_count,description,level_up_disp
 100100101,1,1,1,0,0,30.0,30.0,2.4,0.0,0.0,0.0,0.0,1,1,-1,3,0,1,"Deals {0} physical damage to an enemy.","Single-target physical damage + {0}"
 100100102,1,3,3,0,0,50.0,0.0,500.0,0.0,0.0,0.0,0.0,1,1,-1,3,0,99,"",""
 100100103,1,1,1,0,0,13.5,13.5,1.08,0.0,0.0,0.0,0.0,1,2,400,3,0,99,"Deals {0} physical damage to enemies in range.","AOE physical damage + {0}"

@@ -1,3 +1,4 @@
+pattern_id,unit_id,loop_start,loop_end,atk_pattern_1,atk_pattern_2,atk_pattern_3,atk_pattern_4,atk_pattern_5,atk_pattern_6,atk_pattern_7,atk_pattern_8,atk_pattern_9,atk_pattern_10,atk_pattern_11,atk_pattern_12,atk_pattern_13,atk_pattern_14,atk_pattern_15,atk_pattern_16,atk_pattern_17,atk_pattern_18,atk_pattern_19,atk_pattern_20
 10010101,100101,3,7,1002,1001,1,1,1002,1,1001,0,0,0,0,0,0,0,0,0,0,0,0,0
 10020101,100201,3,10,1002,1001,1,1,1002,1,1001,1,1,1001,0,0,0,0,0,0,0,0,0,0
 10030101,100301,4,8,1,1001,1002,1,1,1001,1,1002,0,0,0,0,0,0,0,0,0,0,0,0

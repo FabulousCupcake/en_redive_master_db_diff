@@ -1,3 +1,4 @@
+id,gacha_id,introduction_number,start_time,end_time,maximum_chunk_size_1,maximum_chunk_size_loop_1,maximum_chunk_size_2,maximum_chunk_size_loop_2,maximum_chunk_size_3,maximum_chunk_size_loop_3
 1,30001,1,"2021/01/19 23:00:00","2021/01/29 22:59:59",380000,380000,0,0,0,0
 2,30002,1,"2021/01/29 23:00:00","2021/02/08 22:59:59",380000,380000,0,0,0,0
 3,30003,1,"2021/02/08 23:00:00","2021/02/17 22:59:59",380000,380000,0,0,0,0

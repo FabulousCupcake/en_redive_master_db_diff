@@ -1,3 +1,4 @@
+login_bonus_id,name,login_bonus_type,count_num,start_time,end_time,bg_id,stamp_id,odds_group_id,adv_play_type,count_type
 20010,"Jump Start Login Bonus",2,10,"2021/01/19 13:00:00","2030/01/01 23:59:00",530100,0,0,0,0
 30000,"Login Bonus",3,15,"2016/04/01 15:00:00","2030/01/01 23:59:00",0,0,0,0,0
 40001,"Half Anniversary Login Campaign",4,10,"2021/07/19 13:00:00","2021/08/04 12:59:59",500160,1,0,0,0
