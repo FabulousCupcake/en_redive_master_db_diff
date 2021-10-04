@@ -1,3 +1,4 @@
+unit_id,unit_name,class_id,pre_unit_id,condition_type_1,condition_type_detail_1,condition_id_1,count_1,condition_type_2,condition_type_detail_2,condition_id_2,count_2,condition_type_3,condition_type_detail_3,condition_id_3,count_3,condition_type_4,condition_type_detail_4,condition_id_4,count_4,condition_type_5,condition_type_detail_5,condition_id_5,count_5,release_effect_type
 100101,"Hiyori Harusaki",1,0,1,2,31001,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 100201,"Yui Kusano",1,0,1,2,31002,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 100301,"Rei Shijo",1,0,1,2,31003,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

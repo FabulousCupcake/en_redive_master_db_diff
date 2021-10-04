@@ -1,3 +1,4 @@
+unit_id,promotion_level,hp,atk,magic_str,def,magic_def,physical_critical,magic_critical,wave_hp_recovery,wave_energy_recovery,dodge,physical_penetrate,magic_penetrate,life_steal,hp_recovery_rate,energy_recovery_rate,energy_reduce_rate,accuracy
 100101,2,65.0,16.0,0.0,1.0,0.0,0.0,0.0,75.0,10.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100101,3,185.0,68.0,0.0,3.0,0.0,0.0,0.0,125.0,30.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
 100101,4,420.0,158.0,0.0,7.0,3.0,0.0,0.0,260.0,60.0,4.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

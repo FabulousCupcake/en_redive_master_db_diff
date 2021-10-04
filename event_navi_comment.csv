@@ -1,3 +1,4 @@
+comment_id,where_type,character_id,face_type,character_name,description,voice_id,start_time,end_time,pos_x,pos_y,change_face_time,change_face_type,event_id
 51001,51,108101,1,"Shinobu (Halloween)","",201,"2021/09/24 23:00:00","2021/10/14 22:59:59",-285.0,8.0,1.13,2,10007
 51002,51,108201,1,"Miyako (Halloween)","",101,"2021/09/24 23:00:00","2021/10/14 22:59:59",-285.0,8.0,1.13,2,10007
 51003,51,108101,1,"Shinobu (Halloween)","",202,"2021/09/24 23:00:00","2021/10/14 22:59:59",-285.0,8.0,1.13,2,10007

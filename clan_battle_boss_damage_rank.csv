@@ -1,3 +1,4 @@
+id,damage_rank_id,ranking_from,ranking_to,odds_group_id,reward_type_1,reward_id_1,reward_num_1,reward_type_2,reward_id_2,reward_num_2,reward_type_3,reward_id_3,reward_num_3,reward_type_4,reward_id_4,reward_num_4,reward_type_5,reward_id_5,reward_num_5
 1,1001201,1,1,3100104,2,90006,20,2,20003,5,0,0,0,0,0,0,0,0,0
 2,1001201,2,3,3100103,2,90006,15,2,20003,4,0,0,0,0,0,0,0,0,0
 3,1001201,4,10,3100102,2,90006,10,2,20003,3,0,0,0,0,0,0,0,0,0

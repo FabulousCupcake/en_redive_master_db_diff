@@ -1,3 +1,4 @@
+story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love_level,requirement_id,unlock_quest_id,story_quest_id,reward_type_1,reward_id_1,reward_value_1,reward_type_2,reward_id_2,reward_value_2,reward_type_3,reward_id_3,reward_value_3,start_time,end_time
 1001001,1001,"Hiyori Episode 1","I Scratch Your Back, You Scratch Mine",0,0,0,0,100101,0,0,8,91002,20,0,0,0,0,0,0,"2015/04/01 15:00:00","2030/12/17 14:59:59"
 1001002,1001,"Hiyori Episode 2","A Promise Worth Keeping",0,0,1001001,2,100101,0,0,8,91002,20,0,0,0,0,0,0,"2015/04/01 15:00:00","2030/12/17 14:59:59"
 1001003,1001,"Hiyori Episode 3","An Earnest Desire for Happiness",0,0,1001002,3,100101,0,0,8,91002,20,0,0,0,0,0,0,"2015/04/01 15:00:00","2030/12/17 14:59:59"

@@ -1,3 +1,4 @@
+drop_reward_id,drop_count,reward_type_1,reward_id_1,reward_num_1,odds_1,reward_type_2,reward_id_2,reward_num_2,odds_2,reward_type_3,reward_id_3,reward_num_3,odds_3,reward_type_4,reward_id_4,reward_num_4,odds_4,reward_type_5,reward_id_5,reward_num_5,odds_5
 11001011,1,4,101011,1,54,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0
 11001012,1,4,101281,1,54,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0
 11001013,1,4,101581,1,54,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0

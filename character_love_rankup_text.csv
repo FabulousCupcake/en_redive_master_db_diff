@@ -1,3 +1,4 @@
+chara_id,name,love_level,scale,position_x,position_y,voice_id_1,face_1,serif_1,voice_id_2,face_2,serif_2,voice_id_3,face_3,serif_3
 1001,"Hiyori Harusaki",2,1.4,0,0,0,1,"I'm Hiyori! ♪\nGonna do my very best! ♪",0,1,"Look!\nThere's someone's in trouble!",0,1,"Hey, Mr. Knight.\nLet's help out!"
 1002,"Yui Kusano",2,1.4,0,0,0,1,"I've gotta become strong\nlike the rest of you!",0,1,"I wanna be able to protect\nthe person I love... Um, I mean...",0,1,"Wh-what am I\neven saying?\nAhaha..."
 1003,"Rei Shijo",2,1.4,0,0,0,1,"Why not take up fencing?",0,1,"You need concentration and intuition.",0,1,"I think it will brush up your skills a little."

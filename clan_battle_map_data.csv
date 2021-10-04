@@ -1,3 +1,4 @@
+id,clan_battle_id,map_bg,difficulty,lap_num_from,lap_num_to,clan_battle_boss_group_id,aura_effect,rsl_unlock_lap,phase
 1,1001,710011,1,1,1,1001001,1,1,1
 2,1001,710011,1,2,-1,1001002,2,1,1
 3,1002,710021,1,1,1,1002001,1,1,1

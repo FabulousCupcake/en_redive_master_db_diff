@@ -1,3 +1,4 @@
+enemy_id,unit_id,name,level,rarity,promotion_level,hp,atk,magic_str,def,magic_def,physical_critical,magic_critical,wave_hp_recovery,wave_energy_recovery,dodge,physical_penetrate,magic_penetrate,life_steal,hp_recovery_rate,energy_recovery_rate,energy_reduce_rate,union_burst_level,main_skill_lv_1,main_skill_lv_2,main_skill_lv_3,main_skill_lv_4,main_skill_lv_5,main_skill_lv_6,main_skill_lv_7,main_skill_lv_8,main_skill_lv_9,main_skill_lv_10,ex_skill_lv_1,ex_skill_lv_2,ex_skill_lv_3,ex_skill_lv_4,ex_skill_lv_5,resist_status_id,accuracy,enemy_color
 710000101,600101,"Hiyori's Shadow",51,1,1,11536,1150,0,31,21,10,10,0,0,1,0,0,0,0,30,0,71,71,71,71,1,0,0,0,0,0,0,0,0,0,0,0,200000001,0,0
 710000102,203200,Imp,51,1,1,13553,0,792,35,52,10,10,0,0,1,0,0,0,0,30,0,71,71,71,71,1,0,0,0,0,0,0,0,0,0,0,0,200000001,0,0
 710000103,202500,"Cave Bat",51,1,1,11969,0,600,35,48,10,10,0,0,1,0,0,0,0,30,0,71,71,71,71,1,0,0,0,0,0,0,0,0,0,0,0,200000001,0,0

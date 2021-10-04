@@ -1,3 +1,4 @@
+id,item_type,category,name,max_level,enable_remove,max_possession_num,effect_id_1,shop_start,shop_end,shop_new_disp_end,cost_item_num,shop_open_type,shop_open_id,shop_open_value,sold_price,sort
 1,1,101,"Karin's Table",10,1,1,1,"2015-04-01 14:00:00","","",500,0,0,0,0,900143
 3,5,903,"Landosol Background",1,1,1,0,"2015-04-01 14:00:00","","",-1,0,0,0,0,900141
 4,4,902,"Guildhouse Wall",1,1,1,0,"2015-04-01 14:00:00","","",-1,0,0,0,0,900140

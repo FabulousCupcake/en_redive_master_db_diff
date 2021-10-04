@@ -1,3 +1,4 @@
+area_id,event_id,area_name,map_type,sheet_id,que_id,start_time,end_time,area_disp,map_id,scroll_width,scroll_height,open_tutorial_id,tutorial_param_1,tutorial_param_2,additional_effect
 10001101,10001,"Targum Region",201,bgm_M32,bgm_M32,"2021/02/17 23:00:00","2021/03/06 22:59:59",1,0,0,0,0,0,0,0
 10001201,10001,"Targum Region",201,bgm_M32,bgm_M32,"2021/02/17 23:00:00","2021/03/06 22:59:59",1,0,0,0,0,0,0,0
 10002101,10002,"Macina Region",201,bgm_M98,bgm_M98_2,"2021/03/22 23:00:00","2021/04/11 22:59:59",1,0,0,0,0,0,0,0

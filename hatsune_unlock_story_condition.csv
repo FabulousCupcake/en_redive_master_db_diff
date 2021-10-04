@@ -1,3 +1,4 @@
+story_id,event_id,condition_entry,condition_quest_id,condition_boss_id,condition_mission_id,condition_time
 5001000,10001,1,0,0,0,0
 5001001,10001,0,10001103,0,0,0
 5001002,10001,0,10001105,0,0,0

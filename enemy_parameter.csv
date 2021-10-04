@@ -1,3 +1,4 @@
+enemy_id,unit_id,name,level,rarity,promotion_level,hp,atk,magic_str,def,magic_def,physical_critical,magic_critical,wave_hp_recovery,wave_energy_recovery,dodge,physical_penetrate,magic_penetrate,life_steal,hp_recovery_rate,energy_recovery_rate,energy_reduce_rate,union_burst_level,main_skill_lv_1,main_skill_lv_2,main_skill_lv_3,main_skill_lv_4,main_skill_lv_5,main_skill_lv_6,main_skill_lv_7,main_skill_lv_8,main_skill_lv_9,main_skill_lv_10,ex_skill_lv_1,ex_skill_lv_2,ex_skill_lv_3,ex_skill_lv_4,ex_skill_lv_5,resist_status_id,accuracy
 100000001,202100,Glowshroom,10,1,1,175,33,0,9,3,10,10,0,0,1,0,0,0,0,30,0,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,0,200000001,0
 100000002,201200,Golem,10,1,1,230,14,0,20,10,10,6,0,0,1,0,0,0,0,30,0,10,10,10,10,10,0,0,0,0,0,0,0,0,0,0,0,200000003,0
 101010101,200600,Ratton,1,1,1,154,28,0,3,2,10,10,0,0,1,0,0,0,0,30,0,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,200000001,0

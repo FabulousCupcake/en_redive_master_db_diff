@@ -1,3 +1,4 @@
+boss_id,event_id,condition_quest_id_1,condition_quest_id_2,condition_boss_id_1,condition_boss_id_2,condition_gacha_step,force_unlock_time,release_quest_id_1,release_quest_id_2,release_boss_id_1,release_boss_id_2
 1000101,10001,10001115,0,0,0,0,"2021/02/26 23:00:00",10001201,0,1000102,0
 1000102,10001,0,0,1000101,0,0,0,0,0,0,0
 1000201,10002,10002115,0,0,0,0,"2021/03/31 23:00:00",10002201,0,1000202,0

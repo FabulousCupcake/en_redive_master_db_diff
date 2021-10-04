@@ -1,3 +1,4 @@
+id,discription,type_1,type_2,type_3,type_4
 2001,"Item obtained on day {1} of {0}.",1,2,0,0
 2002,"Item obtained from {0}.",3,0,0,0
 2003,"Item obtained from {0}.",4,0,0,0

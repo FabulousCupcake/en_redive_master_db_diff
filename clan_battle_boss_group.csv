@@ -1,3 +1,4 @@
+clan_battle_boss_group_id,order_num,position_x,position_y,limit_time,scale_ratio,map_position_x,map_position_y,cursor_position,result_boss_position_y,chest_id,fix_reward_id,damage_rank_id,quest_detail_bg_id,quest_detail_bg_position,quest_detail_monster_size,quest_detail_monster_height,battle_report_monster_size,battle_report_monster_height,background,wave_group_id,reward_gold_coefficient,limited_mana,wave_bgm,quest_detail_rehearsal_label_height,last_attack_reward_id,score_coefficient,min_carry_over_time
 1001001,1,-480,-120,90,0.6,0,10,210,250,40004,1001101,1001201,101001,-30,0.8,0,0.7,-30,101001,401010011,0.03,100000,bgm_M64,25,0,1.0,0
 1001001,2,-260,-120,90,0.75,0,10,200,0,40004,1001102,1001202,101001,-30,1.2,0,1.0,0,101001,401010021,0.03,100000,bgm_M64,25,0,1.0,0
 1001001,3,-40,0,90,0.75,0,0,200,100,40004,1001103,1001203,101001,-30,1.1,-50,1.0,-10,101001,401010031,0.03,100000,bgm_M64,25,0,1.1,0

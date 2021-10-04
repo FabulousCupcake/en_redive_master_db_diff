@@ -1,3 +1,4 @@
+event_id,boss_ticket_id,gacha_ticket_id,unit_material_id_1,unit_material_id_2,unit_material_id_3,unit_material_id_4,unit_material_id_5,unit_material_id_6,unit_material_id_7,unit_material_id_8,unit_material_id_9,unit_material_id_10
 10001,60001,60002,31012,31038,0,0,0,0,0,0,0,0
 10002,60011,60012,31020,31004,0,0,0,0,0,0,0,0
 10003,60021,60022,31010,31017,0,0,0,0,0,0,0,0

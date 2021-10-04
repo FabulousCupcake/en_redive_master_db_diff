@@ -1,3 +1,4 @@
+quest_id,dungeon_area_id,floor_num,limit_time,matching_coefficient,reward_image_1,reward_image_2,reward_image_3,reward_coin,chest_id,odds_group_id,background,dungeon_quest_detail_bg_id,dungeon_quest_detail_bg_position,dungeon_quest_detail_monster_size,dungeon_quest_detail_monster_height,wave_bgm_sheet_id_1,wave_bgm_que_id_1
 31001001,31001,1,90,0.4,94002,0,0,0,40001,3100101,100091,100091,0,1.2,0.0,bgm_M06,bgm_M06
 31001002,31001,2,90,0.4,94002,0,0,0,40001,3100101,100092,100092,0,1.2,0.0,bgm_M06,bgm_M06
 31001003,31001,3,90,0.6,94002,90002,0,100,40004,3100102,100101,100101,0,1.2,0.0,bgm_M06,bgm_M06

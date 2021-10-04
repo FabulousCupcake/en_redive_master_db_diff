@@ -1,3 +1,4 @@
+room_item_id,level,item_detail,lvup_trigger_type,lvup_trigger_id,lvup_trigger_value,lvup_trigger_type_2,lvup_trigger_id_2,lvup_trigger_value_2,lvup_item1_type,lvup_item1_id,lvup_item1_num,lvup_time
 1,1,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,10,0,0,0,1,0,1000,5
 1,2,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,20,0,0,0,1,0,2000,30
 1,3,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,30,0,0,0,1,0,3000,60
