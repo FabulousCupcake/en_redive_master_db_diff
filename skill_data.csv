@@ -302,6 +302,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1082003,Ghosty-Go-Round!,1,0,0.55,108200301,108200302,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers the physical and magical attack of the farthest enemy by a moderate amount.",2004
 1082501,Growly-Growl!,0,0,0.0,108250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1082511,Growly-Growl!+,0,0,0.0,108251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1083001,"Deadly Pumpkin Party",1,0,0.0,108300101,108300102,108300103,108300104,0,0,0,0,108300101,108300101,108300101,0,0,0,"Deals small magical damage to all enemies in the front and lowers magical defense by a small amount. Inflicts Curse and Bind.",1008
+1083002,"Lady's Charm",1,0,1.05,108300201,108300202,0,0,0,0,0,0,108300201,0,0,0,0,0,"Deals small magical damage to an enemy directly in front and inflicts Charm.",2009
+1083003,"Halloween Hype",1,0,1.19,108300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Boosts magical attack of all allies in range by a moderate amount.",2003
+1083501,"Lady of Halloween",0,0,0.0,108350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1083511,"Lady of Halloween+",0,0,0.0,108351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -355,6 +360,8 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2054011,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,"Magma Fish",1001
 2055001,"",0,0,3.0,205500101,205500102,205500103,0,0,0,0,0,205500101,205500102,0,0,0,0,sample,1001
 2060001,"",1,0,4.0,206000101,206000102,206000103,206000104,0,0,0,0,206000101,206000101,206000101,0,0,0,"Sealidon skill",1001
+2061001,"",1,0,3.0,206100101,206100102,206100103,0,0,0,0,0,206100101,206100101,0,0,0,0,Wisewand,1001
+2062001,"",0,0,3.0,206200101,206200102,0,0,0,0,0,0,206200101,0,0,0,0,0,Mafiotter,1001
 2063001,"",1,0,5.0,206300101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
@@ -565,6 +572,8 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3050002,"",1,0,1.8,305000201,305000202,0,0,0,0,0,0,0,0,0,0,0,0,"Pudding Skill 1",1001
 3050003,"",1,0,2.7,305000301,305000302,305000303,305000304,0,0,0,0,0,305000302,305000303,0,0,0,"Pudding Skill 2",1001
 3050004,"",1,0,0.0,305000401,305000402,305000403,305000404,0,0,0,0,0,0,0,0,0,0,"Pudding Awakening",1001
+3054001,"",1,0,0.0,305400101,305400102,305400103,0,0,0,0,0,305400101,0,0,0,0,0,"Ice Horn UB",1001
+3054002,"",1,0,3.0,305400201,305400202,305400203,305400204,305400205,0,0,0,305400201,0,0,0,0,0,"Ice Horn Skill 1",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
