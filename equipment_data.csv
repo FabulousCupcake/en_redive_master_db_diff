@@ -179,6 +179,9 @@ equipment_id,equipment_name,description,promotion_level,craft_flg,equipment_enha
 105191,"Reaper Axe","A scythe-like axe infused with the power of the underworld. Wielded by dark beings who preside over death itself, each baneful swing sends another living soul to the ranks of the departed.",5,1,400,24000,64,0.0,120.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0,1.0
 105221,"Xenosphere Rod","A rod imbued with magical energy from another plane. The sheer power it conceals is overwhelming, but only those with great magical ability of their own can unlock its potential.",5,1,120,24000,64,0.0,0.0,100.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0,0.0
 105251,"Pyramour Rod","A rod blessed by a passionate goddess of fire. The light of her love's flames heals not only the wounds of the wielder's allies, but their hearts as well.",5,1,120,24000,64,0.0,0.0,95.0,0.0,4.0,0.0,0.0,120.0,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0.0,0,0.0
+105551,"Millennium Earrings","A pair of earrings bearing magical crystals mined from a thousand-year-old stratum. The vast natural energies they have absorbed over the years provide a powerful magical protection to the wearer.",5,1,210,24000,67,70.0,64.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,10.0
+105581,"Spirit King's Talisman","A pair of earrings blessed by the king of spirits. With protective power vast enough to cover an entire forest, it rejects any and all calamities that might befall the wearer.",5,1,210,24000,67,200.0,0.0,0.0,10.0,6.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+105611,"Poseidon Earrings","A pair of earrings modeled after the trident said to be wielded by the ruler of the sea. The crystal at its center, bluer than the ocean depths, confers enough magic to calm the stormy waves.",5,1,210,24000,67,0.0,0.0,78.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0,0.0
 113011,"Sparkling Sword (Fragment)","Sparkling Sword Fragment.",3,0,4,280,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
 113012,"Dragon Crest Sword (Fragment)","Dragon Crest Sword Fragment.",3,0,4,600,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
 113013,"Feather Blade (Fragment)","Feather Blade Fragment.",3,0,4,800,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
@@ -246,6 +249,9 @@ equipment_id,equipment_name,description,promotion_level,craft_flg,equipment_enha
 115161,"Deepfrost Lance (Fragment)","Deepfrost Lance Fragment.",5,0,4,1200,64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 115221,"Xenosphere Rod (Fragment)","Xenosphere Rod Fragment.",5,0,4,1200,64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 115251,"Pyramour Rod (Fragment)","Pyramour Rod Fragment.",5,0,4,1200,64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+115551,"Millennium Earrings (Fragment)","Millennium Earrings Fragment.",5,0,6,1200,67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+115581,"Spirit King's Talisman (Fragment)","Spirit King's Talisman Fragment.",5,0,6,1200,67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+115611,"Poseidon Earrings (Fragment)","Poseidon Earrings Fragment.",5,0,6,1200,67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 122282,"Light Plate Armor Blueprint","Light Plate Armor Blueprint.",2,0,4,64,14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
 122311,"Scalemail Blueprint","Scalemail Blueprint.",2,0,4,32,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
 122312,"Supreme Metal Blade Blueprint","Supreme Metal Blade Blueprint.",2,0,4,64,14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0

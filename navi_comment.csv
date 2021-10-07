@@ -20,3 +20,9 @@ comment_id,where_type,character_id,face_type,character_name,description,voice_id
 17004,25,106001,1,Karyl,"Looks like you can\nsave Battle Records\nof your favorite\npractice runs.",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363.0,0.0,0.0,1,0
 17005,25,105901,1,Kokkoro,"My lord, your activities\nin this Clan Battle have\nbeen recorded. You can now\nreview them for future battles.",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363.0,0.0,0.0,1,0
 17006,25,105801,1,Pecorine,"You can go over your\nBattle Record for this\nClan Battle!\nLet me have a look too!",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363.0,0.0,0.0,1,0
+18001,18,190801,1,Karin,"Hello there!\nIn this section, you can choose\nnew music to play on your home\nscreen or in the guildhouse!",1,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363.0,0.0,0.0,1,0
+18002,18,190801,1,Karin,"If you're looking to change the\nBGM or buy new tracks, you've\ncome to the right place! We have\na wide selection available!",2,"2015/12/17 15:00:00","2030/12/17 14:59:59",-363.0,0.0,0.0,1,0
+19001,19,190801,1,Karin,"You can choose all sorts of tracks\nto play on your home screen or in\nthe guildhouse! Why don't you\nshow me some of your favorites?",3,"2015/12/17 15:00:00","2030/12/17 14:59:59",-470.0,0.0,0.0,1,0
+19002,19,190801,1,Karin,"This is where you can change\nyour background music settings!\nWhat kind of track are you after?\nHaha, I can't wait to hear it!",4,"2015/12/17 15:00:00","2030/12/17 14:59:59",-470.0,0.0,0.0,1,0
+20001,20,190801,1,Karin,"This is where you can purchase\nnew music tracks to use!\nYou can listen to a sample first,\nso feel free to take your time.",5,"2015/12/17 15:00:00","2030/12/17 14:59:59",-470.0,0.0,0.0,1,0
+20002,20,190801,1,Karin,"Always a pleasure to see you!\nWelcome to the music store.\nThere are so many lovely tracks,\nit can be hard to choose, can't it?",6,"2015/12/17 15:00:00","2030/12/17 14:59:59",-470.0,0.0,0.0,1,0
