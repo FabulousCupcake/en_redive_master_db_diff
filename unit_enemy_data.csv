@@ -202,6 +202,7 @@ unit_id,unit_name,prefab_id,motion_type,se_type,move_speed,search_area_width,atk
 605901,"Kokkoro's Shadow",105901,6,6,450,500,1,2.34,0,1,"A peculiar monster bearing a striking resemblance to Kokkoro."
 606001,"Karyl's Shadow",106001,7,7,450,750,2,2.07,0,1,"A peculiar monster bearing a striking resemblance to Karyl."
 606301,"Arisa's Shadow",106301,8,8,450,625,1,1.97,0,1,"A peculiar monster bearing a striking resemblance to Arisa."
+607101,"Christina's Shadow",107101,10,4,450,290,1,2.0,0,1,"A peculiar monster bearing a striking resemblance to Christina."
 607501,"Pecorine (Summer)'s Shadow",107501,5,5,450,235,1,2.125,0,1,"A peculiar monster bearing a striking resemblance to Pecorine (Summer)."
 607601,"Kokkoro (Summer)'s Shadow",107601,6,6,450,535,1,2.34,0,1,"A peculiar monster bearing a striking resemblance to Kokkoro (Summer)."
 607701,"Suzume (Summer)'s Shadow",107701,5,5,450,775,1,2.125,0,1,"A peculiar monster bearing a striking resemblance to Suzume (Summer)."
