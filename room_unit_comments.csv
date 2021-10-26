@@ -2474,3 +2474,25 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2646,107101,3,5,1,0,1,"Hah! You call this heat?\nIt can hardly compare to hell's inferno!",0
 2648,107101,3,7,1,0,1,"This flavor is impressive. Almost as good as my own cooking!",0
 2649,107101,3,8,1,0,1,"Ten ways to win a man's heart without fail?\nBah, ridiculous!",0
+2651,105601,1,1,1,0,1,"Think I'll head to the usual fishing spot tomorrow. Might be worth inviting him, too.",0
+2652,105601,1,2,1,0,1,"Woo! Nothing like knocking back a drink after some good exercise.",0
+2653,105601,1,3,1,0,1,"Weather this good makes it hard to choose between fishing and taking a nap.",0
+2654,105601,1,4,1,0,1,"There really is something special about fishing up a big catch.",0
+2655,105601,1,5,1,0,1,"*yawn* Might be time for a nap.",0
+2656,105601,1,101,4,0,1,"Hehe. He's got a lot more guts than you'd expect.",0
+2657,105601,1,102,8,0,1,"I wonder what sort of fish'll help him grow up big and strong...",0
+2658,105601,2,1,1,0,1,"It's all fun and games until you call me Boss Lady. Then you're in for it.",0
+2659,105601,2,2,1,0,1,"The trick behind fishing? It's all about experience. How about we head out now?",0
+2660,105601,2,3,1,0,1,"You need a hand with something? Then leave it to me.",0
+2661,105601,2,4,1,0,1,"Lend me a hand if we come across someone in need of help again. I'm counting on you.",0
+2662,105601,2,101,4,0,1,"Found yourself in a bit of trouble? Guess I'll have to leave that nap for later.",0
+2663,105601,2,102,8,0,1,"Aww! You're such a good, kind kid! You deserve all the praise!",0
+2664,105601,2,1,1,1,1,"Morning! A fishmonger's got to be up nice and early, you know.",0
+2665,105601,2,2,1,2,1,"We got some fish in this morning, so how about you have some of it for lunch?",0
+2666,105601,2,3,1,3,1,"The moon's just perfect for fishing tonight. I've got a good feeling about this.",0
+2668,105601,3,2,1,0,1,"I wish I could sit on this and fish the day away.",0
+2669,105601,3,3,1,0,1,"There, there... ♪ Oops. I should stop hugging anything cute the second I notice it.",0
+2670,105601,3,4,1,0,1,"Working with fish makes cats approach me, but maybe this can help deal with the smell.",0
+2671,105601,3,5,1,0,1,"Fishing in the winter's all well and good, but I wish it wasn't so cold.",0
+2673,105601,3,7,1,0,1,"Can't fish on an empty stomach. Which means it's time to eat.",0
+2674,105601,3,8,1,0,1,"Huh... Never knew there was a fish like this. Wouldn't mind catching it one of these days.",0

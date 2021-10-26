@@ -237,6 +237,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1055001,"Violetshock Flare",0,0,0.0,105500101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1001
 1055002,"Curely Cheer",0,0,1.23,105500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to physical attack and physical defense of all allies.",1003
 1055003,"Bravely Cheer",1,0,1.23,105500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magic attack and magic defense of all allies.",1003
+1056001,"Origin Strike: Severing Moon",1,0,0.0,105600101,105600102,0,0,0,0,0,0,105600101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and lowers their physical defense by a large amount.",1001
+1056002,"First Strike: Reticence",1,0,1.125,105600201,105600202,105600203,105600204,0,0,0,0,0,0,105600203,0,0,0,"Taunts all enemies and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range and knocks them back slightly.",2012
+1056003,"Peerless Stance",1,0,1.125,105600301,105600302,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers own HP by a small amount and boosts physical defense by a moderate amount.",2003
+1056501,"True Enlightenment",0,0,0.0,105650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1056511,"True Enlightenment+",0,0,0.0,105651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1057001,"Tempest Blade",1,0,0.0,105700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
 1057002,"Wide Blade",1,0,1.125,105700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1057003,"Weapon Burst",1,0,1.125,105700301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers own TP by a moderate amount.",2006
@@ -584,6 +589,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3050004,"",1,0,0.0,305000401,305000402,305000403,305000404,0,0,0,0,0,0,0,0,0,0,"Pudding Awakening",1001
 3051001,"",0,0,2.0,305100101,305100102,305100103,305100104,0,0,0,0,305100101,0,0,0,0,0,"Mega Lapahn UB",1001
 3051002,"",0,0,2.0,305100201,305100202,0,0,0,0,0,0,0,0,0,0,0,0,"Mega Lapahn Skill 1",1001
+3052001,"",1,0,0.0,305200101,305200102,0,0,0,0,0,0,0,0,0,0,0,0,"Golem Union Burst",1001
+3052002,"",1,0,1.8,305200201,305200202,0,0,0,0,0,0,0,0,0,0,0,0,"Golem Skill 1",1001
+3052003,"",1,0,4.5,305200301,305200302,305200303,305200304,0,0,0,0,305200301,305200301,305200303,0,0,0,"Golem Skill 2",1001
+3052004,"",1,0,0.0,305200401,305200402,305200403,305200404,0,0,0,0,0,0,0,0,0,0,"Golem Awakening",1001
 3054001,"",1,0,0.0,305400101,305400102,305400103,0,0,0,0,0,305400101,0,0,0,0,0,"Ice Horn UB",1001
 3054002,"",1,0,3.0,305400201,305400202,305400203,305400204,305400205,0,0,0,305400201,0,0,0,0,0,"Ice Horn Skill 1",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
