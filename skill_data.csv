@@ -59,6 +59,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1012003,"Star☆Light",1,0,1.4,101200301,101200302,0,0,0,0,0,0,101200301,0,0,0,0,0,"Deals small magical damage to the enemy with the highest physical attack and inflicts Stun.",2002
 1012501,"Happy☆Energy",0,0,0.0,101250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1012511,"Happy☆Energy+",0,0,0.0,101251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1013001,"Nanaka Infinite Blast",1,0,0.0,101300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to the enemy with the highest remaining HP.",1002
+1013002,"Stardust Magic",1,0,1.4,101300201,101300202,0,0,0,0,0,0,101300201,0,0,0,0,0,"Lowers magical defense of all enemies in range by a small amount.",2004
+1013003,"Energy Impact",1,0,1.4,101300301,101300302,0,0,0,0,0,0,101300301,0,0,0,0,0,"Deals moderate magical damage to the enemy with the highest remaining HP and inflicts Stun.",2002
+1013501,"Awakening Mode",0,0,0.0,101350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1013511,"Awakening Mode+",0,0,0.0,101351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1015001,"Sister's Blessing",1,0,0.0,101500101,101500102,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies by a moderate amount. Small boost to their magical defense.",1005
 1015002,"Divine Force",1,0,1.17,101500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to magical attack of all nearby allies.",2003
 1015003,"Caring Cure",1,0,1.6,101500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grants HP regen to the foremost ally.",2005
@@ -355,6 +360,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2035001,"",0,0,3.0,203500101,203500102,0,0,0,0,0,0,203500101,0,0,0,0,0,sample,1001
 2035011,"",0,0,3.0,203501101,203501102,0,0,0,0,0,0,203501101,0,0,0,0,0,sample,1001
 2037001,"",0,0,3.0,203700101,203700102,0,0,0,0,0,0,203700101,0,0,0,0,0,sample,1001
+2037021,"",0,0,3.0,203702101,203702102,203702103,0,0,0,0,0,203702101,203702102,0,0,0,0,sample,1001
 2042001,"",1,0,5.0,204200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2043001,"",1,0,3.0,204300101,204300102,0,0,0,0,0,0,204300101,0,0,0,0,0,sample,1001
 2044001,"",1,0,3.0,204400101,204400102,0,0,0,0,0,0,204400101,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
@@ -599,6 +605,8 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3053004,"",0,0,0.0,305300401,305300402,305300403,0,0,0,0,0,0,0,0,0,0,0,"High Garoog Awakening",1001
 3054001,"",1,0,0.0,305400101,305400102,305400103,0,0,0,0,0,305400101,0,0,0,0,0,"Ice Horn UB",1001
 3054002,"",1,0,3.0,305400201,305400202,305400203,305400204,305400205,0,0,0,305400201,0,0,0,0,0,"Ice Horn Skill 1",1001
+3061001,"",0,0,2.0,306100101,306100102,0,0,0,0,0,0,306100101,0,0,0,0,0,"Jackal Thief: Union Burst",1001
+3061002,"",0,0,2.0,306100201,306100202,306100203,306100204,0,0,0,0,306100201,306100201,0,0,0,0,"Jackal Thief: Skill",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
