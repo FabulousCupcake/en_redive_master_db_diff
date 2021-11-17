@@ -7,3 +7,4 @@ course_id,event_id,name,map_id,sheet_id,que_id,start_area_id,end_area_id
 10006,10006,"Landosol City",10006,bgm_M128,bgm_M128,10006101,10006101
 10007,10007,"Landosol Vicinity",10007,bgm_M135,bgm_M135,10007101,10007101
 10008,10008,"Landosol Vicinity",10008,bgm_M121,bgm_M121,10008101,10008101
+10009,10009,Holiday,10009,bgm_M171,bgm_M171,10009101,10009101

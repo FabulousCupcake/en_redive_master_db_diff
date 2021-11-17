@@ -322,6 +322,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1083003,"Halloween Hype",1,0,1.19,108300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Boosts magical attack of all allies in range by a moderate amount.",2003
 1083501,"Lady of Halloween",0,0,0.0,108350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1083511,"Lady of Halloween+",0,0,0.0,108351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1084001,"Sylphide Carol",1,0,0.0,108400101,108400102,108400103,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Summons three spirits directly in front of oneself.",1017
+1084002,"Ascension Waltz",1,0,1.05,108400201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to the physical attack of the ally with the highest physical attack.",2003
+1084003,"Guardian Melody",1,0,1.19,108400301,108400302,0,0,0,0,0,0,108400301,0,0,0,0,0,"Moderate boost to the physical defense of all allies in range, and recovers their TP by a small amount.",2003
+1084501,"Gifted Anthem",0,0,0.0,108450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1084511,"Gifted Anthem+",0,0,0.0,108451101,108451102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
+1085001,"Winter Chimes",1,0,0.0,108500101,108500102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to all allies' magical defense. Deploys a barrier around oneself that absorbs magical damage.",1003
+1085002,"Jingling Cheer",1,0,1.05,108500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rings a bell to massively boost the physical defense of all allies in range. This effect continues for a set time or until attacked.",2003
+1085003,"Healing Bell",1,0,1.19,108500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a field that recovers HP of all nearby allies by a small amount.",2016
+1085501,"Saint Etoile",0,0,0.0,108550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1085511,"Saint Etoile+",0,0,0.0,108551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -375,6 +385,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2054001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
 2054011,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,"Magma Fish",1001
 2055001,"",0,0,3.0,205500101,205500102,205500103,0,0,0,0,0,205500101,205500102,0,0,0,0,sample,1001
+2058001,"",1,0,3.0,205800101,0,0,0,0,0,0,0,0,0,0,0,0,0,Mini-Foggy,1001
+2058011,"",1,0,3.0,205801101,205801102,205801103,0,0,0,0,0,205801101,205801102,0,0,0,0,Mini-Foggy,1001
+2058012,"",1,0,3.0,205801201,205801202,0,0,0,0,0,0,0,0,0,0,0,0,Mini-Foggy,1001
+2058021,"",1,0,3.0,205802101,0,0,0,0,0,0,0,0,0,0,0,0,0,Mini-Foggy,1001
 2060001,"",1,0,4.0,206000101,206000102,206000103,206000104,0,0,0,0,206000101,206000101,206000101,0,0,0,"Sealidon skill",1001
 2061001,"",1,0,3.0,206100101,206100102,206100103,0,0,0,0,0,206100101,206100101,0,0,0,0,Wisewand,1001
 2062001,"",0,0,3.0,206200101,206200102,0,0,0,0,0,0,206200101,0,0,0,0,0,Mafiotter,1001
@@ -605,6 +619,15 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3053004,"",0,0,0.0,305300401,305300402,305300403,0,0,0,0,0,0,0,0,0,0,0,"High Garoog Awakening",1001
 3054001,"",1,0,0.0,305400101,305400102,305400103,0,0,0,0,0,305400101,0,0,0,0,0,"Ice Horn UB",1001
 3054002,"",1,0,3.0,305400201,305400202,305400203,305400204,305400205,0,0,0,305400201,0,0,0,0,0,"Ice Horn Skill 1",1001
+3055001,"",1,0,0.0,305500101,305500102,305500103,0,0,0,0,0,305500101,305500101,0,0,0,0,"Foggy Union Burst",1001
+3055002,"",1,0,1.5,305500201,305500202,0,0,0,0,0,0,0,0,0,0,0,0,"Foggy Skill 1",1001
+3055003,"",1,0,1.5,305500301,305500302,0,0,0,0,0,0,0,0,0,0,0,0,"Foggy Skill 2",1001
+3055004,"",1,0,0.0,305500401,305500402,305500403,305500404,0,0,0,0,0,0,0,0,0,0,"Foggy Awakening",1001
+3055005,"",1,0,4.0,305500501,305500502,0,0,0,0,0,0,305500501,0,0,0,0,0,"Foggy Skill 3",1001
+3055006,"",1,0,1.5,305500601,305500602,0,0,0,0,0,0,0,0,0,0,0,0,"Foggy Skill 4",1001
+3055007,"",1,0,1.5,305500701,305500702,0,0,0,0,0,0,0,0,0,0,0,0,"Foggy Skill 5",1001
+3055008,"",1,0,1.5,305500801,305500802,0,0,0,0,0,0,0,0,0,0,0,0,"Foggy Skill 6",1001
+3055009,"",1,0,0.0,305500901,305500902,305500903,305500904,0,0,0,0,0,0,0,0,0,0,"Foggy Awakening",1001
 3057001,"",0,0,2.0,305700101,305700102,305700103,0,0,0,0,0,0,0,0,0,0,0,"Goblin Brave UB",1001
 3061001,"",0,0,2.0,306100101,306100102,0,0,0,0,0,0,306100101,0,0,0,0,0,"Jackal Thief: Union Burst",1001
 3061002,"",0,0,2.0,306100201,306100202,306100203,306100204,0,0,0,0,306100201,306100201,0,0,0,0,"Jackal Thief: Skill",1001
