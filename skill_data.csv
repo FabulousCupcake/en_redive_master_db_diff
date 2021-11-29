@@ -2,16 +2,19 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1001001,"Hiyori Rush",0,0,0.0,100100101,100100102,100100103,0,0,0,0,0,100100102,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and deals moderate physical damage to all enemies in a small radius around it.",1001
 1001002,"Kitty Kapow",0,0,1.125,100100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1001003,"Kitty Combo",0,0,1.295,100100301,100100302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front. Boosts own physical attack by a moderate amount.",2001
+1001012,"Kitty Kapow+",0,0,1.125,100101201,100101202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and deals small physical damage to all enemies in a small radius around it.",2001
 1001501,"Paw Power",0,0,0.0,100150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1001511,"Paw Power+",0,0,0.0,100151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1002001,"Group Heal",1,0,0.0,100200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers a moderate amount of HP for all allies.",1005
 1002002,"Blooming Blast",1,0,1.6,100200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1002003,"Flower Guard",1,0,1.46,100200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to physical defense of all allies.",2003
+1002012,"Blooming Blast+",1,0,1.6,100201201,100201202,0,0,0,0,0,0,100201201,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front and lowers its physical attack by a moderate amount.",2002
 1002501,"Floral Aura",0,0,0.0,100250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1002511,"Floral Aura+",0,0,0.0,100251101,100251102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
 1003001,"Hurricane Slash",0,0,0.0,100300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
 1003002,"Wind Thrust",0,0,0.955,100300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1003003,"Counter Slash",0,0,1.3275,100300301,100300302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Boost to damage dealt based on the damage taken while in pre-attack stance.",2001
+1003012,"Wind Thrust+",0,0,0.955,100301201,100301202,0,0,0,0,0,0,100301201,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount.",2001
 1003501,"Rapid Riposte",0,0,0.0,100350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1003511,"Rapid Riposte+",0,0,0.0,100351101,100351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to max HP at start of battle.",3001
 1004001,"Trick Bomber",0,0,0.0,100400101,100400102,0,0,0,0,0,0,100400101,0,0,0,0,0,"Deals moderate physical damage to enemies in a radius around the 2nd closest enemy.",1001
@@ -92,6 +95,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1021001,"Fearful Bell Bash",0,0,0.0,102100101,102100102,0,0,0,0,0,0,102100101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun for a long period.",1018
 1021002,"Bravery Bell",0,0,1.375,102100201,102100202,0,0,0,0,0,0,102100201,0,0,0,0,0,"Small boost to physical and magical defense of all nearby allies.",2003
 1021003,"Bell Ringer",1,0,1.375,102100301,102100302,0,0,0,0,0,0,102100301,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Stun.",2018
+1021012,"Bravery Bell+",0,0,1.375,102101201,102101202,102101203,0,0,0,0,0,102101201,102101201,0,0,0,0,"Moderate boost to physical and magical defense of all allies, and recovers their TP by a small amount.",2003
 1021501,"Brilliant Resolve",0,0,0.0,102150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own max HP at start of battle.",3005
 1021511,"Brilliant Resolve+",0,0,0.0,102151101,102151102,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own max HP and small boost to magical defense at start of battle.",3005
 1022001,"Lightning Javelin",0,0,0.0,102200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in range.",1002
@@ -122,11 +126,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1028001,"Phoenix Sword",1,0,0.0,102800101,102800102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. The lower Saren's HP, the greater the damage dealt.",1001
 1028002,"Fiery Slash",1,0,1.45,102800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to all enemies in range.",2001
 1028003,"Elegant Ovation",0,0,1.25,102800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the TP of the closest party member by a moderate amount.",2006
+1028012,"Fiery Slash+",1,0,1.45,102801201,102801202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. The lower Saren's HP, the greater the damage dealt.",2001
 1028501,"Aristocratic Spirit",0,0,0.0,102850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1028511,"Aristocratic Spirit+",0,0,0.0,102851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1029001,"Live on Stage",0,0,0.0,102900101,102900102,102900103,102900104,0,0,0,0,0,0,0,0,0,0,"[Taunt] Taunts all enemies. Moderate boost to own physical and magical defense. Small boost to physical attack of all allies.",1003
 1029002,"Glamorous Slice",1,0,1.25,102900201,102900202,0,0,0,0,0,0,102900201,0,0,0,0,0,"Deals small physical damage and inflicts Stun to all enemies in range.",2018
 1029003,"Idol's Encouragement",1,0,1.65,102900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all nearby allies by a small amount.",2005
+1029012,"Glamorous Slice+",1,0,1.25,102901201,102901202,102901203,0,0,0,0,0,102901201,102901201,0,0,0,0,"Deals moderate physical damage to all enemies in range, inflicts Stun, and lowers their physical attack by a small amount.",2018
 1029501,"Radiant Smile",0,0,0.0,102950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1029511,"Radiant Smile+",0,0,0.0,102951101,102951102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to magical defense at start of battle.",3002
 1030001,"Ninpo: Scorching Hell",1,0,0.0,103000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",1001
@@ -253,18 +259,21 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1057501,"Tornado Blade",0,0,0.0,105750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1057511,"Tornado Blade+",0,0,0.0,105751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1058001,"Princess Strike",0,0,0.0,105800101,105800102,105800103,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Moderate boost to own physical and magical defense.",1001
-1058002,Lunchtime,0,0,0.21,105800201,105800202,0,0,0,0,0,0,0,0,0,0,0,0,"Increases own magical defense by a small amount and recovers own HP by a small amount.",2003
+1058002,Lunchtime,0,0,0.21,105800201,105800202,0,0,0,0,0,0,0,0,0,0,0,0,"Increases own magic defense by a small amount and recovers own HP by a small amount.",2003
 1058003,"Falling Slash",0,0,1.21,105800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1058012,Lunchtime+,0,0,0.21,105801201,105801202,105801203,0,0,0,0,0,0,0,0,0,0,0,"Increases own magic defense by a small amount and recovers own HP by a small amount. Deploys a barrier around oneself that absorbs physical and magic damage.",2003
 1058501,"Princess Power",0,0,0.0,105850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own max HP at start of battle.",3005
 1058511,"Princess Power+",0,0,0.0,105851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own max HP at start of battle.",3005
 1059001,Aurora,1,0,0.0,105900101,105900102,105900103,0,0,0,0,0,105900101,0,0,0,0,0,"Increases physical and magical attack power of all allies by a small amount, and recovers own HP by a small amount.",1005
 1059002,Tri-Slash,0,0,0.66,105900201,105900202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1059003,"Speed Boost",0,0,1.4,105900301,105900302,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to action speed and physical attack of all allies.",2003
+1059012,Tri-Slash+,0,0,0.66,105901201,105901202,105901203,105901204,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Moderate boost to own physical attack and small boost to own TP Boost.",2001
 1059501,"Spiritual Epiphany",0,0,0.0,105950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1059511,"Spiritual Epiphany+",0,0,0.0,105951101,105951102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to magical defense at start of battle.",3001
 1060001,"Grim Burst",1,0,0.0,106000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies.",1002
 1060002,"Lightning Sphere",1,0,1.27,106000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1060003,"Reduce Armor",1,0,0.83,106000301,106000302,0,0,0,0,0,0,106000301,0,0,0,0,0,"Lowers physical and magical defense of an enemy directly in front by a small amount.",2004
+1060012,"Lightning Sphere+",1,0,1.27,106001201,106001202,106001203,106001204,0,0,0,0,0,106001202,106001203,0,0,0,"Deals moderate magical damage to an enemy directly in front and small magical damage to enemies around it. Lowers magical defense of all targets by a small amount.",2002
 1060501,"Dark Eclipse",0,0,0.0,106050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1060511,"Dark Eclipse+",0,0,0.0,106051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1063001,"I'll Fill You With Arrows!",1,0,0.0,106300101,106300102,106300103,106300104,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Boost to damage dealt if this skill has already been used.",1001

@@ -62,3 +62,5 @@ gacha_id,gacha_name,description,gacha_detail,gacha_cost_type,price,free_gacha_ty
 40001,"Half Anniversary Gacha","Double rates for 3★ characters!\nBoosted rates for the limited character Tamaki!",2,2,150,0,0,0,50,40001,41001,1,400001,"2021/08/01 23:00:00","2021/08/18 22:59:59",24001,0,13,0,0,0,0,0
 50018,"Princess Gala","Double rates for 3★ characters!\nFeaturing the limited character Christina!",2,2,150,0,0,0,50,50018,51018,1,500018,"2021/10/25 23:00:00","2021/10/28 22:59:59",24001,0,18,0,0,0,0,0
 60001,"Jump Start Gacha","The Jump Start Gacha is here!",2,2,1500,0,0,0,50,60021,61021,1,600001,"2021/01/19 23:00:00","2030/02/28 14:59:59",24001,0,9999,0,250000,0,0,0
+70001,"Guaranteed 3★ Gacha","At least one 3★ character guaranteed!",2,2,1500,0,0,0,50,70001,71001,1,700001,"2021/12/05 23:00:00","2021/12/07 22:59:59",24001,70001,21,0,0,0,0,0
+70002,"Guaranteed 3★ Gacha","At least one 3★ character guaranteed!",2,2,1500,0,0,0,50,70002,71002,1,700001,"2021/12/07 23:00:00","2021/12/12 22:59:59",24001,70001,0,0,0,0,0,0

@@ -64,7 +64,7 @@ unit_id,unit_name,prefab_id,motion_type,se_type,move_speed,search_area_width,atk
 204400,"Little Devil",204400,0,0,270,750,2,3.5,0,0,"[Magic] Mid-ranged attack.\nA baby devil that attacks wildly\nwith newly learned magic."
 204500,"Hammer Crab",204500,0,0,270,200,1,2.5,0,0,"[Physical] Short-ranged attack.\nA crab-like monster with large claws and a tough shell.\nIt can go up against opponents of any size."
 204600,"Magic Manta",204600,0,0,270,1080,2,3.5,0,0,"[Magic] Area attack.\nA manta ray-like monster that skillfully hunts using supersonic waves\nemitted from the stone on its head."
-204700,"Leafy Boar",204700,0,0,270,200,1,4.0,0,0,"[Physical] Short-ranged attack.\nA large boar enveloped by an armor of tough leaves\that are painful to the touch. However, its armor is still just leaves. It is weak against magic."
+204700,"Leafy Boar",204700,0,0,270,200,1,4.0,0,0,"[Physical] Short-ranged attack.\nA large boar enveloped by an armor of tough leaves that are painful to the touch. However, its armor is still just leaves. It is weak against magic."
 204701,"Sand Boar",204701,0,0,270,200,1,4.0,0,0,"[Physical] Short-ranged attack.\nSurrounded by an armor of sand, proof of a warrior\nthat is not afraid to throw away its life.\nHowever, its armor is still just sand. It is weak against magic."
 204702,"Wild Boar",204702,0,0,270,170,1,4.0,0,0,"[Physical] Short-ranged attack.\nA massive boar that roams the hotlands. Stubbornly attacking magma rocks has honed its tusks to penetrate any armor."
 204800,"Ruins Doll",204800,0,0,270,150,1,1.8,0,0,"[Physical] Short-ranged attack.\nAn ancient automaton designed to support Ikt Galadion. With no will of its own, it fights relentlessly until its mechanisms are entirely demolished."
