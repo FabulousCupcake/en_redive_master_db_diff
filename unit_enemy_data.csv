@@ -12,6 +12,7 @@ unit_id,unit_name,prefab_id,motion_type,se_type,move_speed,search_area_width,atk
 200801,Mookle,200801,0,15,270,1080,1,3.5,0,0,"[Physical] Long-ranged attack.\nA snowy mountain spirit that uses chunks of ice\nas both food and weapon."
 200900,Stamp,200900,0,15,270,200,1,2.5,0,0,"[Physical] Front / Short-ranged\nA tree monster that wields its\nsupple limbs like whips."
 200901,"Twisted Acacia",200901,0,15,270,200,1,2.5,0,0,"[Physical] Short-ranged attack.\nA tree-like monster that uses its\ntwisted branches to drag\nadventurers deeper into the\nforest."
+200902,Treant,200902,0,15,270,200,1,0.5,0,0,"[Physical] Mid-ranged attack.\nA rotten tree monster that expertly extends its tendrils to attack its prey where it hurts the most."
 201000,"Flaming Skulls",201000,0,17,270,1080,2,3.0,0,0,"[Magic] Mid-ranged attack.\nAn accumulation of grudges surrounded by flames of hell\nthat attacks the living."
 201100,Kobold,201100,0,15,270,650,1,3.5,0,0,"[Physical] Mid-ranged attack.\nA wolven creature that wields\nbones bound together like a\nboomerang."
 201101,"Kobold Assassin",201101,0,15,270,650,1,0.5,0,0,"[Physical] Mid-ranged attack.\nA canine monster that toys with its enemies, evading them with nimble steps, then hurls deadly knives as soon as they show weakness."
