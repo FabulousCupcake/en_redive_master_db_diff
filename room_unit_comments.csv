@@ -2558,6 +2558,8 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2742,108401,3,5,1,0,1,"I want my songs to light the way ahead, just like this does.",0
 2744,108401,3,7,1,0,1,"Eating well is an important part of keeping my throat nice and healthy.",0
 2745,108401,3,8,1,0,1,"Stories share a similar creative process to songs, so there's plenty of hints to find while reading them.",0
+2747,108401,3,14,1,0,1,"I never expected the drawings to pop out of the book. Is there a spirit residing within, perhaps?",0
+2748,108401,3,15,1,0,1,"O-oh no, it's so adorable. Do you mind if I touch it? ♪",0
 2749,108501,1,1,1,0,1,"Just because it's the holidays doesn't mean I can slack off on my rehearsals!",0
 2750,108501,1,2,1,0,1,"Waugh... Getting everything ready for the holidays is taking forever...",0
 2751,108501,1,3,1,0,1,"I need to make sure Ayane doesn't try to snatch some food without telling anyone.",0
@@ -2580,3 +2582,29 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2769,108501,3,5,1,0,1,"It's so comfy. I just want to stay here forever. ♪",0
 2771,108501,3,7,1,0,1,"*munch* This might be even more delicious than traditional holiday meals. ♪",0
 2772,108501,3,8,1,0,1,"Wow. I never knew there were this many holiday-themed plays...",0
+2774,108501,3,14,1,0,1,"Wow! It's like I'm really watching a play! ♪",0
+2775,108501,3,15,1,0,1,"How adorable! I'd love to use it as a practice partner for my acting. ♪",0
+2776,108601,1,1,1,0,1,"Sweet, delicious cake! Huge, juicy turkey! And it's all mine! ♪",0
+2777,108601,1,2,1,0,1,"I wish this holiday came around every day. ♪",0
+2778,108601,1,3,1,0,1,"Presents? Check. Delicious food? Check. This holiday season really is the best. ♪",0
+2779,108601,1,4,1,0,1,"And now for Pukichi to show us a special holiday trick! ""Don't put me on the spot like that!""",0
+2780,108601,1,5,1,0,1,"Did you get fatter, Pukichi? You feel heavier than usual. ""Blame the outfit, not me!""",0
+2781,108601,1,101,4,0,1,"This holiday's even more fun with you around. ♪",0
+2782,108601,1,102,8,0,1,"I dunno why, but I get really flustered whenever I hug him.",0
+2783,108601,2,1,1,0,1,"Happy holidays! Feel free to give any presents you've got to me. ♪",0
+2784,108601,2,2,1,0,1,"Aren't these bear ears adorable? Now me and Pukichi have matching looks. ♪",0
+2785,108601,2,3,1,0,1,"Y'know, I'd just love to eat a big, sweet cake right about now... ♪",0
+2786,108601,2,4,1,0,1,"You'd be surprised at how snug Pukichi is in his holiday outfit! Feel free to give him a touch, if you want.",0
+2787,108601,2,101,4,0,1,"Ehehe. Your hands are just so big and warm. It's great.",0
+2788,108601,2,102,8,0,1,"I hope he spoils me again next year as well. ♪",0
+2789,108601,2,1,1,1,1,"Huh? Where's my cake...? ""You're still half-asleep, kid.""",0
+2790,108601,2,2,1,2,1,"I wanna a nice, big turkey for lunch. ♪ ""You'll have to wait until dinner.""",0
+2791,108601,2,3,1,3,1,"It's time for sleep, kid. I wanna wait until Santa comes...",0
+2793,108601,3,2,1,0,1,"Oh gosh, it's so soft and comfy! Pukichi! You've got real competition here!",0
+2794,108601,3,3,1,0,1,"Oh wow! It's so cute! ""A rival appears!""",0
+2795,108601,3,4,1,0,1,"What a nice smell... Oh! I should try moving this onto Pukichi... ""I'm no scent sachet, kid.""",0
+2796,108601,3,5,1,0,1,"It's so nice and warm! Ehehe. I'll warm you up too, Pukichi.",0
+2798,108601,3,7,1,0,1,"Pukichi! This is super delicious! ♪ ""Don't eat too much now, you hear?""",0
+2799,108601,3,8,1,0,1,"O-of course I can read this. I'm a grown-up, after all... ""Don't push yourself, kiddo.""",0
+2801,108601,3,14,1,0,1,"Pictures jumping out of a book, huh? I could pull some good pranks if I made that work with Pukichi. ♪",0
+2802,108601,3,15,1,0,1,"I-It's really cute, yeah... But Santa Pukichi's even cuter! ♪",0
