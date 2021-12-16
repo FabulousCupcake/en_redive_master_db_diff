@@ -346,6 +346,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1086003,"Pukichi Rush",1,0,1.19,108600301,108600302,0,0,0,0,0,0,108600301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and knocks them back slightly.",2001
 1086501,"Holy Night Slugger",0,0,0.0,108650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1086511,"Holy Night Slugger+",0,0,0.0,108651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1088001,"Sunrise Protection",1,0,0.0,108800101,108800102,108800103,0,0,0,0,0,0,0,0,0,0,0,"Grants HP regen and a barrier that negates physical and magical damage to all allies, but lowers own magical attack by a massive amount.",1013
+1088002,"Weakening Petals",1,0,1.05,108800201,108800202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderately lowers the physical and magical attack of the 2nd closest enemy.",2004
+1088003,"Cheerful Bloom",1,0,1.19,108800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to the magical attack of all allies that use magical attacks.",2003
+1088501,"Bright New Year",0,0,0.0,108850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1088511,"Bright New Year+",0,0,0.0,108851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1089001,"Icy Edge: Snowbloom",1,0,0.0,108900101,108900102,0,0,0,0,0,0,108900101,0,0,0,0,0,"Deals moderate physical damage to all enemies and inflicts Stun.",1001
+1089002,"Avalanche Reversal",1,0,1.7325,108900201,108900202,108900203,108900204,0,0,0,0,0,0,108900203,0,0,0,"[Taunt] Taunts all enemies and enters a stance. If attacked during this stance, deals small physical damage to all enemies in range and lowers their physical defense by a small amount.",2003
+1089003,"Silvery Wintertime",1,0,0.0,108900301,108900302,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates magical damage around all nearby allies. Moderate boost to own magical defense.",2013
+1089501,"Glacier Stance",0,0,0.0,108950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1089511,"Glacier Stance+",0,0,0.0,108951101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -408,6 +418,21 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2061001,"",1,0,3.0,206100101,206100102,206100103,0,0,0,0,0,206100101,206100101,0,0,0,0,Wisewand,1001
 2062001,"",0,0,3.0,206200101,206200102,0,0,0,0,0,0,206200101,0,0,0,0,0,Mafiotter,1001
 2063001,"",1,0,5.0,206300101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2067001,"",0,0,0.0,206700101,206700102,206700103,0,0,0,0,0,206700102,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and deals moderate physical damage to all enemies in a small radius around it.",1001
+2067002,"",0,0,1.125,206700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",1001
+2067003,"",0,0,1.295,206700301,206700302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front. Moderate boost to own physical attack.",1001
+2067011,"",0,0,0.0,206701101,206701102,0,0,0,0,0,0,206701101,0,0,0,0,0,"Deals physical damage to all enemies and inflicts Stun.",1001
+2067012,"",0,0,1.7325,206701201,206701202,206701203,206701204,0,0,0,0,0,0,206701203,0,0,0,"Grants Taunt condition to self. If attacked while in stance, deals moderate physical damage to all enemies in range and lowers their physical defense by a small amount.",1001
+2067013,"",0,0,0.0,206701301,206701302,0,0,0,0,0,0,0,0,0,0,0,0,"Grants a barrier that negates magical damage to nearby allies. Moderate boost to own magical defense.",1001
+2067021,"",1,0,0.0,206702101,206702102,206702103,0,0,0,0,0,0,0,0,0,0,0,"Boost to all allies' magical defense, and magic-absorbing barrier to self",1001
+2067022,"",1,0,1.05,206702201,206702202,0,0,0,0,0,0,0,0,0,0,0,0,"Until attacked, boosts physical and magical defense of allies in range",1001
+2067023,"",1,0,1.19,206702301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Summon Recovery Field",1001
+2068001,"",1,0,999.0,206800101,206800102,206800103,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2068002,"",1,0,999.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2068003,"",1,0,1.0,206800301,206800302,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
+2068004,"",1,0,1.0,206800401,206800402,206800403,206800404,0,0,0,0,0,0,0,0,0,0,sample,1001
+2068011,"",0,0,3.0,206802101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Impure Desire Barrier 2",1001
+2068021,"",0,0,3.0,206802101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Impure Desire Barrier 3",1001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
 3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
@@ -651,6 +676,15 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3058001,"",1,0,2.0,305800101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nepterion UB",1001
 3058002,"",1,0,2.0,305800201,305800202,305800203,305800204,0,0,0,0,305800201,305800201,305800201,0,0,0,"Nepterion Skill 1",1001
 3058003,"",1,0,2.0,305800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nepterion Skill 2 (instead of attack)",1001
+3060001,"",0,0,0.0,306000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
+3060002,"",0,0,2.2,306000201,306000202,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
+3060003,"",0,0,4.2,306000301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
+3060004,"",0,0,0.0,306000401,306000402,306000403,306000404,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
+3060005,"",0,0,0.0,306000501,306000502,306000503,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
+3060006,"",0,0,0.0,306000601,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
+3060007,"",0,0,0.0,306000701,306000702,306000703,306000704,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
+3060008,"",0,0,90.0,306000801,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi Null Action",1001
+3060009,"",0,0,2.2,306000901,306000902,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi Knockback",1001
 3061001,"",0,0,2.0,306100101,306100102,0,0,0,0,0,0,306100101,0,0,0,0,0,"Jackal Thief: Union Burst",1001
 3061002,"",0,0,2.0,306100201,306100202,306100203,306100204,0,0,0,0,306100201,306100201,0,0,0,0,"Jackal Thief: Skill",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
