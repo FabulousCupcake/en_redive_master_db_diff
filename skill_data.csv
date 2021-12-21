@@ -138,6 +138,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1030001,"Ninpo: Scorching Hell",1,0,0.0,103000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",1001
 1030002,"Hurricane Assault",0,0,1.85,103000201,103000202,103000203,103000204,0,0,0,0,103000201,103000201,0,0,0,0,"Deals small physical damage to all enemies in range. Recovers own TP by a moderate amount if an enemy is defeated by this skill.",2001
 1030003,"Blazing Fan",0,0,0.85,103000301,103000302,0,0,0,0,0,0,103000301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and knocks them back slightly.",2001
+1030012,"Hurricane Assault+",0,0,1.85,103001201,103001202,103001203,103001204,0,0,0,0,103001201,103001201,0,0,0,0,"Deals moderate physical damage to all enemies in range. Recovers own TP by a massive amount if an enemy is defeated by this skill.",2001
 1030501,"Honnoji Hustle",0,0,0.0,103050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1030511,"Honnoji Hustle+",0,0,0.0,103051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1031001,"Phantom Terror",1,0,0.0,103100101,103100102,0,0,0,0,0,0,103100101,0,0,0,0,0,"Deals moderate physical damage to all enemies in range and lowers their physical defense by a small amount.",1001
@@ -148,6 +149,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1032001,"Benevolent Beatdown",1,0,0.0,103200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
 1032002,"Haughty Hack",1,0,1.3575,103200201,103200202,103200203,103200204,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack. If attacked while laughing, unleashes a counterattack on enemies in range.",2001
 1032003,"Rejuvenating Jewels",0,0,1.5575,103200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a field that recovers HP of all nearby allies by a small amount.",2016
+1032012,"Haughty Hack+",1,0,1.3575,103201201,103201202,103201203,103201204,103201205,103201206,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack and TP Boost. Taunts the enemy. If attacked while laughing, unleashes a counterattack on enemies in range.",2001
 1032501,"Burning Soul",0,0,0.0,103250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1032511,"Burning Soul+",0,0,0.0,103251101,103251102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
 1033001,Elizabeth,0,0,0.0,103300101,103300102,0,0,0,0,0,0,103300101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun.",1001
@@ -158,6 +160,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1034001,"Seven Veils",1,0,0.0,103400101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates magical damage around all allies.",1013
 1034002,"Aqua Vitae",1,0,1.4,103400201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a moderate amount.",2005
 1034003,Moonlight,1,0,1.13,103400301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the TP of the party member with the lowest TP by a medium amount.",2006
+1034012,"Aqua Vitae+",1,0,1.4,103401201,103401202,103401203,0,0,0,0,0,103401201,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a large amount, boosts their magical defense by a moderate amount, and grants HP regen.",2005
 1034501,"Liquid Courage",0,0,0.0,103450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1034511,"Liquid Courage+",0,0,0.0,103451101,103451102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense and small boost to physical attack at start of battle.",3004
 1036001,"Cosmo Blue Flash",1,0,0.0,103600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to an enemy directly in front.",1002
@@ -203,6 +206,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1046001,"Kitty Cat-aclysm",0,0,0.0,104600101,104600102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy with the highest magical attack.",1001
 1046002,"Feline Fling",0,0,1.325,104600201,104600202,0,0,0,0,0,0,104600201,0,0,0,0,0,"Deals moderate physical damage to the enemy with the highest magical attack and lowers its magical attack by a small amount.",2001
 1046003,"Finicky Feline",0,0,1.325,104600301,104600302,0,0,0,0,0,0,0,0,0,0,0,0,"Reduces the TP of the enemy with the highest magical attack power by a small amount while also recovering own TP by a small amount.",2006
+1046012,"Feline Fling+",0,0,1.325,104601201,104601202,104601203,0,0,0,0,0,104601201,104601201,0,0,0,0,"Deals moderate physical damage to the enemy with the highest magical attack, lowers its magical attack by a moderate amount, and inflicts Stun.",2001
 1046501,"One Myarvelous Cat",0,0,0.0,104650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1046511,"One Myarvelous Cat+",0,0,0.0,104651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1047001,"Inferno Shield",1,0,0.0,104700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier around oneself that absorbs physical and magic damage.",1013
@@ -213,6 +217,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1048001,"Tsunami Dive",0,0,0.0,104800101,104800102,104800103,0,0,0,0,0,0,104800102,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun.",1001
 1048002,"First Aid",0,0,1.25,104800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers own HP by a large amount.",2005
 1048003,"Hydro Slice",1,0,1.31,104800301,104800302,0,0,0,0,0,0,104800301,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Stun.",2001
+1048012,"First Aid+",0,0,1.25,104801201,104801202,104801203,104801204,0,0,0,0,0,0,0,0,0,0,"Recovers own HP by  a large amount. Large boost to own physical and magical defense. Deploys a field around oneself that recovers HP of all allies in range by a small amount.",2005
 1048501,"Mercenary's Pride",0,0,0.0,104850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1048511,"Mercenary's Pride+",0,0,0.0,104851101,104851102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
 1049001,"Sacred Punishment",1,0,0.0,104900101,104900102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Deploys a barrier around oneself that absorbs physical damage.",1001
@@ -279,6 +284,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1063001,"I'll Fill You With Arrows!",1,0,0.0,106300101,106300102,106300103,106300104,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Boost to damage dealt if this skill has already been used.",1001
 1063002,"Clinging Vines",1,0,0.75,106300201,106300202,0,0,0,0,0,0,106300201,0,0,0,0,0,"Deals small physical damage to the enemy with the highest magical attack and reduces their action speed by a small amount.",2001
 1063003,"Shimmering Wings",1,0,1.35,106300301,106300302,106300303,0,0,0,0,0,0,0,0,0,0,0,"Recovers own TP by a moderate amount. This amount increases if ""I'll Fill You With Arrows!"" has been used.",2006
+1063012,"Clinging Vines+",1,0,1.27,106301201,106301202,106301203,0,0,0,0,0,106301201,106301201,0,0,0,0,"Deals moderate physical damage to the enemy with the highest magical attack. Lowers their magical attack and reduces their action speed by a small amount.",2001
 1063501,"Elven Archery",0,0,0.0,106350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1063511,"Elven Archery+",0,0,0.0,106351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1071001,"Numbers Avalon",1,0,0.0,107100101,107100102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and dodges all physical attacks for a set period of time. This attack never misses and is always a critical hit.",1001
