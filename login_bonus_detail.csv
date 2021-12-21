@@ -44,3 +44,23 @@ id,login_bonus_id,count,reward_type,reward_id,reward_num,character_id,character_
 44,40001,8,8,91002,150,107801,Karyl,"How did I end up spending my\nsummer with you of all people?\nOh well, I guess it's been fun.\nCome on, we're not done yet!",2,0
 45,40001,9,8,91002,150,107701,Suzume,"Our very first summer together...\nI'm so excited, I might collapse!\nI'm sure it'll be another wonderful\nexperience to remember!",2,0
 46,40001,10,8,91002,150,107901,Tamaki,"Summer's big for business,\nbut somehow this year I want to\nspend it with you. You're nyot\ngonna make me regret it, are ya?",2,0
+87,70000,1,8,91002,750,0,"","",0,0
+88,70000,2,8,91002,750,0,"","",0,0
+89,70001,1,8,91002,500,0,"","",0,0
+90,70001,2,8,91002,500,0,"","",0,0
+91,70001,3,8,91002,500,0,"","",0,0
+92,80001,1,8,91002,100,101201,Hatsune,"",1,500213
+93,80001,2,8,91002,100,103601,Kyoka,"",1,500193
+94,80001,3,8,91002,100,101001,Maho,"",1,500263
+95,80001,4,8,91002,100,102501,Suzume,"",1,500164
+96,80001,5,8,91002,100,104601,Tamaki,"",1,500284
+97,80001,6,8,91002,100,103201,Akino,"",1,500070
+98,80001,7,8,91002,100,107101,Christina,"",1,500096
+99,80001,8,8,91002,100,103701,Tomo,"",1,500096
+100,80001,9,8,91002,100,100701,Miyako,"",1,500264
+101,80001,10,8,91002,100,100901,Anna,"",1,500143
+102,80001,11,8,91002,100,105601,Ruka,"",1,500143
+103,80001,12,8,91002,100,102101,Kurumi,"",1,500114
+104,80001,13,8,91002,100,101101,Rino,"",1,500600
+105,80001,14,8,91002,100,100201,Yui,"",1,500040
+106,80001,15,8,91002,100,105801,Pecorine,"",1,500033
