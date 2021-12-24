@@ -195,8 +195,11 @@ equipment_id,equipment_name,description,promotion_level,craft_flg,equipment_enha
 105401,"Diviner's Shield","A round shield engraved with a chart of the heavens. Itself imbued with celestial energies, it guides all attacks away from its wielder, leaving their safety written in the stars.",5,1,446,24000,70,0.0,54.0,0.0,5.0,3.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 105521,"Crown of Anguish","The crown worn by the queen of a land long since fallen and forgotten. Those who wear it are blessed with great magical energy, but also find themselves filled with an unexplainable sadness.",5,1,370,24000,70,100.0,0.0,48.0,3.0,5.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 105551,"Millennium Earrings","A pair of earrings bearing magical crystals mined from a thousand-year-old stratum. The vast natural energies they have absorbed over the years provide a powerful magical protection to the wearer.",5,1,210,24000,67,70.0,64.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,10.0
+105552,"Wyrmswrath Pendant","A mystical pendant said to contain the sealed rage of a dragon. As an incarnation of fury itself, it grants the wearer the strength to shake mountains and sunder the earth.",5,1,280,27000,74,0.0,84.0,0.0,0.0,0.0,13.0,0.0,0.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 105581,"Spirit King's Talisman","A pair of earrings blessed by the king of spirits. With protective power vast enough to cover an entire forest, it rejects any and all calamities that might befall the wearer.",5,1,210,24000,67,200.0,0.0,0.0,10.0,6.0,0.0,0.0,100.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+105582,"Mermaid Tears","A pendant made from the crystallized tears of a mermaid princess. Her endless love shines more brilliantly than the finest sapphire, purifying all curses that afflict the wearer.",5,1,280,27000,74,60.0,0.0,0.0,12.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0,0,0.0
 105611,"Poseidon Earrings","A pair of earrings modeled after the trident said to be wielded by the ruler of the sea. The crystal at its center, bluer than the ocean depths, confers enough magic to calm the stormy waves.",5,1,210,24000,67,0.0,0.0,78.0,0.0,0.0,0.0,8.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,0,0.0
+105612,"Sacred Steed's Grace","A necklace imbued with the blessings of that purest of sacred beasts, the unicorn. The holy light in its horn amplifies the wearer's own magical energy, allowing them to perform miraculous feats.",5,1,280,27000,74,140.0,0.0,84.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 113011,"Sparkling Sword (Fragment)","Sparkling Sword Fragment.",3,0,4,280,19,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
 113012,"Dragon Crest Sword (Fragment)","Dragon Crest Sword Fragment.",3,0,4,600,29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
 113013,"Feather Blade (Fragment)","Feather Blade Fragment.",3,0,4,800,37,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
@@ -270,8 +273,11 @@ equipment_id,equipment_name,description,promotion_level,craft_flg,equipment_enha
 115222,"Genesis Staff (Fragment)","Genesis Staff Fragment.",5,0,8,1350,72,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 115251,"Pyramour Rod (Fragment)","Pyramour Rod Fragment.",5,0,4,1200,64,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 115551,"Millennium Earrings (Fragment)","Millennium Earrings Fragment.",5,0,6,1200,67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+115552,"Wyrmswrath Pendant (Fragment)","Wyrmswrath Pendant Fragment.",5,0,8,1350,74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 115581,"Spirit King's Talisman (Fragment)","Spirit King's Talisman Fragment.",5,0,6,1200,67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+115582,"Mermaid Tears (Fragment)","Mermaid Tears Fragment.",5,0,8,1350,74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 115611,"Poseidon Earrings (Fragment)","Poseidon Earrings Fragment.",5,0,6,1200,67,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
+115612,"Sacred Steed's Grace (Fragment)","Sacred Steed's Grace Fragment.",5,0,8,1350,74,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0.0
 122282,"Light Plate Armor Blueprint","Light Plate Armor Blueprint.",2,0,4,64,14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
 122311,"Scalemail Blueprint","Scalemail Blueprint.",2,0,4,32,9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0
 122312,"Supreme Metal Blade Blueprint","Supreme Metal Blade Blueprint.",2,0,4,64,14,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1,0.0

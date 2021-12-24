@@ -44,6 +44,16 @@ id,login_bonus_id,count,reward_type,reward_id,reward_num,character_id,character_
 44,40001,8,8,91002,150,107801,Karyl,"How did I end up spending my\nsummer with you of all people?\nOh well, I guess it's been fun.\nCome on, we're not done yet!",2,0
 45,40001,9,8,91002,150,107701,Suzume,"Our very first summer together...\nI'm so excited, I might collapse!\nI'm sure it'll be another wonderful\nexperience to remember!",2,0
 46,40001,10,8,91002,150,107901,Tamaki,"Summer's big for business,\nbut somehow this year I want to\nspend it with you. You're nyot\ngonna make me regret it, are ya?",2,0
+57,40003,1,8,91002,150,0,"","",0,0
+58,40003,2,8,91002,150,0,"","",0,0
+59,40003,3,8,91002,150,0,"","",0,0
+60,40003,4,8,91002,150,0,"","",0,0
+61,40003,5,8,91002,150,0,"","",0,0
+62,40003,6,8,91002,150,0,"","",0,0
+63,40003,7,8,91002,150,0,"","",0,0
+64,40003,8,8,91002,150,0,"","",0,0
+65,40003,9,8,91002,150,0,"","",0,0
+66,40003,10,8,91002,150,0,"","",0,0
 87,70000,1,8,91002,750,0,"","",0,0
 88,70000,2,8,91002,750,0,"","",0,0
 89,70001,1,8,91002,500,0,"","",0,0
