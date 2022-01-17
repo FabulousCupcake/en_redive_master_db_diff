@@ -367,6 +367,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1089003,"Silvery Wintertime",1,0,0.0,108900301,108900302,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates magical damage around all nearby allies. Moderate boost to own magical defense.",2013
 1089501,"Glacier Stance",0,0,0.0,108950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1089511,"Glacier Stance+",0,0,0.0,108951101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
+1090001,"Love Punishment",1,0,0.0,109000101,109000102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Damage increases the lower Eriko's HP.",1001
+1090002,"Heavy Mixing",1,0,0.925,109000201,109000202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Damage increases the lower Eriko's HP.",2001
+1090003,"Sweet Sacrifice",1,0,1.065,109000301,109000302,109000303,0,0,0,0,0,0,0,0,0,0,0,"Boosts own physical attack by a moderate amount at the cost of HP. Effect increases the lower Eriko's HP.",2003
+1090501,"Deep Spirit",0,0,0.0,109050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1090511,"Deep Spirit+",0,0,0.0,109051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1091001,"Sweet Sanctuary",1,0,0.0,109100101,109100102,109100103,0,0,0,0,0,109100101,109100101,0,0,0,0,"Deploys a field around oneself that boosts physical attack, physical critical rate, and TP Boost.",1017
+1091002,"Curing Sign",0,0,1.7325,109100201,109100202,109100203,109100204,109100205,109100206,0,0,0,0,0,109100202,109100203,0,"Recovers the HP and TP of the nearby ally with the lowest HP by a small amount. [With Active Field] Recovers all allies' HP and TP by a small amount.",2005
+1091003,"Heartful Shot",1,0,0.72,109100301,109100302,109100303,109100304,109100305,109100306,0,0,0,0,0,109100302,109100303,0,"Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount. [With Active Field] Damage dealt and defense lowered both increase.",2001
+1091501,"Purehearted Big Sis",0,0,0.0,109150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1091511,"Purehearted Big Sis+",0,0,0.0,109151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -713,6 +723,15 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3063012,"",0,0,1.8,306301201,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
 3063013,"",0,0,2.0,306301301,306301302,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
 3063014,"",0,0,0.0,306301401,306301402,306301403,306301404,0,0,0,0,0,0,0,0,0,0,"",1001
+3067001,"",0,0,0.0,306700101,306700102,306700103,0,0,0,0,0,0,306700102,0,0,0,0,"Ugly Lovely",1001
+3067002,"",0,0,6.0,306700201,306700202,306700203,306700204,306700205,0,0,0,0,0,306700201,0,0,0,"Ugly Lovely",1001
+3067003,"",0,0,2.8,306700301,306700302,306700303,306700304,0,0,0,0,306700301,306700301,306700303,0,0,0,"Ugly Lovely",1001
+3067004,"",0,0,0.0,306700401,306700402,306700403,306700404,0,0,0,0,0,0,0,0,0,0,"Ugly Lovely",1001
+3067005,"",0,0,2.8,306700501,306700502,306700503,306700504,0,0,0,0,306700501,306700501,306700503,0,0,0,"Ugly Lovely",1001
+3067006,"",0,0,1.0,306700601,306700602,0,0,0,0,0,0,306700601,0,0,0,0,0,"Ugly Lovely",1001
+3067007,"",0,0,3.0,306700701,306700702,306700703,0,0,0,0,0,0,0,0,0,0,0,"Ugly Lovely",1001
+3067008,"",0,0,0.0,306700801,306700802,306700803,306700804,0,0,0,0,0,0,0,0,0,0,"Ugly Lovely",1001
+3067009,"",0,0,0.5,306700901,306700902,0,0,0,0,0,0,306700901,0,0,0,0,0,"Ugly Lovely",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001

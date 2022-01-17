@@ -2674,3 +2674,47 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2873,108701,3,5,1,0,1,"It's so warm and cozy. I just wanna curl up into a little ball now...",0
 2875,108701,3,7,1,0,1,"Th-this is bad! I just can't stop myself!",0
 2876,108701,3,8,1,0,1,"Huh. People used to get mochi instead of New Year's pocket money? I'm glad they changed that.",0
+2878,109001,1,1,1,0,1,"Now waft the delicious scent of chocolate...\nThere. Everything's ready.",0
+2879,109001,1,2,1,0,1,"I'll fill this place to the brim with my chocolate...",0
+2880,109001,1,3,1,0,1,"Waiting for him while wearing this apron...\nI look almost like... Teeheehee.",0
+2881,109001,1,4,1,0,1,"Hm, where's the kitchen? I'd like to cook up a little something...",0
+2882,109001,1,5,1,0,1,"I'll make sure he can't live without my chocolates...\nTeehee. I'm only joking...",0
+2883,109001,1,101,4,0,1,"This chocolate tastes like destiny... One bite, and you'll never leave my side. That too is fate...",0
+2884,109001,1,102,8,0,1,"This isn't like me at all...\nI think my heart actually skipped a beat...",0
+2885,109001,2,1,1,0,1,"Tell me, my love.\nThere isn't anything you're hiding from me,\nis there...?",0
+2886,109001,2,2,1,0,1,"I made these chocolates\nall by myself...\nI'm quite confident in how they turned out.",0
+2887,109001,2,3,1,0,1,"If you taste any bitter notes, it's just the richness of the chocolate. Think nothing of it...",0
+2888,109001,2,4,1,0,1,"Now, where did I put that antidote...?",0
+2889,109001,2,101,4,0,1,"You and I are bound together by fate...\nJust any old chocolate\nwill not do at all.",0
+2890,109001,2,102,8,0,1,"Once you finish the chocolate, it's time for the main dish... Go ahead and eat me right up.",0
+2891,109001,2,1,1,1,1,"Here's your morning chocolate to wake you right up. You may not be able to sleep for a while...",0
+2892,109001,2,2,1,2,1,"Have some chocolate for dessert. One bite, and your hunger will fade away... Teehee.",0
+2893,109001,2,3,1,3,1,"I've brought an evening snack. These chocolates should help you sleep. Hurry, before they melt...",0
+2895,109001,3,2,1,0,1,"Perhaps I can replicate this comforting sensation.\nLet's see, for my next potion... Teeheehee.",0
+2896,109001,3,3,1,0,1,"I think I could fit something inside this... Chocolate, for instance.",0
+2897,109001,3,4,1,0,1,"Ah, this fragrant scent...\nI should try to replicate it for my own use.",0
+2898,109001,3,5,1,0,1,"How very warm...\nI must take care not to melt these chocolates.",0
+2900,109001,3,7,1,0,1,"What a wonderful flavor.\nI must hone my own skills to match. My skills at cooking... and brewing...",0
+2901,109001,3,8,1,0,1,"How informative. One never can have too much knowledge. Particularly about the human body...",0
+2903,109101,1,1,1,0,1,"When I think about my little bro, the hours just seem to fly by...",0
+2904,109101,1,2,1,0,1,"A big sister's energy comes from seeing her little brother's smile! ♪",0
+2905,109101,1,3,1,0,1,"Next time I see him,\nI'll give him a big hug!\nAnd then, and then...",0
+2906,109101,1,4,1,0,1,"I've got to be an even better big sister today than I was yesterday!",0
+2907,109101,1,5,1,0,1,"I wish my little bro would let me pamper him a little more! ♪",0
+2908,109101,1,101,4,0,1,"I want to feed him all my handmade chocolate...",0
+2909,109101,1,102,8,0,1,"Ooh, my heart's racing...\nThis isn't very becoming of a big sister!",0
+2910,109101,2,1,1,0,1,"That's right, you can touch your big sister all you like!",0
+2911,109101,2,2,1,0,1,"You want your big sis's chocolates that bad, huh? What a sweet tooth you've got!",0
+2912,109101,2,3,1,0,1,"Giving headpats is my job, not yours, silly!",0
+2913,109101,2,4,1,0,1,"Thank you?\nOh, don't be silly!\nI just did what any big sister would do!",0
+2914,109101,2,101,4,0,1,"Did you want something? Don't worry, your big sis will always be here!",0
+2915,109101,2,102,8,0,1,"I made some chocolates! The secret ingredient is all my love for you! ♪",0
+2916,109101,2,1,1,1,1,"Morning! Do you need me to help wash your face?",0
+2917,109101,2,2,1,2,1,"A good meal makes you feel sleepy, huh?\nWant to take a nap with your big sis?",0
+2918,109101,2,3,1,3,1,"Are you heading to bed?\nI'll snuggle with you until you're sound asleep!",0
+2920,109101,3,2,1,0,1,"This comfiness gets the\nBig Sis Seal of Approval!",0
+2921,109101,3,3,1,0,1,"This is almost as cute\nas my little bro! ♪",0
+2922,109101,3,4,1,0,1,"Hmm, could I use this scent in my chocolates?",0
+2923,109101,3,5,1,0,1,"I want to snuggle up with my little bro right here...",0
+2925,109101,3,7,1,0,1,"Mmm, this is good!\n...I should probably do some exercise later.",0
+2926,109101,3,8,1,0,1,"Don't you think your\nbig sister looks extra intellectual today?",0

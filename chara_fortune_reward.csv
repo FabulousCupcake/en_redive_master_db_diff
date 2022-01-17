@@ -1,0 +1,5 @@
+id,fortune_id,rank,reward_type_1,reward_id_1,count_1,reward_type_2,reward_id_2,count_2,reward_type_3,reward_id_3,count_3,reward_type_4,reward_id_4,count_4,reward_type_5,reward_id_5,count_5
+1,10000,1,8,91002,500,0,0,0,0,0,0,0,0,0,0,0,0
+2,10000,2,8,91002,400,0,0,0,0,0,0,0,0,0,0,0,0
+3,10000,3,8,91002,300,0,0,0,0,0,0,0,0,0,0,0,0
+4,10000,4,8,91002,250,0,0,0,0,0,0,0,0,0,0,0,0
