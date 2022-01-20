@@ -30,6 +30,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1006001,"Little Devil's Cheer",1,0,0.0,100600101,100600102,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magical attack of all allies and recovers their HP based on the damage dealt by their next attack.",1003
 1006002,"Shadow Bolt",0,0,1.18,100600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1006003,"Impish Kiss",1,0,1.25,100600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers magical defense of an enemy directly in front by a moderate amount.",2004
+1006012,"Shadow Bolt+",0,0,1.18,100601201,100601202,0,0,0,0,0,0,100601201,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front and lowers its magical defense by a small amount.",2002
 1006501,"Sweet Ignition",0,0,0.0,100650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1006511,"Sweet Ignition+",0,0,0.0,100651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1007001,"You're Pudding Now!",1,0,0.0,100700101,100700102,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts large physical damage to one enemy directly in front while also healing own HP by a large amount.",1001
@@ -45,6 +46,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1009001,"Demonic Salvation: Apocalypse Dawn",1,0,0.0,100900101,100900102,100900103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies. Lowers own physical and magical defense by a massive amount after use.",1002
 1009002,"Demonic Salvation: Infinity",1,0,1.58,100900201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1009003,"Void Accession",1,2160,1.25,100900301,100900302,100900303,100900304,0,0,0,0,0,0,0,0,0,0,"[Self Destruct] Activates when HP falls to 10% or below. Deals large magical damage to all enemies in range but knocks herself out.",2017
+1009012,"Demonic Salvation: Infinity+",1,0,1.58,100901201,100901202,0,0,0,0,0,0,100901201,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front and lowers its magical defense by a small amount.",2002
 1009501,"Hellfire of the Dark Conqueror",0,0,0.0,100950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1009511,"Hellfire of the Dark Conqueror+",0,0,0.0,100951101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1010001,"Fairy-tale Garden",1,0,0.0,101000101,101000102,101000103,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magical attack and physical defense of all allies and recovers their TP by a small amount.",1003
@@ -55,6 +57,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1011001,"Arrow Rain",0,0,0.0,101100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",1001
 1011002,Concentration,0,0,1.07,101100202,101100201,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and physical critical rate.",2003
 1011003,"Crushing Shot",0,0,1.5,101100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1011012,Concentration+,0,0,1.07,101101202,101101201,101101203,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack and action speed, and moderate boost to own physical critical rate.",2003
 1011501,Penetration,0,0,0.0,101150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1011511,Penetration+,0,0,0.0,101151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1012001,"Shooting☆Star",1,0,0.0,101200101,101200102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small magical damage to all enemies that use physical attacks. Deals moderate magical damage to all enemies.",1002
@@ -101,6 +104,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1022001,"Lightning Javelin",0,0,0.0,102200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in range.",1002
 1022002,Overcharge,0,0,1.25,102200201,102200202,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at the cost of HP.",2003
 1022003,"Shadow Blast",1,0,0.98,102200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in range.",2002
+1022012,Overcharge+,0,0,1.25,102201201,102201202,102201203,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to own magical attack at the cost of HP. Recovers own TP by a moderate amount.",2003
 1022501,"Lightning Surge",0,0,0.0,102250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1022511,"Lightning Surge+",0,0,0.0,102251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1023001,"Pukichi Fullswing",0,0,0.0,102300101,102300102,102300103,102300104,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front, inflicts Stun, and knocks it back a large distance.",1001
@@ -121,6 +125,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1027001,"Deadly Discipline",0,0,0.0,102700101,102700102,102700103,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Boost to own physical attack if the enemy is defeated by this skill.",1001
 1027002,Obsession,0,0,1.125,102700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to own physical attack.",2003
 1027003,"Poison Mist",0,0,1.125,102700301,102700302,0,0,0,0,0,0,102700301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Poison.",2022
+1027012,Obsession+,0,0,1.125,102701201,102701202,102701203,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack. Additional massive boost to own physical attack and physical critical rate for a brief period.",2003
 1027501,"Unrelenting Obsession",0,0,0.0,102750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1027511,"Unrelenting Obsession+",0,0,0.0,102751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1028001,"Phoenix Sword",1,0,0.0,102800101,102800102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. The lower Saren's HP, the greater the damage dealt.",1001
@@ -144,6 +149,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1031001,"Phantom Terror",1,0,0.0,103100101,103100102,0,0,0,0,0,0,103100101,0,0,0,0,0,"Deals moderate physical damage to all enemies in range and lowers their physical defense by a small amount.",1001
 1031002,"Otherworldly Beckoning",1,0,1.38,103100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Summons a skull in front of oneself, which attacks an enemy directly in front.",2017
 1031003,"Hungry Wraith",1,0,2.01,103100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers physical defense of all enemies by a small amount.",2004
+1031012,"Otherworldly Beckoning+",1,0,1.38,103101201,103101202,103101203,103101204,0,0,0,0,0,103101202,103101202,0,0,0,"[Summon] Summons a skull in front of oneself, which attacks an enemy directly in front. Moderate boost to physical attack and physical critical rate of all allies in a radius around the frontmost ally.",2017
 1031501,"Twilight Elegy",0,0,0.0,103150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1031511,"Twilight Elegy+",0,0,0.0,103151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1032001,"Benevolent Beatdown",1,0,0.0,103200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
@@ -212,6 +218,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1047001,"Inferno Shield",1,0,0.0,104700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier around oneself that absorbs physical and magic damage.",1013
 1047002,"Inspiring Courage",0,0,0.475,104700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of the nearby ally with the lowest HP by a small amount.",2005
 1047003,"Armor Breaker",0,0,0.875,104700301,104700302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount.",2001
+1047012,"Inspiring Courage+",0,0,0.475,104701201,104701202,104701203,0,0,0,0,0,104701201,104701201,0,0,0,0,"Recovers HP of the nearby ally with the lowest HP by a moderate amount. Large boost to the ally's physical attack and small boost to their action speed.",2005
 1047501,"Justice Barrier",0,0,0.0,104750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1047511,"Justice Barrier+",0,0,0.0,104751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1048001,"Tsunami Dive",0,0,0.0,104800101,104800102,104800103,0,0,0,0,0,0,104800102,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun.",1001
@@ -223,6 +230,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1049001,"Sacred Punishment",1,0,0.0,104900101,104900102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Deploys a barrier around oneself that absorbs physical damage.",1001
 1049002,"Saintly Succor",1,0,1.375,104900201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a moderate amount.",2005
 1049003,Protection,1,0,1.375,104900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates physical damage around nearby allies.",2013
+1049012,"Saintly Succor+",1,0,1.375,104901201,104901202,0,0,0,0,0,0,104901201,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a moderate amount and boosts their physical defense by a large amount.",2005
 1049501,"Big Sis Power",0,0,0.0,104950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1049511,"Big Sis Power+",0,0,0.0,104951101,104951102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to physical attack at start of battle.",3002
 1050001,"All-Destroying Eye",1,0,0.0,105000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in the front.",1002
@@ -233,6 +241,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1051001,"Bloody Rose",1,0,0.0,105100101,105100102,105100103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Recovers own HP for each foe defeated by this skill.",1001
 1051002,"Cursed Bloom",1,0,1.41,105100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts Curse to all enemies in range.",2008
 1051003,"Field of Thorns",1,0,0.28,105100301,105100302,0,0,0,0,0,0,105100301,0,0,0,0,0,"Deploys a field that lowers physical defense of all enemies in range.",2015
+1051012,"Cursed Bloom+",1,0,1.41,105101201,105101202,0,0,0,0,0,0,105101201,0,0,0,0,0,"Inflicts Curse to all enemies in range and reduces their action speed by a small amount.",2008
 1051501,"One-Eyed Devil",0,0,0.0,105150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1051511,"One-Eyed Devil+",0,0,0.0,105151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1052001,"Woolly Wallop",0,0,0.0,105200101,105200102,105200103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Large boost to own physical defense.",1001
