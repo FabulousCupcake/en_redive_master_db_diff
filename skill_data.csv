@@ -290,6 +290,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1060012,"Lightning Sphere+",1,0,1.27,106001201,106001202,106001203,106001204,0,0,0,0,0,106001202,106001203,0,0,0,"Deals moderate magical damage to an enemy directly in front and small magical damage to enemies around it. Lowers magical defense of all targets by a small amount.",2002
 1060501,"Dark Eclipse",0,0,0.0,106050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1060511,"Dark Eclipse+",0,0,0.0,106051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1061001,"Spiresbane Blade",0,0,0.0,106100101,106100102,106100103,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Equips the Spiresbane Blade until TP is fully depleted.",1001
+1061002,"Feeling Scared Yet?!",0,0,0.34,106100201,106100202,106100203,106100204,0,0,0,0,0,106100201,106100202,0,0,0,"Deals small physical damage to all enemies in range, inflicts Stun, and knocks them back slightly.",2018
+1061003,"Right This Way!",1,0,0.34,106100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers the physical defense of all enemies in range by a small amount.",2004
+1061101,"Spirespin Slice",1,0,0.25,106110101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1002
+1061102,"Spiresplitter Sweep",1,0,0.25,106110201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1002
+1061501,"Potential Force",0,0,0.0,106150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1061511,"Potential Force+",0,0,0.0,106151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1063001,"I'll Fill You With Arrows!",1,0,0.0,106300101,106300102,106300103,106300104,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Boost to damage dealt if this skill has already been used.",1001
 1063002,"Clinging Vines",1,0,0.75,106300201,106300202,0,0,0,0,0,0,106300201,0,0,0,0,0,"Deals small physical damage to the enemy with the highest magical attack and reduces their action speed by a small amount.",2001
 1063003,"Shimmering Wings",1,0,1.35,106300301,106300302,106300303,0,0,0,0,0,0,0,0,0,0,0,"Recovers own TP by a moderate amount. This amount increases if ""I'll Fill You With Arrows!"" has been used.",2006
