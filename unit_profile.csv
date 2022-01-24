@@ -54,6 +54,7 @@ unit_id,unit_name,age,guild,race,height,weight,birth_month,birth_day,blood_type,
 105801,Pecorine,17,"Gourmet Guild",humanfolk,156,46,3,31,O,"eating, cooking","M・A・O",0,"A girl who's always cheerful and hungry","",1
 105901,Kokkoro,11,"Gourmet Guild",elvenfolk,140,35,5,11,B,"meditating, raising plants and animals","Miku Ito",0,"A little guide who takes care of her lord","",1
 106001,Karyl,14,"Gourmet Guild",beastfolk,152,39,9,2,A,"playing with cats","Rika Tachibana",0,"A mysterious, cat-eared sorceress discovered lying unconscious","",1
+106101,Muimi,16,???,humanfolk,148,40,8,11,O,"adventures, reminiscing","Megumi Han",0,"A young wanderer with a mysterious past","I don't need help... I'm fine on my own. Don't worry, I'm used to it by now...",""
 106301,Arisa,15,???,elvenfolk,155,42,6,17,O,"collecting pretty leaves","Kana Yuki",0,"A young elf striving to become a forest guardian","",""
 106801,Labyrista,??,Labyrinth,humanfolk,???,??,?,?,?,"people watching","Miyuki Sawashiro",0,"？？？？？？？","",3
 107101,Christina,27,"Nightmare, Defenders of the Throne",humanfolk,165,??,2,7,O,"fighting strong opponents","Chiaki Takahashi",0,"The audacious vice-captain of Nightmare","",8
