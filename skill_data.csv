@@ -63,6 +63,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1012001,"Shooting☆Star",1,0,0.0,101200101,101200102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small magical damage to all enemies that use physical attacks. Deals moderate magical damage to all enemies.",1002
 1012002,"Psychic☆Blast",1,0,1.4,101200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to the enemy with the highest physical attack.",2002
 1012003,"Star☆Light",1,0,1.4,101200301,101200302,0,0,0,0,0,0,101200301,0,0,0,0,0,"Deals small magical damage to the enemy with the highest physical attack and inflicts Stun.",2002
+1012012,"Psychic☆Blast+",1,0,1.4,101201201,101201202,0,0,0,0,0,0,101201201,0,0,0,0,0,"Deals moderate magical damage to the enemy with the highest physical attack and lowers its magical defense by a small amount.",2002
 1012501,"Happy☆Energy",0,0,0.0,101250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1012511,"Happy☆Energy+",0,0,0.0,101251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1013001,"Nanaka Infinite Blast",1,0,0.0,101300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to the enemy with the highest remaining HP.",1002
@@ -88,6 +89,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1017001,"Ryukyu-Ken Knuckle Cannon",0,0,0.0,101700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
 1017002,"Midline Thrust",0,0,1.0,101700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1017003,"Mental Focus",0,0,1.0,101700301,0,0,0,0,0,0,0,0,0,0,0,0,0,"After activation, boosts damage dealt with each attack. Stacks up to 5 times.",2003
+1017012,"Midline Thrust+",0,0,1.0,101701201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front.",2001
 1017501,"Ryukyu-Ken Martial Breathing",0,0,0.0,101750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1017511,"Ryukyu-Ken Martial Breathing+",0,0,0.0,101751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1018001,"Lovely Heart Storm",1,0,0.0,101800101,101800102,0,0,0,0,0,0,101800101,0,0,0,0,0,"Deals small magical damage and inflicts Charm to all enemies.",1009
@@ -125,6 +127,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1026001,"Homemade Sweet Bun Boost",1,0,0.0,102600101,102600102,102600103,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies by a small amount. Small boost to their physical attack and magical defense.",1003
 1026002,"Patience Is a Virtue",1,0,0.59,102600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to magical defense of all nearby allies.",2003
 1026003,"Acorn Barrage",1,0,0.92,102600301,102600302,0,0,0,0,0,0,102600301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Stun.",2018
+1026012,"Patience Is a Virtue+",1,0,0.59,102601201,102601202,102601203,0,0,0,0,0,0,0,0,0,0,0,"Large boost to magical defense of all nearby allies, moderate boost to their physical attack, and small boost to their physical critical rate.",2003
 1026501,"Amped on Acorns",0,0,0.0,102650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1026511,"Amped on Acorns+",0,0,0.0,102651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1027001,"Deadly Discipline",0,0,0.0,102700101,102700102,102700103,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Boost to own physical attack if the enemy is defeated by this skill.",1001
@@ -166,6 +169,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1033001,Elizabeth,0,0,0.0,103300101,103300102,0,0,0,0,0,0,103300101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun.",1001
 1033002,"Milk Can Slam",0,0,1.4,103300201,103300202,0,0,0,0,0,0,103300201,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and knocks it back slightly.",2001
 1033003,"Pitchfork Pummel",0,0,1.4,103300301,103300302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack.",2001
+1033012,"Milk Can Slam+",0,0,1.4,103301201,103301202,103301203,0,0,0,0,0,103301201,103301201,0,0,0,0,"Deals moderate physical damage to an enemy directly in front, inflicts Confusion, and knocks it back a large distance.",2001
 1033501,"Opening One-Liner",0,0,0.0,103350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1033511,"Opening One-Liner+",0,0,0.0,103351101,103351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
 1034001,"Seven Veils",1,0,0.0,103400101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates magical damage around all allies.",1013
@@ -202,6 +206,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1043001,"Wolven Rend",0,0,0.0,104300101,104300102,0,0,0,0,0,0,104300101,0,0,0,0,0,"Deals physical damage to an enemy directly in front and lowers its physical defense by a moderate amount.",1001
 1043002,"Hard Slash",0,0,1.125,104300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1043003,"Heroic Howl",0,0,1.895,104300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers physical defense of an enemy directly in front by a moderate amount.",2004
+1043012,"Hard Slash+",0,0,1.125,104301201,104301202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Moderate boost to own physical attack.",2001
 1043501,"Raging Wolf Fang",0,0,0.0,104350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1043511,"Raging Wolf Fang+",0,0,0.0,104351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1044001,"Vermilion Bite",1,0,0.0,104400101,104400102,104400103,104400104,0,0,0,0,104400101,0,0,0,0,0,"Deals large magical damage to all enemies in range and recovers own HP by a moderate amount.",1002
@@ -252,6 +257,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1052001,"Woolly Wallop",0,0,0.0,105200101,105200102,105200103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Large boost to own physical defense.",1001
 1052002,"Fuzzy Fury",0,4000,0.0,105200201,105200202,105200203,105200204,105200205,0,0,0,0,105200202,0,0,0,0,"Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Small boost to own physical defense.",2001
 1052003,"Hairy Headbutt",0,0,1.375,105200301,105200302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Stun.",2001
+1052012,"Fuzzy Fury+",0,4000,0.0,105201201,105201202,105201203,105201204,105201205,105201206,0,0,0,105201202,0,0,0,0,"Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Large boost to own physical defense. Deploys a barrier that negates physical damage around all allies.",2001
 1052501,"Downy Defense",0,0,0.0,105250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1052511,"Downy Defense+",0,0,0.0,105251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
 1053001,"Violetshock Flare",0,0,0.0,105300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1001
