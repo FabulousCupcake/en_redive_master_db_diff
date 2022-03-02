@@ -23,3 +23,6 @@ story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love
 7004003,7004,"Tower of Luna Chapter 4: Episode 3","It's a Dog-Eat-Dodgeball World",2,0,7004002,0,108,71050170,0,8,91002,20,0,0,0,0,0,0,"2022/02/05 13:00:00","2030/04/24 14:59:59"
 7004004,7004,"Tower of Luna Chapter 4: Episode 4","Hidden in Plain Sight",2,0,7004003,0,108,71060180,0,8,91002,20,0,0,0,0,0,0,"2022/02/05 13:00:00","2030/04/24 14:59:59"
 7004005,7004,"Tower of Luna Chapter 4: Episode 5","Big Bro Bonanza",2,0,7004004,0,108,71060190,0,8,91002,20,0,0,0,0,0,0,"2022/02/05 13:00:00","2030/04/24 14:59:59"
+7005000,7005,"Tower of Luna Chapter 5: Opening","An Insistent Bodyguard",2,0,7004005,0,108,71060190,0,8,91002,20,0,0,0,0,0,0,"2022/03/05 13:00:00","2030/04/24 14:59:59"
+7005001,7005,"Tower of Luna Chapter 5: Episode 1","Men Are All Werewolves?",2,0,7005000,0,108,71070200,0,8,91002,20,0,0,0,0,0,0,"2022/03/05 13:00:00","2030/04/24 14:59:59"
+7005002,7005,"Tower of Luna Chapter 5: Episode 2","An Open Heart",2,0,7005001,0,108,71070210,0,8,91002,20,0,0,0,0,0,0,"2022/03/05 13:00:00","2030/04/24 14:59:59"
