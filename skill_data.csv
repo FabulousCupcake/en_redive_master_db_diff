@@ -25,6 +25,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1005001,"Tiger Heroic Bomber",0,0,0.0,100500101,100500102,100500103,0,0,0,0,0,0,100500102,0,0,0,0,"Leaps toward the third-closest enemy and deals large physical damage to all enemies in an area around oneself.",1001
 1005002,"Tiger Shock",0,0,0.76,100500201,100500202,0,0,0,0,0,0,100500201,0,0,0,0,0,"Deals small physical damage to all enemies in an area around oneself and inflicts Stun.",2018
 1005003,"Tiger Spin",0,0,1.5,100500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in an area around oneself.",2001
+1005012,"Tiger Shock+",0,0,0.76,100501201,100501202,100501203,100501204,0,0,0,0,100501201,0,0,0,0,0,"Deals small physical damage to all enemies in an area around oneself and inflicts Stun. Massive boost to own physical and magical defense.",2018
 1005501,"Hero's Code",0,0,0.0,100550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1005511,"Hero's Code+",0,0,0.0,100551101,100551102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to own physical defense at start of battle.",3001
 1006001,"Little Devil's Cheer",1,0,0.0,100600101,100600102,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magical attack of all allies and recovers their HP based on the damage dealt by their next attack.",1003
@@ -79,6 +80,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1015001,"Sister's Blessing",1,0,0.0,101500101,101500102,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies by a moderate amount. Small boost to their magical defense.",1005
 1015002,"Divine Force",1,0,1.17,101500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to magical attack of all nearby allies.",2003
 1015003,"Caring Cure",1,0,1.6,101500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Grants HP regen to the foremost ally.",2005
+1015012,"Divine Force+",1,0,1.17,101501201,101501202,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to magical attack and moderate boost to magical critical rate of all nearby allies.",2003
 1015501,"Angelic Majesty",0,0,0.0,101550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1015511,"Angelic Majesty+",0,0,0.0,101551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1016001,"Heart Breaker",1,0,0.0,101600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. This always results in a critical hit.",1001
@@ -95,6 +97,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1018001,"Lovely Heart Storm",1,0,0.0,101800101,101800102,0,0,0,0,0,0,101800101,0,0,0,0,0,"Deals small magical damage and inflicts Charm to all enemies.",1009
 1018002,"Tail Whip",1,0,1.66,101800201,101800202,0,0,0,0,0,0,101800201,0,0,0,0,0,"Deals small magical damage to all enemies in range.",2002
 1018003,"Soul Drain",1,0,1.33,101800301,101800302,0,0,0,0,0,0,0,0,0,0,0,0,"Reduces the TP of one random enemy by a small amount while also recovering own TP by a small amount.",2006
+1018012,"Tail Whip+",1,0,1.66,101801201,101801202,101801203,101801204,101801205,101801206,101801207,0,101801201,101801202,101801203,101801202,101801205,101801205,"Deals moderate magical damage to all enemies in range. If they are suffering from Charm, reduces their TP by a large amount, and if they are not, lowers their physical and magical attack by a moderate amount.",2002
 1018501,"Sweet, Loving Heart",0,0,0.0,101850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1018511,"Sweet, Loving Heart+",0,0,0.0,101851101,101851102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
 1020001,"Bunny Blade",1,0,0.0,102000101,102000102,102000103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and large physical damage to the 2nd closest enemy.",1001
@@ -186,16 +189,19 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1037001,"Mikuma Hidden Art: Asura",0,0,0.0,103700101,103700102,103700103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Massive boost to own physical attack and moderate boost to own action speed.",1001
 1037002,"Mikuma Style: Gale Strike",0,0,0.76,103700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",2001
 1037003,"Mikuma Style: Returning Swallow",0,0,1.5,103700301,103700302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and recovers own TP by a small amount.",2001
+1037012,"Mikuma Style: Gale Strike+",0,0,0.76,103701201,103701202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Damage increases based on the number of targets.",2001
 1037501,"Vital Resonance: Sheer Focus",0,0,0.0,103750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1037511,"Vital Resonance: Sheer Focus+",0,0,0.0,103751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1038001,"Enchanted Arrow",0,0,0.0,103800101,103800102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Large boost to own physical attack.",1001
 1038002,"Triple Shot",0,0,0.76,103800201,103800202,103800203,103800204,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to up to 3 enemies directly in front. Recovers own TP by a small amount.",2001
 1038003,"Wind Arrow",0,0,1.5,103800301,103800302,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts moderate physical damage to one enemy directly in front while also recovering own TP by a small amount.",2001
+1038012,"Triple Shot+",0,0,0.76,103801201,103801202,103801203,103801204,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Damage increases based on the number of targets.",2001
 1038501,"Enhanced Aim",0,0,0.0,103850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1038511,"Enhanced Aim+",0,0,0.0,103851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1040001,"Twisting Vines",1,0,0.0,104000101,104000102,0,0,0,0,0,0,104000101,0,0,0,0,0,"Deals moderate physical damage to enemies in a radius around the closest enemy.",1001
 1040002,"Poison Arrow",1,0,1.06,104000201,104000202,0,0,0,0,0,0,104000201,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Poison.",2022
 1040003,"Paralyzing Shot",1,0,1.06,104000301,104000302,0,0,0,0,0,0,104000301,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Paralyze.",2007
+1040012,"Poison Arrow+",1,0,0.86,104001201,104001202,104001203,104001204,104001205,0,0,0,0,0,104001202,104001203,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Poison. If the target is already poisoned, instead deals massive physical damage and inflicts Venom.",2022
 1040501,"Woodland Marksman",0,0,0.0,104050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1040511,"Woodland Marksman+",0,0,0.0,104051101,104051102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to physical defense at start of battle.",3001
 1042001,"Sylvan Blessing",1,0,0.0,104200101,104200102,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies in front of her by a moderate amount and summons a fairy beside the foremost ally.",1005
@@ -704,6 +710,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3047002,"",1,0,2.2,304700203,304700204,304700201,304700202,0,0,0,0,0,0,0,0,0,0,"Living Mail Skill 1",1001
 3047003,"",1,0,3.5,304700301,0,0,0,0,0,0,0,304700301,0,0,0,0,0,"Living Mail Skill 2",1001
 3047004,"",1,0,2.7,304700401,304700402,304700403,0,0,0,0,0,0,0,0,0,0,0,"Living Mail Awakening",1001
+3047041,"",0,0,2.7,304704101,304704102,0,0,0,0,0,0,304704101,0,0,0,0,0,"Tower Living Mail Union Burst",1001
+3047042,"",0,0,2.2,304704201,304704202,304704203,304704204,0,0,0,0,0,0,0,0,0,0,"Tower Living Mail Skill 1",1001
+3047043,"",0,0,3.5,304704301,304704302,0,0,0,0,0,0,0,0,0,0,0,0,"Tower Living Mail Skil 2",1001
+3047044,"",0,0,2.7,304704401,304704402,304704403,0,0,0,0,0,0,0,0,0,0,0,"Tower Living Mail Awakening",1001
 3048001,"",2,0,1.5,304800101,304800102,0,0,0,0,0,0,304800101,0,0,0,0,0,"Wraithlord Skill 0",1001
 3048002,"",2,0,1.5,304800201,304800202,304800203,0,0,0,0,0,0,0,0,0,0,0,"Wraithlord Skill 1",1001
 3049001,"",0,0,2.0,304900101,304900102,304900103,304900104,304900105,0,0,0,0,0,0,0,0,0,"Franken UB",1001
