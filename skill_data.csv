@@ -412,6 +412,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1091003,"Heartful Shot",1,0,0.72,109100301,109100302,109100303,109100304,109100305,109100306,0,0,0,0,0,109100302,109100303,0,"Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount. [With Active Field] Damage dealt and defense lowered both increase.",2001
 1091501,"Purehearted Big Sis",0,0,0.0,109150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1091511,"Purehearted Big Sis+",0,0,0.0,109151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1092001,"Deterrent Thrust",1,0,0.0,109200101,109200102,109200103,0,0,0,0,0,0,109200102,0,0,0,0,"Deals massive magical damage to an enemy directly in front. Boosts the magical attack of all allies with Spirit's Blessing by a large amount.",1002
+1092002,"Collision Spell",1,0,0.925,109200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
+1092003,"Princess Calling",1,0,1.065,109200301,109200302,109200303,0,0,0,0,0,0,0,0,0,0,0,"Grants Spirit's Blessing to all nearby allies. Boosts their magical attack by a large amount and their action speed by a small amount.",2003
+1092501,"Radiant Calling",0,0,0.0,109250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1092511,"Radiant Calling+",0,0,0.0,109251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1093001,"Mr. Gawker Attack!",1,0,0.0,109300101,109300102,109300103,0,0,0,0,0,0,109300102,0,0,0,0,"",1002
+1093002,"Come on Out, Mr. Gawker!",0,0,1.7325,109300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Summons a Mr. Gawker. Each time Lou takes damage, one Mr. Gawker runs away, dealing damage to an enemy.",2017
+1093003,"Beginner's Luck",1,0,1.19,109300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large magical damage to an enemy directly in front.",2002
+1093501,"Never Give Up",0,0,0.0,109350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1093511,"Never Give Up+",0,0,0.0,109351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -796,6 +806,12 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3068006,"",1,0,0.1,306800601,306800602,306800603,0,0,0,0,0,0,0,0,0,0,0,"Goddess of Woe",1001
 3068007,"",1,0,0.0,306800701,306800702,306800703,306800704,0,0,0,0,0,0,0,0,0,0,"Goddess of Woe",1001
 3068008,"",1,0,1000.0,306800801,0,0,0,0,0,0,0,0,0,0,0,0,0,"Goddess of Woe",1001
+3070001,"",1,0,2.0,307000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gigas UB",1001
+3070002,"",1,0,2.0,307000201,307000202,0,0,0,0,0,0,307000201,0,0,0,0,0,"Gigas Skill 1",1001
+3070003,"",1,0,2.0,307000301,307000302,307000303,307000304,307000305,0,0,0,0,0,0,0,0,0,"Gigas Skill 2",1001
+3070004,"",1,0,2.0,307000401,307000402,307000403,307000404,0,0,0,0,0,0,0,0,0,0,"Gigas Awakening",1001
+3070005,"",1,0,2.0,307000501,307000502,307000503,307000504,0,0,0,0,0,0,0,0,0,0,"Gigas Awakening (SP)",1001
+3070006,"",1,0,2.0,307000601,0,0,0,0,0,0,0,0,0,0,0,0,0,"Gigas Standard Attack",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
