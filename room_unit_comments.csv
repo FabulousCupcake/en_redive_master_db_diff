@@ -2784,3 +2784,47 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2998,105501,3,5,1,0,1,"Wouldn't it be amazing to huddle up and get warm next to him...?",0
 3000,105501,3,7,1,0,1,"Oh, this is tasty!\nI wonder if he likes this kind of flavor...",0
 3001,105501,3,8,1,0,1,"H... ""How to get closer to that special someone""...?",0
+3003,109201,1,1,1,0,1,"I want to use my abilities to help those dear to me.",0
+3004,109201,1,2,1,0,1,"The scenery's great, and the food's delicious! What a wonderful world I've come to.",0
+3005,109201,1,3,1,0,1,"It'd be great if I could make friends with everyone here as well!",0
+3006,109201,1,4,1,0,1,"Wow! Everything's just so fascinating!",0
+3007,109201,1,5,1,0,1,"I'm always telling myself to keep it together, but it's hard not to let myself be spoiled whenever Grea's around.",0
+3008,109201,1,101,4,0,1,"You have no idea how happy I am to make friends in a whole different world!",0
+3009,109201,1,102,8,0,1,"I wish I could go to school with everyone here! It'd be so much fun!",0
+3010,109201,2,1,1,0,1,"I've got an elegant style of walking? Ehehe. Really?",0
+3011,109201,2,2,1,0,1,"I really love studying! It's always fun to learn new things!",0
+3012,109201,2,3,1,0,1,"Mysteria is where magic has its origins! That knowledge has been passed down since long, long ago.",0
+3013,109201,2,4,1,0,1,"It'd be nice if there were even more bookshelves in here.",0
+3014,109201,2,101,4,0,1,"Come see me if you ever want to learn magic! I'll teach you!",0
+3015,109201,2,102,8,0,1,"I'm feeling like it's time for some tea. Would you like to join me?",0
+3016,109201,2,1,1,1,1,"Good morning! Here's to another great day!",0
+3017,109201,2,2,1,2,1,"Did you have a nice and filling lunch? Great! That'll help you get through the afternoon!",0
+3018,109201,2,3,1,3,1,"I always get too invested and end up staying up late whenever I'm reading novels.",0
+3020,109201,3,2,1,0,1,"Ahh, this is great. I might take a little nap.",0
+3021,109201,3,3,1,0,1,"Wow! This is adorable! I'd love to show it to Grea as well.",0
+3022,109201,3,4,1,0,1,"What a nice, relaxing scent!",0
+3023,109201,3,5,1,0,1,"So warm and snug! I could sit around here forever!",0
+3025,109201,3,7,1,0,1,"Th-this is too delicious! I can't stop eating!",0
+3026,109201,3,8,1,0,1,"Interesting, interesting... Ah! I-I got a bit too carried away there.",0
+3028,109301,1,1,1,0,1,"I'm bound to get lost whenever I enter a building for the first time...",0
+3029,109301,1,2,1,0,1,"I'm hungry! Where are the sweets?",0
+3030,109301,1,3,1,0,1,"There's about seven assignments that I still haven't done. But it'll work out!",0
+3031,109301,1,4,1,0,1,"There are all sorts of strange things here. But I don't mind! That's what youth is all about!",0
+3032,109301,1,5,1,0,1,"Is there anything super interesting to do around here?",0
+3033,109301,1,101,4,0,1,"I'm friends with everyone here already!",0
+3034,109301,1,102,8,0,1,"I'm so hungry...",0
+3035,109301,2,1,1,0,1,"The food here's great. And that makes me real happy!",0
+3036,109301,2,2,1,0,1,"You want to know more about magic? Sorry... Anne knows more about that than me.",0
+3037,109301,2,3,1,0,1,"Do you hate studying as much as I do?",0
+3038,109301,2,4,1,0,1,"You think my hat's cute? Thanks! It's my favorite!",0
+3039,109301,2,101,4,0,1,"I'm so happy I've made all these new friends! ♪",0
+3040,109301,2,102,8,0,1,"You want to... study?! Ugh! No way!",0
+3041,109301,2,1,1,1,1,"*yawn* Morning already? Let me go back to dreamland...",0
+3042,109301,2,2,1,2,1,"I'm gonna play all afternoon!",0
+3043,109301,2,3,1,3,1,"Staying up late's so exciting! Gotta enjoy it while you're young!",0
+3045,109301,3,2,1,0,1,"Nice and comfy! Now this is real nap material! ♪",0
+3046,109301,3,3,1,0,1,"It's so cute and soft! It'd be a great pillow for napping at my desk.",0
+3047,109301,3,4,1,0,1,"Wooow, this smells so nice. I feel a lot better now!",0
+3048,109301,3,5,1,0,1,"It's so cozy here! I'll get back to playing once I'm all warmed up!",0
+3050,109301,3,7,1,0,1,"Th-this is delicious! I'm taking it all!",0
+3051,109301,3,8,1,0,1,"Books just... make me... so tired... Zzz...",0

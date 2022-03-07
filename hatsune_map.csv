@@ -11,3 +11,4 @@ course_id,event_id,name,map_id,sheet_id,que_id,start_area_id,end_area_id
 10010,10010,"Temple Trail",10010,bgm_M121,bgm_M121,10010101,10010101
 10011,10011,"Valentine's",10011,bgm_M189,bgm_M189,10011101,10011101
 10012,10012,"Landosol City",10012,bgm_M206,bgm_M206,10012101,10012101
+10013,10013,Mysteria,10013,bgm_M215,bgm_M215,10013101,10013101
