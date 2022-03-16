@@ -2828,3 +2828,25 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3048,109301,3,5,1,0,1,"It's so cozy here! I'll get back to playing once I'm all warmed up!",0
 3050,109301,3,7,1,0,1,"Th-this is delicious! I'm taking it all!",0
 3051,109301,3,8,1,0,1,"Books just... make me... so tired... Zzz...",0
+3053,109401,1,1,1,0,1,"Is there... a piano anywhere around here?",0
+3054,109401,1,2,1,0,1,"Whew...\nI feel so relaxed here.",0
+3055,109401,1,3,1,0,1,"It's always so lively\nback at Mysteria...",0
+3056,109401,1,4,1,0,1,"I wonder how everyone back home is doing?",0
+3057,109401,1,5,1,0,1,"Finding ourselves in a whole different world was a shock, to say the least.",0
+3058,109401,1,101,4,0,1,"I'm not all that great\nat making conversation...",0
+3059,109401,1,102,8,0,1,"If I could go to school with all the people here... that might be kind of fun.",0
+3060,109401,2,1,1,0,1,"My wings, my tail...\nThey must bother you, right?",0
+3061,109401,2,2,1,0,1,"I guess my greatest strength is fire magic... Though controlling it can be difficult...",0
+3062,109401,2,3,1,0,1,"My homeland is a land of dragons. It lies beyond a harsh mountain range.",0
+3063,109401,2,4,1,0,1,"Anne...?\nOh! I-I'm so sorry...\nI got mixed up for a second.",0
+3064,109401,2,101,4,0,1,"Hm-hm-hm~♪\n...Wahh!\nD-did you hear all that?\nI'm so embarrassed...",0
+3065,109401,2,102,8,0,1,"Is there anything I can do to help you out?\nReally, anything at all.",0
+3066,109401,2,1,1,1,1,"The morning air is so\ncalm and refreshing...\nDoesn't it make you\nfeel relaxed?",0
+3067,109401,2,2,1,2,1,"The lunches at our\nschool cafeteria are good and all... But I like the\nfood here a lot too.",0
+3068,109401,2,3,1,3,1,"I guess I should really get to bed soon. I'll try to be careful tonight... No more wild tossing and turning!",0
+3070,109401,3,2,1,0,1,"I'm getting the urge to stretch my wings... Heheh.",0
+3071,109401,3,3,1,0,1,"Th-this is far too cute\nfor me to hold...\nBut... it is lovely.",0
+3072,109401,3,4,1,0,1,"What a nice scent... I bet Anne would like it too.",0
+3073,109401,3,5,1,0,1,"Gazing into the flames makes me feel calm...\nI-is that strange?",0
+3075,109401,3,7,1,0,1,"Oh... This is good!\nHow exactly is it made,\nI wonder?",0
+3076,109401,3,8,1,0,1,"This book...\nI wonder how Anne\nwould react if I showed\nit to her. Heheh...",0

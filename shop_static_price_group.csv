@@ -4,3 +4,4 @@ id,price_group_id,buy_count_from,buy_count_to,count
 3,1,41,60,3
 4,1,61,80,4
 5,1,81,-1,5
+6,2,1,-1,20

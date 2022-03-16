@@ -12,6 +12,7 @@ id,discription,type_1,type_2,type_3,type_4
 2011,"Item obtained from {0} on Day {1} of {2} .",1,2,16,0
 2012,"Item obtained on day {1} of {0}.",17,2,0,0
 2013,"Item obtained from {0}.",1,0,0,0
+2014,"Reward for reaching Lap {2} in the {0} Clan Battle.",10,11,19,0
 3001,"Item obtained for unlocking the 2nd floor of Guildhouse.",0,0,0,0
 3002,"Item obtaind for unlocking the third floor of the Guildhouse.",0,0,0,0
 9101,"Compensation from the Admin team.",0,0,0,0
@@ -37,7 +38,7 @@ id,discription,type_1,type_2,type_3,type_4
 9303,"Princess Arena defense reward.",0,0,0,0
 9304,"Reward obtained from clan support.",0,0,0,0
 9305,"Some of the items that were used to refine equipment before ranking up.",0,0,0,0
-9306,"Mana converted from EXP.",0,0,0,0
+9306,"Coins converted from Player EXP.",0,0,0,0
 9307,"Item obtained from the Clan Battle victory rewards.",0,0,0,0
 9308,"Mana obtained for a like from a clan member.",0,0,0,0
 9309,"Battle Arena timed rewards obtained over the possession limit.",0,0,0,0
@@ -46,7 +47,15 @@ id,discription,type_1,type_2,type_3,type_4
 9312,"Princess Arena rewards obtained over the possession limit.",0,0,0,0
 9313,"Character exchange rewards obtained over the possession limit.",0,0,0,0
 9314,"Item converted from character exchange points when the Gacha updated.",0,0,0,0
+9315,"Coins converted from stamina.",0,0,0,0
+9316,"Item converted from Special Gala Exchange Points.",0,0,0,0
+9317,"Reward obtained from friend support.",0,0,0,0
 9401,"Daily Jewel Pack",0,0,0,0
+9402,"7-Day Stamina Support Pack",0,0,0,0
+9403,"Item obtained by purchasing Equipment Pack 1.",0,0,0,0
+9404,"Item obtained by purchasing Equipment Pack 2.",0,0,0,0
+9405,"Item obtained by purchasing Equipment Pack 3.",0,0,0,0
+9406,"Item obtained by purchasing Equipment Pack 4.",0,0,0,0
 9501,"Item obtained from the event login bonus day {1}.",13,2,0,0
 9502,"Item obtained for clearing event quest for the first time.",13,0,0,0
 9503,"Item obtained for clearing event quest {1}.",13,14,0,0
@@ -56,6 +65,7 @@ id,discription,type_1,type_2,type_3,type_4
 9507,"Item obtained from {1}.",13,12,0,0
 9508,"Item obtained from {0}.",13,0,0,0
 9509,"Item obtained for solving a riddle.",0,0,0,0
+9510,"Item obtained from {0}.",18,0,0,0
 9600,"Item obtained from a minigame.",0,0,0,0
 9700,"Ranking reward earned in Attack of the Robo Lima!",0,0,0,0
 9701,"Attack reward earned in Attack of the Robo Lima!",0,0,0,0
