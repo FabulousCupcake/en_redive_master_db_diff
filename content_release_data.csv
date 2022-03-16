@@ -7,6 +7,8 @@ system_id,team_level,story_id,quest_id,dialog
 108,1,0,11009001,"To unlock, clear Main Quest 9-1 (NORMAL)"
 109,1,0,11009002,"To unlock, clear Main Quest 9-2 (NORMAL)"
 110,1,0,11001005,"To unlock, clear Main Quest 1-5 (NORMAL)"
+111,1,0,12018001,Preparing...
+112,1,0,11018005,Preparing...
 201,1,0,0,""
 202,1,0,11004006,"To unlock, clear Main Quest 4-6 (NORMAL)"
 203,1,0,11008015,"To unlock, clear Main Quest 8-15 (NORMAL)"
@@ -22,3 +24,4 @@ system_id,team_level,story_id,quest_id,dialog
 602,1,0,11007001,"To unlock, clear Main Quest 7-1 (NORMAL)"
 603,1,0,11016014,"To unlock, clear Main Quest 16-14 (NORMAL)"
 701,1,0,11003001,"To unlock, clear Main Quest 3-1 (NORMAL)"
+904,1,0,11002009,Preparing...
