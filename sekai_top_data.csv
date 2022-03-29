@@ -1,0 +1,11 @@
+id,sekai_id,name,description,top_bg,position_x,position_y,scale_ratio,sheet_id,que_id,boss_mode,sekai_boss_mode_id,boss_hp_from,boss_hp_to,boss_time_from,boss_time_to,duration,story_id
+1,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,1,1001001,1000000000000,500000000001,"2022/04/01 0:00:00","2022/04/01 7:59:59",480,4004101
+2,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,2,1001002,500000000000,300000000001,"2022/04/01 8:00:00","2022/04/01 12:59:59",300,4004102
+3,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,3,1001003,300000000000,100000000001,"2022/04/01 13:00:00","2022/04/01 17:59:59",300,4004103
+4,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,1,1001001,100000000000,50000000001,"2022/04/01 18:00:00","2022/04/01 19:59:59",120,4004104
+5,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,2,1001002,50000000000,0,"2022/04/01 20:00:00","2022/04/01 23:59:59",240,0
+8,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,1,1001004,0,0,"2022/04/01 0:00:00","2022/04/01 7:59:59",480,4004109
+9,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,2,1001005,0,0,"2022/04/01 8:00:00","2022/04/01 12:59:59",300,0
+10,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,3,1001006,0,0,"2022/04/01 13:00:00","2022/04/01 17:59:59",300,0
+11,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,1,1001004,0,0,"2022/04/01 18:00:00","2022/04/01 20:59:59",180,0
+12,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,2,1001005,0,0,"2022/04/01 21:00:00","2022/04/01 23:59:59",180,0
