@@ -1,0 +1,5 @@
+mission_id,disp_group,category_icon,description,mission_condition,condition_value_1,condition_value_2,condition_value_3,condition_num,mission_reward_id,system_id,event_id,visible_flag,start_time,end_time
+99001001,10,601,"Defeat the Evil Magistrate 1 times (NORMAL)",9001,610015101,0,0,1,99001001,6006,10015,1,"2022/04/05 23:00:00","2030/04/01 14:59:59"
+99001002,11,601,"Defeat the Evil Magistrate 1 times (HARD)",9001,610015201,0,0,1,99001002,6007,10015,1,"2022/04/05 23:00:00","2030/04/01 14:59:59"
+99001003,12,601,"Defeat the Evil Magistrate 1 times (VERY HARD)",9001,610015301,0,0,1,99001003,6010,10015,1,"2022/04/05 23:00:00","2030/04/01 14:59:59"
+99001004,13,601,"Defeat the Evil Magistrate 1 times (SPECIAL)",9001,610015401,0,0,1,99001004,6011,10015,1,"2022/04/05 23:00:00","2030/04/01 14:59:59"
