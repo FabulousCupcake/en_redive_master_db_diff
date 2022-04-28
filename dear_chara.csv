@@ -1,0 +1,4 @@
+event_id,chara_index,chara_name,max_dear_point,reference_type,reference_id,episode_unlock_offset_x,episode_unlock_offset_y,dear_point_up_offset_x,dear_point_up_offset_y
+10017,1,Emilia,1000,1,109901,0,0,0,0
+10017,2,Rem,1000,1,109701,0,0,0,0
+10017,3,Ram,1000,1,109801,0,0,0,0

@@ -19,3 +19,8 @@ ailment_id,ailment_action,ailment_detail_1,ailment_name
 18,3,-1,"Knock(ed) back"
 19,11,1,Confusion
 20,9,4,Venom
+21,56,-1,"千里眼"
+22,59,-1,"回復阻害"
+23,61,-1,"恐慌"
+24,60,-1,"刻印付与"
+25,62,-1,"畏怖"

@@ -20,6 +20,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1004001,"Trick Bomber",0,0,0.0,100400101,100400102,0,0,0,0,0,0,100400101,0,0,0,0,0,"Deals moderate physical damage to enemies in a radius around the 2nd closest enemy.",1001
 1004002,"Ink Spray",0,0,1.55,100400201,100400202,0,0,0,0,0,0,100400201,0,0,0,0,0,"Deals small physical damage to the 2nd closest enemy and inflicts Blind.",2010
 1004003,"Water Balloon",0,0,1.18,100400301,100400302,100400303,0,0,0,0,0,100400301,0,0,0,0,0,"Deals small physical damage to an enemy with the highest physical attack and lowers its physical attack by a small amount. Small boost to own physical attack.",2004
+1004012,"Ink Spray+",0,0,1.55,100401201,100401202,100401203,100401204,0,0,0,0,100401201,0,100401203,0,0,0,"Deals small physical damage to the 2nd closest enemy and inflicts Blind. Lowers the physical attack of all enemies in range by a small amount.",2010
 1004501,"Professional Prankster",0,0,0.0,100450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1004511,"Professional Prankster+",0,0,0.0,100451101,100451102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to physical attack at start of battle.",3002
 1005001,"Tiger Heroic Bomber",0,0,0.0,100500101,100500102,100500103,0,0,0,0,0,0,100500102,0,0,0,0,"Leaps toward the third-closest enemy and deals large physical damage to all enemies in an area around oneself.",1001
@@ -37,6 +38,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1007001,"You're Pudding Now!",1,0,0.0,100700101,100700102,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts large physical damage to one enemy directly in front while also healing own HP by a large amount.",1001
 1007002,BOO!,0,0,0.0,100700201,100700202,100700203,0,0,0,0,0,0,100700202,0,0,0,0,"[Transform] Transforms into a ghost, becoming invincible for a short time.",2017
 1007003,"Snack Time!",1,0,0.27,100700301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers own HP by a moderate amount.",2005
+1007012,BOO!+,0,0,0.0,100701201,100701202,100701203,100701204,100701205,0,0,0,0,100701202,0,0,0,0,"[Transform] Transforms into a ghost, becoming invincible for a short time. Additionally, moderate boost to own Dodge and large boost to own physical defense.",2017
 1007501,"Floaty Wispy Ghosty!",0,0,0.0,100750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1007511,"Floaty Wispy Ghosty!+",0,0,0.0,100751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
 1008001,"Bow to My Beauty!",1,0,0.0,100800101,100800102,0,0,0,0,0,0,100800101,0,0,0,0,0,"Deals small magical damage to all enemies in the front and lowers their physical defense by a small amount.",1002
@@ -104,6 +106,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1020001,"Bunny Blade",1,0,0.0,102000101,102000102,102000103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and large physical damage to the 2nd closest enemy.",1001
 1020002,"Hippety Hackety",1,0,0.85,102000201,102000202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1020003,"Bunny Boost",0,0,0.42,102000301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to physical attack of all allies.",2003
+1020012,"Hippety Hackety+",1,0,0.85,102001201,102001202,102001203,0,0,0,0,0,0,102001202,0,0,0,0,"Deals large physical damage to all enemies in range.",2001
 1020501,"Bunny Power",0,0,0.0,102050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1020511,"Bunny Power+",0,0,0.0,102051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1021001,"Fearful Bell Bash",0,0,0.0,102100101,102100102,0,0,0,0,0,0,102100101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and inflicts Stun for a long period.",1018
@@ -187,6 +190,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1036001,"Cosmo Blue Flash",1,0,0.0,103600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to an enemy directly in front.",1002
 1036002,"Ice Lance",1,0,1.83,103600201,0,0,0,0,0,0,0,103600201,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1036003,"Magical Surge",1,0,1.4,103600301,0,0,0,0,0,0,0,103600301,0,0,0,0,0,"Large boost to own magical attack for a brief period.",2003
+1036012,"Ice Lance+",1,0,1.83,103601201,0,0,0,0,0,0,0,103601201,0,0,0,0,0,"Deals large magical damage to an enemy directly in front. When this skill is a critical hit, its damage is quadrupled instead of doubled.",2002
 1036501,"Pinch of Bravery",0,0,0.0,103650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1036511,"Pinch of Bravery+",0,0,0.0,103651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1037001,"Mikuma Hidden Art: Asura",0,0,0.0,103700101,103700102,103700103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Massive boost to own physical attack and moderate boost to own action speed.",1001
@@ -221,6 +225,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1044001,"Vermilion Bite",1,0,0.0,104400101,104400102,104400103,104400104,0,0,0,0,104400101,0,0,0,0,0,"Deals large magical damage to all enemies in range and recovers own HP by a moderate amount.",1002
 1044002,"Bloodthirsty Blast",1,0,1.125,104400201,104400202,104400203,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack. Deals moderate magical damage to an enemy directly in front at the cost of own HP.",2002
 1044003,"Bloody Spear",1,0,0.865,104400301,104400302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in range at the cost of own HP.",2002
+1044012,"Bloodthirsty Blast+",1,0,1.125,104401201,104401202,104401203,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack. Deals large magical damage to an enemy directly in front at the cost of own HP.",2002
 1044501,"Blood Pact",0,0,0.0,104450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1044511,"Blood Pact+",0,0,0.0,104451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1045001,"Throes of Ecstasy",1,0,0.0,104500101,104500102,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier around oneself that absorbs magic damage, and recovers own HP by a moderate amount.",1013
@@ -256,6 +261,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1050001,"All-Destroying Eye",1,0,0.0,105000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies in the front.",1002
 1050002,"Dark Photon",1,0,1.4,105000201,105000202,0,0,0,0,0,0,105000201,0,0,0,0,0,"Deals small magical damage to an enemy directly in front and reduces their action speed by a small amount.",2002
 1050003,"Eyeball Volley",1,0,0.9,105000301,105000302,105000303,105000304,105000305,105000306,0,0,105000301,0,105000303,0,105000305,0,"Deals small magical damage to all enemies in a radius around the closest enemy 3 times.",2002
+1050012,"Dark Photon+",1,0,1.4,105001201,105001202,105001203,0,0,0,0,0,105001201,105001202,0,0,0,0,"Deals moderate magical damage to all enemies in range and reduces their action speed by a large amount.",2002
 1050501,"True Lady's Etiquette",0,0,0.0,105050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1050511,"True Lady's Etiquette+",0,0,0.0,105051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1051001,"Bloody Rose",1,0,0.0,105100101,105100102,105100103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Recovers own HP for each foe defeated by this skill.",1001
@@ -443,6 +449,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1096003,"Ninpo: Shadow Clone no Jutsu",1,0,0.34,109600301,109600302,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and large boost to own action speed.",2003
 1096501,"Ninpo: Ultra Superstrength",0,0,0.0,109650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1096511,"Ninpo: Ultra Superstrength+",0,0,0.0,109651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1097001,"Al Huma",1,0,0.0,109700101,109700102,109700103,0,0,0,0,0,109700101,109700101,0,0,0,0,"Deals large physical damage to all enemies in range. Damage increases for enemies that are unable to move.",1001
+1097002,"El Huma",0,0,0.99,109700201,109700202,0,0,0,0,0,0,109700201,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Freeze.",2001
+1097003,"Aqua Healing",1,0,0.59,109700301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the ally with the lowest HP by a moderate amount.",2005
+1097501,"Fanatical as a Demon",0,0,0.0,109750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1097511,"Fanatical as a Demon+",0,0,0.0,109751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1098001,"Out of My Way",1,0,0.0,109800101,109800102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies and inflicts Bind.",1002
+1098002,Fura,0,0,0.465,109800201,109800202,109800203,109800204,109800205,0,0,0,109800201,109800201,109800202,109800203,0,0,"If the enemy directly in front is unable to move, deals large magical damage and knocks them back a large distance. If not, deals moderate magical damage and knocks them back a small distance.",2002
+1098003,Clairvoyance,1,0,0.465,109800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts a special status on the enemy with the highest physical attack, causing their next physical attack to miss.",2017
+1098501,"Pure Arrogance",0,0,0.0,109850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1098511,"Pure Arrogance+",0,0,0.0,109851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1099001,"Promised Field",1,0,0.0,109900101,109900102,109900103,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the ally with the lowest HP by a massive amount. Moderate boost to the physical and magical defense of all allies.",1005
 1099002,"Help Me Out, Puck!",0,0,1.77,109900201,109900202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front. Moderate boost to own magical attack.",2002
 1099003,"Ice Needles",1,0,0.75,109900301,109900302,109900303,109900304,0,0,0,0,0,0,0,0,0,0,"Deals small magic damage to a random enemy in range 4 times.",2002
@@ -891,6 +907,15 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3073006,"",0,0,0.0,307300601,307300602,307300603,307300604,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
 3073007,"",0,0,1.8,307300701,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
 3073008,"",0,0,1.8,307300801,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3074001,"",0,0,1.8,307400101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Petelgeuse UB",1001
+3074002,"",0,0,1.8,307400201,307400202,307400203,0,0,0,0,0,307400201,0,0,0,0,0,"Petelgeuse Skill 1 (Evil Aura)",1001
+3074003,"",0,0,1.8,307400301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Petelgeuse Skill 2 (Rearguard Rush)",1001
+3074004,"",0,0,1.8,307400401,307400402,307400403,0,0,0,0,0,0,0,0,0,0,0,"Petelgeuse Awake",1001
+3074005,"",0,0,2.8,307400501,307400502,307400503,0,0,0,0,0,0,0,0,0,0,0,"Petelgeuse Skill 4 (Countdown)",1001
+3074006,"",0,0,1.8,307400601,307400602,307400603,307400604,0,0,0,0,0,0,0,0,0,0,"Petelgeuse Awake 2",1001
+3074007,"",0,0,3.0,307400701,307400702,307400703,307400704,307400705,0,0,0,0,0,0,0,0,0,"Petelgeuse Break 1",1001
+3074008,"",0,0,3.0,307400801,307400802,307400803,307400804,307400805,0,0,0,0,0,0,0,0,0,"Petelgeuse Break 2",1001
+3074009,"",0,0,3.0,307400901,307400902,307400903,307400904,307400905,0,0,0,0,0,0,0,0,0,"Petelgeuse Break 3",1001
 3075001,"",0,0,1.5,307500101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ziz Skill 0",1001
 3075002,"",0,0,1.5,307500201,307500202,307500203,0,0,0,0,0,307500201,307500202,0,0,0,0,"Ziz Skill 1",1001
 3075003,"",0,0,1.5,307500301,307500302,0,0,0,0,0,0,307500301,0,0,0,0,0,"Ziz Skill 2",1001

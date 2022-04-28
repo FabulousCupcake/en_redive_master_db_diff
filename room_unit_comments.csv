@@ -2894,3 +2894,47 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3123,109601,3,5,1,0,1,"This could warm your sandals better than the inside of my kimono...\nA dreaded rival appears!",0
 3125,109601,3,7,1,0,1,"Nobody can do battle on an empty belly! We must eat heartily if we are to conquer all the lands!",0
 3126,109601,3,8,1,0,1,"What's this?\nA message in code?!\nUmmm... deciphering this might take some time...",0
+3128,109701,1,1,1,0,1,"That should do for the cleaning... I'd better start on the cooking next.",0
+3129,109701,1,2,1,0,1,"If it's possible, I would love to see a stage play in this foreign world!",0
+3130,109701,1,3,1,0,1,"Ah, so mayonnaise is readily available in this world...",0
+3131,109701,1,4,1,0,1,"This world has so many unique ingredients.\nIt makes me want to think up some new recipes...",0
+3132,109701,1,5,1,0,1,"Woom woom woom...\nThat should do for today's magic practice.",0
+3133,109701,1,101,4,0,1,"The reward for moving that fallen tree was an unexpected windfall.\nI should share it with Miss Saren before I forget.",0
+3134,109701,1,102,8,0,1,"Seeing people enjoy my cooking makes me truly happy as a maid.",0
+3135,109701,2,1,1,0,1,"If you're heading out, please allow me to accompany you.",0
+3136,109701,2,2,1,0,1,"Feel free to ask anything of me. I'm happy to take care of any task.",0
+3137,109701,2,3,1,0,1,"*staaaare*... Oh, I'm sorry.\nI was only feeling a little... just a little... extremely a little... concerned by the length of your hair.",0
+3138,109701,2,4,1,0,1,"My morningstar?\nIt's just for self-defense,\nso there's no problem,\nis there?",0
+3139,109701,2,101,4,0,1,"How are your calculations going? If you need help with your studies,\nI'm always available.",0
+3140,109701,2,102,8,0,1,"I'd like to try my hand at a more ambitious monster dish next. How does roast wyvern sound to you?",0
+3141,109701,2,1,1,1,1,"Good morning.\nBreakfast is served, so please come to the table when you're ready.",0
+3142,109701,2,2,1,2,1,"It's almost lunchtime.\nIs there anything in particular you would like to eat today?",0
+3143,109701,2,3,1,3,1,"Why am I still awake?\nA maid must always be the last in the household to retire to bed.",0
+3145,109701,3,2,1,0,1,"Ah, so soft...\nIt's enough to soften a demon's claws...",0
+3146,109701,3,3,1,0,1,"Hee hee... Even in another world, the love for cute things is universal.",0
+3147,109701,3,4,1,0,1,"What a lovely scent...\nIt couldn't be more different from the\nWitch Cult's stench.",0
+3148,109701,3,5,1,0,1,"Mmm, so warm... Ahh!\nThis will not do at all!\nIt could drive a person... no, a demon to idleness!",0
+3150,109701,3,7,1,0,1,"*munch*... Delicious!\nIf I can reproduce this flavor, perhaps he will praise my skills!",0
+3151,109701,3,8,1,0,1,"All these lovely pictures... This world's books are very interesting indeed.",0
+3153,109801,1,1,1,0,1,"Even in another world,\nmy duties stay the same.\nFirst, I think I'll take a well-earned break.",0
+3154,109801,1,2,1,0,1,"If this world has its own mayonnaise, that could mean it's not far from Barusu's homeland...",0
+3155,109801,1,3,1,0,1,"The people in this world use the same expressions as Barusu sometimes. It's irritating to say the least.",0
+3156,109801,1,4,1,0,1,"Looks like we're not the only maids in this world.\nI suppose I'll... let them take care of the work.",0
+3157,109801,1,5,1,0,1,"My Clairvoyance doesn't detect anything amiss. Since there's no danger, I'll leave it all to Rem.",0
+3158,109801,1,101,4,0,1,"I wonder if I'll ever be called ""Big Sis"" like that again...",0
+3159,109801,1,102,8,0,1,"Hah! My steamed taters are second to none.\nMaybe I'll make them for you again, if you're lucky.",0
+3160,109801,2,1,1,0,1,"If you have time to waste bothering me, do some work. The more you do, the less I'll have to.",0
+3161,109801,2,2,1,0,1,"Don't bother expecting anything from me.\nI only take orders from Master Roswaal.",0
+3162,109801,2,3,1,0,1,"If you're free, come shopping with me.\nI'll let you hold the bags.",0
+3163,109801,2,4,1,0,1,"What do you want?\nIf it's something frivolous, there'll be consequences.",0
+3164,109801,2,101,4,0,1,"Oh, of course—you don't have any memories.\nPut in a little more effort to remember. ...You'll make your family sad.",0
+3165,109801,2,102,8,0,1,"You want some steamed taters? What an impudent demand... There are still some left, so go ahead.",0
+3166,109801,2,1,1,1,1,"You look like a fool.\nWash your face and work on your composure.",0
+3167,109801,2,2,1,2,1,"I'm feeling a little hungry.\n...You can have the honor of making lunch for me.",0
+3168,109801,2,3,1,3,1,"A maid must always be last to retire to bed...\nSo hurry up and go to bed, why don't you?",0
+3170,109801,3,2,1,0,1,"...I feel like swearing a solemn oath never to move from this spot.",0
+3171,109801,3,3,1,0,1,"Well, this is... adorable. Although not as cute as me, of course.",0
+3172,109801,3,4,1,0,1,"Is this... incense?\nThis world's items seem fairly high in quality.",0
+3173,109801,3,5,1,0,1,"I think I've finally\nfound it... My own\npersonal paradise!",0
+3175,109801,3,7,1,0,1,"Mm... Not on the same level as my steamed taters, but it's not bad.",0
+3176,109801,3,8,1,0,1,"It's easy to tell these books come from a whole different world.\nVery interesting indeed.",0
