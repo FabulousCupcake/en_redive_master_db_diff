@@ -234,7 +234,7 @@ action_id,class_id,action_type,action_detail_1,action_detail_2,action_detail_3,a
 102500302,1,10,10,1,0,1.0,4.0,4.0,12.0,0.0,0.0,1.0,2,2,300,3,0,99,"Boosts physical attack of all allies in range by {0}.","Physical attack boost + {0}"
 102501201,1,1,2,0,0,15.0,15.0,1.2,0.0,0.0,0.0,0.0,1,1,900,3,0,99,"Deals {0} magic damage to enemies in range.","Magic damage + {0}"
 102501202,1,10,21,1,0,1.0,0.35,0.35,12.0,0.0,0.0,1.0,1,1,900,3,0,99,"Lowers physical defense of enemies in range by {0}.","Physical defense lowered + {0}"
-102501203,1,10,41,1,0,1.0,0.35,0.35,12.0,0.0,0.0,1.0,1,1,900,3,0,99,"Lowers physical defense of enemies in range by {0}.","Magic defense lowered + {0}"
+102501203,1,10,41,1,0,1.0,0.35,0.35,12.0,0.0,0.0,1.0,1,1,900,3,0,99,"Lowers magic defense of enemies in range by {0}.","Magic defense lowered + {0}"
 102550101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,"Boosts own magic attack by {0}.","Magic attack boost + {0}"
 102551101,1,90,4,0,0,1.0,15.0,15.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,"Boosts own magic attack by {0}.","Magic attack boost + {0}"
 102551102,1,90,5,0,0,1.0,30.0,0.0,1.0,0.0,0.0,0.0,0,0,0,0,0,0,"Boosts own magic defense by {0}.","Magic defense boost + {0}"
