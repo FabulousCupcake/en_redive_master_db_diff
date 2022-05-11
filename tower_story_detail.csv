@@ -32,3 +32,6 @@ story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love
 7006000,7006,"Tower of Luna Chapter 6: Opening","Conflicting Passions",2,0,7005005,0,108,71080230,0,8,91002,20,0,0,0,0,0,0,"2022/04/17 13:00:00","2030/04/24 14:59:59"
 7006001,7006,"Tower of Luna Chapter 6: Episode 1","Of Friendship and Convictions",2,0,7006000,0,108,71090240,0,8,91002,20,0,0,0,0,0,0,"2022/04/17 13:00:00","2030/04/24 14:59:59"
 7006002,7006,"Tower of Luna Chapter 6: Episode 2","The Wisteria Creed",2,0,7006001,0,108,71090250,0,8,91002,20,0,0,0,0,0,0,"2022/04/17 13:00:00","2030/04/24 14:59:59"
+7006003,7006,"Tower of Luna Chapter 6: Episode 3","Pride and Conviction",2,0,7006002,0,108,71090250,0,8,91002,20,0,0,0,0,0,0,"2022/05/15 13:00:00","2030/04/24 14:59:59"
+7006004,7006,"Tower of Luna Chapter 6: Episode 4","An Ideal to Aspire To",2,0,7006003,0,108,71100260,0,8,91002,20,0,0,0,0,0,0,"2022/05/15 13:00:00","2030/04/24 14:59:59"
+7006005,7006,"Tower of Luna Chapter 6: Episode 5","The Bonds We Share",2,0,7006004,0,108,71100270,0,8,91002,20,0,0,0,0,0,0,"2022/05/15 13:00:00","2030/04/24 14:59:59"
