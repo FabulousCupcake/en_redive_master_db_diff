@@ -72,3 +72,7 @@ music_id,name,total_playing_time,listen_start_time,detail,sheet_id,cue_id
 71,"The Twin Flowers of Astrum",0:55,0:00,"Story Event Theme\n(Arrangement of ""Crossing Destiny"")\n\nTime / 00:55\nComposed by / Makoto Miyazaki\nArranged by / Saori Nakamura (Cygames)",bgm_M215,bgm_M215_juke
 72,"Core Gigas",1:45,0:00,"Story Event Boss Battle\n\nTime / 01:45\nComposed by / Hiroshi Nakamura\nArranged by / Hiroshi Nakamura",bgm_M218,bgm_M218_juke
 73,"Crossing Destiny",1:30,0:54,"Character Song\n\nVocals:\nAnne (Yoko Hikasa)\nGrea (Ayaka Fukuhara)\n\nTime / 01:30\nLyrics by / Makoto Miyazaki\nComposed by / Makoto Miyazaki\nArranged by / Makoto Miyazaki",bgm_M235,bgm_M235
+74,"What Lurks on the Crag",00:55,00:00,"Main Quest\n\nTime / 00:55\nComposed by / Shingo Nishimura\nArranged by / Shingo Nishimura",bgm_M232,bgm_M232_juke
+75,"Shogun Chronicles: The Whitewing Samurai",00:59,00:00,"Story Event Theme\n(Arrangement of ""White-Winged Glorie"")\n\nTime / 00:59\nComposed by / Cher Watanabe\nArranged by / Hiroshi Nakamura",bgm_M223,bgm_M223_juke
+76,"Evil Magistrate",01:58,00:00,"Story Event Boss Battle\n\nTime / 01:58\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji",bgm_M226,bgm_M226_juke
+77,"White-Winged Glorie",01:13,00:42,"Character Song\n\nVocals:\nMonika (Ayumi Tsuji)\nYuki (Naomi Ozora)\nNinon (Satomi Sato)\nKuka (Juri Nagatsuma)\nAyumi (Eri Ozeki)\n\nTime / 01:13\n\nLyrics by / Yoshie Isogai\nComposed by / Cher Watanabe\nArranged by / Cher Watanabe",bgm_M236,bgm_M236
