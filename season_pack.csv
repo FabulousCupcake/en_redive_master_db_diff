@@ -3,4 +3,8 @@ id,mission_id,disp_order,category_icon,receive_text,after_text,gift_message_id,t
 15,0,0,0,"","",0,7,3,1,103,3,0,1,0
 18,0,0,0,"","",0,30,3,1,103,3,0,1,0
 19,17001002,2,405,"Day {1} of the 7-Day Stamina Support Pack.","",9402,7,0,0,103,1,20002,0,0
+20,0,1,0,"","",9403,0,0,0,0,0,3,0,0
+21,0,2,0,"","",9404,0,0,0,0,0,4,0,0
+22,0,3,0,"","",9405,0,0,0,0,0,5,0,0
+23,0,4,0,"","",9406,0,0,0,0,0,6,0,0
 521,17001099,2,403,"Item set from the Goddess' Blessing pack.","Item set from the Goddess' Blessing pack.",0,1,0,0,0,0,2,0,0

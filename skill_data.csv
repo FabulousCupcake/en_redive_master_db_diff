@@ -56,6 +56,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1010001,"Fairy-tale Garden",1,0,0.0,101000101,101000102,101000103,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magical attack and physical defense of all allies and recovers their TP by a small amount.",1003
 1010002,"Maho-Maho Healing",1,0,1.53,101000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a moderate amount.",2005
 1010003,"Maho-Maho Darkness",1,0,2.13,101000301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts Blind to an enemy in the 2nd position.",2010
+1010012,"Maho-Maho Healing+",1,0,1.53,101001201,101001202,101001203,0,0,0,0,0,101001201,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a large amount, and grants them HP regen and moderate boost to physical defense.",2005
 1010501,"Fanciful Furor",0,0,0.0,101050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1010511,"Fanciful Furor+",0,0,0.0,101051101,101051102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to magical attack at start of battle.",3002
 1011001,"Arrow Rain",0,0,0.0,101100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",1001
@@ -89,6 +90,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1016001,"Heart Breaker",1,0,0.0,101600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. This always results in a critical hit.",1001
 1016002,"Meany Missile",0,0,0.71,101600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. This always results in a critical hit.",2001
 1016003,"Charming Aura ♪",1,0,1.4,101600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack.",2003
+1016012,"Meany Missile+",0,0,0.71,101601201,101601202,101601203,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front, hitting three times, and tripling instead of doubling the damage if critical. This skill's first hit is always critical.",2001
 1016501,"Super Cute Sensation",0,0,0.0,101650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1016511,"Super Cute Sensation+",0,0,0.0,101651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1017001,"Ryukyu-Ken Knuckle Cannon",0,0,0.0,101700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
@@ -214,6 +216,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1042001,"Sylvan Blessing",1,0,0.0,104200101,104200102,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies in front of her by a moderate amount and summons a fairy beside the foremost ally.",1005
 1042002,"Rousing Ballad",1,0,1.5,104200201,104200202,0,0,0,0,0,0,104200201,0,0,0,0,0,"Small boost to physical attack of all allies in a radius around the foremost ally.",2003
 1042003,"Fairy's Lullaby",1,0,2.03,104200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers physical attack of an enemy directly in front by a moderate amount.",2004
+1042012,"Rousing Ballad+",1,0,1.5,104201201,104201202,104201203,104201204,0,0,0,0,104201201,104201201,0,0,0,0,"Large boost to physical attack and moderate boost to physical critical rate of all allies in a radius around the foremost ally. Deploys a field around them that recovers HP of all allies in range by a small amount.",2003
 1042501,"Gifted Voice",0,0,0.0,104250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1042511,"Gifted Voice+",0,0,0.0,104251101,104251102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
 1043001,"Wolven Rend",0,0,0.0,104300101,104300102,0,0,0,0,0,0,104300101,0,0,0,0,0,"Deals physical damage to an enemy directly in front and lowers its physical defense by a moderate amount.",1001
@@ -285,6 +288,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1054001,"Terminal Tie-Up",0,0,0.0,105400101,105400102,105400103,105400104,0,0,0,0,0,0,105400101,0,0,0,"Deals small physical damage to all enemies in range and inflicts Bind. Draws the farthest enemy in range slightly closer and knocks the closest enemy back slightly.",1007
 1054002,"Threading Snare",0,0,1.23,105400201,105400202,0,0,0,0,0,0,105400201,0,0,0,0,0,"Deals small physical damage to the enemy in the 2nd position and draws them slightly closer.",2001
 1054003,Yarn-ado,0,0,1.23,105400301,105400302,105400303,0,0,0,0,0,105400301,0,0,0,0,0,"Deals small physical damage to all enemies in range and reduces their movement speed and action speed by a small amount.",2001
+1054012,"Threading Snare+",0,0,1.23,105401201,105401202,105401203,105401204,105401205,0,0,0,105401201,105401201,0,0,0,0,"Deals moderate physical damage to the enemy in the 2nd position, draws them slightly closer, and inflicts Stun. Moderate boost to own physical attack and small boost to own physical defense.",2001
 1054501,"Tailor's Grit",0,0,0.0,105450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1054511,"Tailor's Grit+",0,0,0.0,105451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
 1055001,"I Can Do This If I Try!",0,0,0.0,105500101,105500102,105500103,0,0,0,0,0,105500101,105500101,0,0,0,0,"Deals moderate physical damage to all enemies in range and inflicts Blind and Confuse.",1024
@@ -464,6 +468,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1099003,"Ice Needles",1,0,0.75,109900301,109900302,109900303,109900304,0,0,0,0,0,0,0,0,0,0,"Deals small magic damage to a random enemy in range 4 times.",2002
 1099501,"Great Spirit Contract",0,0,0.0,109950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1099511,"Great Spirit Contract+",0,0,0.0,109951101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1100001,"Tropical Splash",1,0,0.0,110000101,110000102,110000103,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. If Summer Catwalk has already been used, this skill always results in a critical hit.",1001
+1100002,"Tropical Darts",0,0,0.9,110000201,110000202,110000203,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front 3 times.",2001
+1100003,"Summer Catwalk",1,0,0.1,110000301,110000302,110000303,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to own physical attack. Recovers own TP by a massive amount.",2003
+1100501,"Midsummer Vibes",0,0,0.0,110050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1100511,"Midsummer Vibes+",0,0,0.0,110051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1101001,"Love Dream Typhoon",1,0,0.0,110100101,110100102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies and recovers all allies' HP by a moderate amount.",1005
+1101002,"Love Bandit",0,0,0.74,110100201,110100202,110100203,0,0,0,0,0,0,0,0,0,0,0,"Deals small magical damage to all enemies in range, and recovers the HP of the ally with the lowest HP by a small amount. HP recovery increases based on the number of enemies in range.",2002
+1101003,"Love Splash",1,0,0.74,110100301,110100302,0,0,0,0,0,0,110100301,0,0,0,0,0,"Deals small magical damage to all enemies in range and lowers their magical defense by a small amount.",2002
+1101501,"Lovely Summer Lesson",0,0,0.0,110150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1101511,"Lovely Summer Lesson+",0,0,0.0,110151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -555,6 +569,9 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2077002,"",0,0,1.0,207700201,207700202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
 2078001,"",0,0,1.0,207800101,207800102,0,0,0,0,0,0,0,0,0,0,0,0,"Stealth after 8 seconds + attacks enemy",1001
 2078002,"",0,0,1.0,207800201,207800202,207800203,0,0,0,0,0,0,0,0,0,0,0,"Applies Sturdy, when HP falls below 1% attacks boss in Stealth",1001
+2079001,"",0,0,180.0,207900101,207900102,207900103,0,0,0,0,0,0,0,0,0,0,0,"Deploys field",1001
+2079002,"",0,0,0.0,207900201,207900202,0,0,0,0,0,0,0,0,0,0,0,0,"Deactivates field after a set amount of damage is dealt",1001
+2079003,"",0,0,0.0,207900301,207900302,207900303,207900304,207900305,0,0,0,0,0,0,0,0,0,"Deactivates field after a set amount of damage is dealt",1001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
 3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
@@ -942,6 +959,12 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3077002,"",0,0,1.5,307700201,307700202,0,0,0,0,0,0,307700201,0,0,0,0,0,"Alma: Attacks enemy with hammer",1001
 3077003,"",1,0,1.5,307700301,307700302,307700303,0,0,0,0,0,307700301,307700301,0,0,0,0,"Alma: Fires a sub-unit to attack enemy",1001
 3077004,"",0,0,1.5,307700401,307700402,307700403,307700404,0,0,0,0,307700401,307700401,307700401,0,0,0,"Alma: Awakening",1001
+3078001,"",0,0,0.0,307800101,307800102,307800103,307800104,0,0,0,0,307800101,0,307800103,0,0,0,"Great Rain God UB",1001
+3078002,"",0,0,1.2,307800201,307800202,307800203,0,0,0,0,0,307800201,307800201,0,0,0,0,"Great Rain God Skill 1",1001
+3078003,"",0,0,1.2,307800301,307800302,307800303,307800304,0,0,0,0,307800301,0,307800301,0,0,0,"Great Rain God Skill 2",1001
+3078004,"",0,0,0.0,307800401,307800402,307800403,307800404,0,0,0,0,0,0,0,0,0,0,"Great Rain God Awakening",1001
+3078005,"",0,0,1.2,307800501,307800502,0,0,0,0,0,0,0,0,0,0,0,0,"Great Rain God Skill 3",1001
+3078006,"",0,0,1.2,307800601,0,0,0,0,0,0,0,0,0,0,0,0,0,"Great Rain God Skill 4",1001
 3079001,"",1,0,0.0,307900101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Garoog UB",1001
 3079002,"",1,0,1.5,307900201,307900202,0,0,0,0,0,0,307900201,0,0,0,0,0,"Garoog Skill 1",1001
 3079003,"",1,0,1.5,307900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Garoog Skill 2",1001
