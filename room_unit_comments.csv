@@ -2960,3 +2960,51 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3198,109901,3,5,1,0,1,"It's so warm... I could\nstay here forever... Ahh!\nThat's not good at all!\nI can't neglect my studies!",0
 3200,109901,3,7,1,0,1,"Oh.. this is really good! This world has so many different types of food.",0
 3201,109901,3,8,1,0,1,"This book is full of things I've never heard of...\nIt's so interesting, coming to a different world.",0
+3203,110001,1,1,1,0,1,"The beach is so rad! I'm always down for a photoshoot there! ♪",0
+3204,110001,1,2,1,0,1,"How much percent is twenty percent? I gotta ask whiz-boy later!",0
+3205,110001,1,3,1,0,1,"Wish I could make some summer memories with whiz-boy.",0
+3206,110001,1,4,1,0,1,"Totally vibing! Can't believe I got my hands on such a rockin' bikini! ♪",0
+3207,110001,1,5,1,0,1,"Little bit of a break, then it's back to the photoshoot! Let's do this! ♪",0
+3208,110001,1,101,4,0,1,"I bet a beach party with whiz-boy would be outta this world!",0
+3209,110001,1,102,8,0,1,"Hanging with whiz-boy always puts a smile on my face. Wonder if this is what it's like to have a boyfriend?",0
+3210,110001,2,1,1,0,1,"Look! I got my nails all summered up!",0
+3211,110001,2,2,1,0,1,"How's this bikini look on me? Super stylish, right? ♪",0
+3212,110001,2,3,1,0,1,"You wanna snap a pic of me in this? Sure thing! Take it like a pro!",0
+3213,110001,2,4,1,0,1,"I wanna shimmer like the ocean on a summer's day!",0
+3214,110001,2,101,4,0,1,"Me and whiz-boy've just got this chemistry, you know? Kinda gives me feelios. ♪",0
+3215,110001,2,102,8,0,1,"Whiz-boy! Let's go for a swim! Come on, take my hand! ♪",0
+3216,110001,2,1,1,1,1,"Nails? Check. Bikini? Check. I've got a full day of fun ahead! ♪",0
+3217,110001,2,2,1,2,1,"Think I'll go for a nap after lunch, just to recharge my batteries. ♪",0
+3218,110001,2,3,1,3,1,"I'm totally down with this bikini business. I can even jump in the bath wearing it! ♪",0
+3220,110001,3,2,1,0,1,"Oh man, this is great. Totally comfying it up here! ♪",0
+3221,110001,3,3,1,0,1,"Omigosh! This is totes adorbs! Losing my mind over here! ♪",0
+3222,110001,3,4,1,0,1,"Wow, this smells great! Gotta tell my other model friends about it! ♪",0
+3223,110001,3,5,1,0,1,"Nice and warm, just like the sun!",0
+3225,110001,3,7,1,0,1,"This is delish! It'd definitely go down well at the beach! ♪",0
+3226,110001,3,8,1,0,1,"Summer means I gotta get caught up on all the latest fashion! ♪",0
+3228,110001,3,10,1,0,1,"Look at this cutie! Hey, whiz-boy, do you know what this is?",0
+3229,110001,3,11,1,0,1,"This is sooo soft and fluffy! Think I'm gonna fall asleep now...",0
+3230,110101,1,1,1,0,1,"Let's relax at the beachside cafe. Just make sure not to get heatstroke, okay?",0
+3231,110101,1,2,1,0,1,"*sigh* What's the trick to learning to swim?",0
+3232,110101,1,3,1,0,1,"Don't forget to use sunscreen at the beach, otherwise you'll regret it.",0
+3233,110101,1,4,1,0,1,"It's been a while since I wore a swimsuit. I hope I didn't look weird in it...",0
+3234,110101,1,5,1,0,1,"There's something so relaxing about the sound of waves. Everyone might fall asleep if they heard it during class.",0
+3235,110101,1,101,4,0,1,"It's all thanks to him that I've been able to enjoy the beach.",0
+3236,110101,1,102,8,0,1,"I'm glad I was able to go to the beach with him. The day just flew by.",0
+3237,110101,2,1,1,0,1,"Going to the beach with a boy is a scenario straight out of a shoujo manga. I've always wanted to experience it.",0
+3238,110101,2,2,1,0,1,"Have you done your summer homework? Playing's all good, but don't forget about that.",0
+3239,110101,2,3,1,0,1,"Do you prefer being at the beach during the day or at night? I prefer it whenever I'm with you.",0
+3240,110101,2,4,1,0,1,"Phew, I'm pooped. Time to recharge with some nice, cold juice!",0
+3241,110101,2,101,4,0,1,"Watching you from behind while at the beach made you look so manly.",0
+3242,110101,2,102,8,0,1,"I doubt I'll ever forget the sight of the sea that night. Especially because I was with you.",0
+3243,110101,2,1,1,1,1,"Let's go out to the beach once you're ready. Today's going to be another fun day!",0
+3244,110101,2,2,1,2,1,"Oh, it's noon already? Let's make our way to the beachside cafe for some lunch, then. ♪",0
+3245,110101,2,3,1,3,1,"Could I ask you to come with me to the beach? I'm too scared to go alone when it's dark out.",0
+3247,110101,3,2,1,0,1,"All those swimming lessons have really taken it out of me. Time for a little break...",0
+3248,110101,3,3,1,0,1,"Oh, how adorable. I'd love to sit it on a swim ring and let it float around.",0
+3249,110101,3,4,1,0,1,"There's something about this scent that reminds me of summer at the beach.",0
+3250,110101,3,5,1,0,1,"The sea breeze can be chilly at night, so let's keep our bodies nice and warm.",0
+3252,110101,3,7,1,0,1,"It's essential to have a good, energizing meal before going out to the beach.",0
+3253,110101,3,8,1,0,1,"Studying's still important, even during the summer holidays!",0
+3255,110101,3,10,1,0,1,"I might be able to sail across the sea if I rode on this.",0
+3256,110101,3,11,1,0,1,"It's the Birth of Venus! Just kidding... Sorry, I might have gotten a bit carried away.",0
