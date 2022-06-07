@@ -35,3 +35,6 @@ story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love
 7006003,7006,"Tower of Luna Chapter 6: Episode 3","Pride and Conviction",2,0,7006002,0,108,71090250,0,8,91002,20,0,0,0,0,0,0,"2022/05/15 13:00:00","2030/04/24 14:59:59"
 7006004,7006,"Tower of Luna Chapter 6: Episode 4","An Ideal to Aspire To",2,0,7006003,0,108,71100260,0,8,91002,20,0,0,0,0,0,0,"2022/05/15 13:00:00","2030/04/24 14:59:59"
 7006005,7006,"Tower of Luna Chapter 6: Episode 5","The Bonds We Share",2,0,7006004,0,108,71100270,0,8,91002,20,0,0,0,0,0,0,"2022/05/15 13:00:00","2030/04/24 14:59:59"
+7007000,7007,"Tower of Luna Chapter 7: Opening","Hecate of the Gale and the Legendary Vampire",2,0,7006005,0,108,71100270,0,8,91002,20,0,0,0,0,0,0,"2022/06/16 13:00:00","2030/04/24 14:59:59"
+7007001,7007,"Tower of Luna Chapter 7: Episode 1","True Blood",2,0,7007000,0,108,71110280,0,8,91002,20,0,0,0,0,0,0,"2022/06/16 13:00:00","2030/04/24 14:59:59"
+7007002,7007,"Tower of Luna Chapter 7: Episode 2","Banquet of Minions",2,0,7007001,0,108,71110290,0,8,91002,20,0,0,0,0,0,0,"2022/06/16 13:00:00","2030/04/24 14:59:59"

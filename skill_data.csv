@@ -346,11 +346,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1075001,"Princess Splash",1,0,0.0,107500101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1001
 1075002,"Dessert Time",1,0,0.0649999999999999,107500201,107500202,0,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to own physical attack. Also lowers own magical defense by a moderate amount.",2003
 1075003,"Parasol Assault",1,0,1.125,107500301,107500302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to all enemies in range and knocks back slightly an enemy directly in front.",2001
+1075012,"Dessert Time+",1,0,0.0649999999999999,107501201,107501202,107501203,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to own physical attack and large boost to own physical critical rate. Also lowers own magical defense by a moderate amount.",2003
 1075501,"Seafood Power",0,0,0.0,107550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1075511,"Seafood Power+",0,0,0.0,107551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1076001,"Ocean's Healing",1,0,0.0,107600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the ally with the lowest HP by a massive amount.",1005
 1076002,"Nereid Spear",1,0,0.69,107600201,107600202,107600203,0,0,0,0,0,0,107600202,0,0,0,0,"Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount.",2001
 1076003,"Naval Support",1,0,0.59,107600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to all allies' physical attack.",2003
+1076012,"Nereid Spear+",1,0,0.69,107601201,107601202,107601203,0,0,0,0,0,0,107601202,0,0,0,0,"Deals small physical damage to an enemy directly in front and lowers their physical defense by a large amount.",2001
 1076501,"Summer Oracle",0,0,0.0,107650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1076511,"Summer Oracle+",0,0,0.0,107651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1077001,"Tropical Vacation",1,0,0.0,107700101,107700102,107700103,0,0,0,0,0,0,0,0,0,0,0,"Small boost to all allies' physical and magical defense. Grants HP regen to all allies.",1003
@@ -361,6 +363,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1078001,"Rubber Rampage",1,0,0.0,107800101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to an enemy directly in front.",1002
 1078002,"Aqua Bullet",1,0,0.74,107800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1078003,"Spiral Wave",1,0,1.14,107800301,107800302,0,0,0,0,0,0,107800301,0,0,0,0,0,"Deals small magical damage to an enemy directly in front and lowers their magical defense by a moderate amount.",2004
+1078012,"Aqua Bullet+",1,0,0.74,107801201,107801202,0,0,0,0,0,0,107801201,0,0,0,0,0,"Deals large magical damage to an enemy directly in front and lowers their magical defense by a small amount.",2002
 1078501,"Hydro Link",0,0,0.0,107850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1078511,"Hydro Link+",0,0,0.0,107851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1079001,"Kitty-Cat Summer Rave",1,0,0.0,107900101,107900102,107900103,107900104,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to a random enemy in range 4 times.",1001
@@ -860,6 +863,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3058001,"",1,0,2.0,305800101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nepterion UB",1001
 3058002,"",1,0,2.0,305800201,305800202,305800203,305800204,0,0,0,0,305800201,305800201,305800201,0,0,0,"Nepterion Skill 1",1001
 3058003,"",1,0,2.0,305800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nepterion Skill 2 (instead of attack)",1001
+3058011,"",1,0,2.0,305801101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nepterion UB",1001
+3058012,"",1,0,2.0,305801201,305801202,305801203,305801204,0,0,0,0,305801201,305801201,305801201,0,0,0,"Nepterion Skill 1",1001
+3058013,"",1,0,2.0,305801301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nepterion Skill 2 (instead of attack)",1001
+3058014,"",1,0,2.0,305801401,305801402,305801403,305801404,0,0,0,0,0,0,0,0,0,0,"Nepterion Skill 2 (instead of attack)",1001
+3058015,"",1,0,2.0,305801501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Nepterion Skill 2 (instead of attack)",1001
 3059001,"",1,0,2.2,305900101,305900102,0,0,0,0,0,0,305900101,0,0,0,0,0,"Prisma Hen UB",1001
 3059002,"",0,0,4.0,305900201,305900202,305900203,305900204,0,0,0,0,305900201,0,0,0,0,0,"Prisma Hen Skill 1",1001
 3060001,"",0,0,0.0,306000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
