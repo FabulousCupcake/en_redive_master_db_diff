@@ -38,6 +38,7 @@ gacha_id,gacha_name,description,description_2,description_sp,gacha_detail,gacha_
 10038,"Normal Gacha","Get items and Memory Shards!","","",1,3,0,1,0,10,0,10038,"",0,0,"2022/05/15 23:00:00","2022/05/19 22:59:59",0,0,0,0,0,0,0,0,0,0
 10039,"Normal Gacha","Get items and Memory Shards!","","",1,3,0,1,0,10,0,10039,"",0,0,"2022/05/19 23:00:00","2022/06/01 22:59:59",0,0,0,0,0,0,0,0,0,0
 10040,"Normal Gacha","Get items and Memory Shards!","","",1,3,0,1,0,10,0,10040,"",0,0,"2022/06/01 23:00:00","2022/06/14 22:59:59",0,0,0,0,0,0,0,0,0,0
+10041,"Normal Gacha","Get items and Memory Shards!","","",1,3,0,1,0,10,0,10041,"",0,0,"2022/06/14 23:00:00","2022/06/19 22:59:59",0,0,0,0,0,0,0,0,0,0
 20001,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,20001,21001,1,200001,"2020/03/13 15:00:00","2021/01/29 22:59:59",24001,0,0,0,0,0,0,0,0,0
 20002,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,20002,21002,1,200001,"2021/01/29 23:00:00","2021/02/08 22:59:59",24001,0,2,0,0,0,0,0,0,0
 20003,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,20003,21003,1,200001,"2021/02/08 23:00:00","2021/02/17 22:59:59",24001,0,3,0,0,0,0,0,0,0
@@ -73,6 +74,7 @@ gacha_id,gacha_name,description,description_2,description_sp,gacha_detail,gacha_
 20038,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,0,0,1,200001,"2022/05/15 23:00:00","2022/05/19 22:59:59",24001,0,38,24004,250000,20038_1,20038_2,20038_3,0,0
 20039,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,0,0,1,200001,"2022/05/19 23:00:00","2022/06/01 22:59:59",24001,0,39,24004,250000,20039_1,20039_2,20039_3,0,0
 20040,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,0,0,1,200001,"2022/06/01 23:00:00","2022/06/14 22:59:59",24001,0,40,24004,250000,20040_1,20040_2,20040_3,0,0
+20041,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,0,0,1,200001,"2022/06/14 23:00:00","2022/06/19 22:59:59",24001,0,41,24004,250000,20041_1,20041_2,20041_3,0,0
 30001,"Focus Gacha","Boosted rates for the new character Djeeta!","","",2,2,150,0,0,0,50,30001,31001,1,300001,"2021/01/19 23:00:00","2021/01/29 22:59:59",24001,0,0,0,0,0,0,0,0,0
 30002,"Focus Gacha","Boosted rates for the new character Jun!","","",2,2,150,0,0,0,50,30002,31002,1,300002,"2021/01/29 23:00:00","2021/02/08 22:59:59",24001,0,2,0,0,0,0,0,0,0
 30003,"Focus Gacha","Boosted rates for the new character Rin!","","",2,2,150,0,0,0,50,30003,31003,1,300003,"2021/02/08 23:00:00","2021/02/17 22:59:59",24001,0,3,0,0,0,0,0,0,0
@@ -107,12 +109,13 @@ gacha_id,gacha_name,description,description_2,description_sp,gacha_detail,gacha_
 30038,"Focus Gacha","Boosted rates for characters featured in the Revival Event!","","",2,2,150,0,0,0,50,0,0,1,300038,"2022/05/15 23:00:00","2022/05/19 22:59:59",24001,0,38,24004,250000,30038_1,30038_2,30038_3,0,0
 30039,"Focus Gacha","Boosted rates for the limited character Emilia!","","",2,2,150,0,0,0,50,0,0,1,300039,"2022/05/19 23:00:00","2022/06/01 22:59:59",24001,0,39,24004,250000,30039_1,30039_2,30039_3,0,0
 30040,"Focus Gacha","Boosted rates for the limited character Suzuna!","","",2,2,150,0,0,0,50,0,0,1,300040,"2022/06/01 23:00:00","2022/06/14 22:59:59",24001,0,40,24004,250000,30040_1,30040_2,30040_3,0,0
+30041,"Prize Gacha","Boosted rates for returning limited characters!\nOne 5th Prize or higher guaranteed per 10-draw!","","",2,2,150,0,0,0,50,0,0,1,300041,"2022/06/14 23:00:00","2022/06/19 22:59:59",24001,0,41,24004,250000,30041_1,30041_2,30041_3,100001,0
 40001,"Half Anniversary Gacha","Double rates for 3★ characters!\nBoosted rates for the limited character Tamaki!","","",2,2,150,0,0,0,50,40001,41001,1,400001,"2021/08/01 23:00:00","2021/08/18 22:59:59",24001,0,13,0,0,0,0,0,0,0
 50018,"Princess Gala","Double rates for 3★ characters!\nFeaturing the limited character Christina!","","",2,2,150,0,0,0,50,50018,51018,1,500018,"2021/10/25 23:00:00","2021/10/28 22:59:59",24001,0,18,0,0,0,0,0,0,0
 50023,"Princess Gala","Double rates for 3★ characters!\nFeaturing the limited characters Yui and Christina!","","",2,2,150,0,0,0,50,50023,51023,1,500023,"2021/12/20 23:00:00","2021/12/23 22:59:59",24001,0,23,0,0,0,0,0,0,0
 50027,"Princess Gala","Double rates for 3★ characters!\nFeaturing the limited character Muimi!","","",2,2,150,0,0,0,50,50027,51027,1,500027,"2022/02/01 23:00:00","2022/02/14 22:59:59",24001,0,27,0,0,0,0,0,0,0
 50033,"Princess Gala","Double rates for 3★ characters!\nBoosted rates for the new character Kuka and the limited character Christina!","","",2,2,150,0,0,0,50,0,0,1,500033,"2022/04/05 23:00:00","2022/04/12 22:59:59",24001,0,33,24004,500000,50033_1,50033_2,50033_3,0,0
-60001,"Jump Start Gacha","The Jump Start Gacha is here!","","",2,2,1500,0,0,0,50,0,0,1,600001,"2021/01/19 23:00:00","2030/02/28 14:59:59",24001,0,9999,0,250000,60040_1,60040_2,60040_3,0,0
+60001,"Jump Start Gacha","The Jump Start Gacha is here!","","",2,2,1500,0,0,0,50,0,0,1,600001,"2021/01/19 23:00:00","2030/02/28 14:59:59",24001,0,9999,0,250000,60041_1,60041_2,60041_3,0,0
 70001,"Guaranteed 3★ Gacha","At least one 3★ character guaranteed!","","",2,2,1500,0,0,0,50,70001,71001,1,700001,"2021/12/05 23:00:00","2021/12/07 22:59:59",24001,70001,21,0,0,0,0,0,0,0
 70002,"Guaranteed 3★ Gacha","At least one 3★ character guaranteed!","","",2,2,1500,0,0,0,50,70002,71002,1,700001,"2021/12/07 23:00:00","2021/12/12 22:59:59",24001,70001,22,0,0,0,0,0,0,0
 70003,"Guaranteed 3★ Gacha","At least one 3★ character guaranteed!","","",2,2,1500,0,0,0,50,70003,71003,1,700001,"2022/01/05 23:00:00","2022/01/12 22:59:59",24001,70003,25,0,0,0,0,0,0,0
