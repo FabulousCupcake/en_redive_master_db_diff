@@ -86,6 +86,7 @@ unit_id,unit_name,kana,prefab_id,is_limited,rarity,motion_type,se_type,move_spee
 110001,"Suzuna (Summer)",Suzuna,110001,1,3,8,8,450,705,1,1.82,110001,0,15,0,"[Physical] A charismatic model whose archery skills shine from the rearguard. Though her Summer Catwalk can only be used once per battle, it restores her TP entirely and causes her Union Burst to always result in a critical hit.",0,"2022/06/01 23:00:00","2022/06/14 22:59:59"
 110101,"Io (Summer)",Io,110101,1,1,5,5,450,715,2,2.4,110101,0,15,0,"[Magic] A summertime teacher who steals away foes' health from the rearguard. Her posession of multiple skills that both deal damage and heal allies makes her shine on both offensive and defensive fronts.",1,"2022/06/01 23:00:00","2030/12/31 15:00:00"
 110201,"Misaki (Summer)",Misaki,110201,0,1,7,7,0,0,0,0.0,0,0,15,0,"",0,"2022/06/01 23:00:00","2030/12/31 15:00:00"
+110301,"Saren (Summer)",Saren,110301,1,3,4,4,450,585,1,2.24,110301,0,3,0,"[Physical] The motherly Saren keeps her allies on the offensive from the midguard. Her ability to boost allies' TP at the start of each battle allows for rapid use of powerful Union Bursts.",0,"2022/06/19 23:00:00","2022/07/04 22:59:59"
 190801,Karin,Karin,190801,0,1,1,1,0,0,1,0.0,0,0,0,0,"",0,"2015/04/01 15:00:00","2030/12/31 15:00:00"
 191201,Petelgeuse,Petelgeuse,191201,0,1,1,1,0,0,1,0.0,0,0,0,0,"",0,"2022/05/02 23:00:00","2030/12/31 15:00:00"
 403101,Skull,Skull,403101,0,1,0,1,450,300,1,2.0,0,0,0,0,"",0,"2015/04/01 15:00:00","2030/12/31 15:00:00"
