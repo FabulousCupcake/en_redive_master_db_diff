@@ -481,6 +481,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1101003,"Love Splash",1,0,0.74,110100301,110100302,0,0,0,0,0,0,110100301,0,0,0,0,0,"Deals small magical damage to all enemies in range and lowers their magical defense by a small amount.",2002
 1101501,"Lovely Summer Lesson",0,0,0.0,110150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1101511,"Lovely Summer Lesson+",0,0,0.0,110151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1103001,"Summer Bright Force",1,0,0.0,110300101,110300102,110300103,0,0,0,0,0,0,0,0,0,0,0,"Large boost to physical attack, magical attack and action speeds of all allies.",1003
+1103002,"Twirling Splash",0,0,0.74,110300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers all allies' TP by a large amount.",2006
+1103003,"Sunlight Cheer",1,0,0.74,110300301,110300302,110300303,110300304,0,0,0,0,0,0,0,0,0,0,"Small boost to physical attack, magical attack, physical critical rate and magical critical rate of all allies.",2003
+1103501,"Noble Vacation",0,0,0.0,110350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1103511,"Noble Vacation+",0,0,0.0,110351101,110351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to own magical defense at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -977,6 +982,14 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3079002,"",1,0,1.5,307900201,307900202,0,0,0,0,0,0,307900201,0,0,0,0,0,"Garoog Skill 1",1001
 3079003,"",1,0,1.5,307900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Garoog Skill 2",1001
 3079004,"",1,0,0.0,307900401,307900402,307900403,0,0,0,0,0,307900401,307900401,0,0,0,0,"Garoog Awake",1001
+3081001,"",1,0,0.0,308100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Union Burst",1001
+3081002,"",2,0,1.5,308100201,308100202,308100203,308100204,0,0,0,0,308100201,308100201,308100201,0,0,0,"Tentapus Ink Bomb",1001
+3081003,"",1,0,1.5,308100301,308100302,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 1",1001
+3081004,"",1,0,0.0,308100401,308100402,308100403,308100404,0,0,0,0,0,0,0,0,0,0,"Tentapus Awakening",1001
+3081005,"",1,0,1.5,308100501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Standard Attack",1001
+3081006,"",1,0,1.5,308100601,308100602,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 2",1001
+3081007,"",1,0,1.5,308100701,308100702,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 3",1001
+3081008,"",1,0,1.5,308100801,308100802,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 4",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
