@@ -74,11 +74,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1013001,"Nanaka Infinite Blast",1,0,0.0,101300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to the enemy with the highest remaining HP.",1002
 1013002,"Stardust Magic",1,0,1.4,101300201,101300202,0,0,0,0,0,0,101300201,0,0,0,0,0,"Lowers magical defense of all enemies in range by a small amount.",2004
 1013003,"Energy Impact",1,0,1.4,101300301,101300302,0,0,0,0,0,0,101300301,0,0,0,0,0,"Deals moderate magical damage to the enemy with the highest remaining HP and inflicts Stun.",2002
+1013012,"Stardust Magic+",1,0,1.4,101301201,101301202,0,0,0,0,0,0,101301201,0,0,0,0,0,"Lowers magical defense of all enemies in range by a moderate amount.",2004
 1013501,"Awakening Mode",0,0,0.0,101350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1013511,"Awakening Mode+",0,0,0.0,101351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1014001,"Criminal Prison",1,0,0.0,101400101,101400102,101400103,101400104,101400105,0,0,0,101400101,101400101,0,101400104,0,0,"Massively lowers magical defense of all enemies in a radius around the third enemy from the front, deploys a field that lowers TP Boost by a moderate amount, and reduces their action speed by a small amount.",1015
 1014002,"Binding Route",1,0,1.4,101400201,101400202,0,0,0,0,0,0,101400201,0,0,0,0,0,"Deals small magical damage to all enemies in range and inflicts Bind.",2007
 1014003,"Misdirection Bullet",1,0,1.4,101400301,101400302,0,0,0,0,0,0,101400301,0,0,0,0,0,"Deals small magical damage to an enemy directly in front and inflicts Confusion.",2024
+1014012,"Binding Route+",1,0,1.4,101401201,101401202,101401203,0,0,0,0,0,0,101401201,0,0,0,0,"Deals small magical damage to all enemies in range and inflicts Bind. Bind length increases based on the number of enemies in range.",2007
 1014501,"Detective Mind",0,0,0.0,101450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1014511,"Detective Mind+",0,0,0.0,101451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1015001,"Sister's Blessing",1,0,0.0,101500101,101500102,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers HP of all allies by a moderate amount. Small boost to their magical defense.",1005
@@ -299,6 +301,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1056001,"Origin Strike: Severing Moon",1,0,0.0,105600101,105600102,0,0,0,0,0,0,105600101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and lowers their physical defense by a large amount.",1001
 1056002,"First Strike: Reticence",1,0,1.125,105600201,105600202,105600203,105600204,0,0,0,0,0,0,105600203,0,0,0,"Taunts all enemies and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range and knocks them back slightly.",2012
 1056003,"Peerless Stance",1,0,1.125,105600301,105600302,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers own HP by a small amount and boosts physical defense by a moderate amount.",2003
+1056012,"First Strike: Reticence+",1,0,1.125,105601201,105601202,105601203,105601204,105601205,0,0,0,0,0,105601203,105601203,0,0,"Taunts all enemies and enters a stance. If attacked during this stance, deals large physical damage to all enemies in range, lowers their physical defense by a small amount, and knocks them back slightly.",2012
 1056501,"True Enlightenment",0,0,0.0,105650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1056511,"True Enlightenment+",0,0,0.0,105651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1057001,"Tempest Blade",1,0,0.0,105700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
@@ -486,6 +489,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1103003,"Sunlight Cheer",1,0,0.74,110300301,110300302,110300303,110300304,0,0,0,0,0,0,0,0,0,0,"Small boost to physical attack, magical attack, physical critical rate and magical critical rate of all allies.",2003
 1103501,"Noble Vacation",0,0,0.0,110350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1103511,"Noble Vacation+",0,0,0.0,110351101,110351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to own magical defense at start of battle.",3001
+1104001,"Summer Wolven Blitz",1,0,0.0,110400101,110400102,110400103,110400104,0,0,0,0,110400101,110400101,110400102,0,0,0,"Deals large physical damage to an enemy directly in front. If only one enemy target remains in battle, instead deals massive physical damage and lowers their physical defense by a large amount.",1001
+1104002,"Aqua Crossing",0,0,0.465,110400201,110400202,110400203,110400204,0,0,0,0,0,110400202,110400203,0,0,0,"Deals moderate physical damage to an enemy directly in front. If only one enemy target remains in battle, additionally deals small physical damage and lowers their physical defense by a small amount.",2001
+1104003,"Blue Howling",1,0,0.765,110400301,110400302,110400303,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack. If only one enemy target remains in battle, this boost remains effective indefinitely.",2003
+1104501,"Sea Wolf's Vigor",0,0,0.0,110450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1104511,"Sea Wolf's Vigor+",0,0,0.0,110451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1105001,"Ryukyu-Ken Spiral Shot",1,0,0.0,110500101,110500102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Damage increases based on the number of targets.",1001
+1105002,"Cyclone Smash",0,0,0.89,110500201,110500202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to all enemies in range and knocks back slightly an enemy directly in front.",2001
+1105003,"Ryukyu Calypso",1,0,0.84,110500301,110500302,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack and moderate boost to the action speed of all allies in range.",2003
+1105501,"Ryukyu Kickboxing",0,0,0.0,110550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1105511,"Ryukyu Kickboxing+",0,0,0.0,110551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -583,6 +596,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2079001,"",0,0,180.0,207900101,207900102,207900103,0,0,0,0,0,0,0,0,0,0,0,"Deploys field",1001
 2079002,"",0,0,0.0,207900201,207900202,0,0,0,0,0,0,0,0,0,0,0,0,"Deactivates field after a set amount of damage is dealt",1001
 2079003,"",0,0,0.0,207900301,207900302,207900303,207900304,207900305,0,0,0,0,0,0,0,0,0,"Deactivates field after a set amount of damage is dealt",1001
+2080001,"",0,0,1.95,208000101,208000102,0,0,0,0,0,0,0,0,0,0,0,0,"When damage dealt, Soul Absorb stack +1 to owner",1001
+2080002,"",0,0,0.0,208000201,208000202,0,0,0,0,0,0,0,0,0,0,0,0,"When critical received, Soul Absorb stack -1 to owner",1001
+2080003,"",0,0,2.1,208000101,208000102,0,0,0,0,0,0,0,0,0,0,0,0,"When damage dealt, Soul Absorb stack +1 to owner",1001
+2080004,"",0,0,2.45,208000101,208000102,0,0,0,0,0,0,0,0,0,0,0,0,"When damage dealt, Soul Absorb stack +1 to owner",1001
+2080005,"",0,0,0.0,208000501,208000502,208000503,208000504,0,0,0,0,0,0,0,0,0,0,"On death, revives self (for SP Battle)",1001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
 3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
@@ -994,6 +1012,17 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3079002,"",1,0,1.5,307900201,307900202,0,0,0,0,0,0,307900201,0,0,0,0,0,"Garoog Skill 1",1001
 3079003,"",1,0,1.5,307900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Garoog Skill 2",1001
 3079004,"",1,0,0.0,307900401,307900402,307900403,0,0,0,0,0,307900401,307900401,0,0,0,0,"Garoog Awake",1001
+3080001,"",0,0,1.8,308000101,308000102,308000103,0,0,0,0,0,0,0,0,0,0,0,"Majimun UB",1001
+3080002,"",0,0,1.8,308000201,308000202,308000203,308000204,308000205,308000206,0,0,0,0,308000201,0,0,0,"Majimun Skill 1 (Flame Field)",1001
+3080003,"",0,0,8.0,308000301,308000302,308000303,308000304,0,0,0,0,0,0,0,0,0,0,"Majimun Skill 2 (Summon Mini-Majimun)",1001
+3080004,"",0,0,1.8,308000401,308000402,308000403,0,0,0,0,0,0,0,0,0,0,0,"Majimun Awake",1001
+3080005,"",0,0,2.8,308000501,308000502,308000503,308000504,0,0,0,0,0,0,0,0,0,0,"Majimun Skill 4 (CR Down Field)",1001
+3080006,"",0,0,1.8,308000601,308000602,308000603,0,0,0,0,0,0,0,0,0,0,0,"Majimun Attack Replacement (for applying Soul Suck)",1001
+3080007,"",0,0,0.0,308000701,308000702,0,0,0,0,0,0,0,0,0,0,0,0,"Majimun Hit by Critical",1001
+3080008,"",0,0,0.0,308000801,308000802,308000803,308000804,0,0,0,0,0,0,0,0,0,0,"Majimun Skill 7 (Summon Mini-Majimun)",1001
+3080009,"",0,0,0.0,308000901,308000902,0,0,0,0,0,0,0,0,0,0,0,0,"Majimun Hit by Critical (for Mode 1)",1001
+3080010,"",0,0,1.8,308001001,308001002,308001003,0,0,0,0,0,0,0,0,0,0,0,"Majimun Immediate Awake (for Mode 3)",1001
+3080011,"",0,0,0.0,308001101,308001102,308001103,308001104,0,0,0,0,0,0,0,0,0,0,"Majimun Skill 7 (Summon Mini-Majimun)",1001
 3081001,"",1,0,0.0,308100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Union Burst",1001
 3081002,"",2,0,1.5,308100201,308100202,308100203,308100204,0,0,0,0,308100201,308100201,308100201,0,0,0,"Tentapus Ink Bomb",1001
 3081003,"",1,0,1.5,308100301,308100302,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 1",1001

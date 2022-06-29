@@ -3032,3 +3032,51 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3280,110301,3,8,1,0,1,"If we're going to the beach, then some research is in order. Can't hurt to be prepared!",0
 3282,110301,3,10,1,0,1,"Oh? Is this a sea deity, perhaps? How adorable. ♪",0
 3283,110301,3,11,1,0,1,"We could probably cut down on food expenses a fair bit if a shellfish this big existed.",0
+3284,110401,1,1,1,0,1,"Gotta wonder why food always tastes better when you eat it on the beach.",0
+3285,110401,1,2,1,0,1,"Oof... Guess I let myself get sunburned.",0
+3286,110401,1,3,1,0,1,"Sprinting along the beach makes for good endurance training, you know.",0
+3287,110401,1,4,1,0,1,"Summertime food, huh... Wonder what I should go for?",0
+3288,110401,1,5,1,0,1,"It's so nice and breezy here.",0
+3289,110401,1,101,4,0,1,"I'm always down for helping out with swimming lessons!",0
+3290,110401,1,102,8,0,1,"It's kinda weird wearing a swimsuit indoors...",0
+3291,110401,2,1,1,0,1,"Whoa! D-don't touch me out of nowhere. You really freaked me out.",0
+3292,110401,2,2,1,0,1,"Huh? I had sand on me? Thanks for getting it off.",0
+3293,110401,2,3,1,0,1,"You handling the heat okay? Might be best to take a little break here.",0
+3294,110401,2,4,1,0,1,"The way you're looking at me is making me feel a bit shy...",0
+3295,110401,2,101,4,0,1,"Up for some shaved ice? I'll do the shaving for you.",0
+3296,110401,2,102,8,0,1,"I gotta say, I'm glad that I got to make some good summer memories with you.",0
+3297,110401,2,1,1,1,1,"Phew... Going for a swim in the morning sure feels good.",0
+3298,110401,2,2,1,2,1,"It's the hottest time of the day, so make sure you're taking in plenty of fluids!",0
+3299,110401,2,3,1,3,1,"Another day of hard work down. We're on patrol tomorrow, so I'll see you then.",0
+3301,110401,3,2,1,0,1,"I'm pretty beat from all that swimming. Guess I'll take a little break.",0
+3302,110401,3,3,1,0,1,"Th-this is so adorable... Wait, no! Ignore that!",0
+3303,110401,3,4,1,0,1,"This scent sure is relaxing. I might be into this sort of stuff...",0
+3304,110401,3,5,1,0,1,"Man, this is nice and warm! Especially when your body's all cold after a swim.",0
+3306,110401,3,7,1,0,1,"Eating on the beach gives the food some extra spice.",0
+3307,110401,3,8,1,0,1,"A special on how to get through the summer, huh? Might give this a read.",0
+3309,110401,3,10,1,0,1,"Wow! They sure went all out making this. Wish I could ride on the real thing.",0
+3310,110401,3,11,1,0,1,"L-look at how cute— Err... I mean, am I really allowed to sleep on this?",0
+3311,110501,1,1,1,0,1,"Can I decorate the room with some flowers from my homeland? It'll give it some good vibes!",0
+3312,110501,1,2,1,0,1,"Walking around in this swimsuit is making me wanna go for a swim! The desire's too powerful!",0
+3313,110501,1,3,1,0,1,"Summer's always so bright 'cause the sun is smiling down on us!",0
+3314,110501,1,4,1,0,1,"What to do after going for a swim? Take a break in the shade, of course!",0
+3315,110501,1,5,1,0,1,"I'm great at both the front crawl and dog paddling!",0
+3316,110501,1,101,4,0,1,"I'm kinda in the mood for singing! Wanna join me?",0
+3317,110501,1,102,8,0,1,"Living life together by the ocean, singing and dancing all day. That's my vision of a perfect life!",0
+3318,110501,2,1,1,0,1,"Let's see who can swim the most between us!",0
+3319,110501,2,2,1,0,1,"Do you wanna learn how to play the sanshin? I can teach you!",0
+3320,110501,2,3,1,0,1,"You won't sweat the small stuff if you sing and dance along with me!",0
+3321,110501,2,4,1,0,1,"Let's forget everything and just stare at the ocean together.",0
+3322,110501,2,101,4,0,1,"*shake, shake* Doesn't matter if my fur gets all wet! I can just shake it off!",0
+3323,110501,2,102,8,0,1,"Gotta do our warm-ups before swimming! I'll help you out, so let's get to it!",0
+3324,110501,2,1,1,1,1,"The beach is super pretty in the morning! Let's go for a walk!",0
+3325,110501,2,2,1,2,1,"Did you decide what you're getting for lunch yet? I'm getting taco rice!",0
+3326,110501,2,3,1,3,1,"The sanshin becomes extra special when you're harmonizing with the waves under the starry night sky .",0
+3328,110501,3,2,1,0,1,"Perfect timing! I'm all up for another swim now that I've gotten some rest!",0
+3329,110501,3,3,1,0,1,"I bet this'd look even cuter on the beach!",0
+3330,110501,3,4,1,0,1,"*sniff, sniff* Ahh, now that's a relaxing scent. Reminds me of summertime back home.",0
+3331,110501,3,5,1,0,1,"Ohhh! The heat's drying my hair nice and quick!",0
+3333,110501,3,7,1,0,1,"Mmm! I bet this'd taste even better on the beach!",0
+3334,110501,3,8,1,0,1,"It's a guide on sea life! I wonder if that fish I saw the other day is in here?",0
+3336,110501,3,10,1,0,1,"Wow! Look, you can ride on its back! Let's get on it together!",0
+3337,110501,3,11,1,0,1,"It's so soft and fluffy! Feels like I'm a mermaid under the sea!",0
