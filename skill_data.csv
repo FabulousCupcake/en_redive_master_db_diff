@@ -361,6 +361,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1077001,"Tropical Vacation",1,0,0.0,107700101,107700102,107700103,0,0,0,0,0,0,0,0,0,0,0,"Small boost to all allies' physical and magical defense. Grants HP regen to all allies.",1003
 1077002,"Summon Mini-Golem",1,0,0.85,107700201,0,0,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front.",2017
 1077003,"Soda Support",1,0,0.92,107700301,107700302,0,0,0,0,0,0,107700301,0,0,0,0,0,"Moderate boost to magical defense of allies in a radius around the foremost ally.",2003
+1077012,"Summon Mini-Golem+",1,0,0.85,107701201,107701202,107701203,0,0,0,0,0,0,107701202,0,0,0,0,"[Summon] Summons a mini-golem in front of oneself, which attacks an enemy directly in front. Deploys a field around the frontmost ally that grants a large boost to physical and magical defense.",2017
 1077501,"Tropical Maid",0,0,0.0,107750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1077511,"Tropical Maid+",0,0,0.0,107751101,107751102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense and small boost to own physical defense at start of battle.",3004
 1078001,"Rubber Rampage",1,0,0.0,107800101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to an enemy directly in front.",1002
@@ -372,11 +373,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1079001,"Kitty-Cat Summer Rave",1,0,0.0,107900101,107900102,107900103,107900104,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to a random enemy in range 4 times.",1001
 1079002,"Summer Sun Absorption",1,0,0.5,107900201,107900202,0,0,0,0,0,0,107600201,0,0,0,0,0,"Lowers the TP of an enemy directly in front by a small amount and recovers own TP by a small amount.",2006
 1079003,"Ice Breaker",1,0,1.1,107900301,107900302,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack and action speed.",2003
+1079012,"Summer Sun Absorption+",1,0,0.5,107901201,107901202,107901203,107901204,0,0,0,0,107600201,0,0,0,0,0,"Lowers the TP of an enemy directly in front by a small amount and recovers own TP by a small amount. Lowers the physical attack of an enemy directly in front by a large amount, and massively boosts own physical attack.",2006
 1079501,"Kitty in Paradise",0,0,0.0,107950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1079511,"Kitty in Paradise+",0,0,0.0,107951101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1080001,"Leviathan Lance",1,0,0.0,108000101,108000102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Moderate boost to all allies' physical attack.",1001
 1080002,"Hydro Swing",1,0,1.05,108000201,108000202,108000203,0,0,0,0,0,0,108000202,0,0,0,0,"Deals small physical damage to an enemy directly in front, and additional small physical damage to enemies nearby the target.",2001
 1080003,"Hunting Mode",1,0,1.19,108000301,108000302,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and physical critical rate.",2003
+1080012,"Hydro Swing+",1,0,1.05,108001201,108001202,108001203,0,0,0,0,0,0,108001202,0,0,0,0,"Deals moderate physical damage to an enemy directly in front, and additional large physical damage to enemies nearby the target.",2001
 1080501,"Summer Mercenary",0,0,0.0,108050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1080511,"Summer Mercenary+",0,0,0.0,108051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1081001,"Halloween Terror",1,0,0.0,108100101,108100102,108100103,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to the enemy with the lowest HP percentage. Deals additional moderate physical damage to all enemies if the enemy is defeated by this skill.",1001
@@ -662,6 +665,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3011012,"",0,0,2.0,301101201,301100202,0,0,0,0,0,0,301100201,0,0,0,0,0,"Orc Leader Skill 2",1001
 3012001,"",0,0,2.0,301200101,301200102,0,0,0,0,0,0,301200101,0,0,0,0,0,"Greater Golem Skill 1",1001
 3012002,"",0,0,2.0,301200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Greater Golem Skill 2",1001
+3012011,"",0,0,2.0,301201101,301201102,301201103,301201104,301201105,0,0,0,0,0,0,0,0,0,"Crystal Golem Skill 0",1001
+3012012,"",0,0,2.0,301201201,301201202,0,0,0,0,0,0,301201201,0,0,0,0,0,"Crystal Golem Skill 1",1001
+3012013,"",0,0,2.0,301201301,301201302,301201303,301201304,0,0,0,0,0,0,0,0,0,0,"Crystal Golem Skill 2",1001
+3012014,"",0,0,2.0,301201401,301201402,301201403,301201404,0,0,0,0,0,0,0,0,0,0,"Crystal Golem Skill 3",1001
+3012015,"",0,0,2.0,301201501,301201502,0,0,0,0,0,0,0,0,0,0,0,0,"Crystal Golem Skill 4",1001
 3013001,"",0,0,4.0,301300101,301300102,301300103,0,0,0,0,0,0,0,0,0,0,0,-,1001
 3013002,"",0,0,4.0,301300201,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
 3013003,"",0,0,4.0,301300301,301300302,301300303,0,0,0,0,0,0,0,0,0,0,0,-,1001
@@ -708,7 +716,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3022001,"",1,0,2.0,302200101,302200102,0,0,0,0,0,0,302200101,0,0,0,0,0,sample,1001
 3022002,"",0,0,2.0,302200201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3022003,"",1,0,2.0,302200301,302200302,0,0,0,0,0,0,302200301,0,0,0,0,0,sample,1001
-3022004,"",0,0,2.0,302200401,302200402,302200403,0,0,0,0,0,302200401,302200401,0,0,0,0,sample,1001
+3022004,"",0,0,2.0,302200401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3023001,"",1,0,2.0,302300101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3023002,"",0,0,2.0,302300201,302300202,0,0,0,0,0,0,302300201,0,0,0,0,0,sample,1001
 3024001,"",1,0,2.0,302400101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
