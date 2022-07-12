@@ -502,6 +502,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1105003,"Ryukyu Calypso",1,0,0.84,110500301,110500302,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack and moderate boost to the action speed of all allies in range.",2003
 1105501,"Ryukyu Kickboxing",0,0,0.0,110550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1105511,"Ryukyu Kickboxing+",0,0,0.0,110551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1106001,"Fairy-tale Summer Parade",1,0,0.0,110600101,110600102,110600103,110600104,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to a random enemy 4 times.",1002
+1106002,"Maho-Maho Summer Friends",1,0,0.74,110600201,110600202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack. Recovers own TP by a moderate amount.",2003
+1106003,"Maho-Maho Summer Blossom",1,0,1.34,110600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large magical damage to a random enemy.",2002
+1106501,"Fairy-tale Power",0,0,0.0,110650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1106511,"Fairy-tale Power+",0,0,0.0,110651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -1039,6 +1044,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3081006,"",1,0,1.5,308100601,308100602,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 2",1001
 3081007,"",1,0,1.5,308100701,308100702,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 3",1001
 3081008,"",1,0,1.5,308100801,308100802,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 4",1001
+3083001,"",1,0,0.0,308300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Island Whale Union Burst",1001
+3083002,"",2,0,1.5,308300201,308300202,308300203,0,0,0,0,0,0,0,0,0,0,0,"Island Whale Skill 1",1001
+3083003,"",1,0,6.0,308300301,308300302,308300303,0,0,0,0,0,308300301,308300301,0,0,0,0,"Island Whale Skill 2",1001
+3083004,"",1,0,0.0,308300401,308300402,308300403,308300404,0,0,0,0,0,0,0,0,0,0,"Island Whale Awakening",1001
 3090001,"",0,0,0.0,309000101,309000102,0,0,0,0,0,0,0,0,0,0,0,0,"Land Sloth: Union Burst",1001
 3090002,"",0,0,1.5,309000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Land Sloth: Skill",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
