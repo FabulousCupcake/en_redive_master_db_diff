@@ -1,6 +1,6 @@
 daily_mission_id,disp_group,category_icon,description,mission_condition,condition_value_1,condition_value_2,condition_value_3,condition_num,mission_reward_id,system_id,start_time,end_time,min_level,max_level,title_color_id,visible_flag
 11001001,1,200,"Clear Main or event quests 10 times",1008,0,0,0,10,11001001,101,"2015/04/01 15:00:00","2030/04/01 14:59:59",0,0,0,1
-11003001,2,200,"Clear Main or event quests (HARD) 3 times",1003,0,0,0,3,11003001,102,"2015/04/01 15:00:00","2030/04/01 14:59:59",0,0,0,1
+11003001,2,200,"Clear Main (HARD, VERY HARD) or event (HARD) quests 3 times",1003,0,0,0,3,11003001,102,"2015/04/01 15:00:00","2030/04/01 14:59:59",0,0,0,1
 11004001,7,202,"Clear Grotto 4 times",1004,0,0,0,4,11004001,103,"2015/04/01 15:00:00","2030/04/01 14:59:59",0,0,0,1
 11005001,9,204,"Clear a Dungeon battle 1 time",1005,0,0,0,1,11005001,104,"2015/04/01 15:00:00","2030/04/01 14:59:59",0,0,0,1
 11101001,14,208,"Attempt a Tower of Luna battle 1 time",1101,0,0,0,1,11101001,108,"2021/09/10 13:00:00","2030/04/01 14:59:59",0,0,0,1

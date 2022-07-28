@@ -4,3 +4,6 @@ event_id,chara_index,chara_name,max_dear_point,reference_type,reference_id,episo
 10017,3,Ram,1000,1,109801,0,0,0,0
 10019,1,Suzuna,1000,1,110001,0,0,0,0
 10019,2,Misaki,1000,1,110201,0,0,0,0
+10023,1,Chloe,1000,2,110801,0,0,0,0
+10023,2,Chieru,1000,2,110901,0,0,0,0
+10023,3,Yuni,1000,2,111001,0,0,0,0

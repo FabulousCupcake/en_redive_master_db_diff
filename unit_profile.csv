@@ -57,6 +57,7 @@ unit_id,unit_name,age,guild,race,height,weight,birth_month,birth_day,blood_type,
 106101,Muimi,16,???,humanfolk,148,40,8,11,O,"adventures, reminiscing","Megumi Han",0,"A young wanderer with a mysterious past","I don't need help... I'm fine on my own. Don't worry, I'm used to it by now...",""
 106301,Arisa,15,???,elvenfolk,155,42,6,17,O,"collecting pretty leaves","Kana Yuki",0,"A young elf striving to become a forest guardian","",""
 106801,Labyrista,??,Labyrinth,humanfolk,???,??,?,?,?,"people watching","Miyuki Sawashiro",0,"？？？？？？？","",3
+107001,Neneka,24,???,elvenfolk,149,??,3,24,O,"imitation, appreciating art","Yuka Iguchi",0,"A researcher of few words who lives a secretive life","",""
 107101,Christina,27,"Nightmare, Defenders of the Throne",humanfolk,165,??,2,7,O,"fighting strong opponents","Chiaki Takahashi",0,"The audacious vice-captain of Nightmare","",8
 107501,"Pecorine (Summer)",17,"Gourmet Guild",humanfolk,156,46,3,31,O,"eating, cooking","M・A・O",0,"A girl who's always cheerful and hungry","U-umm... You wouldn't happen to have any food, would you?\nI think I'm almost at my limit here...",1
 107601,"Kokkoro (Summer)",11,"Gourmet Guild",elvenfolk,140,35,5,11,B,"meditating, raising plants and animals","Miku Ito",0,"A little guide who takes care of her lord","",1
@@ -90,3 +91,6 @@ unit_id,unit_name,age,guild,race,height,weight,birth_month,birth_day,blood_type,
 110401,"Makoto (Summer)",17,Caon,beastfolk,168,54,8,9,O,"making sweets","Mikako Komatsu",0,"A wild girl who's strong-minded and compassionate","Lemme know if you're ever hungry.\nIt won't be fancy, but I can whip up something tasty in no time!",10
 110501,"Kaori (Summer)",19,Caon,beastfolk,158,53,7,7,A,"dancing, karate","Natsumi Takamori",0,"A natural airhead who always believes things will work out","Haitai! Let's sing and dance and have some fun!\nC'mon, you'll dance with me, won't you?",10
 110601,"Maho (Summer)",16,Caon,beastfolk,155,42,9,22,O,"daydreaming, collecting plushies","Maaya Uchida",0,"The Princess of the Maho-Maho Kingdom","I'm Princess Maho of the Maho-Maho Kingdom!\n...Now, why're you lookin' so skeptical there?\nThe Maho-Maho Kingdom's a real faraway land, OK?",10
+110801,Chloe,17,"St. Theresa's Academy (Friendship Club)",elvenfolk,154,42,8,7,O,darts,"Atsumi Tanezaki",0,"A low-energy elf from the wrong side of town","",16
+110901,Chieru,16,"St. Theresa's Academy (Friendship Club)",humanfolk,156,46,9,15,O,"dancing, karaoke","Ayane Sakura",0,"An unstoppable bundle of energy who's always ahead of the curve","",16
+111001,Yuni,18,"St. Theresa's Academy (Friendship Club)",humanfolk,142,36,2,28,O,reading,"Konomi Kohara",0,"The small-statured sage of the library","",16
