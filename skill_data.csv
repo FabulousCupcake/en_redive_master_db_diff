@@ -296,6 +296,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1055001,"I Can Do This If I Try!",0,0,0.0,105500101,105500102,105500103,0,0,0,0,0,105500101,105500101,0,0,0,0,"Deals moderate physical damage to all enemies in range and inflicts Blind and Confuse.",1024
 1055002,"I-I'll Spear You!",0,0,1.23,105500201,105500202,0,0,0,0,0,0,105500201,0,0,0,0,0,"Deals small physical damage to all enemies in range and lowers their physical attack by a small amount.",2004
 1055003,"What If I Keep my Eyes Closed?",0,0,1.23,105500301,105500302,0,0,0,0,0,0,105500301,0,0,0,0,0,"Deals small physical damage to all enemies in range and inflicts Stun.",2018
+1055012,"I-I'll Spear You!+",0,0,1.23,105501201,105501202,0,0,0,0,0,0,105501201,0,0,0,0,0,"Deals moderate physical damage to all enemies in range and lowers their physical attack by a moderate amount.",2004
 1055501,"Burst of Courage",0,0,0.0,105550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1055511,"Burst of Courage+",0,0,0.0,105551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
 1056001,"Origin Strike: Severing Moon",1,0,0.0,105600101,105600102,0,0,0,0,0,0,105600101,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and lowers their physical defense by a large amount.",1001
@@ -313,18 +314,21 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1058001,"Princess Strike",0,0,0.0,105800101,105800102,105800103,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Moderate boost to own physical and magical defense.",1001
 1058002,Lunchtime,0,0,0.21,105800201,105800202,0,0,0,0,0,0,0,0,0,0,0,0,"Increases own magic defense by a small amount and recovers own HP by a small amount.",2003
 1058003,"Falling Slash",0,0,1.21,105800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1058011,"Princess Valiant",0,0,0.0,105801101,105801102,105801103,105801104,105801105,0,0,0,0,0,0,105801104,0,0,"Deals massive physical damage to an enemy directly in front. Massive boost to own physical and magical defense and moderate boost to own physical attack. Physical attack boost increases with remaining HP.",1001
 1058012,Lunchtime+,0,0,0.21,105801201,105801202,105801203,0,0,0,0,0,0,0,0,0,0,0,"Increases own magic defense by a small amount and recovers own HP by a small amount. Deploys a barrier around oneself that absorbs physical and magic damage.",2003
 1058501,"Princess Power",0,0,0.0,105850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own max HP at start of battle.",3005
 1058511,"Princess Power+",0,0,0.0,105851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own max HP at start of battle.",3005
 1059001,Aurora,1,0,0.0,105900101,105900102,105900103,0,0,0,0,0,105900101,0,0,0,0,0,"Increases physical and magical attack power of all allies by a small amount, and recovers own HP by a small amount.",1005
 1059002,Tri-Slash,0,0,0.66,105900201,105900202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1059003,"Speed Boost",0,0,1.4,105900301,105900302,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to action speed and physical attack of all allies.",2003
+1059011,"Aurora Blooming",1,0,0.0,105901101,105901102,105901103,105901104,105901105,0,0,0,0,0,0,0,0,0,"Recovers own HP by a large amount. Recovers all allies' HP by a moderate amount, boosts their physical and magical attack by a large amount, and boosts their TP Boost by a small amount.",1005
 1059012,Tri-Slash+,0,0,0.66,105901201,105901202,105901203,105901204,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Moderate boost to own physical attack and small boost to own TP Boost.",2001
 1059501,"Spiritual Epiphany",0,0,0.0,105950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1059511,"Spiritual Epiphany+",0,0,0.0,105951101,105951102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to magical defense at start of battle.",3001
 1060001,"Grim Burst",1,0,0.0,106000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies.",1002
 1060002,"Lightning Sphere",1,0,1.27,106000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1060003,"Reduce Armor",1,0,0.83,106000301,106000302,0,0,0,0,0,0,106000301,0,0,0,0,0,"Lowers physical and magical defense of an enemy directly in front by a small amount.",2004
+1060011,"Abyss Burst",1,0,0.0,106001101,106001102,0,0,0,0,0,0,106001101,0,0,0,0,0,"Deals large magical damage to all enemies and inflicts Panic.",1002
 1060012,"Lightning Sphere+",1,0,1.27,106001201,106001202,106001203,106001204,0,0,0,0,0,106001202,106001203,0,0,0,"Deals moderate magical damage to an enemy directly in front and small magical damage to enemies around it. Lowers magical defense of all targets by a small amount.",2002
 1060501,"Dark Eclipse",0,0,0.0,106050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1060511,"Dark Eclipse+",0,0,0.0,106051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
@@ -341,6 +345,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1063012,"Clinging Vines+",1,0,1.27,106301201,106301202,106301203,0,0,0,0,0,106301201,106301201,0,0,0,0,"Deals moderate physical damage to the enemy with the highest magical attack. Lowers their magical attack and reduces their action speed by a small amount.",2001
 1063501,"Elven Archery",0,0,0.0,106350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1063511,"Elven Archery+",0,0,0.0,106351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1070001,"Mirror Mirror",1,0,0.0,107000101,107000102,107000103,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Creates a duplicate of herself that cannot use Union Bursts. Deploys a field around self that grants a massive boost to magical attack and a small boost to TP Boost.",1017
+1070002,"Saturation Ray",1,0,0.75,107000201,107000202,107000203,0,0,0,0,0,107000201,107000202,0,0,0,0,"Deals moderate magical damage to all enemies in range, and inflicts a brief Stun.",2002
+1070003,"Instance Gem",1,0,1.35,107000301,107000302,0,0,0,0,0,0,107000301,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front and lowers its magical defense by a small amount.",2002
+1070501,Phantasmagoria,0,0,0.0,107050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1070511,Phantasmagoria+,0,0,0.0,107051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1071001,"Numbers Avalon",1,0,0.0,107100101,107100102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and dodges all physical attacks for a set period of time. This attack never misses and is always a critical hit.",1001
 1071002,Overlay,1,0,0.75,107100201,107100202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to own TP Boost.",2003
 1071003,Injection,1,0,1.35,107100301,107100302,0,0,0,0,0,0,107100301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount.",2001
@@ -609,6 +618,8 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2080003,"",0,0,2.1,208000101,208000102,0,0,0,0,0,0,0,0,0,0,0,0,"When damage dealt, Soul Absorb stack +1 to owner",1001
 2080004,"",0,0,2.45,208000101,208000102,0,0,0,0,0,0,0,0,0,0,0,0,"When damage dealt, Soul Absorb stack +1 to owner",1001
 2080005,"",0,0,0.0,208000501,208000502,208000503,208000504,0,0,0,0,0,0,0,0,0,0,"On death, revives self (for SP Battle)",1001
+2083001,"",1,0,5.0,208300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow HP",1001
+2083002,"",1,0,5.0,208300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow TP",1001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
 3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
@@ -1054,6 +1065,14 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3081006,"",1,0,1.5,308100601,308100602,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 2",1001
 3081007,"",1,0,1.5,308100701,308100702,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 3",1001
 3081008,"",1,0,1.5,308100801,308100802,0,0,0,0,0,0,0,0,0,0,0,0,"Tentapus Eel 4",1001
+3082001,"",1,0,0.0,308200101,308200102,308200103,308200104,308200105,0,0,0,308200101,308200101,0,0,0,0,"Mandragora UB",1001
+3082002,"",2,0,1.5,308200201,308200202,308200203,308200204,308200205,308200206,308200207,0,308200201,0,308200203,0,308200205,0,"Mandragora Skill 1",1001
+3082003,"",1,0,1.5,308200301,308200302,0,0,0,0,0,0,0,0,0,0,0,0,"Mandragora Skill 2",1001
+3082004,"",1,0,0.0,308200401,308200402,0,0,0,0,0,0,0,0,0,0,0,0,"Mandragora Awakening",1001
+3082005,"",1,0,0.0,308200501,308200502,308200503,308200504,308200505,0,0,0,0,0,0,0,0,0,"Mandragora Mode 2",1001
+3082006,"",1,0,0.0,308200601,0,0,0,0,0,0,0,0,0,0,0,0,0,"Standard attack replacement",1001
+3082007,"",1,0,0.0,308200701,308200702,0,0,0,0,0,0,308200701,0,0,0,0,0,"Standard attack replacement (for SP1)",1001
+3082008,"",1,0,0.0,308200801,308200802,0,0,0,0,0,0,0,0,0,0,0,0,"Mandragora Awakening (for SP3)",1001
 3083001,"",1,0,0.0,308300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Island Whale Union Burst",1001
 3083002,"",2,0,1.5,308300201,308300202,308300203,0,0,0,0,0,0,0,0,0,0,0,"Island Whale Skill 1",1001
 3083003,"",1,0,6.0,308300301,308300302,308300303,0,0,0,0,0,308300301,308300301,0,0,0,0,"Island Whale Skill 2",1001

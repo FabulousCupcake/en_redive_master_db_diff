@@ -44,6 +44,7 @@ gacha_id,gacha_name,description,description_2,description_sp,gacha_detail,gacha_
 10044,"Normal Gacha","Get items and Memory Shards!","","",1,3,0,1,0,10,0,10044,"",0,0,"2022/07/14 23:00:00","2022/07/19 22:59:59",0,0,0,0,0,0,0,0,0,0
 10045,"Normal Gacha","Get items and Memory Shards!","","",1,3,0,1,0,10,0,10045,"",0,0,"2022/07/19 23:00:00","2022/07/30 22:59:59",0,0,0,0,0,0,0,0,0,0
 10046,"Normal Gacha","Get items and Memory Shards!","","",1,3,0,1,0,10,0,10046,"",0,0,"2022/07/30 23:00:00","2022/08/04 22:59:59",0,0,0,0,0,0,0,0,0,0
+10047,"Normal Gacha","Get items and Memory Shards!","","",1,3,0,1,0,10,0,10047,"",0,0,"2022/08/04 23:00:00","2022/08/07 22:59:59",0,0,0,0,0,0,0,0,0,0
 20001,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,20001,21001,1,200001,"2020/03/13 15:00:00","2021/01/29 22:59:59",24001,0,0,0,0,0,0,0,0,0
 20002,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,20002,21002,1,200001,"2021/01/29 23:00:00","2021/02/08 22:59:59",24001,0,2,0,0,0,0,0,0,0
 20003,"Premium Gacha","The Premium Gacha only contains characters!","","",2,2,150,0,0,0,50,20003,21003,1,200001,"2021/02/08 23:00:00","2021/02/17 22:59:59",24001,0,3,0,0,0,0,0,0,0
@@ -130,6 +131,7 @@ gacha_id,gacha_name,description,description_2,description_sp,gacha_detail,gacha_
 50023,"Princess Gala","Double rates for 3★ characters!\nFeaturing the limited characters Yui and Christina!","","",2,2,150,0,0,0,50,50023,51023,1,500023,"2021/12/20 23:00:00","2021/12/23 22:59:59",24001,0,23,0,0,0,0,0,0,0
 50027,"Princess Gala","Double rates for 3★ characters!\nFeaturing the limited character Muimi!","","",2,2,150,0,0,0,50,50027,51027,1,500027,"2022/02/01 23:00:00","2022/02/14 22:59:59",24001,0,27,0,0,0,0,0,0,0
 50033,"Princess Gala","Double rates for 3★ characters!\nBoosted rates for the new character Kuka and the limited character Christina!","","",2,2,150,0,0,0,50,0,0,1,500033,"2022/04/05 23:00:00","2022/04/12 22:59:59",24001,0,33,24004,500000,50033_1,50033_2,50033_3,0,0
+50047,"Princess Gala","Double rates for 3★ characters!\nFeaturing the limited character Neneka!","","",2,2,150,0,0,0,50,0,0,1,500047,"2022/08/04 23:00:00","2022/08/07 22:59:59",24001,0,47,24004,500000,50047_1,50047_2,50047_3,0,0
 60001,"Jump Start Gacha","The Jump Start Gacha is here!","","",2,2,1500,0,0,0,50,0,0,1,600001,"2021/01/19 23:00:00","2030/02/28 14:59:59",24001,0,9999,0,250000,0,0,0,0,0
 70001,"Guaranteed 3★ Gacha","At least one 3★ character guaranteed!","","",2,2,1500,0,0,0,50,70001,71001,1,700001,"2021/12/05 23:00:00","2021/12/07 22:59:59",24001,70001,21,0,0,0,0,0,0,0
 70002,"Guaranteed 3★ Gacha","At least one 3★ character guaranteed!","","",2,2,1500,0,0,0,50,70002,71002,1,700001,"2021/12/07 23:00:00","2021/12/12 22:59:59",24001,70001,22,0,0,0,0,0,0,0
