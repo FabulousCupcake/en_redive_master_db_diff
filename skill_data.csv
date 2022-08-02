@@ -516,6 +516,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1106003,"Maho-Maho Summer Blossom",1,0,1.34,110600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large magical damage to a random enemy.",2002
 1106501,"Fairy-tale Power",0,0,0.0,110650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1106511,"Fairy-tale Power+",0,0,0.0,110651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1107001,"Venom Blast",1,0,0.0,110700101,110700102,110700103,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front, inflicts Poison, and lowers their physical defense by a large amount.",1022
+1107002,"Spiky Circle",0,0,0.9,110700201,110700202,110700203,0,0,0,0,0,110700201,110700201,0,0,0,0,"Deploys a field that deals physical damage around an enemy directly in front. Field damage increases if the target is suffering from Poison or Venom.",2001
+1107003,"Acid Vines",1,0,1.14,110700301,110700302,110700303,110700304,0,0,0,0,110700301,110700301,110700302,0,0,0,"Lowers the physical defense of an enemy directly in front by a moderate amount. If the target is suffering from Poison or Venom, additionally deals moderate physical damage.",2004
+1107501,"Loner's Dignity",0,0,0.0,110750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1107511,"Loner's Dignity+",0,0,0.0,110751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001

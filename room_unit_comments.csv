@@ -3132,3 +3132,25 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3391,107001,3,5,1,0,1,"Replicating combustion is quite the little challenge...",0
 3393,107001,3,7,1,0,1,"To create duplicates and imitations, I require a supply of energy.",0
 3394,107001,3,8,1,0,1,"I suppose this will do\nto pass the time...",0
+3396,110701,1,1,1,0,1,"An academy, huh...\nDo you think they have any lessons on how to make friends?",0
+3397,110701,1,2,1,0,1,"Just in case I end up a loner at the academy,\nI need to research all the best hiding places...",0
+3398,110701,1,3,1,0,1,"A loner like me, at a fancy academy... Ahhh, I'm starting to feel dizzy...",0
+3399,110701,1,4,1,0,1,"I need to practice\ngreeting my classmates...\nB-but it's too hard!",0
+3400,110701,1,5,1,0,1,"Time to make a hundred friends! ...No, let's be realistic and say ten.\nOr, um... at least one...?",0
+3401,110701,1,101,4,0,1,"I'm so happy that I get to be a student at the same school as you!",0
+3402,110701,1,102,8,0,1,"Eheheh... Even at the academy, the two of us will still be together! ♪",0
+3403,110701,2,1,1,0,1,"I-I had no idea academies were so full of people...\nGotta rework my friend-making simulations!",0
+3404,110701,2,2,1,0,1,"The only club I need in my life is the BB Brigade!\nLet's keep up our efforts like the team we are!",0
+3405,110701,2,3,1,0,1,"Break times: pretend to\nbe asleep... Lunch hour: retreat to the bathroom... I've got it all planned out!",0
+3406,110701,2,4,1,0,1,"I've studied up on how to make friends at an elite academy! You start with an offering of food, right?",0
+3407,110701,2,101,4,0,1,"Even at the academy,\nlet's keep up our\nBB Brigade activities!",0
+3408,110701,2,102,8,0,1,"Academy life isn't easy for a loner. But if you're there too, I feel like I can rise to the challenge!",0
+3409,110701,2,1,1,1,1,"Oh no, look at the time...\nUm, will you walk to the academy with me?",0
+3410,110701,2,2,1,2,1,"Oh, it's lunchtime!\nDo you need me to buy you anything from the school shop?",0
+3411,110701,2,3,1,3,1,"Another lonely day comes to an end... Someday I'd like to have a pajama party with lots of friends...",0
+3413,110701,3,2,1,0,1,"This is comforting in a different way from the forest... I could fall asleep right here and now...",0
+3414,110701,3,3,1,0,1,"So cute... Maybe I could use this little guy to practice talking to...",0
+3415,110701,3,4,1,0,1,"This smells nice...\nI should get one for my room, for when I invite friends over someday...",0
+3416,110701,3,5,1,0,1,"Th-this warmth...\nIt's too much for a shadow-dweller like myself!",0
+3418,110701,3,7,1,0,1,"This tastes really good!\nCould I make it into a packed lunch to take to the academy, I wonder?",0
+3419,110701,3,8,1,0,1,"I guess I'll do a bit of studying to make sure I don't fall behind at the academy...",0
