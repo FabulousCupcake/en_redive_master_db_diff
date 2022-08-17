@@ -521,6 +521,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1107003,"Acid Vines",1,0,1.14,110700301,110700302,110700303,110700304,0,0,0,0,110700301,110700301,110700302,0,0,0,"Lowers the physical defense of an enemy directly in front by a moderate amount. If the target is suffering from Poison or Venom, additionally deals moderate physical damage.",2004
 1107501,"Loner's Dignity",0,0,0.0,110750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1107511,"Loner's Dignity+",0,0,0.0,110751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1108001,"Dark Daybreak",1,0,0.0,110800101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
+1108002,"Violet Dusk",0,0,0.73,110800201,110800202,0,0,0,0,0,0,0,0,0,0,0,0,"Causes all enemies to receive a ""Cower"" effect each time they are hit by one of Chloe's attacks. Up to 66 Cower effects can be added at once. Moderate boost to own physical attack.",2003
+1108003,"Silvery Moonlight",1,0,0.57,110800301,110800302,110800303,110800304,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount. Damage and debuff both increase based on the number of Cower effects on the target.",2004
+1108501,"Deepening Night",0,0,0.0,110850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1108511,"Deepening Night+",0,0,0.0,110851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -738,6 +743,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3018006,"",0,0,3.0,300100601,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
 3019001,"",0,0,2.0,301900101,301900102,0,0,0,0,0,0,301900101,0,0,0,0,0,sample,1001
 3019002,"",1,0,2.0,301900201,301900202,0,0,0,0,0,0,301900201,0,0,0,0,0,sample,1001
+3019011,"",0,0,2.0,301901101,301901102,301901103,0,0,0,0,0,301901101,0,0,0,0,0,"Werewhale Skill 0",1001
+3019012,"",1,0,2.0,301901201,301901202,0,0,0,0,0,0,301901201,0,0,0,0,0,"Werewhale Skill 1",1001
+3019013,"",0,0,2.0,301901301,301901302,301901303,0,0,0,0,0,301901301,301901302,0,0,0,0,"Werewhale Skill 2",1001
+3019014,"",0,0,2.0,301901401,301901402,301901403,301901404,0,0,0,0,0,0,0,0,0,0,"Werewhale Skill 3",1001
 3020001,"",1,0,2.0,302000101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3020002,"",0,0,2.0,300100201,300100202,0,0,0,0,0,0,300100201,0,0,0,0,0,sample,1001
 3020011,"",1,0,2.0,302001101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
@@ -891,6 +900,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3047042,"",0,0,2.2,304704201,304704202,304704203,304704204,0,0,0,0,0,0,0,0,0,0,"Tower Living Mail Skill 1",1001
 3047043,"",0,0,3.5,304704301,304704302,0,0,0,0,0,0,0,0,0,0,0,0,"Tower Living Mail Skil 2",1001
 3047044,"",0,0,2.7,304704401,304704402,304704403,0,0,0,0,0,0,0,0,0,0,0,"Tower Living Mail Awakening",1001
+3047051,"",0,0,2.7,304705101,304705102,304705103,0,0,0,0,0,304705101,304705101,0,0,0,0,"Living Mail Union Burst",1001
+3047052,"",0,0,2.2,304705203,304705204,304705201,304705202,0,0,0,0,0,0,0,0,0,0,"Living Mail Skill 1",1001
+3047053,"",0,0,3.5,304705301,0,0,0,0,0,0,0,304705301,0,0,0,0,0,"Living Mail Skill 2",1001
+3047054,"",0,0,2.7,304705401,304705402,304705403,0,0,0,0,0,0,0,0,0,0,0,"Living Mail Awakening",1001
 3048001,"",2,0,1.5,304800101,304800102,0,0,0,0,0,0,304800101,0,0,0,0,0,"Wraithlord Skill 0",1001
 3048002,"",2,0,1.5,304800201,304800202,304800203,0,0,0,0,0,0,0,0,0,0,0,"Wraithlord Skill 1",1001
 3049001,"",0,0,2.0,304900101,304900102,304900103,304900104,304900105,0,0,0,0,0,0,0,0,0,"Franken UB",1001

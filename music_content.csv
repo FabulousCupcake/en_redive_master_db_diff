@@ -83,3 +83,8 @@ music_id,name,total_playing_time,listen_start_time,detail,sheet_id,cue_id
 82,"Suzuna's Rainbow Stage!",0:52,00:00,"Story Event Theme\n(Arrangement of ""First Kiss on Tiptoes"")\n\nTime / 00:52\nComposed by / Tetsuya Shitara\nArranged by / Shingo Shoji (Cygames)",bgm_M237,bgm_M237_juke
 83,"Great Rain God",2:47,00:00,"Story Event Boss Battle\n\nTime / 02:47\nComposed by / Aoi Sawashita\nArranged by / Kenta Higashioji",bgm_M240,bgm_M240_juke
 84,"First Kiss on Tiptoes",1:19,00:45,"Character Song\n\nVocals:\nIo (Shizuka Ito)\nSuzuna (Sumire Uesaka)\nMisaki (Misaki Kuno)\nLyrics by / Ikumi Nomura & Kazuya Takizawa (Cygames)\n\nTime / 01:19\nComposed by / Tetsuya Shitara\nArranged by / Tetsuya Shitara",bgm_M252,bgm_M252
+85,"The Battle for Big Bro! Helping Shizuru",00:31,00:00,"Minigame\n(Arrangement of ""Super Chocolate"")\n\nTime / 00:31\nComposed by / Shingo Yamazaki\nArranged by / Saori Nakamura (Cygames)",bgm_M199,bgm_M199_juke
+86,"The Battle for Big Bro! Helping Eriko",00:34,00:00,"Minigame\n(Arrangement of ""Super Chocolate"")\n\nTime / 00:34\nComposed by / Shingo Yamazaki\nArranged by / Shingo Shoji (Cygames)",bgm_M198,bgm_M198_juke
+87,"Dog Days in the Maho-Maho Kingdom: A Soulful Seaside Summer!",00:57,00:00,"Story Event Theme\n(Arrangement of ""We Are Golden"")\n\nTime / 00:57\nComposed by / TAKU INOUE\nArranged by / Kan Irei (Cygames)",bgm_M245,bgm_M245_juke
+88,Majimun,02:03,00:00,"Story Event Boss Battle\n\nTime / 02:03\nComposed by / Kenta Higashioji\nArranged by / Kenta Higashioji",bgm_M248,bgm_M248_juke
+89,"We Are Golden",01:18,00:44,"Character Song\n\nVocals:\nMaho (Maaya Uchida)\nMakoto (Mikako Komatsu)\nKaori (Natsumi Takamori)\n\nTime / 01:18\nLyrics by / MCTC\nComposed by / TAKU INOUE\nArranged by / TAKU INOUE",bgm_M263,bgm_M263
