@@ -3154,3 +3154,25 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3416,110701,3,5,1,0,1,"Th-this warmth...\nIt's too much for a shadow-dweller like myself!",0
 3418,110701,3,7,1,0,1,"This tastes really good!\nCould I make it into a packed lunch to take to the academy, I wonder?",0
 3419,110701,3,8,1,0,1,"I guess I'll do a bit of studying to make sure I don't fall behind at the academy...",0
+3421,110801,1,1,1,0,1,"Uh, what're you doing.\nNot that it's my business,\nI guess.",0
+3422,110801,1,2,1,0,1,"Shift over, would ya.\nHuh? No, I'm not mad.\nThis is just how I talk.",0
+3423,110801,1,3,1,0,1,"Not to point fingers, but when I see a messy room, I get the urge to tidy up...",0
+3424,110801,1,4,1,0,1,"When I've got nothing to do, I just think about what to wear tomorrow. Thinking's free, y'know.",0
+3425,110801,1,5,1,0,1,"I remember when I used to hang with Shiorin too much. Then Hatsune'd get mad at me...",0
+3426,110801,1,101,4,0,1,"Look, uh. Is there a reason why you're buds with a billion different girls?\nI mean, it's fine, but yeah.",0
+3427,110801,1,102,8,0,1,"Hey, uh. Listen.\nIs there any stuff you 'specially like to eat?\nLike, in a lunch box.",0
+3428,110801,2,1,1,0,1,"Eh? You want something?\nI mean, it's fine if you don't. Whatever, I guess.",0
+3429,110801,2,2,1,0,1,"Can you just... not talk to me right now. I'm gonna flunk tomorrow's test if I don't focus.",0
+3430,110801,2,3,1,0,1,"My footsteps are really quiet? Oh, yeah, right.\nThat's sort of... a habit.",0
+3431,110801,2,4,1,0,1,"My blood type?\nIt's O. As in O for\n""Oh, who even cares.""",0
+3432,110801,2,101,4,0,1,"Eeeek!\n...N-not this again.\nI've told you to quit sneaking up on me.",0
+3433,110801,2,102,8,0,1,"Wh-what is it?\nD'you gotta keep staring like that? It's kinda, y'know... off-putting.",0
+3434,110801,2,1,1,1,1,"I've never had trouble getting up early.\nJust never got out of the habit, I guess.",0
+3435,110801,2,2,1,2,1,"Huh, look at the time.\nGuess I'll throw together something for lunch.",0
+3436,110801,2,3,1,3,1,"Nightlife? Clubbing?\nHah. I grew out of that at the age of, like, five.",0
+3438,110801,3,2,1,0,1,"Oh, this is bad. Real bad.\nI ain't got time to be getting too comfy...",0
+3439,110801,3,3,1,0,1,"The heck's this.\nIt's just... cute.",0
+3440,110801,3,4,1,0,1,"Huh. This smells...\npretty good, actually.",0
+3441,110801,3,5,1,0,1,"A fireplace is a big plus.\nYou can use it to stew, roast, steam, all that jazz.",0
+3443,110801,3,7,1,0,1,"Wait, what. Is this literally an endless food supply?\nWhere do I get one.",0
+3444,110801,3,8,1,0,1,"Books, huh... Honestly,\nI think I get enough of those at school.",0
