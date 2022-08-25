@@ -3176,3 +3176,51 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3441,110801,3,5,1,0,1,"A fireplace is a big plus.\nYou can use it to stew, roast, steam, all that jazz.",0
 3443,110801,3,7,1,0,1,"Wait, what. Is this literally an endless food supply?\nWhere do I get one.",0
 3444,110801,3,8,1,0,1,"Books, huh... Honestly,\nI think I get enough of those at school.",0
+3446,111101,1,1,1,0,1,"How exactly should I go about playing tricks,\nI wonder?",0
+3447,111101,1,2,1,0,1,"These cupcakes actually came out really well.\nI wonder if he'll eat one...",0
+3448,111101,1,3,1,0,1,"Will he give me candy today, I wonder?\nIf he doesn't... Hee hee.",0
+3449,111101,1,4,1,0,1,"There aren't really any ghosts... right?\nNot that I'm scared\nor anything!",0
+3450,111101,1,5,1,0,1,"Halloween is a lot of fun, but are all the... ghosts really necessary?",0
+3451,111101,1,101,4,0,1,"Meow, mreowwr!\n...Does that sound scary enough, I wonder?\nI hope he gets home soon.",0
+3452,111101,1,102,8,0,1,"If I know him, he'll want plenty of candy... Good thing I came prepared! ♪",0
+3453,111101,2,1,1,0,1,"Eheheh.\nThese kitty ears are so realistic, aren't they?",0
+3454,111101,2,2,1,0,1,"Did you just touch me?\nWere you playing a trick?\nYou creep!",0
+3455,111101,2,3,1,0,1,"Hissss! Don't suddenly touch my head! ...Huh?\nI sound like a real cat?",0
+3456,111101,2,4,1,0,1,"Wahh! I-it's not nice to scare people! Not that I was scared or anything!",0
+3457,111101,2,101,4,0,1,"Candy? For me? Well, thank you very much. Happy Halloween! ♪",0
+3458,111101,2,102,8,0,1,"Purrrrr...\nTh-that was my best cat impression. How was it?",0
+3459,111101,2,1,1,1,1,"Now, let's begin baking our sweet treats.\nThe preparation step is very important, you know!",0
+3460,111101,2,2,1,2,1,"You just took a sneaky bite, didn't you?! Oh...\nI suppose it is snack time.",0
+3461,111101,2,3,1,3,1,"Now, let the Halloween festivities begin...\nN-no, I'm not sleepy!",0
+3463,111101,3,2,1,0,1,"I'm feeling a little tired...\nMaybe I should rest until the party begins.",0
+3464,111101,3,3,1,0,1,"Do I look like this right now, too? I hope I look even half as cute...",0
+3465,111101,3,4,1,0,1,"All these sweet smells...\nIs there candy nearby?",0
+3466,111101,3,5,1,0,1,"All this warmth makes me want to curl up and...\nWait, am I really becoming a cat?!",0
+3468,111101,3,7,1,0,1,"If only carrots were as tasty as these are...",0
+3469,111101,3,8,1,0,1,"These Halloween books have so many ghosts, they're a little bit scary...",0
+3471,111101,3,12,1,0,1,"Wow, look at all these sweet treats... No need to worry about any tricks with these around!",0
+3473,111201,1,1,1,0,1,"I love Halloween 'cause it's the perfect time to play tons of tricks!",0
+3474,111201,1,2,1,0,1,"Since it's Halloween,\nI'd better take my tricks to a whole new level!",0
+3475,111201,1,3,1,0,1,"I'm gonna carve the scariest jack-o'-lantern you've ever seen!",0
+3476,111201,1,4,1,0,1,"I got so much candy,\nit's pretty tough to decide which to eat first!",0
+3477,111201,1,5,1,0,1,"Hmm, what kind of trick's gonna surprise everyone the most?",0
+3478,111201,1,101,4,0,1,"Looking at pumpkins is making me kinda hungry. Time for some candy! ♪",0
+3479,111201,1,102,8,0,1,"Don't worry, mister, I'm gonna set up an extra special trick just for you!",0
+3480,111201,2,1,1,0,1,"Now if I put a cracker inside this pumpkin... Wahh?! Don't look yet!\nI haven't finished!",0
+3481,111201,2,2,1,0,1,"Hm? What's that?\nYou want some candy?\nGeez, mister, what would you do without me?",0
+3482,111201,2,3,1,0,1,"Hey, mister,\nwhy don't you dress up in a hilarious costume?!",0
+3483,111201,2,4,1,0,1,"You gave me lots of candy, so I'll play lots of tricks on you as thanks!",0
+3484,111201,2,101,4,0,1,"Even at Halloween,\nthere's nobody better\nfor playing tricks on\nthan you, mister!",0
+3485,111201,2,102,8,0,1,"We should go check out the Halloween parade together!",0
+3486,111201,2,1,1,1,1,"Morning, mister!\nYou ready for a whole day of costumed fun?!",0
+3487,111201,2,2,1,2,1,"I'm getting kinda hungry. Should I start digging in to this candy already?",0
+3488,111201,2,3,1,3,1,"Whew, I played so many tricks today, I'm pooped. Think I'll head to bed...",0
+3490,111201,3,2,1,0,1,"Ooh, this is fluffy!\nMaybe I'll take a nap before playing some\nmore tricks!",0
+3491,111201,3,3,1,0,1,"While they're distracted by cute things, I'll shout ""Boo!"" and scare them out of their skin!",0
+3492,111201,3,4,1,0,1,"Mmm, smells good!\nIt's giving me inspiration for some new tricks!",0
+3493,111201,3,5,1,0,1,"Hey, do you think this candy will be tastier if I warm it up a bit?",0
+3495,111201,3,7,1,0,1,"Even candy gets boring after a while! Gotta mix in some other snacks, too!",0
+3496,111201,3,8,1,0,1,"Do these books have\nany tips on setting up clever tricks?",0
+3498,111201,3,12,1,0,1,"Whoa, so much candy!\nCan I eat it all by myself?\n...Guess not. Figures!",0
+3500,101101,1,103,12,0,1,"My studies are going well!\nI bet this is all thanks to Big Bro somehow...",0
+3501,101101,2,103,12,0,1,"Let's go to that special place together again sometime, Big Bro!",0

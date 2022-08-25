@@ -95,3 +95,6 @@ unit_id,unit_name,age,guild,race,height,weight,birth_month,birth_day,blood_type,
 110801,Chloe,17,"St. Theresa's Academy (Friendship Club)",elvenfolk,154,42,8,7,O,darts,"Atsumi Tanezaki",0,"A low-energy elf from the wrong side of town","",16
 110901,Chieru,16,"St. Theresa's Academy (Friendship Club)",humanfolk,156,46,9,15,O,"dancing, karaoke","Ayane Sakura",0,"An unstoppable bundle of energy who's always ahead of the curve","",16
 111001,Yuni,18,"St. Theresa's Academy (Friendship Club)",humanfolk,142,36,2,28,O,reading,"Konomi Kohara",0,"The small-statured sage of the library","",16
+111101,"Kyoka (Halloween)",8,"Little Lyrical",elvenfolk,118,21,2,2,A,studying,"Yui Ogura",0,"A polite, level-headed young honor student","",5
+111201,"Misogi (Halloween)",9,"Little Lyrical",humanfolk,128,27,8,10,O,"pranks, exploring","Sumire Morohoshi",0,"A prankster who loves exploring","If it's pranks you're after, I can deliver!\nC'mon, mister, try not to fall for this next one! ♪",5
+111301,"Mimi (Halloween)",10,"Little Lyrical",beastfolk,117,21,4,3,O,"collecting cute things","Rina Hidaka",0,"Loves singing, carrots, and rabbits","I'd love to be a fluffy bunny too! ♪\nHey, mister, if I ever turn into a bunny,\nI'll show you first of all!",5
