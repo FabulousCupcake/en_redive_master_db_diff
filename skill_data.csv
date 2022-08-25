@@ -62,6 +62,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1011001,"Arrow Rain",0,0,0.0,101100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",1001
 1011002,Concentration,0,0,1.07,101100202,101100201,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and physical critical rate.",2003
 1011003,"Crushing Shot",0,0,1.5,101100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1011011,"Solar Rain",0,0,0.0,101101101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range. When this skill is a critical hit, its damage is multiplied by 3.5 instead of 2.",1001
 1011012,Concentration+,0,0,1.07,101101202,101101201,101101203,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack and action speed, and moderate boost to own physical critical rate.",2003
 1011501,Penetration,0,0,0.0,101150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1011511,Penetration+,0,0,0.0,101151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
@@ -526,6 +527,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1108003,"Silvery Moonlight",1,0,0.57,110800301,110800302,110800303,110800304,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount. Damage and debuff both increase based on the number of Cower effects on the target.",2004
 1108501,"Deepening Night",0,0,0.0,110850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1108511,"Deepening Night+",0,0,0.0,110851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1111001,"Halloween Bloom Dance",1,0,0.0,111100101,111100102,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers the magical defense of an enemy directly in front by a moderate amount. Massive boost to all allies' magical attack.",1003
+1111002,"Magical Trick",0,0,1.27,111100201,111100202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to the magical attack of the ally with the highest magical attack. This boost increases based on the target's magical attack.",2003
+1111003,"Magical Treat",1,0,0.97,111100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to all allies' magical attack.",2003
+1111501,"Halloween Bravery",0,0,0.0,111150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1111511,"Halloween Bravery+",0,0,0.0,111151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1112001,"Trick or Trick!",1,0,0.0,111200101,111200102,0,0,0,0,0,0,0,0,0,0,0,0,"[Countdown] Places bombs upon all enemies in front. Each bomb explodes after a count of 5, dealing moderate physical damage to all enemies.",1001
+1112002,"Painting Kick",0,0,0.465,111200201,111200202,111200203,0,0,0,0,0,0,111200202,0,0,0,0,"Deals moderate physical damage to all enemies in range.",2001
+1112003,"Pumpkin Surprise",1,0,0.465,111200301,111200302,0,0,0,0,0,0,111200301,0,0,0,0,0,"Deals moderate physical damage to all enemies in a radius around the third enemy from the front.",2001
+1112501,"Trick Expertise",0,0,0.0,111250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1112511,"Trick Expertise+",0,0,0.0,111251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -630,6 +641,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2080005,"",0,0,0.0,208000501,208000502,208000503,208000504,0,0,0,0,0,0,0,0,0,0,"On death, revives self (for SP Battle)",1001
 2083001,"",1,0,5.0,208300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow HP",1001
 2083002,"",1,0,5.0,208300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow TP",1001
+2083003,"",1,0,5.0,208300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow TP",1001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
 3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
@@ -1136,6 +1148,12 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3083002,"",2,0,1.5,308300201,308300202,308300203,0,0,0,0,0,0,0,0,0,0,0,"Island Whale Skill 1",1001
 3083003,"",1,0,6.0,308300301,308300302,308300303,0,0,0,0,0,308300301,308300301,0,0,0,0,"Island Whale Skill 2",1001
 3083004,"",1,0,0.0,308300401,308300402,308300403,308300404,0,0,0,0,0,0,0,0,0,0,"Island Whale Awakening",1001
+3084001,"",1,0,0.0,308400101,308400102,0,0,0,0,0,0,308400101,0,0,0,0,0,"Phantom Baron UB (Magic percentage damage + magic defense debuff)",1001
+3084002,"",0,0,1.2,308400201,308400202,308400203,0,0,0,0,0,308400201,308400202,0,0,0,0,"Phantom Baron Skill 1 (Physical damage to rearmost 2 characters + pull to front line: variant of knockback)",1001
+3084003,"",1,0,1.2,308400301,308400302,308400303,0,0,0,0,0,0,0,0,0,0,0,"Phantom Baron Skill 2 (Small magic damage to all enemies → additional large magic damage to are in front → reset position of character pulled forward with knockback)",1001
+3084004,"",1,0,0.0,308400401,308400402,308400403,308400404,0,0,0,0,0,0,0,0,0,0,"Phantom Baron Awakening (Magic attack buff + Haste)",1001
+3084005,"",1,0,1.2,308400501,308400502,308400503,308400504,308400505,0,0,0,0,0,0,0,0,0,"Phantom Baron Skill 3 (Damage to area in front → reduces TP of damaged characters → recovers boss HP)",1001
+3084006,"",1,0,0.0,308400601,308400602,308400603,308400604,0,0,0,0,0,0,0,0,0,0,"Phantom Baron SP Battle Awakening (Magic attack buff + Haste)",1001
 3090001,"",0,0,0.0,309000101,309000102,0,0,0,0,0,0,0,0,0,0,0,0,"Land Sloth: Union Burst",1001
 3090002,"",0,0,1.5,309000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Land Sloth: Skill",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
