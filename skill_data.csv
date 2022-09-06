@@ -395,16 +395,19 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1081001,"Halloween Terror",1,0,0.0,108100101,108100102,108100103,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to the enemy with the lowest HP percentage. Deals additional moderate physical damage to all enemies if the enemy is defeated by this skill.",1001
 1081002,"Wraith Weapon",1,0,0.75,108100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack.",2003
 1081003,"Hollow Scythe",1,0,1.35,108100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",2001
+1081012,"Wraith Weapon+",1,0,0.75,108101201,108101202,0,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to own physical attack and large boost to own physical critical rate.",2003
 1081501,"Netherworld Nocturne",0,0,0.0,108150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1081511,"Netherworld Nocturne+",0,0,0.0,108151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1082001,"Trick or Pudding!",1,0,0.0,108200101,108200102,108200103,0,0,0,0,0,0,108200102,0,0,0,0,"Deals massive physical damage to the farthest enemy and inflicts Curse.",1001
 1082002,"I'm a Were-Miyako!",1,0,0.75,108200201,108200202,108200203,0,0,0,0,0,0,0,0,0,0,0,"Reduces the farthest enemy's TP by a small amount and inflicts Stun.",2018
 1082003,Ghosty-Go-Round!,1,0,0.55,108200301,108200302,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers the physical and magical attack of the farthest enemy by a moderate amount.",2004
+1082012,"I'm a Were-Miyako!+",1,0,0.75,108201201,108201202,108201203,108201204,0,0,0,0,0,0,0,0,0,0,"Reduces the farthest enemy's TP by a small amount and inflicts Stun and Panic.",2018
 1082501,Growly-Growl!,0,0,0.0,108250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1082511,Growly-Growl!+,0,0,0.0,108251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1083001,"Deadly Pumpkin Party",1,0,0.0,108300101,108300102,108300103,108300104,0,0,0,0,108300101,108300101,108300101,0,0,0,"Deals moderate magical damage to all enemies in the front and lowers magical defense by a small amount. Inflicts Curse and Bind.",1008
 1083002,"Lady's Charm",1,0,1.05,108300201,108300202,0,0,0,0,0,0,108300201,0,0,0,0,0,"Deals small magical damage to an enemy directly in front and inflicts Charm.",2009
 1083003,"Halloween Hype",1,0,1.19,108300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Boosts magical attack of all allies in range by a moderate amount.",2003
+1083012,"Lady's Charm+",1,0,1.05,108301201,108301202,108301203,0,0,0,0,0,108301201,108301201,0,0,0,0,"Deals moderate magical damage to an enemy directly in front, reduces its TP by a small amount, and inflicts Charm.",2009
 1083501,"Lady of Halloween",0,0,0.0,108350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1083511,"Lady of Halloween+",0,0,0.0,108351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1084001,"Sylphide Carol",1,0,0.0,108400101,108400102,108400103,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Summons three spirits directly in front of oneself.",1017
@@ -969,6 +972,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3050002,"",1,0,1.8,305000201,305000202,0,0,0,0,0,0,0,0,0,0,0,0,"Pudding Skill 1",1001
 3050003,"",1,0,2.7,305000301,305000302,305000303,305000304,0,0,0,0,0,305000302,305000303,0,0,0,"Pudding Skill 2",1001
 3050004,"",1,0,0.0,305000401,305000402,305000403,305000404,0,0,0,0,0,0,0,0,0,0,"Pudding Awakening",1001
+3050005,"",1,0,0.0,305000501,305000502,305000503,0,0,0,0,0,0,305000502,0,0,0,0,"Jack-o-Pudding Union Burst",1001
+3050006,"",1,0,1.8,305000601,305000602,0,0,0,0,0,0,0,0,0,0,0,0,"Jack-o-Pudding Skill 1",1001
+3050007,"",1,0,2.7,305000701,305000702,305000703,305000704,0,0,0,0,0,305000702,305000703,0,0,0,"Jack-o-Pudding Skill 2",1001
+3050008,"",1,0,0.0,305000801,305000802,305000803,305000804,0,0,0,0,0,0,0,0,0,0,"Jack-o-Pudding Awakening",1001
 3051001,"",0,0,2.0,305100101,305100102,305100103,305100104,0,0,0,0,305100101,0,0,0,0,0,"Mega Lapahn UB",1001
 3051002,"",0,0,2.0,305100201,305100202,0,0,0,0,0,0,0,0,0,0,0,0,"Mega Lapahn Skill 1",1001
 3052001,"",1,0,0.0,305200101,305200102,0,0,0,0,0,0,0,0,0,0,0,0,"Golem Union Burst",1001
@@ -1156,6 +1163,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3084004,"",1,0,0.0,308400401,308400402,308400403,308400404,0,0,0,0,0,0,0,0,0,0,"Phantom Baron Awakening (Magic attack buff + Haste)",1001
 3084005,"",1,0,1.2,308400501,308400502,308400503,308400504,308400505,0,0,0,0,0,0,0,0,0,"Phantom Baron Skill 3 (Damage to area in front → reduces TP of damaged characters → recovers boss HP)",1001
 3084006,"",1,0,0.0,308400601,308400602,308400603,308400604,0,0,0,0,0,0,0,0,0,0,"Phantom Baron SP Battle Awakening (Magic attack buff + Haste)",1001
+3085001,"",1,0,0.0,308500101,308500102,0,0,0,0,0,0,308500101,0,0,0,0,0,"Coral Qilin Union Burst",1001
+3085002,"",1,0,0.0,308500201,308500202,308500203,308500204,0,0,0,0,0,0,0,0,0,0,"Coral Qilin Skill 1",1001
+3085003,"",1,0,0.0,308500301,308500302,308500303,308500304,308500305,0,0,0,0,0,0,0,0,0,"Coral Qilin Skill 2",1001
+3085004,"",0,0,0.0,308500401,308500402,308500403,308500404,0,0,0,0,0,0,0,0,0,0,"Coral Qilin Awakening",1001
 3090001,"",0,0,0.0,309000101,309000102,0,0,0,0,0,0,0,0,0,0,0,0,"Land Sloth: Union Burst",1001
 3090002,"",0,0,1.5,309000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Land Sloth: Skill",1001
 3091001,"",0,0,0.0,309100101,309100102,309100103,0,0,0,0,0,309100101,309100101,0,0,0,0,"Croco Warrior: Union Burst",1001
