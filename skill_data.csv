@@ -540,6 +540,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1112003,"Pumpkin Surprise",1,0,0.465,111200301,111200302,0,0,0,0,0,0,111200301,0,0,0,0,0,"Deals moderate physical damage to all enemies in a radius around the third enemy from the front.",2001
 1112501,"Trick Expertise",0,0,0.0,111250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1112511,"Trick Expertise+",0,0,0.0,111251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1113001,"Bunny Mummy Stomp",1,0,0.0,111300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1001
+1113002,"Bandagey Bash",0,0,1.67,111300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",2001
+1113003,"Bunny Mummy Happy Dance",1,0,2.0,111300301,111300302,111300303,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to all allies' physical attack, in exchange for lowering their physical and magical defense by a small amount.",2003
+1113501,"Mummy Bunny Power",0,0,0.0,111350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1113511,"Mummy Bunny Power+",0,0,0.0,111351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001

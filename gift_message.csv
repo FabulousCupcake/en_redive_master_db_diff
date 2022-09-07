@@ -66,6 +66,7 @@ id,discription,type_1,type_2,type_3,type_4
 9508,"Item obtained from {0}.",13,0,0,0
 9509,"Item obtained for solving a riddle.",0,0,0,0
 9510,"Item obtained from {0}.",18,0,0,0
+9516,"Item obtained from the revival event login bonus day {1}.",13,2,0,0
 9600,"Item obtained from a minigame.",0,0,0,0
 9700,"Ranking reward earned in Attack of the Robo Lima!",0,0,0,0
 9701,"Attack reward earned in Attack of the Robo Lima!",0,0,0,0
