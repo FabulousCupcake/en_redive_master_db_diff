@@ -44,3 +44,6 @@ story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love
 7008000,7008,"Tower of Luna Chapter 8: Opening","The Little Sisters' Secret Plan",2,0,7007005,0,108,71120310,0,8,91002,20,0,0,0,0,0,0,"2022/08/19 13:00:00","2030/04/24 14:59:59"
 7008001,7008,"Tower of Luna Chapter 8: Episode 1","Tales of Big Sisters",2,0,7008000,0,108,71130320,0,8,91002,20,0,0,0,0,0,0,"2022/08/19 13:00:00","2030/04/24 14:59:59"
 7008002,7008,"Tower of Luna Chapter 8: Episode 2","It Wasn't a Mistake!",2,0,7008001,0,108,71130330,0,8,91002,20,0,0,0,0,0,0,"2022/08/19 13:00:00","2030/04/24 14:59:59"
+7008003,7008,"Tower of Luna Chapter 8: Episode 3","Rewarding Rewards",2,0,7008002,0,108,71130330,0,8,91002,20,0,0,0,0,0,0,"2022/09/16 13:00:00","2030/04/24 14:59:59"
+7008004,7008,"Tower of Luna Chapter 8: Episode 4","Piggyback Problems",2,0,7008003,0,108,71140340,0,8,91002,20,0,0,0,0,0,0,"2022/09/16 13:00:00","2030/04/24 14:59:59"
+7008005,7008,"Tower of Luna Chapter 8: Episode 5","Sweet Paradise",2,0,7008004,0,108,71140350,0,8,91002,20,0,0,0,0,0,0,"2022/09/16 13:00:00","2030/04/24 14:59:59"
