@@ -1,0 +1,46 @@
+id,talk_id,chara_index,talk_text,sheet_name,cue_name,direction
+1000101,10001,1,"Heh heh heh. I'll show Kaya-P and the boss I'm no pushover!",vo_minigame_1004,vo_minigame_1004_top_1_000,2
+1000201,10002,1,"You're helping me choose these words too, you know.",vo_minigame_1004,vo_minigame_1004_top_1_003,2
+1000301,10003,2,"A  brawler never backs down from a fight! Let's do this!",vo_minigame_1004,vo_minigame_1004_top_1_004,1
+1000401,10004,2,"Linking words on stone tablets... You have the wildest ideas, Inori.",vo_minigame_1004,vo_minigame_1004_top_1_005,1
+1000501,10005,2,"I don't lose any fight, whether it's with fists or words!",vo_minigame_1004,vo_minigame_1004_top_1_006,1
+1000601,10006,3,"Mrghhh... (Me hungry...)",vo_minigame_1004,vo_minigame_1004_top_1_007,2
+1000701,10007,3,"Mrrghhhh. (This game fun.)",vo_minigame_1004,vo_minigame_1004_top_1_008,2
+1000801,10008,3,"Mrrrghhhhh! (Inori nice girl!)",vo_minigame_1004,vo_minigame_1004_top_1_009,2
+1000901,10009,1,"Even against you, Kaya-P, I won't hold back!",vo_minigame_1004,vo_minigame_1004_top_2_010,2
+1000902,10009,2,"Hell yeah! Let's go all out, no holds barred!",vo_minigame_1004,vo_minigame_1004_top_2_011,1
+1001001,10010,1,"Kaya-P, this is your last chance to say sorry!",vo_minigame_1004,vo_minigame_1004_top_2_012,2
+1001002,10010,2,"Sure it's not you who should be begging for mercy?",vo_minigame_1004,vo_minigame_1004_top_2_013,1
+1001101,10011,1,"Kaya-P, brains are stronger than brawn nowadays.",vo_minigame_1004,vo_minigame_1004_top_2_014,2
+1001102,10011,2,"Hold it! Don't make it sound like I'm an idiot!",vo_minigame_1004,vo_minigame_1004_top_2_015,1
+1001201,10012,1,"Now, let's show off what we can do!",vo_minigame_1004,vo_minigame_1004_top_2_016,1
+1001202,10012,3,"Mrghh! (All right!)",vo_minigame_1004,vo_minigame_1004_top_2_017,2
+1001301,10013,1,"Good boy... If you play well, I'll give you a chocolate treat!",vo_minigame_1004,vo_minigame_1004_top_2_018,1
+1001302,10013,3,"Mrghh! (I love choc'late!)",vo_minigame_1004,vo_minigame_1004_top_2_019,2
+1001401,10014,2,"Hey, Inori... Have you forgotten why we're doing this?",vo_minigame_1004,vo_minigame_1004_top_2_023,1
+1001402,10014,1,"Of course I remember! It's to defeat you and prove we're the smartest!",vo_minigame_1004,vo_minigame_1004_top_2_024,2
+1001501,10015,2,"Even against you, I'm not going for anything less than gold!",vo_minigame_1004,vo_minigame_1004_top_2_025,1
+1001502,10015,1,"Good! I won't hold back, so neither should you!",vo_minigame_1004,vo_minigame_1004_top_2_026,2
+1001601,10016,2,"Heh... You're not half bad at this.",vo_minigame_1004,vo_minigame_1004_top_2_027,1
+1001602,10016,1,"You're doing better than I thought, too!",vo_minigame_1004,vo_minigame_1004_top_2_028,2
+1001701,10017,2,"Hey, Pseudo-Dragon?",vo_minigame_1004,vo_minigame_1004_top_2_029,1
+1001702,10017,3,"Mrghh?! (Eek!)",vo_minigame_1004,vo_minigame_1004_top_2_030,2
+1001801,10018,2,"Maaaan, I'm real sorry about back there! Hahaha!",vo_minigame_1004,vo_minigame_1004_top_2_031,1
+1001802,10018,3,"Mrghhhh... (Kaya-P is scary...)",vo_minigame_1004,vo_minigame_1004_top_2_032,2
+1001901,10019,2,"Hey, big guy... You've got a really dumb face, huh?",vo_minigame_1004,vo_minigame_1004_top_2_033,1
+1001902,10019,3,"Mrghh... (Look who talking.)",vo_minigame_1004,vo_minigame_1004_top_2_034,2
+1002001,10020,3,"Mrgh... (Me hungry. Want choc'late.)",vo_minigame_1004,vo_minigame_1004_top_2_044,2
+1002002,10020,2,"What's that? You sleepy?",vo_minigame_1004,vo_minigame_1004_top_2_045,1
+1002101,10021,3,"Mrghhh... (This girl... dangerous.)",vo_minigame_1004,vo_minigame_1004_top_2_046,2
+1002102,10021,2,"Hm? What's that? You wanna become my underling or something?",vo_minigame_1004,vo_minigame_1004_top_2_047,1
+1002201,10022,3,"Mrghh... (Kaya-P is musclehead.)",vo_minigame_1004,vo_minigame_1004_top_2_048,2
+1002202,10022,2,"Hey. I didn't like the sound of that growl!",vo_minigame_1004,vo_minigame_1004_top_2_049,1
+1002301,10023,2,"Hey, how long are we doing this for?",vo_minigame_1004,vo_minigame_1004_top_3_058,1
+1002302,10023,1,"Until you give up and admit defeat!",vo_minigame_1004,vo_minigame_1004_top_3_059,2
+1002303,10023,3,"Mrghh! (Surrender now!)",vo_minigame_1004,vo_minigame_1004_top_3_060,2
+1002401,10024,3,"Mrghh! (Inori. Give choc'late.)",vo_minigame_1004,vo_minigame_1004_top_3_065,2
+1002402,10024,1,"Oh, all right. But don't eat too much, OK?",vo_minigame_1004,vo_minigame_1004_top_3_066,1
+1002403,10024,2,"He's really taken to those chocolate treats, huh...",vo_minigame_1004,vo_minigame_1004_top_3_067,1
+1002501,10025,3,"Mrghh! (Me not lose to Kaya-P!)",vo_minigame_1004,vo_minigame_1004_top_3_068,2
+1002502,10025,2,"Hm? What's that? You feeling hungry?",vo_minigame_1004,vo_minigame_1004_top_3_069,1
+1002503,10025,1,"...She doesn't understand a word he says.",vo_minigame_1004,vo_minigame_1004_top_3_070,2

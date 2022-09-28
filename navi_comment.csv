@@ -61,3 +61,5 @@ comment_id,where_type,character_id,face_type,character_name,description,voice_id
 29002,29,190801,1,Karin,"Select a friend from the list\nto view their profile in detail!",4,"2022/08/26 13:00:00","2030/12/17 14:59:59",-409.0,0.0,0.0,1,0
 30001,30,190801,1,Karin,"This is where you can\nmanage your friend list.\nI hope you'll meet plenty\nof wonderful new people!",5,"2022/08/26 13:00:00","2030/12/17 14:59:59",-409.0,0.0,0.0,1,0
 30002,30,190801,1,Karin,"You can send friend requests\nor accept those you've received.\nIsn't it wonderful to get along?",6,"2022/08/26 13:00:00","2030/12/17 14:59:59",-409.0,0.0,0.0,1,0
+31001,31,190801,1,Karin,"Test your strength against\nyour friends' best parties!\nIsn't it wonderful to spur\none another to new heights?",7,"2022/10/02 13:00:00","2030/12/17 14:59:59",-409.0,0.0,0.0,1,0
+31002,31,190801,1,Karin,"Select the party you'd like\nto try facing in battle!\nI can't wait to see which\nstrategy comes out on top!",8,"2022/10/02 13:00:00","2030/12/17 14:59:59",-409.0,0.0,0.0,1,0

@@ -279,6 +279,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1052001,"Woolly Wallop",0,0,0.0,105200101,105200102,105200103,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. Massive boost to own physical defense.",1001
 1052002,"Fuzzy Fury",0,4000,0.0,105200201,105200202,105200203,105200204,105200205,0,0,0,0,105200202,0,0,0,0,"Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Moderate boost to own physical defense.",2001
 1052003,"Hairy Headbutt",0,0,1.375,105200301,105200302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and inflicts Stun.",2001
+1052011,"Whopping Woolly Wallop",0,0,0.0,105201101,105201102,105201103,105201104,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range, and knocks them back slightly. In addition, boosts own phyiscal defense by a massive amount, and deploys a barrier that negates physical damage around nearby allies.",1001
 1052012,"Fuzzy Fury+",0,4000,0.0,105201201,105201202,105201203,105201204,105201205,105201206,0,0,0,105201202,0,0,0,0,"Charges straight at the foremost enemy shortly after battle begins and deals moderate physical damage. Moderate boost to own physical defense. Deploys a barrier that negates physical damage around all allies.",2001
 1052501,"Downy Defense",0,0,0.0,105250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1052511,"Downy Defense+",0,0,0.0,105251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
@@ -545,6 +546,12 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1113003,"Bunny Mummy Happy Dance",1,0,2.0,111300301,111300302,111300303,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to all allies' physical attack, in exchange for lowering their physical and magical defense by a small amount.",2003
 1113501,"Mummy Bunny Power",0,0,0.0,111350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1113511,"Mummy Bunny Power+",0,0,0.0,111351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1114001,"Phantom Howl",1,0,0.0,111400101,111400102,111400103,111400104,111400105,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front. If Luna has any Friends, consumes up to 5 Friends to boost this attack's damage.",1002
+1114002,"Soul Conversion",0,0,0.74,111400201,111400202,111400203,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to the ally with the highest remaining HP and recovers their TP by a moderate amount. Luna gains 1 extra Friend.",2006
+1114003,"Undying Resentment",1,0,0.74,111400301,111400302,111400303,111400304,111400305,0,0,0,0,0,0,111400304,0,0,"Deals moderate magical damage to an enemy directly in front. If Luna has 2 or more Friends, consumes 2 Friends and deals large magical damage instead.",2002
+1114101,"Come On My Adventure",1,0,0.0,111410101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Causes Luna to gain 1 Friend whenever she deals damage to a target.",1001
+1114501,"Will You Join My Adventure?",0,0,0.0,111450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1114511,"Will You Join My Adventure?+",0,0,0.0,111451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -1212,6 +1219,19 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3085002,"",1,0,0.0,308500201,308500202,308500203,308500204,0,0,0,0,0,0,0,0,0,0,"Coral Qilin Skill 1",1001
 3085003,"",1,0,0.0,308500301,308500302,308500303,308500304,308500305,0,0,0,0,0,0,0,0,0,"Coral Qilin Skill 2",1001
 3085004,"",0,0,0.0,308500401,308500402,308500403,308500404,0,0,0,0,0,0,0,0,0,0,"Coral Qilin Awakening",1001
+3086001,"Pseudo-Dragon UB",0,0,0.0,308600101,308600102,308600103,0,0,0,0,0,0,0,0,0,0,0,"Pseudo-Dragon UB",1001
+3086002,"Pseudo-Dragon Skill 1",0,0,0.0,308600201,308600202,308600203,308600204,308600205,0,0,0,0,0,0,0,0,0,"Pseudo-Dragon Skill 1",1001
+3086003,"Pseudo-Dragon Skill 2",0,0,0.0,308600301,308600302,0,0,0,0,0,0,308600301,0,0,0,0,0,"Pseudo-Dragon Skill 2",1001
+3086004,"Pseudo-Dragon Awake",0,0,0.0,308600401,308600402,308600403,308600404,0,0,0,0,0,0,0,0,0,0,"Pseudo-Dragon Awake",1001
+3086005,"Pseudo-Dragon Skill 4 (Summon)",0,0,0.0,308600501,308600502,308600503,308600504,308600505,0,0,0,0,0,0,0,0,0,"Pseudo-Dragon Skill 4 (Summon)",1001
+3086006,"Pseudo-Dragon Skill 4 (Immediate 99 Marks)",0,0,0.0,308600601,308600602,0,0,0,0,0,0,0,0,0,0,0,0,"Pseudo-Dragon Skill 4 (Immediate 99 Marks)",1001
+3086007,"",0,0,0.0,308600701,308600702,308600703,308600704,308600705,0,0,0,0,0,0,0,0,0,"",1001
+3086008,"",0,0,0.0,308600801,308600802,308600803,308600804,308600805,0,0,0,0,0,0,0,0,0,"",1001
+3086061,"Pseudo-Dragon UB (Mode 3)",0,0,0.0,308606101,308606102,308606103,308606104,0,0,0,0,0,0,0,0,0,0,"Pseudo-Dragon UB (Mode 3)",1001
+3086062,"Pseudo-Dragon Skill 1",0,0,0.0,308606201,308606202,308606203,308606204,308606205,0,0,0,0,0,0,0,0,0,"Pseudo-Dragon Skill 1",1001
+3086063,"Pseudo-Dragon Skill 2",0,0,0.0,308600301,308600302,0,0,0,0,0,0,308600301,0,0,0,0,0,"Pseudo-Dragon Skill 2",1001
+3086064,"Pseudo-Dragon Awake",0,0,0.0,308600401,308600402,308600403,0,0,0,0,0,0,0,0,0,0,0,"Pseudo-Dragon Awake",1001
+3086065,"",0,0,0.0,308606501,308606502,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
 3090001,"",0,0,0.0,309000101,309000102,0,0,0,0,0,0,0,0,0,0,0,0,"Land Sloth: Union Burst",1001
 3090002,"",0,0,1.5,309000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Land Sloth: Skill",1001
 3091001,"",0,0,0.0,309100101,309100102,309100103,0,0,0,0,0,309100101,309100101,0,0,0,0,"Croco Warrior: Union Burst",1001

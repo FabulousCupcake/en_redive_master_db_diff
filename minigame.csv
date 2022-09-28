@@ -2,3 +2,4 @@ id,minigame_scheme_id,event_id,release_conditions_1,conditions_id_1,first_time_s
 1,1001,10011,2,10011105,0
 2,1002,10015,2,10015103,0
 3,1003,10021,2,10021108,5021700
+4,1004,10027,3,5027007,5027700

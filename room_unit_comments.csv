@@ -3247,3 +3247,27 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3524,111301,3,7,1,0,1,"This is yummy! ♪\nCome on, mister, you should try some too!",0
 3525,111301,3,8,1,0,1,"I wanna read this book together with you, mister!",0
 3527,111301,3,12,1,0,1,"Happy Halloween! ♪\nEheheh...\nLook at all this candy!",0
+3529,111401,1,1,1,0,1,"I like it here.\nEveryone is friendly and kind.",0
+3530,111401,1,2,1,0,1,"I'm feeling a bit lonely.",0
+3531,111401,1,3,1,0,1,"I'm scared of strangers.",0
+3532,111401,1,4,1,0,1,"This room is so big.",0
+3533,111401,1,5,1,0,1,"I think...\nI want to take a nap.",0
+3534,111401,1,101,4,0,1,"Hey, mister!\nWhat should we play today?",0
+3535,111401,1,102,8,0,1,"You know,\nI want you to teach me how to cook!",0
+3536,111401,2,1,1,0,1,"Ah, it's you!",0
+3537,111401,2,2,1,0,1,"I'm feeling great!\nI'm such a good kid!",0
+3538,111401,2,3,1,0,1,"What should we do today?",0
+3539,111401,2,4,1,0,1,"Play with me!",0
+3540,111401,2,101,4,0,1,"Hey, hey!\nTake me out!",0
+3541,111401,2,102,8,0,1,"Mister,\nI wanna play with you!",0
+3542,111401,2,1,1,1,1,"Heehee.\nIt's quite bright.",0
+3543,111401,2,2,1,2,1,"I'm feeling hungry.",0
+3544,111401,2,3,1,3,1,"Where should we go?",0
+3546,111401,3,2,1,0,1,"I like this!",0
+3547,111401,3,3,1,0,1,"This is so cute!",0
+3548,111401,3,4,1,0,1,"This smells good!",0
+3549,111401,3,5,1,0,1,"It's so nice and warm.",0
+3551,111401,3,7,1,0,1,"Heehee.\nThis is tasty.",0
+3552,111401,3,8,1,0,1,"I'm starting to\nfeel sleepy...",0
+3554,105201,1,103,12,0,1,"Eheheh.\nI wish I could go on a date with him in Landosol. ♪",0
+3555,105201,2,103,12,0,1,"When I'm with you,\nI feel like I can do anything. ♪",0
