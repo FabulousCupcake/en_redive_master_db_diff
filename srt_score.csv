@@ -1,0 +1,4 @@
+difficulty_level,coefficient_read_type_1,coefficient_read_type_2,coefficient_read_type_3,coefficient_count_priconne_panel,coefficient_fever,constant_turn_bonus,coefficient_turn_bonus,coefficient_avg_answer_time,constant_wrong_num,coefficient_wrong_num
+1,200,300,300,200,50,3000,400000,1000000,1200,400000
+2,300,400,400,300,100,4000,400000,2000000,1800,600000
+3,400,600,600,400,150,5000,400000,3000000,2400,800000
