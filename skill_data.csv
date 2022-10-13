@@ -347,6 +347,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1063012,"Clinging Vines+",1,0,1.27,106301201,106301202,106301203,0,0,0,0,0,106301201,106301201,0,0,0,0,"Deals moderate physical damage to the enemy with the highest magical attack. Lowers their magical attack and reduces their action speed by a small amount.",2001
 1063501,"Elven Archery",0,0,0.0,106350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1063511,"Elven Archery+",0,0,0.0,106351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1065001,"Dragon's End Fist",1,0,0.0,106500101,106500102,106500103,106500104,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Damage greatly boosted the first time this Union Burst is used in a battle.",1001
+1065002,"Draconic Smash",1,0,0.57,106500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1065003,"Dragolyzer Stance",1,0,0.34,106500301,106500302,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack and physical critical rate.",2003
+1065501,"Blazing Dragon",0,0,0.0,106550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1065511,"Blazing Dragon+",0,0,0.0,106551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1070001,"Mirror Mirror",1,0,0.0,107000101,107000102,107000103,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Creates a duplicate of herself that cannot use Union Bursts. Deploys a field around self that grants a massive boost to magical attack and a small boost to TP Boost.",1017
 1070002,"Saturation Ray",1,0,0.75,107000201,107000202,107000203,0,0,0,0,0,107000201,107000202,0,0,0,0,"Deals moderate magical damage to all enemies in range, and inflicts a brief Stun.",2002
 1070003,"Instance Gem",1,0,1.35,107000301,107000302,0,0,0,0,0,0,107000301,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front and lowers its magical defense by a small amount.",2002
@@ -1039,6 +1044,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3052042,"",0,0,1.8,305204201,305204202,305204203,305204204,0,0,0,0,305204201,305204202,305204203,0,0,0,"",1001
 3052043,"",0,0,4.5,305204301,305204302,305204303,305204304,0,0,0,0,305204301,305204302,305204302,0,0,0,"",1001
 3052044,"",0,0,0.0,305204401,305204402,305204403,305204404,0,0,0,0,0,0,0,0,0,0,"",1001
+3052051,"",1,0,0.0,305205101,305205102,0,0,0,0,0,0,0,0,0,0,0,0,"Golem Union Burst",1001
+3052052,"",1,0,1.8,305205201,305205202,0,0,0,0,0,0,0,0,0,0,0,0,"Golem Skill 1",1001
+3052053,"",1,0,4.5,305205301,305205302,305205303,305205304,0,0,0,0,305205301,305205301,305205303,0,0,0,"Golem Skill 2",1001
+3052054,"",1,0,0.0,305205401,305205402,305205403,305205404,0,0,0,0,0,0,0,0,0,0,"Golem Awakening",1001
 3053001,"",0,0,0.0,305300101,305300102,0,0,0,0,0,0,0,0,0,0,0,0,"High Garoog UB",1001
 3053002,"",0,0,1.5,305300201,305300202,305300203,0,0,0,0,0,305300201,0,0,0,0,0,"High Garoog Skill 1",1001
 3053003,"",0,0,1.5,305300301,305300302,0,0,0,0,0,0,305300301,0,0,0,0,0,"High Garoog Skill 2",1001
@@ -1161,6 +1170,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3075002,"",0,0,1.5,307500201,307500202,307500203,0,0,0,0,0,307500201,307500202,0,0,0,0,"Ziz Skill 1",1001
 3075003,"",0,0,1.5,307500301,307500302,0,0,0,0,0,0,307500301,0,0,0,0,0,"Ziz Skill 2",1001
 3075004,"",0,0,1.5,307500401,307500402,307500403,0,0,0,0,0,307500401,0,0,0,0,0,"Ziz Skill 3",1001
+3075041,"",0,0,1.5,307504101,307504102,0,0,0,0,0,0,0,0,0,0,0,0,"Ziz Skill 0",1001
+3075042,"",0,0,1.5,307504201,307504202,307504203,0,0,0,0,0,307504201,307504202,0,0,0,0,"Ziz Skill 1",1001
+3075043,"",0,0,1.5,307504301,307504302,307504303,0,0,0,0,0,0,307504302,0,0,0,0,"Ziz Skill 2",1001
+3075044,"",0,0,1.5,307504401,307504402,307504403,307504404,0,0,0,0,307504401,0,0,0,0,0,"Ziz Skill 3",1001
 3076001,"",1,0,0.0,307600101,307600103,0,0,0,0,0,0,307600101,0,0,0,0,0,"Mad Clown UB",1001
 3076002,"",0,0,3.0,307600201,307600202,307600203,307600204,307600205,307600206,307600207,0,0,0,0,0,0,0,"Mad Clown Skill 1",1001
 3076003,"",1,0,3.0,307600301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mad Clown Skill 2",1001
