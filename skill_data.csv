@@ -105,6 +105,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1018001,"Lovely Heart Storm",1,0,0.0,101800101,101800102,0,0,0,0,0,0,101800101,0,0,0,0,0,"Deals small magical damage and inflicts Charm to all enemies.",1009
 1018002,"Tail Whip",1,0,1.66,101800201,101800202,0,0,0,0,0,0,101800201,0,0,0,0,0,"Deals small magical damage to all enemies in range.",2002
 1018003,"Soul Drain",1,0,1.33,101800301,101800302,0,0,0,0,0,0,0,0,0,0,0,0,"Reduces the TP of one random enemy by a small amount while also recovering own TP by a small amount.",2006
+1018011,"Lovely Heart Cyclone",1,0,0.0,101801101,101801102,101801103,101801104,0,0,0,0,101801101,101801101,101801101,0,0,0,"Deals moderate magical damage to all enemies, reduces their TP by a small amount, lowers their TP Boost by a small amount, and inflicts Charm.",1009
 1018012,"Tail Whip+",1,0,1.66,101801201,101801202,101801203,101801204,101801205,101801206,101801207,0,101801201,101801202,101801203,101801202,101801205,101801205,"Deals moderate magical damage to all enemies in range. If they are suffering from Charm, reduces their TP by a large amount, and if they are not, lowers their physical and magical attack by a moderate amount.",2002
 1018501,"Sweet, Loving Heart",0,0,0.0,101850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1018511,"Sweet, Loving Heart+",0,0,0.0,101851101,101851102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
@@ -557,6 +558,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1114101,"Come On My Adventure",1,0,0.0,111410101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Causes Luna to gain 1 Friend whenever she deals damage to a target.",1001
 1114501,"Will You Join My Adventure?",0,0,0.0,111450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1114511,"Will You Join My Adventure?+",0,0,0.0,111451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1115001,"Duality Avalon",1,0,0.0,111500101,111500102,111500103,111500104,111500105,111500106,111500107,0,0,0,0,111500104,111500105,111500104,"If Christina does not have a Coin, deals massive physical damage to an enemy directly in front, boosts own physical attack by a massive amount, and gains a Coin. If Christina does have a Coin, consumes the Coin to deal massive physical damage that is guaranteed to hit.",1001
+1115002,"Enhancing Present",0,0,0.34,111500201,111500202,111500203,111500204,111500205,0,0,0,0,0,0,0,0,0,"If Christina does not have a Coin, boosts the physical attack of all allies that use physical attacks by a large amount. If Christina does have a Coin, boosts the physical attack of all allies that use physical attacks by a moderate amount and her own physical attack by a massive amount.",2003
+1115003,Destruction,1,0,0.58,111500301,111500302,111500303,111500304,111500305,111500306,0,0,0,0,0,0,0,0,"If Christina does not have a Coin, deals moderate physical damage to an enemy directly in front. If Christina does have a Coin, deals moderate physical damage to an enemy directly in front and boosts the TP Boost of all allies by a small amount.",2001
+1115501,"Burning Script",0,0,0.0,111550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1115511,"Burning Script+",0,0,0.0,111551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1116001,"Ride On, Santa!",1,0,0.0,111600101,111600102,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to physical defense of all allies. Physical defense boost increases based on the number of allies positioned behind self.",1003
+1116002,"Festive Cheer",0,0,1.07,111600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates physical damage around all allies.",2013
+1116003,"Frost Slash",1,0,0.77,111600301,111600302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and inflicts Freeze.",2001
+1116501,"Illuminating Smile",0,0,0.0,111650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1116511,"Illuminating Smile+",0,0,0.0,111651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -1268,6 +1279,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3092002,"",1,0,1.5,309200201,309200202,0,0,0,0,0,0,0,0,0,0,0,0,"Sky Valkyrie Skill 2",1001
 3092011,"",1,0,1.5,309201101,309201102,309201103,0,0,0,0,0,309201101,309201102,0,0,0,0,"Sky Valkyrie Skill 1",1001
 3092012,"",1,0,1.5,309201201,309201202,0,0,0,0,0,0,0,0,0,0,0,0,"Sky Valkyrie Skill 2",1001
+3093001,"",0,0,0.0,309300101,309300102,309300103,309300104,309300105,309300106,309300107,0,0,309300106,309300103,309300103,0,0,"Reindeer Vendetta UB",1001
+3093002,"",0,0,1.5,309300201,309300202,309300203,0,0,0,0,0,309300201,0,0,0,0,0,"Reindeer Vendetta Skill1",1001
+3093003,"",0,0,1.5,309300301,309300302,309300303,309300304,309300305,309300306,0,0,309300301,0,309300303,0,309300305,0,"Reindeer Vendetta Skill2",1001
+3093004,"",0,0,0.0,309300401,309300402,0,0,0,0,0,0,0,0,0,0,0,0,"Reindeer Vendetta Awake",1001
+3093005,"",0,0,1.5,309300501,309300502,309300503,0,0,0,0,0,309300501,309300501,0,0,0,0,"Reindeer Vendetta Skill4",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001

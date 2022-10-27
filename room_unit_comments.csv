@@ -3293,3 +3293,53 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3576,106501,3,5,1,0,1,"Whoa...\nEven my fists are feeling hotter all of a sudden!",0
 3578,106501,3,7,1,0,1,"I always go all out when I fight, so I've gotta conserve energy till then.",0
 3579,106501,3,8,1,0,1,"I knew it... This is totally different from the map I remember.",0
+3581,111501,1,1,1,0,1,"Now, let me drown this world in gifts! You must all rejoice in my bounty!",0
+3582,111501,1,2,1,0,1,"Happy holidays!\nThis is a most special night, so let us savor it with flair!",0
+3583,111501,1,3,1,0,1,"Down the chimney? Heavens, no. I only make the grandest of entrances!",0
+3584,111501,1,4,1,0,1,"Make way for the great Santa Claus! Let's hear a rousing welcome! ♪",0
+3585,111501,1,5,1,0,1,"Your decorations are too plain! Let me show you what true splendor looks like!",0
+3586,111501,1,101,4,0,1,"Joyful faces are not a displeasing sight...\nOh dear! That isn't like me at all, is it?!",0
+3587,111501,1,102,8,0,1,"Have you brought gifts for me? If you satisfy my desires, you will be rewarded!",0
+3588,111501,2,1,1,0,1,"Did you call for me?\nIf you bother me for tiresome reasons,\nyou will regret it.",0
+3589,111501,2,2,1,0,1,"What's that?\nYou desire to challenge me?\nI accept, of course! ♪",0
+3590,111501,2,3,1,0,1,"Oh no—you won't strike me so easily!\nThe power of my Numbers Avalon is absolute!",0
+3591,111501,2,4,1,0,1,"What's this? Do you suffer the throes of tedium? What a coincidence! So do I.",0
+3592,111501,2,101,4,0,1,"Let us find a diversion that will thrill our senses!\nSo—what will it be?",0
+3593,111501,2,102,8,0,1,"I would not allow any other to touch me so casually, you know...",0
+3594,111501,2,1,1,1,1,"No matter how early the hour may be,\nit is never too soon to begin a banquet!",0
+3595,111501,2,2,1,2,1,"The day is beginning to build momentum.\nI hope you are ready to stimulate me!",0
+3596,111501,2,3,1,3,1,"I won't allow you to retire to bed so soon. The day is not over until I decree it!",0
+3598,111501,3,2,1,0,1,"A most pleasing texture. Perhaps I should claim this item as my own!",0
+3599,111501,3,3,1,0,1,"These features hold a certain charm...\nThough it could never match my own!",0
+3600,111501,3,4,1,0,1,"Ah, a refined aroma.\nIt would do nicely to conceal the stench of bloody warfare...!",0
+3601,111501,3,5,1,0,1,"When warmth fills my body, I long to expend that energy in  battle.",0
+3603,111501,3,7,1,0,1,"My palate is not easy to satisfy...\nHmm, I suppose I can accept the value in this, though.",0
+3604,111501,3,8,1,0,1,"Let it never be said that Christina has no thirst for knowledge!",0
+3606,111501,3,14,1,0,1,"Now, this is curious. But it's not enough.\nI need more! Don't you dare bore me.",0
+3607,111501,3,15,1,0,1,"Such frivolities are child's play for the great Christina!",0
+3608,111601,1,1,1,0,1,"Happy holidays!\nCome on, let's get this party started!",0
+3609,111601,1,2,1,0,1,"A different outfit can really change your mood, huh?\nThis season's gonna be one to remember!",0
+3610,111601,1,3,1,0,1,"Isn't there something enticing about the star on top of a tree?",0
+3611,111601,1,4,1,0,1,"I'm going to enjoy this season to the fullest! Play is just as important as work!",0
+3612,111601,1,5,1,0,1,"Red, white, green, gold... Aren't festive colors so stylish?",0
+3613,111601,1,101,4,0,1,"Do you think it'll snow at all? There's something romantic about a snowy holiday season...",0
+3614,111601,1,102,8,0,1,"I wish this special time with you could just go on forever...",0
+3615,111601,2,1,1,0,1,"I'm going to get you tickets to our holiday concert, so you'd better be there!",0
+3616,111601,2,2,1,0,1,"Cheers!\nThis is only a soft drink, but it makes me feel all grown up.",0
+3617,111601,2,3,1,0,1,"How's my holiday outfit? Cute, right?\n...Hey, where exactly are you staring?!",0
+3618,111601,2,4,1,0,1,"Let's walk around town together after this! I want to see the big tree together.",0
+3619,111601,2,101,4,0,1,"Hey, can you help me rehearse this dance?\nDon't worry, I'll teach you all the moves!",0
+3620,111601,2,102,8,0,1,"It'd be so wonderful if you were here with me this time next year, too...",0
+3621,111601,2,1,1,1,1,"I always get excited on the morning of the big day. It's like I'm a kid again.",0
+3622,111601,2,2,1,2,1,"The preparations for the party are coming along nicely.\nLet's take a quick break for lunch.",0
+3623,111601,2,3,1,3,1,"It's such a peaceful evening...\nSo quiet, you might be able to hear my heart beating.",0
+3625,111601,3,2,1,0,1,"Ahhh, this perfect silky softness...\nIt's so well made...",0
+3626,111601,3,3,1,0,1,"Being even cuter than an idol is unfair!\nUnfair, but adorable!",0
+3627,111601,3,4,1,0,1,"Mmmm, this is so relaxing...\nI'm sure I'll sleep soundly tonight.",0
+3628,111601,3,5,1,0,1,"So snug and warm!\nUh-oh, now I don't ever want to leave...",0
+3630,111601,3,7,1,0,1,"I've put in tons of dance practice, so a little can't hurt!",0
+3631,111601,3,8,1,0,1,"Even idols need to be more than just cute. Knowledge is an important thing.",0
+3633,111601,3,14,1,0,1,"Oh, this is really fun!\nI wonder if we could use it in our concert somehow...",0
+3634,111601,3,15,1,0,1,"So cuddly~! ♪\nNothing beats a fluffy cuddle on a cold day!",0
+3635,101801,1,103,12,0,1,"I wish I could talk to him a bit more...\nMaybe I'll schedule some extra lessons...",0
+3636,101801,2,103,12,0,1,"I really want to learn more about you.\nCan I ask you to teach your teacher?",0
