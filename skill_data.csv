@@ -420,16 +420,19 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1084001,"Sylphide Carol",1,0,0.0,108400101,108400102,108400103,0,0,0,0,0,0,0,0,0,0,0,"[Summon] Summons three spirits directly in front of oneself.",1017
 1084002,"Ascension Waltz",1,0,1.05,108400201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to the physical attack of the ally with the highest physical attack.",2003
 1084003,"Guardian Melody",1,0,1.19,108400301,108400302,0,0,0,0,0,0,108400301,0,0,0,0,0,"Moderate boost to the physical defense of all allies in range, and recovers their TP by a small amount.",2003
+1084012,"Ascension Waltz+",1,0,1.05,108401201,108401202,108401203,0,0,0,0,0,0,0,0,0,0,0,"Large boost to the physical attack and physical critical rate of the ally with the highest physical attack. Physical attack boost increases based on Chika (Holiday)'s own magical attack.",2003
 1084501,"Gifted Anthem",0,0,0.0,108450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1084511,"Gifted Anthem+",0,0,0.0,108451101,108451102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
 1085001,"Winter Chimes",1,0,0.0,108500101,108500102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to all allies' magical defense. Deploys a barrier around oneself that absorbs magical damage.",1003
 1085002,"Jingling Cheer",1,0,1.05,108500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rings a bell to massively boost the physical defense of all allies in range. This effect continues for a set time or until attacked.",2003
 1085003,"Healing Bell",1,0,1.19,108500301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a field that recovers HP of all nearby allies by a small amount.",2016
+1085012,"Jingling Cheer+",1,0,1.05,108501201,108501202,108501203,0,0,0,0,0,0,0,0,0,0,0,"Rings a bell to massively boost the physical defense of all allies in range. This effect continues for a set time or until attacked 5 times. Additionally boosts all allies' physical defense by a moderate amount and recovers own TP by a small amount.",2003
 1085501,"Saint Etoile",0,0,0.0,108550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1085511,"Saint Etoile+",0,0,0.0,108551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1086001,"Pukichi Santa Storm",1,0,0.0,108600101,108600102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front, at the cost of HP.",1001
 1086002,"Pukichi Cheering",1,0,1.05,108600201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack.",2003
 1086003,"Pukichi Rush",1,0,1.19,108600301,108600302,0,0,0,0,0,0,108600301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and knocks them back slightly.",2001
+1086012,"Pukichi Cheering+",1,0,1.05,108601201,108601202,0,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to own physical attack and large boost to own action speed.",2003
 1086501,"Holy Night Slugger",0,0,0.0,108650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1086511,"Holy Night Slugger+",0,0,0.0,108651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1087001,"Hiyori Happy Stamp",1,0,0.0,108700101,108700102,108700103,0,0,0,0,0,108700101,108700101,0,0,0,0,"Deals massive physical damage to an enemy directly in front and lowers their physical defense and TP Boost by a small amount.",1001
@@ -538,7 +541,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1108501,"Deepening Night",0,0,0.0,110850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1108511,"Deepening Night+",0,0,0.0,110851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1111001,"Halloween Bloom Dance",1,0,0.0,111100101,111100102,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers the magical defense of an enemy directly in front by a moderate amount. Massive boost to all allies' magical attack.",1003
-1111002,"Magical Trick",0,0,1.27,111100201,111100202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to the magical attack of the ally with the highest magical attack. This boost increases based on the target's magical attack.",2003
+1111002,"Magical Trick",0,0,1.27,111100201,111100202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to the magical attack of the ally with the highest magical attack. This boost increases based on Kyoka (Halloween)'s own magical attack.",2003
 1111003,"Magical Treat",1,0,0.97,111100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to all allies' magical attack.",2003
 1111501,"Halloween Bravery",0,0,0.0,111150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1111511,"Halloween Bravery+",0,0,0.0,111151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
