@@ -1,3 +1,4 @@
 id,event_id,dialog_title,dialog_text,condition_quest_id,condition_boss_id,condition_mission_id,adv_id,item_type_1,item_id_1,item_num_1,item_type_2,item_id_2,item_num_2,item_type_3,item_id_3,item_num_3,item_type_4,item_id_4,item_num_4,item_type_5,item_id_5,item_num_5
 1,10009,"A Holiday Gift","Obtained the following as a special holiday gift.",0,1000901,0,5009901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0
 2,10010,"A New Year's Gift","Obtained the following as a special New Year's gift.",0,1001001,0,5010901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0
+3,10030,"A Holiday Gift","Obtained the following as a special holiday gift.",0,1003001,0,5009901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0
