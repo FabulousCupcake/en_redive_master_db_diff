@@ -1,0 +1,4 @@
+mode,recommended_level,purpose_type,purpose_count,trigger_hp,story_id_mode_start,story_id_mode_end,wave_group_id,unnecessary_defeat_chara,story_start_second,action_start_second,hp_gauge_color_flag,start_idle_trigger,appear_time
+1,140,4,280,0,432,433,801100321,610019401,1.5,6.0,1,0,0.0
+2,140,1,0,50,0,434,801100322,0,1.5,5.0,1,0,0.0
+3,140,1,0,0,0,435,801100323,0,1.5,5.0,1,0,0.0

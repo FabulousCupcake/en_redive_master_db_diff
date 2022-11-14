@@ -25,3 +25,6 @@ ailment_id,ailment_action,ailment_detail_1,ailment_name
 24,60,-1,"(Gain) Crest"
 25,62,-1,Cower
 26,69,-1,Reindeerification
+27,8,10,Daze
+28,9,5,Scourge
+29,70,-1,"HP Change"
