@@ -1,0 +1,17 @@
+mission_id,campaign_id,type,disp_group,category_icon,description,mission_condition,condition_value_1,condition_value_2,condition_value_3,condition_value_4,condition_value_5,condition_value_6,condition_value_7,condition_value_8,condition_value_9,condition_value_10,condition_num,campaign_mission_reward_id,system_id,start_time,end_time,min_level,max_level,title_color_id,visible_flag,mark_flag
+30109001,1,9,100,107,"Log in 4 times within the campaign period",8011,1,0,0,0,0,0,0,0,0,0,4,30109001,0,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30109002,1,9,101,107,"View Episode 1 of Main Story Chapter 1",8008,2001001,0,0,0,0,0,0,0,0,0,1,30109002,801,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,1
+30109003,1,9,102,107,"Clear a quest using a support character during the campaign period",1012,1,0,0,0,0,0,0,0,0,0,1,30109003,101,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,1
+30109004,1,9,103,107,"Clear Main Quest 6-1 (NORMAL)",1001,11006001,0,0,0,0,0,0,0,0,0,1,30109004,101,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,1
+30109005,1,9,104,107,"Reach player level 40",8002,0,0,0,0,0,0,0,0,0,0,40,30109005,101,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,1
+30109006,1,9,105,107,"Clear all Beginner Missions within the campaign period",8010,1,9,0,0,0,0,0,0,0,0,5,30109006,0,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110001,1,10,200,107,"Become friends with 1 beginner during the campaign period",6017,0,0,0,0,0,0,0,0,0,0,1,30110001,907,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110002,1,10,200,107,"Become friends with 2 beginners during the campaign period",6017,0,0,0,0,0,0,0,0,0,0,2,30110001,907,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110003,1,10,200,107,"Become friends with 3 beginners during the campaign period",6017,0,0,0,0,0,0,0,0,0,0,3,30110001,907,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110004,1,10,200,107,"Become friends with 4 beginners during the campaign period",6017,0,0,0,0,0,0,0,0,0,0,4,30110001,907,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110005,1,10,200,107,"Become friends with 5 beginners during the campaign period",6017,0,0,0,0,0,0,0,0,0,0,5,30110001,907,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110006,1,10,210,107,"Watch a new beginner friend complete all Beginner Missions (1st time)",6018,1,0,0,0,0,0,0,0,0,0,1,30110006,0,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110007,1,10,210,107,"Watch a new beginner friend complete all Beginner Missions (2nd time)",6018,1,0,0,0,0,0,0,0,0,0,2,30110006,0,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110008,1,10,210,107,"Watch a new beginner friend complete all Beginner Missions (3rd time)",6018,1,0,0,0,0,0,0,0,0,0,3,30110006,0,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110009,1,10,210,107,"Watch a new beginner friend complete all Beginner Missions (4th time)",6018,1,0,0,0,0,0,0,0,0,0,4,30110006,0,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
+30110010,1,10,210,107,"Watch a new beginner friend complete all Beginner Missions (5th time)",6018,1,0,0,0,0,0,0,0,0,0,5,30110006,0,"2022-11-25 13:00:00","2022-12-11 12:59:59",0,0,0,1,0
