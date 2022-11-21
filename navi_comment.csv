@@ -63,3 +63,9 @@ comment_id,where_type,character_id,face_type,character_name,description,voice_id
 30002,30,190801,1,Karin,"You can send friend requests\nor accept those you've received.\nIsn't it wonderful to get along?",6,"2022/08/26 13:00:00","2030/12/17 14:59:59",-409.0,0.0,0.0,1,0
 31001,31,190801,1,Karin,"Test your strength against\nyour friends' best parties!\nIsn't it wonderful to spur\none another to new heights?",7,"2022/10/02 13:00:00","2030/12/17 14:59:59",-409.0,0.0,0.0,1,0
 31002,31,190801,1,Karin,"Select the party you'd like\nto try facing in battle!\nI can't wait to see which\nstrategy comes out on top!",8,"2022/10/02 13:00:00","2030/12/17 14:59:59",-409.0,0.0,0.0,1,0
+32001,32,190801,1,Karin,"We've prepared some special\nmissions to support our\nup-and-coming rookies!\nWhy don't you give them a try?",1,"2022-11-25 13:00:00","2022-12-11 12:59:59",-409.0,0.0,0.0,1,0
+32002,32,190801,1,Karin,"There's a time-limited campaign\nin progress right now!\nDon't forget to complete\nas many missions as you can!",2,"2022-11-25 13:00:00","2022-12-11 12:59:59",-409.0,0.0,0.0,1,0
+33001,33,190801,1,Karin,"Try helping out beginner players\nby adding them as friends!\nYour good deeds might earn you\nsome shiny rewards!",3,"2022-11-25 13:00:00","2022-12-11 12:59:59",-409.0,0.0,0.0,1,0
+33002,33,190801,1,Karin,"There's a time-limited campaign\nin progress right now!\nDon't forget to complete\nas many missions as you can!",4,"2022-11-25 13:00:00","2022-12-11 12:59:59",-409.0,0.0,0.0,1,0
+34001,34,190801,1,Karin,"Thank you for participating!\nAny rewards you haven't claimed\nare still available to collect!",5,"2022-12-11 13:00:00","2022-12-17 19:59:59",-409.0,0.0,0.0,1,0
+34002,34,190801,1,Karin,"This is the right place to pick up\nany rewards you haven't claimed!\nDon't forget to collect them\nwhile they're still available!",6,"2022-12-11 13:00:00","2022-12-17 19:59:59",-409.0,0.0,0.0,1,0

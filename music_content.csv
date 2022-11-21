@@ -102,3 +102,7 @@ music_id,name,total_playing_time,listen_start_time,detail,sheet_id,cue_id
 101,"Dragon Explorers",1:07,0:00,"Story Event Theme\n(Arrangement of ""In Flames"")\n\nTime / 01:07\nComposed by / R・O・N\nArranged by / Kenta Higashioji",bgm_M273,bgm_M273_juke
 102,Pseudo-Dragon,2:29,0:00,"Story Event Boss Battle\n\nTime / 02:29\nComposed by / Aoi Sawashita\nArranged by / Kenta Higashioji",bgm_M276,bgm_M276_juke
 103,"In Flames",1:28,0:56,"Character Song\n\nVocals:\nInori (Akane Fujita)\nKaya (Makoto Koichi)\nHomare (Saori Onishi)\nTime / 01:28\nLyrics by / eNu\nComposed by / R・O・N\nArranged by / R・O・N",bgm_M291,bgm_M291
+104,"Trial for New Power",1:13,0:00,"Ascension Quest\n\nTime / 01:13\nComposed by / Chiharu Nagato (Cygames)\nArranged by / Chiharu Nagato (Cygames)",bgm_M259,bgm_M259_juke
+105,"Present Panic! The Santas of Landosol",0:58,0:00,"Story Event Theme\n(Arrangement of ""Call Me Darling!"")\n\nTime / 00:58\nComposed by / Kento Ikeda (Cygames)\nArranged by / Saori Nakamura (Cygames)",bgm_M281,bgm_M281_juke
+106,"Reindeer Vendetta",1:48,0:00,"Story Event Boss Battle\n\nTime / 01:48\nComposed by / Kan Irei (Cygames)\nArranged by / Kan Irei (Cygames)",bgm_M284,bgm_M284_juke
+107,"Call Me Darling!",1:30,0:54,"Character Song\n\nVocals:\nNozomi (Yoko Hikasa)\nChika (Ayaka Fukuhara)\nTsumugi (Ibuki Kido)\nTime / 01:30\nLyrics by / Ikumi Nomura (Cygames)\nComposed by / Kento Ikeda (Cygames)\nArranged by / Kento Ikeda (Cygames)",bgm_M285,bgm_M285
