@@ -3367,3 +3367,49 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3660,111701,3,8,1,0,1,"A special night for lovers... Th-this has little relevance to me, but it cannot hurt to learn a little more...",0
 3662,111701,3,14,1,0,1,"Ah... remarkable!\nThis clever use of magic produces a most realistic performance.",0
 3663,111701,3,15,1,0,1,"I... I will not be entranced by this brazen cuteness...\nAwww, fluffy-fluffy!",0
+3664,112001,1,1,1,0,1,"I'd better not see any monster meat in our New Year's dishes!",0
+3665,112001,1,2,1,0,1,"What shall I wish for at the New Year's temple visit...? Just the usual, I guess?",0
+3666,112001,1,3,1,0,1,"There's something so special about the first sunrise of the year...",0
+3667,112001,1,4,1,0,1,"Why does warm amazake taste so good when you drink it out in the cold?",0
+3668,112001,1,5,1,0,1,"A game of hanetsuki might be fun... I'll win for sure if I play against him, right?",0
+3669,112001,1,101,4,0,1,"What should I write for my New Year's greetings? It gets me all embarrassed...",0
+3670,112001,1,102,8,0,1,"Another year by his side... It's a pretty nice thought.",0
+3671,112001,2,1,1,0,1,"What do you think you're staring at?\nI'm not giving you New Year's money.",0
+3672,112001,2,2,1,0,1,"Wanna eat some New Year's dishes together? They're actually pretty good.",0
+3673,112001,2,3,1,0,1,"When you lose at hanetsuki, the victor gets to ink your face!\nPrepare to be inked!",0
+3674,112001,2,4,1,0,1,"Can you help me put up these New Year's decorations?",0
+3675,112001,2,101,4,0,1,"I guess going on a temple visit together isn't the worst idea...",0
+3676,112001,2,102,8,0,1,"Huh? What did I wish for at the temple? Shut up! That's a secret, obviously!",0
+3677,112001,2,1,1,1,1,"Morning already...?\nIt's New Year's...\nAt least let me sleep in a little...",0
+3678,112001,2,2,1,2,1,"What should I eat after I'm tired of the New Year's dishes?",0
+3679,112001,2,3,1,3,1,"Okay, time to sleep.\nHere's hoping we have good first dreams of the year.",0
+3681,112001,3,2,1,0,1,"This outfit kind of tires me out, you know? Time for a quick break...",0
+3682,112001,3,3,1,0,1,"S-so cute... Hmm.\nMaybe the kagami mochi would look cute too if I painted a face on it.",0
+3683,112001,3,4,1,0,1,"Oh, this smells good. I feel like I'm gonna sleep well tonight...",0
+3684,112001,3,5,1,0,1,"If I toast some mochi here, I bet it'll taste better than usual.",0
+3686,112001,3,7,1,0,1,"Why does everything seem to taste better when you eat it at New Year's?",0
+3687,112001,3,8,1,0,1,"Lemme look up some New Year's recipes that don't use monster meat...",0
+3689,112101,1,1,1,0,1,"I'll get this place\nspick-and-span,\nready for a fresh\nnew year!",0
+3690,112101,1,2,1,0,1,"All this walking to the temple and back seems to have built up my stamina...",0
+3691,112101,1,3,1,0,1,"At the temple, there are always tempting scents wafting over from the food stalls...",0
+3692,112101,1,4,1,0,1,"If I learn to make New Year's dishes, will it make the children happy...?",0
+3693,112101,1,5,1,0,1,"Eughhhhh...\nPhew! Nice deep breaths always help me to feel calm!",0
+3694,112101,1,101,4,0,1,"Even when I'm not working, I'd like to spend time with...\nN-no, it's nothing!",0
+3695,112101,1,102,8,0,1,"Somehow when I'm with you, my body feels a lot warmer...",0
+3696,112101,2,1,1,0,1,"When I wear this outfit, it feels like I'm back at the temple!",0
+3697,112101,2,2,1,0,1,"Oh—I brought some amazake from the temple. Would you like to drink some?",0
+3698,112101,2,3,1,0,1,"Oh no, my hair accessory is at a weird angle! I'm so careless sometimes...",0
+3699,112101,2,4,1,0,1,"Awahhh?!\nP-please don't tickle me like that!",0
+3700,112101,2,101,4,0,1,"Wh-when you stare at me so intensely, it m-makes me blush...",0
+3701,112101,2,102,8,0,1,"I came up with a new good luck charm, so you'll have to let me cast it on you!",0
+3702,112101,2,1,1,1,1,"Oh, good morning!\nI need to get ready for a hard day's work at the temple.",0
+3703,112101,2,2,1,2,1,"It's about time for lunch, so I'll make something for...\nH-huh? You're good?",0
+3704,112101,2,3,1,3,1,"I have an early day tomorrow, so I ought to get ready for bed.\n*yawn*...",0
+3706,112101,3,2,1,0,1,"I've finished the cleaning, so I'll take a little rest. *yawn*\nNow I feel... sleepy...",0
+3707,112101,3,3,1,0,1,"I think I'll clean this little guy so he can have a fresh new year too!",0
+3708,112101,3,4,1,0,1,"This scent reminds me of incense at the temple... It really soothes my senses.",0
+3709,112101,3,5,1,0,1,"Mm, so warm! Now I just need a drink of amazake to warm me from the inside.",0
+3711,112101,3,7,1,0,1,"This year, I'll get better at cooking... *munch munch*",0
+3712,112101,3,8,1,0,1,"Each mistake you make increases your luck... I-is that true?",0
+3714,103401,1,103,12,0,1,"I don't think I mind how you see me anymore... ♪",0
+3715,103401,2,103,12,0,1,"Whaa~? Whassat? C'mover here and lemme give you some nice headpats~! ♪",0

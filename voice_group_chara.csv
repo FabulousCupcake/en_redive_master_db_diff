@@ -21,7 +21,7 @@ group_unit_id,group_unit_id_comment,unit_id_01,unit_id_02,unit_id_03,unit_id_04,
 102101001,"Sarendia Orphanage (Kurumi)",102101,108501,0,0,0,0,0,0,0,0
 102201001,"Diabolos (Yori)",102201,0,0,0,0,0,0,0,0,0
 102301001,"Sarendia Orphanage (Ayane)",102301,108601,0,0,0,0,0,0,0,0
-102501001,"Sarendia Orphanage (Suzume)",102501,107701,0,0,0,0,0,0,0,0
+102501001,"Sarendia Orphanage (Suzume)",102501,107701,112101,0,0,0,0,0,0,0
 102601001,"Elizabeth Park (Rin)",102601,0,0,0,0,0,0,0,0,0
 102701001,"Twilight Caravan (Eriko)",102701,109001,0,0,0,0,0,0,0,0
 102801001,"Sarendia Orphanage (Saren)",102801,110301,0,0,0,0,0,0,0,0
@@ -53,7 +53,7 @@ group_unit_id,group_unit_id_comment,unit_id_01,unit_id_02,unit_id_03,unit_id_04,
 105701001,"??? (Djeeta)",105701,0,0,0,0,0,0,0,0,0
 105801001,"Gourmet Guild (Pecorine)",105801,107501,0,0,0,0,0,0,0,0
 105901001,"Gourmet Guild (Kokkoro)",105901,107601,0,0,0,0,0,0,0,0
-106001001,"Gourmet Guild (Karyl)",106001,107801,0,0,0,0,0,0,0,0
+106001001,"Gourmet Guild (Karyl)",106001,107801,112001,0,0,0,0,0,0,0
 106101001,"??? (Muimi)",106101,0,0,0,0,0,0,0,0,0
 106301001,"??? (Arisa)",106301,0,0,0,0,0,0,0,0,0
 107001001,"??? (Neneka)",107001,0,0,0,0,0,0,0,0,0
