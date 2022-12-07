@@ -53,3 +53,6 @@ story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love
 7009003,7009,"Tower of Luna Chapter 9: Episode 3","Hug Me Softly",2,0,7009002,0,108,71150360,0,8,91002,20,0,0,0,0,0,0,"2022/11/16 13:00:00","2030/04/24 14:59:59"
 7009004,7009,"Tower of Luna Chapter 9: Episode 4","Princess Maho and Princess Lima",2,0,7009003,0,108,71160365,0,8,91002,20,0,0,0,0,0,0,"2022/11/16 13:00:00","2030/04/24 14:59:59"
 7009005,7009,"Tower of Luna Chapter 9: Episode 5","Princess Parade",2,0,7009004,0,108,71160370,0,8,91002,20,0,0,0,0,0,0,"2022/11/16 13:00:00","2030/04/24 14:59:59"
+7010000,7010,"Tower of Luna Chapter 10: Opening","Extracurricular Activities",2,0,7009005,0,108,71160370,0,8,91002,20,0,0,0,0,0,0,"2022/12/18 13:00:00","2030/04/24 14:59:59"
+7010001,7010,"Tower of Luna Chapter 10: Episode 1","Infinitely Charming",2,0,7010000,0,108,71170375,0,8,91002,20,0,0,0,0,0,0,"2022/12/18 13:00:00","2030/04/24 14:59:59"
+7010002,7010,"Tower of Luna Chapter 10: Episode 2","Unexpected Advice",2,0,7010001,0,108,71170380,0,8,91002,20,0,0,0,0,0,0,"2022/12/18 13:00:00","2030/04/24 14:59:59"

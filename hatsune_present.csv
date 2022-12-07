@@ -2,3 +2,4 @@ id,event_id,dialog_title,dialog_text,condition_quest_id,condition_boss_id,condit
 1,10009,"A Holiday Gift","Obtained the following as a special holiday gift.",0,1000901,0,5009901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0
 2,10010,"A New Year's Gift","Obtained the following as a special New Year's gift.",0,1001001,0,5010901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0
 3,10030,"A Holiday Gift","Obtained the following as a special holiday gift.",0,1003001,0,5009901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0
+4,10032,"A New Year's Gift","Obtained the following as a special New Year's gift.",0,1003201,0,5010901,8,91002,150,0,0,0,0,0,0,0,0,0,0,0,0

@@ -439,16 +439,19 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1087001,"Hiyori Happy Stamp",1,0,0.0,108700101,108700102,108700103,0,0,0,0,0,108700101,108700101,0,0,0,0,"Deals massive physical damage to an enemy directly in front and lowers their physical defense and TP Boost by a small amount.",1001
 1087002,"Paw-Paw Charge",1,0,0.8,108700201,108700202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack, and moderate boost to the physical attack of all allies that use physical attacks.",2003
 1087003,"Good Luck Punch",1,0,0.94,108700301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
+1087012,"Paw-Paw Charge+",1,0,0.8,108701201,108701202,108701203,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to own physical attack. Massive boost to the physical attack and moderate boost to the physical critical rate of all allies that use physical attacks.",2003
 1087501,"Strength of Happiness",0,0,0.0,108750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1087511,"Strength of Happiness+",0,0,0.0,108751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1088001,"Sunrise Protection",1,0,0.0,108800101,108800102,108800103,0,0,0,0,0,0,0,0,0,0,0,"Grants HP regen and a barrier that negates physical and magical damage to all allies, but lowers own magical attack by a massive amount.",1013
 1088002,"Weakening Petals",1,0,1.05,108800201,108800202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderately lowers the physical and magical attack of the 2nd closest enemy.",2004
 1088003,"Cheerful Bloom",1,0,1.19,108800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to the magical attack of all allies that use magical attacks.",2003
+1088012,"Weakening Petals+",1,0,1.05,108801201,108801202,108801203,108801204,0,0,0,0,0,0,0,0,0,0,"Moderately lowers the physical and magical attack, magical defense, and TP Boost of the 2nd closest enemy.",2004
 1088501,"Bright New Year",0,0,0.0,108850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1088511,"Bright New Year+",0,0,0.0,108851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1089001,"Icy Edge: Snowbloom",1,0,0.0,108900101,108900102,0,0,0,0,0,0,108900101,0,0,0,0,0,"Deals moderate physical damage to all enemies and inflicts Stun.",1001
 1089002,"Avalanche Reversal",1,0,1.7325,108900201,108900202,108900203,108900204,0,0,0,0,0,0,108900203,0,0,0,"[Taunt] Taunts all enemies and enters a stance. If attacked during this stance, deals small physical damage to all enemies in range and lowers their physical defense by a small amount.",2003
 1089003,"Silvery Wintertime",1,0,0.0,108900301,108900302,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates magical damage around all nearby allies. Moderate boost to own magical defense.",2013
+1089012,"Avalanche Reversal+",1,0,1.7325,108901201,108901202,108901203,108901204,108901205,108901206,0,0,0,0,108901203,0,108901203,0,"[Taunt] Taunts all enemies, massively boosts own magical defense, and enters a stance. If attacked during this stance, deals moderate physical damage to all enemies in range, lowers their physical defense by a small amount, and inflicts Stun.",2003
 1089501,"Glacier Stance",0,0,0.0,108950101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1089511,"Glacier Stance+",0,0,0.0,108951101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1090001,"Love Punishment",1,0,0.0,109000101,109000102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Damage increases the lower Eriko's HP.",1001
@@ -673,6 +676,8 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2068004,"",1,0,1.0,206800401,206800402,206800403,206800404,0,0,0,0,0,0,0,0,0,0,sample,1001
 2068011,"",0,0,3.0,206802101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Impure Desire Barrier 2",1001
 2068021,"",0,0,3.0,206802101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Impure Desire Barrier 3",1001
+2068041,"",1,0,1.0,206804101,206804102,206804103,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi skill1",1001
+2068042,"",1,0,1.0,206804201,206804202,206804203,206804204,206804205,0,0,0,0,0,0,0,0,0,"Kagami Mochi skill2",1001
 2069001,"",1,0,2.5,206900101,206900102,0,0,0,0,0,0,206900101,0,0,0,0,0,"",1001
 2070001,"",1,0,2.5,207000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
 2070002,"",1,0,0.5,207000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
@@ -717,6 +722,8 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2086051,"",0,0,0.0,208605101,208605102,0,0,0,0,0,0,0,0,0,0,0,0,"If in Stealth, uses big attack",1001
 2086053,"",0,0,0.0,208605301,208605302,208605303,0,0,0,0,0,0,0,0,0,0,0,"Destroys A and B. Applies Stealth to self",1001
 2088001,"",0,0,1.8,208800101,208800102,0,0,0,0,0,0,0,0,0,0,0,0,"Angel Dart",1001
+2089001,"",0,0,3.0,208900101,208900102,0,0,0,0,0,0,208900101,0,0,0,0,0,"Clay Doll",1001
+2089011,"",0,0,3.8,208901101,208901102,0,0,0,0,0,0,208901101,0,0,0,0,0,"Clay Doll",1001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
 3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
@@ -1160,6 +1167,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3060007,"",0,0,0.0,306000701,306000702,306000703,306000704,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi",1001
 3060008,"",0,0,90.0,306000801,0,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi Null Action",1001
 3060009,"",0,0,2.2,306000901,306000902,0,0,0,0,0,0,0,0,0,0,0,0,"Kagami Mochi Knockback",1001
+3060071,"",0,0,0.0,306007101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mochifiend Gummy UB",1001
+3060072,"",0,0,2.2,306007201,306007202,0,0,0,0,0,0,0,0,0,0,0,0,"Mochifiend Gummy skill1",1001
+3060073,"",0,0,4.2,306007301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mochifiend Gummy skill2",1001
+3060074,"",0,0,0.0,306007401,306007402,306007403,306007404,0,0,0,0,0,0,0,0,0,0,"Mochifiend Gummy skill3",1001
+3060075,"",0,0,4.2,306007501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mochifiend Gummy skill2",1001
 3061001,"",0,0,2.0,306100101,306100102,0,0,0,0,0,0,306100101,0,0,0,0,0,"Jackal Thief: Union Burst",1001
 3061002,"",0,0,2.0,306100201,306100202,306100203,306100204,0,0,0,0,306100201,306100201,0,0,0,0,"Jackal Thief: Skill",1001
 3062001,"",0,0,2.0,306200101,306200102,306200103,0,0,0,0,0,0,0,0,0,0,0,"Sham Raccoon: Union Burst",1001
@@ -1369,6 +1381,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3098004,"",1,0,1.5,309800401,309800402,309800403,309800404,309800405,0,0,0,0,0,309800403,309800404,0,0,skill2,1001
 3098005,"",1,0,1.5,309800501,309800502,309800503,309800504,0,0,0,0,0,0,0,0,0,0,skill2,1001
 3098006,"",1,0,1.5,309800601,0,0,0,0,0,0,0,0,0,0,0,0,0,skill2,1001
+3099001,"",1,0,1.5,309900101,309900102,309900103,0,0,0,0,0,0,0,0,0,0,0,"Goblin Meister skill0",1001
+3099002,"",1,0,1.5,309900201,309900202,309900203,309900204,0,0,0,0,0,0,0,0,0,0,"Goblin Meister skill2",1001
+3099003,"",0,0,1.5,309900301,309900302,309900303,309900304,0,0,0,0,309900301,309900302,309900303,0,0,0,"Goblin Meister skill1",1001
+3099004,"",1,0,1.5,309900401,309900402,309900403,309900404,0,0,0,0,309900401,0,0,0,0,0,"Goblin Meister skill3",1001
 3100001,"",1,0,0.0,310000101,310000102,310000103,310000104,310000105,310000106,310000107,0,0,0,0,0,0,0,"Mountain God UB",1001
 3100002,"",0,0,1.2,310000201,310000202,0,0,0,0,0,0,310000201,0,0,0,0,0,"Mountain God Skill1",1001
 3100003,"",1,0,1.2,310000301,310000302,0,0,0,0,0,0,0,0,0,0,0,0,"Mountain God Skill2",1001
