@@ -90,3 +90,30 @@ id,login_bonus_id,type,day_count,luck_pattern,rate,character_id,character_name,m
 89,80001,1,15,0,0,105901,Kokkoro,"it would be to stay by your side for many years to come. I hope to remain your guide for as long as I am able.",2
 90,80001,2,15,0,0,106001,Karyl,"Never thought I'd be stuck with you for a whole year. But hey. It's been pretty fun.",1
 91,80001,2,15,0,0,106001,Karyl,"I'll stick around for a while longer, so I hope you're grateful!",2
+92,60001,1,0,0,1,112101,Suzume,"It's a brand-new year, so why not try drawing a fortune slip?\nThe better your result, the more gifts you'll be blessed with! ♪",1
+93,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Your luck stats are maxed out! You could even defeat a legendary vampire or conquer the world!",0
+94,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Wow—how crazy is that?! ☆ Munch on an onigiri to fill your life (and belly) with happiness!",0
+95,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Even the klutziest moments can't hold you back! Spend today with the person you care about most, and it'll surely become a treasured memory!",0
+96,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! With fortune itself on your side, every challenge you attempt will succeed! This is an opportunity to become your ideal self, so be brave and try something new!",0
+97,60001,2,0,1,2,0,"","Today's fortune is: Princess Luck! Your luck is worthy of a shogun! With this radiant glory, you'll be the most popular person in town!",0
+98,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! Fate seems to be on your side! Whatever you do today, it will proceed with maximum efficiency!",0
+99,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! You'll be everyone's favorite guy! Someone may even be sneaking up behind you right now... Teehee.",0
+100,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! ""Cheru~n ♪"" is your lucky word. Happiness will come your way if you say it to everyone you meet!",0
+101,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! You're practically invincible today! Just keep an eye on the situation with your Wyrmsight, and you'll find everything goes exactly according to plan!",0
+102,60001,2,0,2,2,0,"","Today's fortune is: Great Luck! You'll effortlessly find success! Unearth your own hidden skills and become a real whiz boy!",0
+103,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! You may attract impressive profits! For an extra karmic boost, grab a taiyaki as your lucky item!",0
+104,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! It's a good day to go traveling! Who knows, you may find your way to the Maho-Maho Kingdom!",0
+105,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Your work will go very smoothly! From the depths of Gehenna, a tailwind will whisk you along!",0
+106,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Stay alert for subtle opportunities! A spoonful of pudding might just bring you spiritual happiness!",0
+107,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Happy encounters await outdoors. Maybe a cynical-yet-friendly delinquent will offer a candy treat?",0
+108,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! You can probably punch your way through most obstacles! Why not take out some stress at the arcade by giving the punching machine a bash?",0
+109,60001,2,0,3,2,0,"","Today's fortune is: Good Luck! Your luck seems to be on the rise! With all the spirits' protection, you have nothing to fear. ♪",0
+110,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Good things await in the morning! Perhaps a friendly big sister will drop by to wake you up?",0
+111,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! With patience, good luck may arrive! Your lucky animal is the bear. It'll have your back like a real family!",0
+112,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Some fresh air might do you good! Perhaps if you visit a farm, you'll have some unique encounters!",0
+113,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Your luck is high, but unpredictable! Let's hope nobody mistakes you for a suspicious creep...",0
+114,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! You may run into a kindred spirit! Remember the magic word ""Yuni-ettes,"" and don't even think about ever forgetting it!",0
+115,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! You might make an unexpectedly diminutive friend...? Just remember: it's not nice to disrespect others, even if you're clearly the greatest!",0
+116,60001,2,0,4,2,0,"","Today's fortune is: Fair Luck! All will be well as long as you relax! Idols are your lucky charm. Their peppy songs will bring you joy!",0
+117,60001,3,0,0,0,112101,Suzume,"How did you like the results?\nI'll be waiting here tomorrow too, so I hope every day is full of good fortune for you! ♪",2
+118,60001,3,7,0,0,112101,Suzume,"Did you enjoy this year's fortune slips? I'm praying from the bottom of my heart that you'll have a wonderful year ahead!",3
