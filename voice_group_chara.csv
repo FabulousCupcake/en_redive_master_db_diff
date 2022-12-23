@@ -12,7 +12,7 @@ group_unit_id,group_unit_id_comment,unit_id_01,unit_id_02,unit_id_03,unit_id_04,
 101101001,"Labyrinth (Rino)",101101,0,0,0,0,0,0,0,0,0
 101201001,"Forestier (Hatsune)",101201,0,0,0,0,0,0,0,0,0
 101301001,"Twilight Caravan (Nanaka)",101301,0,0,0,0,0,0,0,0,0
-101401001,"Caon (Kasumi)",101401,0,0,0,0,0,0,0,0,0
+101401001,"Caon (Kasumi)",101401,112201,0,0,0,0,0,0,0,0
 101501001,"Forestier (Misato)",101501,0,0,0,0,0,0,0,0,0
 101601001,"Lucent Academy (Suzuna)",101601,110001,0,0,0,0,0,0,0,0
 101701001,"Caon (Kaori)",101701,110501,0,0,0,0,0,0,0,0
@@ -33,7 +33,7 @@ group_unit_id,group_unit_id_comment,unit_id_01,unit_id_02,unit_id_03,unit_id_04,
 103401001,"Mercurius Foundation (Yukari)",103401,0,0,0,0,0,0,0,0,0
 103601001,"Little Lyrical (Kyoka)",103601,111101,0,0,0,0,0,0,0,0
 103701001,"Nightmare (Tomo)",103701,0,0,0,0,0,0,0,0,0
-103801001,"Elizabeth Park (Shiori)",103801,0,0,0,0,0,0,0,0,0
+103801001,"Elizabeth Park (Shiori)",103801,112301,0,0,0,0,0,0,0,0
 104001001,"Forestier (Aoi)",104001,110701,0,0,0,0,0,0,0,0
 104201001,"Carmina (Chika)",104201,108401,0,0,0,0,0,0,0,0
 104301001,"Caon (Makoto)",104301,110401,0,0,0,0,0,0,0,0
