@@ -56,6 +56,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1010001,"Fairy-tale Garden",1,0,0.0,101000101,101000102,101000103,0,0,0,0,0,0,0,0,0,0,0,"Small boost to magical attack and physical defense of all allies and recovers their TP by a small amount.",1003
 1010002,"Maho-Maho Healing",1,0,1.53,101000201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a moderate amount.",2005
 1010003,"Maho-Maho Darkness",1,0,2.13,101000301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Inflicts Blind to an enemy in the 2nd position.",2010
+1010011,"Fairy-tale Kingdom",1,0,0.0,101001101,101001102,101001103,101001104,0,0,0,0,0,0,0,0,0,0,"Massive boost to magical attack and moderate boost to physical defense of all allies, recovers their TP by a moderate amount, and grants TP regen.",1003
 1010012,"Maho-Maho Healing+",1,0,1.53,101001201,101001202,101001203,0,0,0,0,0,101001201,0,0,0,0,0,"Recovers the HP of the party member with the lowest HP by a large amount, and grants them HP regen and moderate boost to physical defense.",2005
 1010501,"Fanciful Furor",0,0,0.0,101050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
 1010511,"Fanciful Furor+",0,0,0.0,101051101,101051102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense and small boost to magical attack at start of battle.",3002
@@ -457,11 +458,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1090001,"Love Punishment",1,0,0.0,109000101,109000102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. Damage increases the lower Eriko's HP.",1001
 1090002,"Heavy Mixing",1,0,0.925,109000201,109000202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Damage increases the lower Eriko's HP.",2001
 1090003,"Sweet Sacrifice",1,0,1.065,109000301,109000302,109000303,0,0,0,0,0,0,0,0,0,0,0,"Boosts own physical attack by a moderate amount at the cost of HP. Effect increases the lower Eriko's HP.",2003
+1090012,"Heavy Mixing+",1,0,0.925,109001201,109001202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front. Damage increases the lower Eriko's HP. When this skill is a critical hit, its damage is quadrupled instead of doubled.",2001
 1090501,"Deep Spirit",0,0,0.0,109050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1090511,"Deep Spirit+",0,0,0.0,109051101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1091001,"Sweet Sanctuary",1,0,0.0,109100101,109100102,109100103,0,0,0,0,0,109100101,109100101,0,0,0,0,"Deploys a field around oneself that provides a moderate boost to physical attack, a large boost to physical critical rate, and a small boost to TP Boost.",1017
 1091002,"Curing Sign",0,0,1.7325,109100201,109100202,109100203,109100204,109100205,109100206,0,0,0,0,0,109100202,109100203,0,"Recovers the HP of the nearby ally with the lowest HP by a moderate amount, and their TP by a small amount. [With Active Field] Recovers all allies' HP by a moderate amount, and their TP by a small amount.",2005
 1091003,"Heartful Shot",1,0,0.72,109100301,109100302,109100303,109100304,109100305,109100306,0,0,0,0,0,109100302,109100303,0,"Deals small physical damage to an enemy directly in front and lowers their physical defense by a small amount. [With Active Field] Damage dealt and defense lowered both increase.",2001
+1091012,"Curing Sign+",0,0,1.7325,109101201,109101202,109101203,109101204,109101205,109101206,109101207,0,0,0,0,109101202,109101203,109101206,"Recovers the HP of the nearby ally with the lowest HP by a moderate amount, and their TP by a small amount. [With Active Field] Recovers all allies' HP by a moderate amount and their TP by a small amount, and boosts their physical attack by a large amount.",2005
 1091501,"Purehearted Big Sis",0,0,0.0,109150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1091511,"Purehearted Big Sis+",0,0,0.0,109151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1092001,"Deterrent Thrust",1,0,0.0,109200101,109200102,109200103,0,0,0,0,0,0,109200102,0,0,0,0,"Deals massive magical damage to an enemy directly in front. Boosts the magical attack of all allies with Spirit's Blessing by a large amount.",1002
@@ -595,6 +598,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1121003,"Warding Arrow",1,0,0.97,112100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a barrier that negates magical damage around all allies.",2013
 1121501,"New Year's Blessings",0,0,0.0,112150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1121511,"New Year's Blessings+",0,0,0.0,112151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1122001,"Mystic Prism",1,0,0.0,112200101,112200102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to all enemies and reduces their TP by a small amount.",1002
+1122002,"Magical Halation",0,0,1.27,112200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Reduces the TP of the enemy with the highest TP by a moderate amount. (Enemies at maximum TP are excluded.)",2017
+1122003,"Misty Wrapping",1,0,0.97,112200301,112200302,112200303,0,0,0,0,0,112200301,112200302,0,0,0,0,"Deals small magical damage to all enemies in a radius around the farthest enemy and inflicts Bind.",2007
+1122501,"Magical Sleuth",0,0,0.0,112250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical defense at start of battle.",3002
+1122511,"Magical Sleuth+",0,0,0.0,112251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical defense at start of battle.",3002
+1123001,"Purely Shower",1,0,0.0,112300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to the physical attack of all allies.",1003
+1123002,"Purely Aiming",0,0,1.27,112300201,112300202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to the physical attack and physical critical rate of all nearby allies.",2003
+1123003,"Purely Snipe",1,0,0.77,112300301,112300302,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to the physical attack of all nearby allies. Deals massive physical damage to an enemy directly in front.",2001
+1123501,"Purely Courage",0,0,0.0,112350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1123511,"Purely Courage+",0,0,0.0,112351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
@@ -1424,6 +1437,14 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3102001,"",0,0,0.0,310200101,310200102,310200103,0,0,0,0,0,310200101,310200101,0,0,0,0,"Sharkhead Ray: Union Burst",1001
 3102002,"",0,0,1.5,310200201,310200202,310200203,0,0,0,0,0,310200201,310200201,0,0,0,0,"Sharkhead Ray: Skill",1001
 3102003,"",0,0,1.5,310200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sharkhead Ray: Standard Attack",1001
+3103001,"",0,0,0.0,310300101,310300102,310300103,310300104,310300105,310300106,0,0,0,0,0,0,0,0,"Antibeast [Physical] Percentage damage to all + random effect",1001
+3103002,"",0,0,3.0,310300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Antibeast [Apply] Dodge rate up (massive) to self",1001
+3103003,"",0,0,180.0,310300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Antibeast [Apply] Stance to self (no action)",1001
+3103004,"",0,0,2.0,310300401,310300402,310300403,0,0,0,0,0,310300401,310300402,0,0,0,0,"Antibeast [Physical] Moderate range physical damage + knockback around enemy in front",1001
+3103005,"",0,0,2.0,310300501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Antibeast [Physical] Moderate range physical damage around enemy in front",1001
+3103006,"",0,0,2.0,310300601,310300602,0,0,0,0,0,0,0,0,0,0,0,0,"Antibeast [Apply] Attack speed up to self",1001
+3103041,"",0,0,0.0,310304101,310304102,310304103,310304104,310304105,310304106,0,0,0,0,0,0,0,0,"Antibeast [Physical] Percentage damage to all + random effect",1001
+3103061,"",0,0,0.0,310306101,310306102,310306103,310306104,310306105,310306106,0,0,0,0,0,0,0,0,"Antibeast [Physical] Percentage damage to all + random effect",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001

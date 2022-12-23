@@ -3435,3 +3435,49 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3736,111901,3,5,1,0,1,"We should take care to stay warm, so as not to catch a cold.",0
 3738,111901,3,7,1,0,1,"Gaining weight at New Year's is a real danger, and yet...",0
 3739,111901,3,8,1,0,1,"I should review my temple manners for when I teach them to my lord.",0
+3741,112201,1,1,1,0,1,"This wand... it has parts that don't exist until I transform. Where do they come from...? Urgh... Best not to think about it.",0
+3742,112201,1,2,1,0,1,"F-frilly costumes are so cute... Ahhh!\nI have to keep myself under control!",0
+3743,112201,1,3,1,0,1,"Magical Detective Misty★Kasumi! With a wave of my wand, I'm on the case!\n...OK, practice over.",0
+3744,112201,1,4,1,0,1,"I sense a suspicious gaze...\nCould there be someone with the power of darkness nearby?!",0
+3745,112201,1,5,1,0,1,"I'm free today, so I'll do some magical girl training... Wait, no! Detective work!",0
+3746,112201,1,101,4,0,1,"My dear assistant sticks by me through it all, so this magical girl stuff might not be so bad! ♪",0
+3747,112201,1,102,8,0,1,"I should go and find my assistant for some magical girl training... Y-yes, just for training!",0
+3748,112201,2,1,1,0,1,"...You were shocked by my total change in hairstyle? I-if you're that curious... do you want to touch it?",0
+3749,112201,2,2,1,0,1,"You want to become a magical girl too? Wouldn't you be more of a magical knight... no, a magical assistant...?",0
+3750,112201,2,3,1,0,1,"The incantation that pops into my mind... The uncontrollable transformation...\nIs being a magical girl secretly a curse?",0
+3751,112201,2,4,1,0,1,"T-try not to touch me too much... When I'm transformed, my senses are enhanced, so my ears get very... Aaaugh!",0
+3752,112201,2,101,4,0,1,"Th-this costume isn't exactly normal, is it? ...Huh? It's cute? Then I suppose...\nWait, but... urghh...",0
+3753,112201,2,102,8,0,1,"This transformation is your fault as much as anyone's, my dear assistant! So... you'd better take plenty of responsibility for it!",0
+3754,112201,2,1,1,1,1,"Good morning, my assistant. Come, let us go on a patrol of the city streets!",0
+3755,112201,2,2,1,2,1,"Lunchtime already... We should return to our main business. ...What's that face for? I'm a detective first and foremost!",0
+3756,112201,2,3,1,3,1,"It's getting late, but I'll keep working awhile longer. Magical girl stamina comes in handy at times like this.",0
+3758,112201,3,2,1,0,1,"This feels so good...\nI need to analyze this comforting sensation from magical and logical perspectives.",0
+3759,112201,3,3,1,0,1,"N-no! If I give in to the temptation to leap at such things, my image will be utterly ruined!",0
+3760,112201,3,4,1,0,1,"This scent calms the mind... I feel ready to accept my fate as a magical girl...\nWait, that's no good!",0
+3761,112201,3,5,1,0,1,"So warm...\nEven a magical girl needs to rest once in a while, so perhaps I'll do just that.",0
+3763,112201,3,7,1,0,1,"Whether I'm a magical girl or a detective, I need to take care of my body! Which means eating whenever I can! ♪",0
+3764,112201,3,8,1,0,1,"...Are there any Magical Girl Celly books here?",0
+3766,112301,1,1,1,0,1,"A magical girl, huh... I'd love to take this opportunity to do some real exercise.",0
+3767,112301,1,2,1,0,1,"Nyatt... Would you recognize me like this, I wonder?",0
+3768,112301,1,3,1,0,1,"Hee hee...\nI think I might be feeling good today.",0
+3769,112301,1,4,1,0,1,"Magic is a useful thing, but I should be careful not to rely on it too much.",0
+3770,112301,1,5,1,0,1,"A little girl called out to me in the street just now... It was embarrassing, but it made me happy, too.",0
+3771,112301,1,101,4,0,1,"When he's around,\nI seem to feel\nmore comfortable somehow...",0
+3772,112301,1,102,8,0,1,"Even as a magical girl, my feelings for him never change...",0
+3773,112301,2,1,1,0,1,"How am I today?\nOh, I'm actually feeling very good.\n...Maybe that's thanks to you.",0
+3774,112301,2,2,1,0,1,"Would you be able to help me out with some magic practice?",0
+3775,112301,2,3,1,0,1,"Um... do you like\nthis costume?\nI hope it suits me...",0
+3776,112301,2,4,1,0,1,"...Wh-what is it?\nI'll get embarrassed if you stare like that...",0
+3777,112301,2,101,4,0,1,"If I can be by your\nside, that's all I\nreally need...",0
+3778,112301,2,102,8,0,1,"A spell to bring fortune in romance... Wahh?! You didn't hear that, did you?",0
+3779,112301,2,1,1,1,1,"Good morning.\nLet's work hard today to defend peace in the city.",0
+3780,112301,2,2,1,2,1,"I'm feeling a little hungry. Um...\nWould you like to join me for lunch?",0
+3781,112301,2,3,1,3,1,"Oh, it's already so late... Hee hee.\nAnd to think I'm still so full of energy.",0
+3783,112301,3,2,1,0,1,"This feels good...\nBetter than anything a magic spell can do.",0
+3784,112301,3,3,1,0,1,"What's this?\nIt's so cute...\nI'd love to show it to my sister as well.",0
+3785,112301,3,4,1,0,1,"Mm, this fragrance...\nI wonder if I could make this scent\nusing magic.",0
+3786,112301,3,5,1,0,1,"Ahhh, so warm...\nEheheh... I feel a little bit like my sister.",0
+3788,112301,3,7,1,0,1,"Oh, these are tasty. Becoming a magical girl might have given me a big appetite...",0
+3789,112301,3,8,1,0,1,"Hee hee...\nEven as a magical girl, I can't help but love reading.",0
+3791,101001,1,103,12,0,1,"Miracle Mahorin, twinkle twinkle hoy! I'll become a sweet wife and make my prince happy! ♪",0
+3792,101001,2,103,12,0,1,"L-listen, my prince...\nIf you'd be so kind, it would, ah... make me mighty happy if you could... carry me like a princess...",0
