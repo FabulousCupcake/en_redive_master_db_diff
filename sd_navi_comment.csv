@@ -1,0 +1,8 @@
+comment_id,where_type,character_id,motion_type,description,voice_id,start_time,end_time
+1000001,1000,190801,13,"We've prepared a variety of minigames for you to play!\nWhich will you try first?",0,"2023-01-19 13:00:00","2030-04-01 14:00:00"
+1000002,1000,190801,13,"Allow me to introduce some entertaining minigames!\nWhich game catches your interest the most?",0,"2023-01-19 13:00:00","2030-04-01 14:00:00"
+1001001,1001,190801,13,"This game is available for the low, low price of {0} rupies!\nI do hope you'll enjoy it!",0,"2023-01-19 13:00:00","2030-04-01 14:00:00"
+1002001,1002,190801,12,"Tap the screen in time with the moving heart! Are you ready to help Shizuru and Eriko prepare some chocolate treats?",0,"2023-01-19 13:00:00","2030-04-01 14:00:00"
+1003001,1003,190801,11,"Pull Kuka back, then let go and watch her fly! Thanks to all sorts of unexpected disasters, she might have quite the journey!",0,"2023-01-19 13:00:00","2030-04-01 14:00:00"
+1004001,1004,190801,3,"Tap the left and right of the screen to defeat the incoming Majimun! Show them the power of your Ryukyu-Ken Spiral Shot!",0,"2023-01-19 13:00:00","2030-04-01 14:00:00"
+1005001,1005,190801,7,"In this minigame, your task is to link panels using their first and last letters. Just remember, your answer mustn't end in X!",0,"2023-01-19 13:00:00","2030-04-01 14:00:00"

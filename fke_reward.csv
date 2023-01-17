@@ -1,16 +1,2 @@
 id,fke_point,mission_detail,reward_type_1,reward_id_1,reward_count_1,reward_type_2,reward_id_2,reward_count_2,reward_type_3,reward_id_3,reward_count_3,reward_type_4,reward_id_4,reward_count_4,reward_type_5,reward_id_5,reward_count_5
-1,2000,"Fly 2,000 m total in Kuka the Whirling Wonder.",12,94002,5000,0,0,0,0,0,0,0,0,0,0,0,0
-2,4000,"Fly 4,000 m total in Kuka the Whirling Wonder.",12,94002,10000,0,0,0,0,0,0,0,0,0,0,0,0
-3,6000,"Fly 6,000 m total in Kuka the Whirling Wonder.",12,94002,15000,0,0,0,0,0,0,0,0,0,0,0,0
-4,8000,"Fly 8,000 m total in Kuka the Whirling Wonder.",12,94002,20000,0,0,0,0,0,0,0,0,0,0,0,0
-5,10000,"Fly 10,000 m total in Kuka the Whirling Wonder.",8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0
-6,12000,"Fly 12,000 m total in Kuka the Whirling Wonder.",12,94002,25000,0,0,0,0,0,0,0,0,0,0,0,0
-7,14000,"Fly 14,000 m total in Kuka the Whirling Wonder.",12,94002,30000,0,0,0,0,0,0,0,0,0,0,0,0
-8,16000,"Fly 16,000 m total in Kuka the Whirling Wonder.",12,94002,35000,0,0,0,0,0,0,0,0,0,0,0,0
-9,18000,"Fly 18,000 m total in Kuka the Whirling Wonder.",12,94002,40000,0,0,0,0,0,0,0,0,0,0,0,0
-10,20000,"Fly 20,000 m total in Kuka the Whirling Wonder.",8,91002,50,2,23001,5,0,0,0,0,0,0,0,0,0
-11,22000,"Fly 22,000 m total in Kuka the Whirling Wonder.",12,94002,55000,0,0,0,0,0,0,0,0,0,0,0,0
-12,24000,"Fly 24,000 m total in Kuka the Whirling Wonder.",12,94002,35000,0,0,0,0,0,0,0,0,0,0,0,0
-13,26000,"Fly 26,000 m total in Kuka the Whirling Wonder.",12,94002,40000,0,0,0,0,0,0,0,0,0,0,0,0
-14,28000,"Fly 28,000 m total in Kuka the Whirling Wonder.",12,94002,45000,0,0,0,0,0,0,0,0,0,0,0,0
-15,30000,"Fly 30,000 m total in Kuka the Whirling Wonder.",7,1405,1,8,91002,150,2,23001,10,0,0,0,0,0,0
+1,30000,"Fly 30,000 m total in Kuka the Whirling Wonder.",7,1405,1,0,0,0,0,0,0,0,0,0,0,0,0
