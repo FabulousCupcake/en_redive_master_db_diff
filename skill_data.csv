@@ -363,6 +363,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1071001,"Numbers Avalon",1,0,0.0,107100101,107100102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and dodges all physical attacks for a set period of time. This attack never misses and is always a critical hit.",1001
 1071002,Overlay,1,0,0.75,107100201,107100202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to own TP Boost.",2003
 1071003,Injection,1,0,1.35,107100301,107100302,0,0,0,0,0,0,107100301,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount.",2001
+1071012,Overlay+,1,0,0.75,107101201,107101202,107101203,107101204,0,0,0,0,0,0,0,0,0,0,"Massive boost to own physical attack, moderate boost to own TP Boost, and recovers own TP by a moderate amount. Additionally boosts own physical critical damage by a small amount.",2003
 1071501,"Ignition EX",0,0,0.0,107150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1071511,"Ignition EX+",0,0,0.0,107151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1075001,"Princess Splash",1,0,0.0,107500101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range.",1001
@@ -608,6 +609,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1123003,"Purely Snipe",1,0,0.77,112300301,112300302,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to the physical attack of all nearby allies. Deals massive physical damage to an enemy directly in front.",2001
 1123501,"Purely Courage",0,0,0.0,112350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1123511,"Purely Courage+",0,0,0.0,112351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1804001,"Ultimate Princess Strike",1,0,0.0,180400101,180400102,180400103,180400104,0,0,0,0,0,0,180400103,0,0,0,"Deals massive physical damage to an enemy directly in front. Deals more damage the higher Pecorine's HP. If HP is below 50%, grants Knight's Blessing to self. If HP falls to 0 while Knight's Blessing is active, Pecorine will consume Knight's Blessing and recover HP instead of being defeated.",1001
+1804002,"Rice Ball Time",0,0,0.92,180400201,180400202,180400203,180400204,0,0,0,0,0,0,180400203,0,0,0,"Large boost to own physical attack. Boost increases based on Pecorine's own remaining HP. If HP is below 50%, deploys a barrier around self that absorbs physical and magical damage.",2003
+1804003,"Royal Slash",1,0,0.62,180400301,180400302,180400303,180400304,180400305,180400306,180400307,0,0,0,0,180400303,0,180400303,"Deals moderate physical damage to all enemies in range. Damage increases based on Pecorine's own remaining HP. If HP is 50% or above, boosts own physical attack based on total damage. If HP is below 50%, recovers own HP based on total damage.",2001
+1804501,"Royal Spirit",0,0,0.0,180450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own max HP at start of battle.",3005
+1804511,"Royal Spirit+",0,0,0.0,180451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own max HP at start of battle.",3005
 2001001,"",0,0,3.0,200100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Lobs a boulder to deal damage to a distant enemy.",1001
 2002001,"",1,0,5.0,200200101,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 2003001,"",1,0,3.0,200300101,200300102,0,0,0,0,0,0,200300101,0,0,0,0,0,sample,1001
