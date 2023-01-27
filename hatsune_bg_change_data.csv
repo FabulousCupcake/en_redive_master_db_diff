@@ -8,3 +8,4 @@ id,area_id,condition_type,condition_id,target_type,bg_after_change_id
 7,10025,3,5025001,2,500810
 8,10030101,1,10030106,1,0
 9,10030101,1,10030112,1,0
+10,10032101,1,10032110,1,0
