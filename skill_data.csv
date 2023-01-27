@@ -2,19 +2,22 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1001001,"Hiyori Rush",0,0,0.0,100100101,100100102,100100103,0,0,0,0,0,100100102,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and deals moderate physical damage to all enemies in a small radius around it.",1001
 1001002,"Kitty Kapow",0,0,1.125,100100201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
 1001003,"Kitty Combo",0,0,1.295,100100301,100100302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to an enemy directly in front. Boosts own physical attack by a moderate amount.",2001
+1001011,"Hiyori Burning Rush",0,0,0.0,100101101,100101102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front and large physical damage to all enemies in a radius around it.",1001
 1001012,"Kitty Kapow+",0,0,1.125,100101201,100101202,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to an enemy directly in front and deals small physical damage to all enemies in a small radius around it.",2001
 1001501,"Paw Power",0,0,0.0,100150101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1001511,"Paw Power+",0,0,0.0,100151101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1002001,"Group Heal",1,0,0.0,100200101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers a moderate amount of HP for all allies.",1005
 1002002,"Blooming Blast",1,0,1.6,100200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1002003,"Flower Guard",1,0,1.46,100200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Small boost to physical defense of all allies.",2003
+1002011,"Flowering Heal",1,0,0.0,100201101,100201102,100201103,100201104,0,0,0,0,0,0,0,0,0,0,"Moderately recovers all allies' HP, boosts their physical defense by a large amount, deploys a barrier that negates physical damage around them, and boosts their action speed by a large amount.",1005
 1002012,"Blooming Blast+",1,0,1.6,100201201,100201202,0,0,0,0,0,0,100201201,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front and lowers its physical attack by a moderate amount.",2002
 1002501,"Floral Aura",0,0,0.0,100250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1002511,"Floral Aura+",0,0,0.0,100251101,100251102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack and small boost to magical defense at start of battle.",3003
 1003001,"Hurricane Slash",0,0,0.0,100300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front.",1001
 1003002,"Wind Thrust",0,0,0.955,100300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front.",2001
-1003003,"Counter Slash",0,0,1.3275,100300301,100300302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Boost to damage dealt based on the damage taken while in pre-attack stance.",2001
-1003012,"Wind Thrust+",0,0,0.955,100301201,100301202,0,0,0,0,0,0,100301201,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount.",2001
+1003003,"Counter Slash",0,0,1.3275,100300301,100300302,100300303,100300304,100300305,100300306,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Boost to damage dealt based on the damage taken while in pre-attack stance.",2001
+1003011,"Tempest Slash",0,0,0.0,100301101,100301102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front and equips Blades of Wind upon self. While Blades of Wind is active, all effect values of Rei's skills are doubled.",1001
+1003012,"Wind Thrust+",0,0,0.955,100301201,100301202,100301203,100301204,100301205,0,0,0,0,0,100301202,100301203,0,0,"Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount.",2001
 1003501,"Rapid Riposte",0,0,0.0,100350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1003511,"Rapid Riposte+",0,0,0.0,100351101,100351102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and small boost to max HP at start of battle.",3001
 1004001,"Trick Bomber",0,0,0.0,100400101,100400102,0,0,0,0,0,0,100400101,0,0,0,0,0,"Deals moderate physical damage to enemies in a radius around the 2nd closest enemy.",1001
@@ -609,6 +612,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1123003,"Purely Snipe",1,0,0.77,112300301,112300302,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to the physical attack of all nearby allies. Deals massive physical damage to an enemy directly in front.",2001
 1123501,"Purely Courage",0,0,0.0,112350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1123511,"Purely Courage+",0,0,0.0,112351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1124001,"Smiling Bravery",1,0,0.0,112400101,112400102,112400103,0,0,0,0,0,0,0,0,0,0,0,"Deals large physical damage to all enemies in range. Moderate boost to all allies' physical and magical attack.",1001
+1124002,"Revolutionary Smile",0,0,1.27,112400201,112400202,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers all allies' TP by a small amount and boosts their TP Boost by a small amount.",2006
+1124003,"Pink Lively",1,0,0.97,112400301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range.",2001
+1124501,"Magical Smile",0,0,0.0,112450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1124511,"Magical Smile+",0,0,0.0,112451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1126001,"Sparkle Magic",1,0,0.0,112600101,112600102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive magical damage to an enemy directly in front. Large boost to own magical attack.",1002
+1126002,"Triple Star",0,0,1.27,112600201,112600202,112600203,0,0,0,0,0,0,0,0,0,0,0,"Deals small magical damage to up to three enemies directly in front. This damage increases the more distant the enemy.",2002
+1126003,"Keep On Fighting! ☆",1,0,0.97,112600301,112600302,0,0,0,0,0,0,112600301,0,0,0,0,0,"Recovers the HP of all allies near the ally with the lowest HP by a small amount.",2005
+1126501,"Natural Charm",0,0,0.0,112650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
+1126511,"Natural Charm+",0,0,0.0,112651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1804001,"Ultimate Princess Strike",1,0,0.0,180400101,180400102,180400103,180400104,0,0,0,0,0,0,180400103,0,0,0,"Deals massive physical damage to an enemy directly in front. Deals more damage the higher Pecorine's HP. If HP is below 50%, grants Knight's Blessing to self. If HP falls to 0 while Knight's Blessing is active, Pecorine will consume Knight's Blessing and recover HP instead of being defeated.",1001
 1804002,"Rice Ball Time",0,0,0.92,180400201,180400202,180400203,180400204,0,0,0,0,0,0,180400203,0,0,0,"Large boost to own physical attack. Boost increases based on Pecorine's own remaining HP. If HP is below 50%, deploys a barrier around self that absorbs physical and magical damage.",2003
 1804003,"Royal Slash",1,0,0.62,180400301,180400302,180400303,180400304,180400305,180400306,180400307,0,0,0,0,180400303,0,180400303,"Deals moderate physical damage to all enemies in range. Damage increases based on Pecorine's own remaining HP. If HP is 50% or above, boosts own physical attack based on total damage. If HP is below 50%, recovers own HP based on total damage.",2001
@@ -730,6 +743,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2083003,"",1,0,5.0,208300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow TP",1001
 2084001,"",0,0,3.0,208400101,208400102,0,0,0,0,0,0,208400101,0,0,0,0,0,"Peckpecker Skill",1001
 2085001,"",0,0,3.0,208500101,208500102,0,0,0,0,0,0,208500101,0,0,0,0,0,"Strawberry Serpent Skill",1001
+2085011,"",0,0,3.0,208500101,208500102,0,0,0,0,0,0,208500101,0,0,0,0,0,"Strawberry Serpent Skill",1001
 2086001,"",0,0,5.0,208600101,208600102,0,0,0,0,0,0,0,0,0,0,0,0,"Enters Stealth when HP falls below 1%, disappears if a C exists",1001
 2086002,"",0,0,99.0,208600201,208600202,208600203,208600204,0,0,0,0,0,0,208600203,0,0,0,"In Stealth idle, if no C exists, attacks boss",1001
 2086003,"",0,0,99.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Do nothing skill",1001
@@ -763,6 +777,8 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2092021,"",0,0,3.0,209202101,209202102,0,0,0,0,0,0,209202101,0,0,0,0,0,"Torpedon Underling Skill 1",1001
 2092022,"",0,0,5.0,209202201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Torpedon Underling Skill 2",1001
 2092023,"",0,0,0.0,209202301,209202302,209202303,209202304,0,0,0,0,0,0,0,0,0,0,"Torpedon Underling Skill 3",1001
+2096011,"",1,0,0.0,209601101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rin (IM@S CG) Shadow: Moderate-strength standard attack",1001
+2096012,"",0,0,0.0,209601201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rin (IM@S CG) Shadow: Large-strength standard attack",1001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,300100201,300100202,0,0,0,0,sample,1001
 3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
@@ -1490,6 +1506,16 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3100004,"",1,0,0.0,310000401,310000402,310000403,310000404,0,0,0,0,0,0,0,0,0,0,"Mountain God Awakening",1001
 3100005,"",1,0,1.2,310000501,310000502,310000503,310000504,0,0,0,0,310000501,0,0,0,0,0,"Mountain God Skill3",1001
 3100006,"",1,0,0.0,310000601,310000602,0,0,0,0,0,0,310000601,0,0,0,0,0,"Mountain God SP Battle Awakening",1001
+3101001,"",0,0,0.0,310100101,310100102,310100103,0,0,0,0,0,310100101,310100102,0,0,0,0,"Wrath Dragon UB [Physical] Percentage damage to all",1001
+3101002,"",0,0,3.0,310100201,310100202,310100203,0,0,0,0,0,310100201,310100202,0,0,0,0,"Wrath Dragon Skill 1 [Magic] Damage to all + [Dependent Apply] Burn",1001
+3101003,"",0,0,1.5,310100301,310100302,310100303,0,0,0,0,0,310100301,0,0,0,0,0,"Wrath Dragon Skill 2 [Physical] Damage to all + [Dependent Apply] Knockback + [Apply] Enemy buff cancel",1001
+3101004,"",0,0,2.0,310100401,310100403,0,0,0,0,0,0,0,0,0,0,0,0,"Wrath Dragon Skill 3 [Check] Break + [Apply] Self TP reduction",1001
+3101005,"",0,0,2.0,310100501,310100502,0,0,0,0,0,0,310100501,0,0,0,0,0,"Wrath Dragon Skill 4 [Physical] Damage to all",1001
+3101006,"",0,0,0.0,310100601,310100602,0,0,0,0,0,0,0,0,0,0,0,0,"Wrath Dragon Skill 5 [Check] Remaining time + [Apply] Break Gauge invulnerable + [Shift] Action pattern",1001
+3101007,"",0,0,0.0,310100701,310100702,310100703,310100706,0,0,0,0,0,0,0,0,0,0,"Wrath Dragon Skill 6 Awake [Check] Remaining HP + [Apply] Self attack speed, attack, magic attack up + Break ineffective",1001
+3101008,"",0,0,3.0,310100801,310100802,310100803,0,0,0,0,0,0,0,0,0,0,0,"Wrath Dragon Break 1",1001
+3101009,"",0,0,3.0,310100901,310100902,310100903,0,0,0,0,0,0,0,0,0,0,0,"Wrath Dragon Break 2",1001
+3101010,"",0,0,3.0,310101001,310101002,310101003,0,0,0,0,0,0,0,0,0,0,0,"Wrath Dragon Break 3",1001
 3102001,"",0,0,0.0,310200101,310200102,310200103,0,0,0,0,0,310200101,310200101,0,0,0,0,"Sharkhead Ray: Union Burst",1001
 3102002,"",0,0,1.5,310200201,310200202,310200203,0,0,0,0,0,310200201,310200201,0,0,0,0,"Sharkhead Ray: Skill",1001
 3102003,"",0,0,1.5,310200301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Sharkhead Ray: Standard Attack",1001
@@ -1505,6 +1531,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3104002,"",0,0,2.0,310400201,310400202,310400203,310400204,310400205,0,0,0,0,0,0,0,0,0,"Chameleops: Transform",1001
 3104003,"",0,0,1.5,310400301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chameleops: Standard attack",1001
 3104004,"",0,0,1.5,310400401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Chameleops: Standard attack",1001
+3105001,"",0,0,2.0,310500101,310500102,310500103,310500104,0,0,0,0,310500101,0,0,0,0,0,"Mega Lapahn UB",1001
+3105002,"",0,0,2.0,310500201,310500202,310500203,0,0,0,0,0,310500201,310500202,0,0,0,0,"Mega Lapahn Skill 1",1001
+3105003,"",0,0,2.0,310500301,310500302,0,0,0,0,0,0,310500301,0,0,0,0,0,"Mega Lapahn Skill 2",1001
+3105004,"",0,0,2.0,310500401,310500402,310500403,0,0,0,0,0,0,0,0,0,0,0,"Mega Lapahn Awake",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
