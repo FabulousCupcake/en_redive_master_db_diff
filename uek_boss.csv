@@ -1,0 +1,5 @@
+area,quest_name,limit_time,reward_type_1,reward_id_1,reward_num_1,reward_type_2,reward_id_2,reward_num_2,reward_type_3,reward_id_3,reward_num_3,reward_type_4,reward_id_4,reward_num_4,reward_type_5,reward_id_5,reward_num_5,background,enemy_id,bgm_sheet_id,bgm_que_id,detail_bg_id,detail_bg_position,detail_boss_bg_size,detail_boss_bg_height,result_boss_position_y,result_movie
+1,Wyvern,90,8,91002,50,12,94002,100000,2,22002,5,2,20002,20,0,0,0,102451,610036501,bgm_M17,bgm_M17_02,102451,0,1.25,-50,0,503650101
+2,Rai-Rai,90,8,91002,75,12,94002,150000,2,22002,10,2,20003,20,0,0,0,102452,610036502,bgm_M17,bgm_M17_02,102452,0,1.25,-50,0,503650201
+3,Ziz,90,8,91002,100,12,94002,200000,2,22003,10,2,20004,20,0,0,0,102453,610036503,bgm_M17,bgm_M17_02,102453,0,1.25,-50,0,503650301
+4,"",90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0,0

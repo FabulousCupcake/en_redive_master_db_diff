@@ -59,3 +59,6 @@ story_id,story_group_id,title,sub_title,visible_type,story_end,pre_story_id,love
 7010003,7010,"Tower of Luna Chapter 10: Episode 3","The Road to Teacherdom",2,0,7010002,0,108,71170380,0,8,91002,20,0,0,0,0,0,0,"2023/01/18 13:00:00","2030/04/24 14:59:59"
 7010004,7010,"Tower of Luna Chapter 10: Episode 4","Until He Flies the Coop",2,0,7010003,0,108,71180385,0,8,91002,20,0,0,0,0,0,0,"2023/01/18 13:00:00","2030/04/24 14:59:59"
 7010005,7010,"Tower of Luna Chapter 10: Episode 5","Teacher Training",2,0,7010004,0,108,71180390,0,8,91002,20,0,0,0,0,0,0,"2023/01/18 13:00:00","2030/04/24 14:59:59"
+7011000,7011,"Tower of Luna Chapter 11: Opening","A Clamorous Start",2,0,7010005,0,108,71180390,0,8,91002,20,0,0,0,0,0,0,"2020/03/12 12:00:00","2030/04/24 14:59:59"
+7011001,7011,"Tower of Luna Chapter 11: Episode 1","Ninpo and the Sword",2,0,7011000,0,108,71190395,0,8,91002,20,0,0,0,0,0,0,"2020/03/12 12:00:00","2030/04/24 14:59:59"
+7011002,7011,"Tower of Luna Chapter 11: Episode 2","Peculiar Guilds",2,0,7011001,0,108,71190400,0,8,91002,20,0,0,0,0,0,0,"2020/03/12 12:00:00","2030/04/24 14:59:59"

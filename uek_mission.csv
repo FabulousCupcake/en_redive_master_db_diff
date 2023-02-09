@@ -1,0 +1,17 @@
+mission_id,area,description,mission_condition,condition_value_1,condition_value_2,condition_value_3,condition_value_4,condition_value_5,condition_num,reward_type_1,reward_id_1,reward_num_1,reward_type_2,reward_id_2,reward_num_2,reward_type_3,reward_id_3,reward_num_3,reward_type_4,reward_id_4,reward_num_4,reward_type_5,reward_id_5,reward_num_5,system_id,event_id
+10001,1,"View Part 1, Episode 3 of the Event Story",8008,5035003,0,0,0,0,1,12,94002,2500,2,20002,5,2,23001,5,0,0,0,0,0,0,6001,10035
+10002,1,"View the Part 1 Ending of the Event Story",8008,5035005,0,0,0,0,1,12,94002,5000,2,20002,5,2,23001,5,0,0,0,0,0,0,6001,10035
+10003,1,"Clear Part 1 Event Quest 1-1 (HARD) 3 times",9004,10035201,0,0,0,0,3,12,94002,7500,2,20002,5,2,23001,5,0,0,0,0,0,0,6005,10035
+10004,1,"Defeat the Part 1 boss (HARD) 3 times",9011,1003502,0,0,0,0,3,8,91002,50,2,31126,1,2,20002,5,0,0,0,0,0,0,6007,10035
+20001,2,"View Part 2, Episode 1 of the Event Story",8008,5036001,0,0,0,0,1,12,94002,10000,2,20002,10,2,23001,5,0,0,0,0,0,0,6003,10036
+20002,2,"Reset the Victory Medal Exchange 1 time",9006,0,0,0,0,0,1,12,94002,12500,2,20002,10,2,23001,5,0,0,0,0,0,0,6002,10036
+20003,2,"Clear Part 2 Event Quest 1-1 (HARD) 3 times",9004,10036201,0,0,0,0,3,12,94002,15000,2,20002,10,2,23001,5,0,0,0,0,0,0,6005,10036
+20004,2,"Defeat the Part 2 boss (HARD) 3 times",9011,1003602,0,0,0,0,3,8,91002,75,2,31126,2,2,20002,10,0,0,0,0,0,0,6007,10036
+30001,3,"View Part 2, Episode 3 of the Event Story",8008,5036003,0,0,0,0,1,12,94002,17500,2,20003,10,2,23001,5,0,0,0,0,0,0,6003,10036
+30002,3,"Raise Mio (IM@S CG) to 2★",6011,112601,0,0,0,0,2,12,94002,20000,2,20003,10,2,23001,5,0,0,0,0,0,0,501,0
+30003,3,"Reset the Victory Medal Exchange 3 times",9006,0,0,0,0,0,3,12,94002,22500,2,20003,10,2,23001,5,0,0,0,0,0,0,6002,10036
+30004,3,"Defeat the Part 2 boss (HARD) using Mio (IM@S CG)",10000,1003602,1,112601,0,0,1,8,91002,100,2,31126,2,2,20003,5,0,0,0,0,0,0,6007,10036
+40001,4,"View the Part 2 Ending of the Event Story",8008,5036005,0,0,0,0,1,12,94002,25000,2,20004,15,2,23001,5,0,0,0,0,0,0,6003,10036
+40002,4,"Reset the Victory Medal Exchange 5 times",9006,0,0,0,0,0,5,12,94002,27500,2,20004,15,2,23001,5,0,0,0,0,0,0,6002,10036
+40003,4,"Defeat the Part 1 boss (VERY HARD)",9011,1003503,0,0,0,0,1,12,94002,30000,2,20004,20,2,23001,5,0,0,0,0,0,0,6010,10035
+40004,4,"Defeat the Part 2 boss (VERY HARD)",9011,1003603,0,0,0,0,1,8,91002,125,2,31126,4,2,20004,20,0,0,0,0,0,0,6010,10036

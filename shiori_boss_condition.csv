@@ -1,0 +1,4 @@
+boss_id,event_id,condition_quest_id,condition_boss_id,release_quest_id,release_boss_id
+2000101,20001,20001115,0,20001201,2000102
+2000102,20001,0,2000101,0,2000103
+2000103,20001,0,2000102,0,0
