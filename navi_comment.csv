@@ -69,3 +69,5 @@ comment_id,where_type,character_id,face_type,character_name,description,voice_id
 33002,33,190801,1,Karin,"There's a time-limited campaign\nin progress right now!\nDon't forget to complete\nas many missions as you can!",4,"2022-11-25 13:00:00","2022-12-11 12:59:59",-409.0,0.0,0.0,1,0
 34001,34,190801,1,Karin,"Thank you for participating!\nAny rewards you haven't claimed\nare still available to collect!",5,"2022-12-11 13:00:00","2022-12-17 19:59:59",-409.0,0.0,0.0,1,0
 34002,34,190801,1,Karin,"This is the right place to pick up\nany rewards you haven't claimed!\nDon't forget to collect them\nwhile they're still available!",6,"2022-12-11 13:00:00","2022-12-17 19:59:59",-409.0,0.0,0.0,1,0
+38001,38,105801,1,Pecorine,"It looks like you can enjoy past\nstory events at your leisure!\nIf there are any you missed out\non, why not give them a try? ♪",1,"2023/02/17 13:00:00","2030/12/17 14:59:59",-458.0,0.0,5.3,2,0
+38002,38,105801,1,Pecorine,"You can grab any exclusive\ncharacters you missed out on,\nor collect all sorts of Memory\nShards! How crazy is that?! ☆",2,"2023/02/17 13:00:00","2030/12/17 14:59:59",-458.0,0.0,6.5,2,0

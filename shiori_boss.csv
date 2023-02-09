@@ -1,0 +1,4 @@
+boss_id,event_id,area_id,difficulty,quest_name,position_x,position_y,boss_position_x,boss_position_y,result_boss_position_y,icon_id,limit_time,clear_reward_group,background_1,wave_group_id_1,wave_bgm_sheet_id_1,wave_bgm_que_id_1,story_id_wavestart_1,story_id_waveend_1,detail_bg_id,detail_bg_position,detail_boss_bg_size,detail_boss_bg_height,map_position_x,map_position_y,map_size,deatail_aura_size,map_aura_size,disp_on_bg
+2000101,20001,20001101,1,"Boss Battle (NORMAL)",796,-76,770,-40,270,200010,90,650001011,81000105,660001001,bgm_M47,bgm_M47,340,0,81000105,0,1.5,-50.0,0.0,0.0,0.6,1.0,1.0,0
+2000102,20001,20001201,2,"Boss Battle (HARD)",70,-180,60,-210,270,200010,90,650001021,81000106,660001002,bgm_M47,bgm_M47,341,0,81000106,0,1.5,-50.0,0.0,0.0,0.6,1.0,1.0,0
+2000103,20001,20001201,3,"Boss Battle (VERY HARD)",520,10,470,-40,270,200010,90,650001031,81000106,660001003,bgm_M47,bgm_M47,344,0,81000106,0,1.5,-50.0,0.0,0.0,0.6,1.0,1.0,0
