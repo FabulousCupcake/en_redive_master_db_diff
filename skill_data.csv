@@ -73,6 +73,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1012001,"Shooting☆Star",1,0,0.0,101200101,101200102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small magical damage to all enemies that use physical attacks. Deals moderate magical damage to all enemies.",1002
 1012002,"Psychic☆Blast",1,0,1.4,101200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to the enemy with the highest physical attack.",2002
 1012003,"Star☆Light",1,0,1.4,101200301,101200302,0,0,0,0,0,0,101200301,0,0,0,0,0,"Deals small magical damage to the enemy with the highest physical attack and inflicts Stun.",2002
+1012011,"Shooting☆Meteor",1,0,0.0,101201101,101201102,101201103,101201104,0,0,0,0,101201101,101201101,0,0,0,0,"Deals large magical damage to all enemies that use physical attacks, lowers their magical defense by a small amount, and inflicts Stun. Deals moderate magical damage to all enemies.",1002
 1012012,"Psychic☆Blast+",1,0,1.4,101201201,101201202,0,0,0,0,0,0,101201201,0,0,0,0,0,"Deals moderate magical damage to the enemy with the highest physical attack and lowers its magical defense by a small amount.",2002
 1012501,"Happy☆Energy",0,0,0.0,101250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1012511,"Happy☆Energy+",0,0,0.0,101251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
@@ -551,6 +552,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1108003,"Silvery Moonlight",1,0,0.57,110800301,110800302,110800303,110800304,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers their physical defense by a small amount. Damage and debuff both increase based on the number of Cower effects on the target.",2004
 1108501,"Deepening Night",0,0,0.0,110850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1108511,"Deepening Night+",0,0,0.0,110851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1110001,"Philosophy of Perception and Potential",1,0,0.0,111000101,111000102,0,0,0,0,0,0,0,0,0,0,0,0,"Massive boost to physical attack and large boost to physical critical rate of all allies.",1003
+1110002,"Hero Generation Theorem",1,0,0.73,111000201,111000202,111000203,111000204,111000205,0,0,0,111000201,111000201,0,0,0,0,"Large boost to the physical attack and physical critical rate of the ally with the highest physical attack, and recovers their TP by a small amount, but lowers own physical and magical defense by a small amount.",2003
+1110003,"A Study in Insulating Factors",1,0,0.57,111000301,111000302,111000303,0,0,0,0,0,0,0,0,0,0,0,"Grants TP regen to all allies and deploys a barrier that negates magical damage around them, but lowers own magical attack by a large amount.",2013
+1110501,"Scholastic Principle",0,0,0.0,111050101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
+1110511,"Scholastic Principle+",0,0,0.0,111051101,111051102,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense and small boost to own physical defense at start of battle.",3004
 1111001,"Halloween Bloom Dance",1,0,0.0,111100101,111100102,0,0,0,0,0,0,0,0,0,0,0,0,"Lowers the magical defense of an enemy directly in front by a moderate amount. Massive boost to all allies' magical attack.",1003
 1111002,"Magical Trick",0,0,1.27,111100201,111100202,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to the magical attack of the ally with the highest magical attack. This boost increases based on Kyoka (Halloween)'s own magical attack.",2003
 1111003,"Magical Treat",1,0,0.97,111100301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to all allies' magical attack.",2003
@@ -1396,8 +1402,10 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3071013,"",0,0,1.8,307101301,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
 3071014,"",0,0,0.0,307101401,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
 3071015,"",0,0,0.0,307101301,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
-3071021,"",0,0,0.0,306301201,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
-3071022,"",0,0,15.0,307102201,307102202,307102203,307102204,0,0,0,0,0,0,0,0,0,0,"",1001
+3071021,"",0,0,0.0,307102101,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3071022,"",0,0,23.0,307102201,307102202,307102203,307102204,0,0,0,0,0,0,0,0,0,0,"",1001
+3071023,"",0,0,10.0,307102301,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3071024,"",0,0,2.0,307102201,307102202,307102203,307102204,0,0,0,0,0,0,0,0,0,0,"",1001
 3072001,"",1,0,2.0,307200101,307200102,307200103,307200104,307200105,0,0,0,307200101,307200101,0,307200104,0,0,"",1001
 3072002,"",1,0,2.0,307200201,307200202,307200203,0,0,0,0,0,307200201,307200202,0,0,0,0,"",1001
 3072003,"",1,0,1.8,307200301,307200302,0,0,0,0,0,0,307200301,0,0,0,0,0,"",1001
@@ -1598,6 +1606,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3106010,"",0,0,1.5,310601001,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ueki-chan Skill 2 (Kyukon-chan Summon MODE 1)",1001
 3106011,"",0,0,1.5,310601101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ueki-chan Skill 2 (Kyukon-chan Summon MODE 2)",1001
 3106012,"",0,0,1.5,310601201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Ueki-chan Skill 2 (Kyukon-chan Summon MODE 3)",1001
+3107001,"",0,0,0.0,310700101,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3107002,"",0,0,1.5,310700201,310700202,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3107003,"",0,0,1.5,310700301,310700302,310700303,310700304,0,0,0,0,310700301,310700302,310700302,0,0,0,"",1001
+3107004,"",0,0,0.0,310700401,310700402,310700403,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3107005,"",0,0,1.5,310700501,310700502,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3107006,"",0,0,3.3,310700601,310700602,310700603,0,0,0,0,0,310700601,310700601,0,0,0,0,"",1001
+3107007,"",0,0,0.0,310700701,310700702,310700703,310700704,0,0,0,0,0,0,0,0,0,0,"",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
