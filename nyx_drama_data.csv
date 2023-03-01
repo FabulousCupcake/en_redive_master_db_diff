@@ -1,0 +1,11 @@
+drama_id,story_phase,title,sub_title,condition_unlocked_story_id,condition_locked_story_id
+101,1,"Special Lesson Report","Cherurun Impact",12,13
+102,1,"Special Lesson Report","Chloe's Intuition",13,14
+103,1,"Special Lesson Report","An Elder's Pride",14,22
+201,2,"Mercurius Foundation Journal","Akino Takes Charge",22,23
+202,2,"Mercurius Foundation Journal","Burning Taiyaki Soul",23,24
+203,2,"Mercurius Foundation Journal","Barley Broth Power",24,25
+204,2,"Mercurius Foundation Journal","The Fury of Mifuyu",25,32
+301,3,"Yuni's Notes","The Beverage-Snack Conundrum",32,33
+302,3,"Yuni's Notes","Nothing Ventured, Nothing Gained",33,34
+303,3,"Yuni's Notes","Hazardous Procedures",34,0
