@@ -475,16 +475,19 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1092001,"Deterrent Thrust",1,0,0.0,109200101,109200102,109200103,0,0,0,0,0,0,109200102,0,0,0,0,"Deals massive magical damage to an enemy directly in front. Boosts the magical attack of all allies with Spirit's Blessing by a large amount.",1002
 1092002,"Collision Spell",1,0,0.925,109200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate magical damage to an enemy directly in front.",2002
 1092003,"Princess Calling",1,0,1.065,109200301,109200302,109200303,0,0,0,0,0,0,0,0,0,0,0,"Grants Spirit's Blessing to all nearby allies. Boosts their magical attack by a moderate amount and their action speed by a small amount.",2003
+1092012,"Collision Spell+",1,0,0.925,109201201,109201202,109201203,109201204,0,0,0,0,0,0,0,0,0,0,"Deals large magical damage to an enemy directly in front. If Anne has Spirit's Blessing, recovers all allies' TP by a small amount. If Anne does not have Spirit's Blessing, boosts own action speed by a moderate amount.",2002
 1092501,"Radiant Calling",0,0,0.0,109250101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1092511,"Radiant Calling+",0,0,0.0,109251101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1093001,"Mr. Gawker Attack!",1,0,0.0,109300101,109300102,109300103,0,0,0,0,0,0,109300102,0,0,0,0,"If no Mr. Gawkers are active, deals small magical damage to all enemies in range. If at least one Mr. Gawker is active, deals moderate magical damage to all enemies in range, and damage increases for each active Mr. Gawker.",1002
 1093002,"Come on Out, Mr. Gawker!",0,0,1.7325,109300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Summons a Mr. Gawker. Each time Lou takes damage, one Mr. Gawker runs away, dealing damage to an enemy.",2017
 1093003,"Beginner's Luck",1,0,1.19,109300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals large magical damage to an enemy directly in front.",2002
+1093012,"Come on Out, Mr. Gawker!+",0,0,1.7325,109301201,109301202,0,0,0,0,0,0,0,0,0,0,0,0,"Summons 2 Mr. Gawkers and boosts own magical attack by a moderate amount. Each time Lou takes damage, one Mr. Gawker runs away, dealing damage to an enemy.",2017
 1093501,"Never Give Up",0,0,0.0,109350101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1093511,"Never Give Up+",0,0,0.0,109351101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1094001,"Cleaving Madness",1,0,0.0,109400101,0,0,0,0,0,0,0,0,109300102,0,0,0,0,"Deals large magical damage to all enemies in range.",1002
 1094002,"Dragon Inferno",0,0,1.05,109400201,109400202,109400203,0,0,0,0,0,0,0,0,0,0,0,"Gains invincibility and charges toward an enemy directly in front, dealing moderate magical damage.",2002
 1094003,"Dragon Agni",1,0,0.92,109400301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deploys a field that deals magical damage around the enemy with the highest physical attack.",2002
+1094012,"Dragon Inferno+",0,0,1.05,109401201,109401202,109401203,109401204,109401205,0,0,0,0,0,0,109401204,0,0,"Gains invincibility and charges toward an enemy directly in front, dealing large magical damage to the target and moderate magical damage to enemies nearby the target.",2002
 1094501,Dragonheart,0,0,0.0,109450101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1094511,Dragonheart+,0,0,0.0,109451101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
 1095001,"Dance of Purest Ecstasy",1,0,0.0,109500101,109500102,109500103,0,0,0,0,0,0,0,0,0,0,0,"Massively recovers own HP. Large boost to physical and magical defense of all nearby allies.",1005
