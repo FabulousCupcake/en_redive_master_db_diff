@@ -1,0 +1,2 @@
+gacha_id,gacha_name,gacha_type,ticket_id,gacha_times,gacha_detail,guarantee_rarity,rarity_odds,chara_odds_star1,chara_odds_star2,chara_odds_star3,staging_type
+80001,"3★ Guaranteed Gacha Ticket (Deluxe Pack)",1,24005,1,2,0,80000,80001_1,80001_2,80001_3,1

@@ -10,6 +10,7 @@ item_id,item_name,description,promotion_level,item_type,value,price,limit_num,st
 24001,"Premium Gacha Ticket","A gacha ticket that can be used to draw the Premium or Focus Gacha.",1,8,0,0,999,"2015/12/17 15:00:00","2030/08/01 14:59:59"
 24003,"Co-Battle Ticket","A ticket that can be used during co-op battles to get an extravagant reward after clearing the challenge.",1,10,0,0,999,"2015/12/17 15:00:00","2030/08/01 14:59:59"
 24004,"10-Draw Gacha Ticket","A gacha ticket that can be used to draw the gacha ten times.",1,8,0,0,999,"2015/12/17 15:00:00","2030/08/01 14:59:00"
+24005,"3★ Guaranteed Gacha Ticket (Deluxe Pack)","A gacha ticket that can be used to obtain one of the featured 3★ characters at random.",1,17,0,0,999,"2015/12/17 15:00:00","2030/08/01 14:59:00"
 25001,"Princess Orb","An item necessary to unlock characters' deepest potential.",1,20,0,0,9999,"2015/12/17 15:00:00","2030/08/01 14:59:59"
 27001,"Special Exchange Ticket","A ticket that can be exchanged for a specific character.",1,17,0,0,999,"2015/12/17 15:00","2030/8/1 14:59"
 31001,"Hiyori's Memory Shard","A shard of Hiyori's sealed memories. Collect these items to unleash your characters' hidden power. ",1,11,31001,0,9999,"2015/12/17 15:00:00","2030/08/01 14:59:59"
