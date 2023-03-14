@@ -1,119 +1,119 @@
-id,login_bonus_id,type,day_count,luck_pattern,rate,character_id,character_name,message,voice_id
-1,60000,1,0,0,1,190804,Karin,"It's a brand new year, so try your luck and see what fortune is in store. The better results even come with extra-special gifts!",1
-2,60000,2,0,1,1,0,"","Today's fortune is: Princess Luck! Your luck stats are maxed out! You could even defeat a legendary vampire or conquer the world!",0
-3,60000,2,0,1,1,0,"","Today's fortune is: Princess Luck! How crazy is that?! ☆ Eat an onigiri, and your life (and belly) will be filled with happiness!",0
-4,60000,2,0,1,2,0,"","Today's fortune is: Princess Luck! Your luck is worthy of a shogun! With such radiant glory, you'll be the most popular person in town!",0
-5,60000,2,0,2,1,0,"","Today's fortune is: Great Luck! Fate seems to be on your side! Whatever you do today, it will proceed with maximum efficiency!",0
-6,60000,2,0,2,1,0,"","Today's fortune is: Great Luck! You'll be everyone's favorite guy! Someone may even be sneaking up behind you right now... Teehee.",0
-7,60000,2,0,2,2,0,"","Today's fortune is: Great Luck! You'll effortlessly find success! Now's the time to unearth hidden skills and become a real whiz boy!",0
-8,60000,2,0,3,1,0,"","Today's fortune is: Good Luck! You might attract impressive profits! For an extra karmic boost, grab a taiyaki as your lucky item!",0
-9,60000,2,0,3,1,0,"","Today's fortune is: Good Luck! It's a good day to go traveling! You might even find your way to the elusive Maho-Maho Kingdom!",0
-10,60000,2,0,3,1,0,"","Today's fortune is: Good Luck! Your work projects will go smoothly! From the depths of Gehenna, a tailwind will whisk you along!",0
-11,60000,2,0,3,1,0,"","Today's fortune is: Good Luck! Be on the lookout for opportunities! A spoonful of pudding might just bring you spiritual happiness!",0
-12,60000,2,0,3,2,0,"","Today's fortune is: Good Luck! Your luck seems to be on the rise! With all the spirits' protection, you have nothing to fear. ♪",0
-13,60000,2,0,4,1,0,"","Today's fortune is: Fair Luck! Good things await in the morning! Perhaps a friendly big sister will drop by to wake you up?",0
-14,60000,2,0,4,1,0,"","Today's fortune is: Fair Luck! With patience, good things may come! Your lucky animal is the bear. It'll have your back like a real family!",0
-15,60000,2,0,4,1,0,"","Today's fortune is: Fair Luck! Some fresh air might do you good! If you visit a farm, you'll have some unique encounters!",0
-16,60000,2,0,4,1,0,"","Today's fortune is: Fair Luck! Your luck is high, but unpredictable! Let's hope nobody mistakes you for a suspicious creep...",0
-17,60000,2,0,4,2,0,"","Today's fortune is: Fair Luck! All will be well as long as you relax! Idols are your lucky charm. Their peppy songs will bring you joy!",0
-18,60000,3,0,0,0,190804,Karin,"How was your fortune today? Whatever your result, I hope you have a wonderful day in store! And do drop by again tomorrow!",2
-19,60000,3,7,0,0,190804,Karin,"Did you enjoy our little New Year's diversion? On behalf of the Guild Association, I wish you the best of fortunes in the year ahead.",3
-20,80001,0,1,0,0,101201,Hatsune,"Wow! It's already been a year since we first met, huh? Feels like I've slept most of it away, though...",1
-21,80001,0,1,0,0,101201,Hatsune,"Maybe it's high time that I start cutting down on sleep. That way I can spend more time with you! ♪",2
-22,80001,1,1,0,0,103801,Shiori,"A whole year has passed since we met... Time certainly does fly by.",1
-23,80001,1,1,0,0,103801,Shiori,"I hope we can spend the next year together, too...",2
-24,80001,0,2,0,0,103601,Kyoka,"It's been a whole year already since we first met each other...",1
-25,80001,0,2,0,0,103601,Kyoka,"You seem more reliable now than you did back then. ...So, how about me? Do you think I've grown?",2
-26,80001,1,2,0,0,102001,Mimi,"Wow, it's been a whole year since we made friends!",1
-27,80001,1,2,0,0,102001,Mimi,"I had so much fun all the times we played together! You'll keep playing with me, won't you, mister?",2
-28,80001,2,2,0,0,100401,Misogi,"You've been falling into my traps for a whole year, huh?",1
-29,80001,2,2,0,0,100401,Misogi,"We've got a good thing going, so it'd be a shame to stop now!",2
-30,80001,0,3,0,0,101001,Maho,"Hard to believe it's been a whole year since our dramatic meeting, ain't it?",1
-31,80001,0,3,0,0,101001,Maho,"Poor li'l me's gonna wither up in no time at this rate. Heehee. Just messin' with ya.",2
-32,80001,1,3,0,0,104401,Illya,"So, a year has gone by since our first encounter. I hope your loyalty will not waver in the years to come.",1
-33,80001,1,3,0,0,104401,Illya,"Of course, I would not be averse to rewarding you for your service every once in a while! ♪",2
-34,80001,2,3,0,0,101701,Kaori,"We've been great friends for a pretty long time now! But our adventures together are still just getting started!",1
-35,80001,2,3,0,0,101701,Kaori,"You'll stick with me for a while yet, right? I'm counting on you!",2
-36,80001,0,4,0,0,102801,Saren,"A whole year already, huh? Time sure flies.",1
-37,80001,0,4,0,0,102801,Saren,"But you know what? It's all because said time's been so much fun! So here's to even more years together!",2
-38,80001,1,4,0,0,102501,Suzume,"I've done nothing but cause trouble for you over the past year. I'm so sorry...",1
-39,80001,1,4,0,0,102501,Suzume,"I want to work hard and make up up for it all, though. So it'd be nice if you stayed nice and close to watch over me. ♪",2
-40,80001,0,5,0,0,104601,Tamaki,"Looking back, we sure spent a bunch of good times together, huh?",1
-41,80001,0,5,0,0,104601,Tamaki,"The more memories we share, the nyicer it'll be to look back on them someday and purr!",2
-42,80001,1,5,0,0,104801,Mifuyu,"I can't believe it's been a year since I took you under my wing. But I still have so much more",1
-43,80001,1,5,0,0,104801,Mifuyu,"that I want to teach you! I won't hold anything back, so try to keep up, all right?",2
-44,80001,0,6,0,0,103201,Akino,"A whole year has passed since we first encountered one another...",1
-45,80001,0,6,0,0,103201,Akino,"Whoever said that times flies truly hit the nail on the head. Memories this fond simply cannot be bought.",2
-46,80001,1,6,0,0,103401,Yukari,"I can't thank you enough for sticking by me through this whole year in spite of everything.",1
-47,80001,1,6,0,0,103401,Yukari,"I might not be at my best all of the time, but I'd be really happy if you were to stay by my side from here on out, too.",2
-48,80001,0,7,0,0,107101,Christina,"A year since we first met, eh? Back then, I never dreamed you would become my betrothed.",1
-49,80001,0,7,0,0,107101,Christina,"At any rate, I hope you'll continue to keep me entertained! ☆",2
-50,80001,1,7,0,0,104701,Jun,"This year went by so quickly. I feel as though my face has grown less stern since we met... Would you agree?",1
-51,80001,1,7,0,0,104701,Jun,"It's hard to say when I keep it hidden? I suppose you're right.",2
-52,80001,0,8,0,0,103701,Tomo,"It's been a year already, huh? Feels like I spent the whole time teasing you. It was fun, though! ♪",1
-53,80001,0,8,0,0,103701,Tomo,"So let's keep it up, shall we?",2
-54,80001,1,8,0,0,100501,Matsuri,"Wow, a whole year since we met. It kinda feels shorter somehow.",1
-55,80001,1,8,0,0,100501,Matsuri,"Maybe that's 'cause we had so much fun, the days just flew by. I hope you'll keep on helping me fight evil!",2
-56,80001,0,9,0,0,100701,Miyako,"One year passed since we met! Miyako still didn't pass on,",1
-57,80001,0,9,0,0,100701,Miyako,"or come back to life either, but we had lots of fun! As long as Miyako has you and pudding, everything's good!",2
-58,80001,1,9,0,0,103101,Shinobu,"A year has gone by since we met. But according to this reading I just performed,",1
-59,80001,1,9,0,0,103101,Shinobu,"it seems we will be together next year as well, and the year after. Haha... I look forward to it.",2
-60,80001,0,10,0,0,100901,Anna,"Twelve cycles have passed since your awakening as Sigurd of the Fulgor... Doubtless there will be no end to the battles we face,",1
-61,80001,0,10,0,0,100901,Anna,"but as long as you are by my side... I am ready to face even the bonds of matrimony!",2
-62,80001,1,10,0,0,101301,Nanaka,"Whew, a whole year since we met! Doesn't time fly?!",1
-63,80001,1,10,0,0,101301,Nanaka,"There's no end to a perfect duo like ours, though! I'm counting on you, partner!",2
-64,80001,0,11,0,0,105101,Mitsuki,"This year went by in the blink of an eye. There are still so many things I need to learn about you...",1
-65,80001,0,11,0,0,105101,Mitsuki,"I hope you'll let me investigate to my heart's content.",2
-66,80001,1,11,0,0,105601,Ruka,"Kind of crazy that it's already been a year since we met, huh?",1
-67,80001,1,11,0,0,105601,Ruka,"Even crazier is that you've ended up helping me just as much as I've helped you. Sounds like a good relationship to me!",2
-68,80001,2,11,0,0,102701,Eriko,"How strange to think it has been a year since we met, my love...",1
-69,80001,2,11,0,0,102701,Eriko,"When I'm with you, time moves so fast it loses all meaning. I should research some methods to stop it in its tracks...",2
-70,80001,0,12,0,0,102301,Ayane,"I can't believe it's already been a whole year. Do I seem like more of an adult than when we first met?",1
-71,80001,0,12,0,0,102301,Ayane,"Oh. Same question goes for Pukichi, too.",2
-72,80001,1,12,0,0,104201,Chika,"A year truly flies by, doesn't it? This may sound a bit selfish of me,",1
-73,80001,1,12,0,0,104201,Chika,"but it would mean the world to me if you were to stay by my side and watch over me. Ideally forever...",2
-74,80001,2,12,0,0,102101,Kurumi,"A whole year's passed since we first met, but I'm still as useless as ever...",1
-75,80001,2,12,0,0,102101,Kurumi,"W-will you still stick by me? I'd really love it if you did...",2
-76,80001,0,13,0,0,104901,Shizuru,"It's the anniversary of our reunion, and I made treats to celebrate! A big cake, some sushi,",1
-77,80001,0,13,0,0,104901,Shizuru,"hamburg steaks, curry, stew... And the not-so-secret ingredient in them all is your big sister's love!",2
-78,80001,1,13,0,0,101101,Rino,"Wow, a whole year since we found each other again. After all those days without you,",1
-79,80001,1,13,0,0,101101,Rino,"this year felt like something out of a dream! You won't leave me behind again, right, Big Bro? ♪",2
-80,80001,0,14,0,0,100201,Yui,"A whole lot's happened since we first met, hasn't it? Plenty of it exciting, plenty of it, uh, nerve-wracking...",1
-81,80001,0,14,0,0,100201,Yui,"It'd be really nice if we could... If we could share even more memories together…!",2
-82,80001,1,14,0,0,100101,Hiyori,"Hold up, hold up. It's only been a year since we met?!",1
-83,80001,1,14,0,0,100101,Hiyori,"Genuinely feels like we've been together forever at this point. Either way. Here's to another great year!",2
-84,80001,2,14,0,0,100301,Rei,"The two of us have come quite a long way since last year, haven't we?",1
-85,80001,2,14,0,0,100301,Rei,"I'm sure we'll continue to grow as well, so I look forward to the day that I can truly rely on you.",2
-86,80001,0,15,0,0,105801,Pecorine,"Thanks for not forgetting about me, even after a whole year!",1
-87,80001,0,15,0,0,105801,Pecorine,"I'm sure I'll be able to say the same next year, and every year after that as well!",2
-88,80001,1,15,0,0,105901,Kokkoro,"I am honored to have served you for an entire year, my lord. If I may have one wish,",1
-89,80001,1,15,0,0,105901,Kokkoro,"it would be to stay by your side for many years to come. I hope to remain your guide for as long as I am able.",2
-90,80001,2,15,0,0,106001,Karyl,"Never thought I'd be stuck with you for a whole year. But hey. It's been pretty fun.",1
-91,80001,2,15,0,0,106001,Karyl,"I'll stick around for a while longer, so I hope you're grateful!",2
-92,60001,1,0,0,1,112101,Suzume,"It's a brand-new year, so why not try drawing a fortune slip?\nThe better your result, the more gifts you'll be blessed with! ♪",1
-93,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Your luck stats are maxed out! You could even defeat a legendary vampire or conquer the world!",0
-94,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Wow—how crazy is that?! ☆ Munch on an onigiri to fill your life (and belly) with happiness!",0
-95,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Even the klutziest moments can't hold you back! Spend today with the person you care about most, and it'll surely become a treasured memory!",0
-96,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! With fortune itself on your side, every challenge you attempt will succeed! This is an opportunity to become your ideal self, so be brave and try something new!",0
-97,60001,2,0,1,2,0,"","Today's fortune is: Princess Luck! Your luck is worthy of a shogun! With this radiant glory, you'll be the most popular person in town!",0
-98,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! Fate seems to be on your side! Whatever you do today, it will proceed with maximum efficiency!",0
-99,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! You'll be everyone's favorite guy! Someone may even be sneaking up behind you right now... Teehee.",0
-100,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! ""Cheru~n ♪"" is your lucky word. Happiness will come your way if you say it to everyone you meet!",0
-101,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! You're practically invincible today! Just keep an eye on the situation with your Wyrmsight, and you'll find everything goes exactly according to plan!",0
-102,60001,2,0,2,2,0,"","Today's fortune is: Great Luck! You'll effortlessly find success! Unearth your own hidden skills and become a real whiz boy!",0
-103,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! You may attract impressive profits! For an extra karmic boost, grab a taiyaki as your lucky item!",0
-104,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! It's a good day to go traveling! Who knows, you may find your way to the Maho-Maho Kingdom!",0
-105,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Your work will go very smoothly! From the depths of Gehenna, a tailwind will whisk you along!",0
-106,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Stay alert for subtle opportunities! A spoonful of pudding might just bring you spiritual happiness!",0
-107,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Happy encounters await outdoors. Maybe a cynical-yet-friendly delinquent will offer a candy treat?",0
-108,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! You can probably punch your way through most obstacles! Why not take out some stress at the arcade by giving the punching machine a bash?",0
-109,60001,2,0,3,2,0,"","Today's fortune is: Good Luck! Your luck seems to be on the rise! With all the spirits' protection, you have nothing to fear. ♪",0
-110,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Good things await in the morning! Perhaps a friendly big sister will drop by to wake you up?",0
-111,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! With patience, good luck may arrive! Your lucky animal is the bear. It'll have your back like a real family!",0
-112,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Some fresh air might do you good! Perhaps if you visit a farm, you'll have some unique encounters!",0
-113,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Your luck is high, but unpredictable! Let's hope nobody mistakes you for a suspicious creep...",0
-114,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! You may run into a kindred spirit! Remember the magic word ""Yuni-ettes,"" and don't even think about ever forgetting it!",0
-115,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! You might make an unexpectedly diminutive friend...? Just remember: it's not nice to disrespect others, even if you're clearly the greatest!",0
-116,60001,2,0,4,2,0,"","Today's fortune is: Fair Luck! All will be well as long as you relax! Idols are your lucky charm. Their peppy songs will bring you joy!",0
-117,60001,3,0,0,0,112101,Suzume,"How did you like the results?\nI'll be waiting here tomorrow too, so I hope every day is full of good fortune for you! ♪",2
-118,60001,3,7,0,0,112101,Suzume,"Did you enjoy this year's fortune slips? I'm praying from the bottom of my heart that you'll have a wonderful year ahead!",3
+id,login_bonus_id,type,day_count,luck_pattern,rate,character_id,character_name,message,voice_id,additional_type,additional_param
+1,60000,1,0,0,1,190804,Karin,"It's a brand new year, so try your luck and see what fortune is in store. The better results even come with extra-special gifts!",1,0,""
+2,60000,2,0,1,1,0,"","Today's fortune is: Princess Luck! Your luck stats are maxed out! You could even defeat a legendary vampire or conquer the world!",0,0,""
+3,60000,2,0,1,1,0,"","Today's fortune is: Princess Luck! How crazy is that?! ☆ Eat an onigiri, and your life (and belly) will be filled with happiness!",0,0,""
+4,60000,2,0,1,2,0,"","Today's fortune is: Princess Luck! Your luck is worthy of a shogun! With such radiant glory, you'll be the most popular person in town!",0,0,""
+5,60000,2,0,2,1,0,"","Today's fortune is: Great Luck! Fate seems to be on your side! Whatever you do today, it will proceed with maximum efficiency!",0,0,""
+6,60000,2,0,2,1,0,"","Today's fortune is: Great Luck! You'll be everyone's favorite guy! Someone may even be sneaking up behind you right now... Teehee.",0,0,""
+7,60000,2,0,2,2,0,"","Today's fortune is: Great Luck! You'll effortlessly find success! Now's the time to unearth hidden skills and become a real whiz boy!",0,0,""
+8,60000,2,0,3,1,0,"","Today's fortune is: Good Luck! You might attract impressive profits! For an extra karmic boost, grab a taiyaki as your lucky item!",0,0,""
+9,60000,2,0,3,1,0,"","Today's fortune is: Good Luck! It's a good day to go traveling! You might even find your way to the elusive Maho-Maho Kingdom!",0,0,""
+10,60000,2,0,3,1,0,"","Today's fortune is: Good Luck! Your work projects will go smoothly! From the depths of Gehenna, a tailwind will whisk you along!",0,0,""
+11,60000,2,0,3,1,0,"","Today's fortune is: Good Luck! Be on the lookout for opportunities! A spoonful of pudding might just bring you spiritual happiness!",0,0,""
+12,60000,2,0,3,2,0,"","Today's fortune is: Good Luck! Your luck seems to be on the rise! With all the spirits' protection, you have nothing to fear. ♪",0,0,""
+13,60000,2,0,4,1,0,"","Today's fortune is: Fair Luck! Good things await in the morning! Perhaps a friendly big sister will drop by to wake you up?",0,0,""
+14,60000,2,0,4,1,0,"","Today's fortune is: Fair Luck! With patience, good things may come! Your lucky animal is the bear. It'll have your back like a real family!",0,0,""
+15,60000,2,0,4,1,0,"","Today's fortune is: Fair Luck! Some fresh air might do you good! If you visit a farm, you'll have some unique encounters!",0,0,""
+16,60000,2,0,4,1,0,"","Today's fortune is: Fair Luck! Your luck is high, but unpredictable! Let's hope nobody mistakes you for a suspicious creep...",0,0,""
+17,60000,2,0,4,2,0,"","Today's fortune is: Fair Luck! All will be well as long as you relax! Idols are your lucky charm. Their peppy songs will bring you joy!",0,0,""
+18,60000,3,0,0,0,190804,Karin,"How was your fortune today? Whatever your result, I hope you have a wonderful day in store! And do drop by again tomorrow!",2,0,""
+19,60000,3,7,0,0,190804,Karin,"Did you enjoy our little New Year's diversion? On behalf of the Guild Association, I wish you the best of fortunes in the year ahead.",3,0,""
+20,80001,0,1,0,0,101201,Hatsune,"Wow! It's already been a year since we first met, huh? Feels like I've slept most of it away, though...",1,0,""
+21,80001,0,1,0,0,101201,Hatsune,"Maybe it's high time that I start cutting down on sleep. That way I can spend more time with you! ♪",2,0,""
+22,80001,1,1,0,0,103801,Shiori,"A whole year has passed since we met... Time certainly does fly by.",1,0,""
+23,80001,1,1,0,0,103801,Shiori,"I hope we can spend the next year together, too...",2,0,""
+24,80001,0,2,0,0,103601,Kyoka,"It's been a whole year already since we first met each other...",1,0,""
+25,80001,0,2,0,0,103601,Kyoka,"You seem more reliable now than you did back then. ...So, how about me? Do you think I've grown?",2,0,""
+26,80001,1,2,0,0,102001,Mimi,"Wow, it's been a whole year since we made friends!",1,0,""
+27,80001,1,2,0,0,102001,Mimi,"I had so much fun all the times we played together! You'll keep playing with me, won't you, mister?",2,0,""
+28,80001,2,2,0,0,100401,Misogi,"You've been falling into my traps for a whole year, huh?",1,0,""
+29,80001,2,2,0,0,100401,Misogi,"We've got a good thing going, so it'd be a shame to stop now!",2,0,""
+30,80001,0,3,0,0,101001,Maho,"Hard to believe it's been a whole year since our dramatic meeting, ain't it?",1,0,""
+31,80001,0,3,0,0,101001,Maho,"Poor li'l me's gonna wither up in no time at this rate. Heehee. Just messin' with ya.",2,0,""
+32,80001,1,3,0,0,104401,Illya,"So, a year has gone by since our first encounter. I hope your loyalty will not waver in the years to come.",1,0,""
+33,80001,1,3,0,0,104401,Illya,"Of course, I would not be averse to rewarding you for your service every once in a while! ♪",2,0,""
+34,80001,2,3,0,0,101701,Kaori,"We've been great friends for a pretty long time now! But our adventures together are still just getting started!",1,0,""
+35,80001,2,3,0,0,101701,Kaori,"You'll stick with me for a while yet, right? I'm counting on you!",2,0,""
+36,80001,0,4,0,0,102801,Saren,"A whole year already, huh? Time sure flies.",1,0,""
+37,80001,0,4,0,0,102801,Saren,"But you know what? It's all because said time's been so much fun! So here's to even more years together!",2,0,""
+38,80001,1,4,0,0,102501,Suzume,"I've done nothing but cause trouble for you over the past year. I'm so sorry...",1,0,""
+39,80001,1,4,0,0,102501,Suzume,"I want to work hard and make up up for it all, though. So it'd be nice if you stayed nice and close to watch over me. ♪",2,0,""
+40,80001,0,5,0,0,104601,Tamaki,"Looking back, we sure spent a bunch of good times together, huh?",1,0,""
+41,80001,0,5,0,0,104601,Tamaki,"The more memories we share, the nyicer it'll be to look back on them someday and purr!",2,0,""
+42,80001,1,5,0,0,104801,Mifuyu,"I can't believe it's been a year since I took you under my wing. But I still have so much more",1,0,""
+43,80001,1,5,0,0,104801,Mifuyu,"that I want to teach you! I won't hold anything back, so try to keep up, all right?",2,0,""
+44,80001,0,6,0,0,103201,Akino,"A whole year has passed since we first encountered one another...",1,0,""
+45,80001,0,6,0,0,103201,Akino,"Whoever said that times flies truly hit the nail on the head. Memories this fond simply cannot be bought.",2,0,""
+46,80001,1,6,0,0,103401,Yukari,"I can't thank you enough for sticking by me through this whole year in spite of everything.",1,0,""
+47,80001,1,6,0,0,103401,Yukari,"I might not be at my best all of the time, but I'd be really happy if you were to stay by my side from here on out, too.",2,0,""
+48,80001,0,7,0,0,107101,Christina,"A year since we first met, eh? Back then, I never dreamed you would become my betrothed.",1,0,""
+49,80001,0,7,0,0,107101,Christina,"At any rate, I hope you'll continue to keep me entertained! ☆",2,0,""
+50,80001,1,7,0,0,104701,Jun,"This year went by so quickly. I feel as though my face has grown less stern since we met... Would you agree?",1,0,""
+51,80001,1,7,0,0,104701,Jun,"It's hard to say when I keep it hidden? I suppose you're right.",2,0,""
+52,80001,0,8,0,0,103701,Tomo,"It's been a year already, huh? Feels like I spent the whole time teasing you. It was fun, though! ♪",1,0,""
+53,80001,0,8,0,0,103701,Tomo,"So let's keep it up, shall we?",2,0,""
+54,80001,1,8,0,0,100501,Matsuri,"Wow, a whole year since we met. It kinda feels shorter somehow.",1,0,""
+55,80001,1,8,0,0,100501,Matsuri,"Maybe that's 'cause we had so much fun, the days just flew by. I hope you'll keep on helping me fight evil!",2,0,""
+56,80001,0,9,0,0,100701,Miyako,"One year passed since we met! Miyako still didn't pass on,",1,0,""
+57,80001,0,9,0,0,100701,Miyako,"or come back to life either, but we had lots of fun! As long as Miyako has you and pudding, everything's good!",2,0,""
+58,80001,1,9,0,0,103101,Shinobu,"A year has gone by since we met. But according to this reading I just performed,",1,0,""
+59,80001,1,9,0,0,103101,Shinobu,"it seems we will be together next year as well, and the year after. Haha... I look forward to it.",2,0,""
+60,80001,0,10,0,0,100901,Anna,"Twelve cycles have passed since your awakening as Sigurd of the Fulgor... Doubtless there will be no end to the battles we face,",1,0,""
+61,80001,0,10,0,0,100901,Anna,"but as long as you are by my side... I am ready to face even the bonds of matrimony!",2,0,""
+62,80001,1,10,0,0,101301,Nanaka,"Whew, a whole year since we met! Doesn't time fly?!",1,0,""
+63,80001,1,10,0,0,101301,Nanaka,"There's no end to a perfect duo like ours, though! I'm counting on you, partner!",2,0,""
+64,80001,0,11,0,0,105101,Mitsuki,"This year went by in the blink of an eye. There are still so many things I need to learn about you...",1,0,""
+65,80001,0,11,0,0,105101,Mitsuki,"I hope you'll let me investigate to my heart's content.",2,0,""
+66,80001,1,11,0,0,105601,Ruka,"Kind of crazy that it's already been a year since we met, huh?",1,0,""
+67,80001,1,11,0,0,105601,Ruka,"Even crazier is that you've ended up helping me just as much as I've helped you. Sounds like a good relationship to me!",2,0,""
+68,80001,2,11,0,0,102701,Eriko,"How strange to think it has been a year since we met, my love...",1,0,""
+69,80001,2,11,0,0,102701,Eriko,"When I'm with you, time moves so fast it loses all meaning. I should research some methods to stop it in its tracks...",2,0,""
+70,80001,0,12,0,0,102301,Ayane,"I can't believe it's already been a whole year. Do I seem like more of an adult than when we first met?",1,0,""
+71,80001,0,12,0,0,102301,Ayane,"Oh. Same question goes for Pukichi, too.",2,0,""
+72,80001,1,12,0,0,104201,Chika,"A year truly flies by, doesn't it? This may sound a bit selfish of me,",1,0,""
+73,80001,1,12,0,0,104201,Chika,"but it would mean the world to me if you were to stay by my side and watch over me. Ideally forever...",2,0,""
+74,80001,2,12,0,0,102101,Kurumi,"A whole year's passed since we first met, but I'm still as useless as ever...",1,0,""
+75,80001,2,12,0,0,102101,Kurumi,"W-will you still stick by me? I'd really love it if you did...",2,0,""
+76,80001,0,13,0,0,104901,Shizuru,"It's the anniversary of our reunion, and I made treats to celebrate! A big cake, some sushi,",1,0,""
+77,80001,0,13,0,0,104901,Shizuru,"hamburg steaks, curry, stew... And the not-so-secret ingredient in them all is your big sister's love!",2,0,""
+78,80001,1,13,0,0,101101,Rino,"Wow, a whole year since we found each other again. After all those days without you,",1,0,""
+79,80001,1,13,0,0,101101,Rino,"this year felt like something out of a dream! You won't leave me behind again, right, Big Bro? ♪",2,0,""
+80,80001,0,14,0,0,100201,Yui,"A whole lot's happened since we first met, hasn't it? Plenty of it exciting, plenty of it, uh, nerve-wracking...",1,0,""
+81,80001,0,14,0,0,100201,Yui,"It'd be really nice if we could... If we could share even more memories together…!",2,0,""
+82,80001,1,14,0,0,100101,Hiyori,"Hold up, hold up. It's only been a year since we met?!",1,0,""
+83,80001,1,14,0,0,100101,Hiyori,"Genuinely feels like we've been together forever at this point. Either way. Here's to another great year!",2,0,""
+84,80001,2,14,0,0,100301,Rei,"The two of us have come quite a long way since last year, haven't we?",1,0,""
+85,80001,2,14,0,0,100301,Rei,"I'm sure we'll continue to grow as well, so I look forward to the day that I can truly rely on you.",2,0,""
+86,80001,0,15,0,0,105801,Pecorine,"Thanks for not forgetting about me, even after a whole year!",1,0,""
+87,80001,0,15,0,0,105801,Pecorine,"I'm sure I'll be able to say the same next year, and every year after that as well!",2,0,""
+88,80001,1,15,0,0,105901,Kokkoro,"I am honored to have served you for an entire year, my lord. If I may have one wish,",1,0,""
+89,80001,1,15,0,0,105901,Kokkoro,"it would be to stay by your side for many years to come. I hope to remain your guide for as long as I am able.",2,0,""
+90,80001,2,15,0,0,106001,Karyl,"Never thought I'd be stuck with you for a whole year. But hey. It's been pretty fun.",1,0,""
+91,80001,2,15,0,0,106001,Karyl,"I'll stick around for a while longer, so I hope you're grateful!",2,0,""
+92,60001,1,0,0,1,112101,Suzume,"It's a brand-new year, so why not try drawing a fortune slip?\nThe better your result, the more gifts you'll be blessed with! ♪",1,0,""
+93,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Your luck stats are maxed out! You could even defeat a legendary vampire or conquer the world!",0,0,""
+94,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Wow—how crazy is that?! ☆ Munch on an onigiri to fill your life (and belly) with happiness!",0,0,""
+95,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! Even the klutziest moments can't hold you back! Spend today with the person you care about most, and it'll surely become a treasured memory!",0,0,""
+96,60001,2,0,1,1,0,"","Today's fortune is: Princess Luck! With fortune itself on your side, every challenge you attempt will succeed! This is an opportunity to become your ideal self, so be brave and try something new!",0,0,""
+97,60001,2,0,1,2,0,"","Today's fortune is: Princess Luck! Your luck is worthy of a shogun! With this radiant glory, you'll be the most popular person in town!",0,0,""
+98,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! Fate seems to be on your side! Whatever you do today, it will proceed with maximum efficiency!",0,0,""
+99,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! You'll be everyone's favorite guy! Someone may even be sneaking up behind you right now... Teehee.",0,0,""
+100,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! ""Cheru~n ♪"" is your lucky word. Happiness will come your way if you say it to everyone you meet!",0,0,""
+101,60001,2,0,2,1,0,"","Today's fortune is: Great Luck! You're practically invincible today! Just keep an eye on the situation with your Wyrmsight, and you'll find everything goes exactly according to plan!",0,0,""
+102,60001,2,0,2,2,0,"","Today's fortune is: Great Luck! You'll effortlessly find success! Unearth your own hidden skills and become a real whiz boy!",0,0,""
+103,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! You may attract impressive profits! For an extra karmic boost, grab a taiyaki as your lucky item!",0,0,""
+104,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! It's a good day to go traveling! Who knows, you may find your way to the Maho-Maho Kingdom!",0,0,""
+105,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Your work will go very smoothly! From the depths of Gehenna, a tailwind will whisk you along!",0,0,""
+106,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Stay alert for subtle opportunities! A spoonful of pudding might just bring you spiritual happiness!",0,0,""
+107,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! Happy encounters await outdoors. Maybe a cynical-yet-friendly delinquent will offer a candy treat?",0,0,""
+108,60001,2,0,3,1,0,"","Today's fortune is: Good Luck! You can probably punch your way through most obstacles! Why not take out some stress at the arcade by giving the punching machine a bash?",0,0,""
+109,60001,2,0,3,2,0,"","Today's fortune is: Good Luck! Your luck seems to be on the rise! With all the spirits' protection, you have nothing to fear. ♪",0,0,""
+110,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Good things await in the morning! Perhaps a friendly big sister will drop by to wake you up?",0,0,""
+111,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! With patience, good luck may arrive! Your lucky animal is the bear. It'll have your back like a real family!",0,0,""
+112,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Some fresh air might do you good! Perhaps if you visit a farm, you'll have some unique encounters!",0,0,""
+113,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! Your luck is high, but unpredictable! Let's hope nobody mistakes you for a suspicious creep...",0,0,""
+114,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! You may run into a kindred spirit! Remember the magic word ""Yuni-ettes,"" and don't even think about ever forgetting it!",0,0,""
+115,60001,2,0,4,1,0,"","Today's fortune is: Fair Luck! You might make an unexpectedly diminutive friend...? Just remember: it's not nice to disrespect others, even if you're clearly the greatest!",0,0,""
+116,60001,2,0,4,2,0,"","Today's fortune is: Fair Luck! All will be well as long as you relax! Idols are your lucky charm. Their peppy songs will bring you joy!",0,0,""
+117,60001,3,0,0,0,112101,Suzume,"How did you like the results?\nI'll be waiting here tomorrow too, so I hope every day is full of good fortune for you! ♪",2,0,""
+118,60001,3,7,0,0,112101,Suzume,"Did you enjoy this year's fortune slips? I'm praying from the bottom of my heart that you'll have a wonderful year ahead!",3,0,""

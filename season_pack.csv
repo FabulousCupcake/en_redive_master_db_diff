@@ -23,3 +23,4 @@ id,mission_id,disp_order,category_icon,receive_text,after_text,gift_message_id,t
 528,0,0,0,"","",9408,0,0,0,0,0,50005,0,0
 529,17001005,2,405,"Day {1} of the New Player Weekly Support Pack.","Item set from the New Player Weekly Support Pack",0,7,0,0,0,0,50007,0,0
 530,0,0,0,"","",9415,0,0,0,0,0,50008,0,0
+531,0,0,0,"","",9416,0,0,0,0,0,50009,0,0

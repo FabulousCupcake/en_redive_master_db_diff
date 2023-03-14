@@ -71,3 +71,4 @@ comment_id,where_type,character_id,face_type,character_name,description,voice_id
 34002,34,190801,1,Karin,"This is the right place to pick up\nany rewards you haven't claimed!\nDon't forget to collect them\nwhile they're still available!",6,"2022-12-11 13:00:00","2022-12-17 19:59:59",-409.0,0.0,0.0,1,0
 38001,38,105801,1,Pecorine,"It looks like you can enjoy past\nstory events at your leisure!\nIf there are any you missed out\non, why not give them a try? ♪",1,"2023/02/17 13:00:00","2030/12/17 14:59:59",-458.0,0.0,5.3,2,0
 38002,38,105801,1,Pecorine,"You can grab any exclusive\ncharacters you missed out on,\nor collect all sorts of Memory\nShards! How crazy is that?! ☆",2,"2023/02/17 13:00:00","2030/12/17 14:59:59",-458.0,0.0,6.5,2,0
+39005,39,105801,3,Pecorine,"",0,"2023/04/01 00:00:00","2023/04/08 23:59:59",9999.0,9999.0,0.0,3,0

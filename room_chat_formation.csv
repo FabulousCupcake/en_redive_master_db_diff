@@ -1,6 +1,6 @@
-id,unit_1_x,unit_1_y,unit_1_dir,unit_2_x,unit_2_y,unit_2_dir,unit_3_x,unit_3_y,unit_3_dir,unit_4_x,unit_4_y,unit_4_dir,unit_5_x,unit_5_y,unit_5_dir,unit_num,unit_id1,unit_id2,unit_id3,unit_id4,unit_id5
-1,3,0,4,1,0,4,0,2,2,,,,,,,3,,,,,
-2,2,0,4,0,2,2,,,,,,,,,,2,,,,,
-3,3,0,4,1,0,4,0,1,2,0,3,2,,,,4,,,,,
-4,1,0,4,0,1,2,,,,,,,,,,2,,,,,
-5,1,0,4,0,1,2,,,,,,,,,,2,190901,,,,
+id,unit_1_x,unit_1_y,unit_1_dir,unit_2_x,unit_2_y,unit_2_dir,unit_3_x,unit_3_y,unit_3_dir,unit_4_x,unit_4_y,unit_4_dir,unit_5_x,unit_5_y,unit_5_dir,unit_num,unit_id1,unit_id2,unit_id3,unit_id4,unit_id5,ignore_unit_id1,ignore_unit_id2,ignore_unit_id3,ignore_unit_id4,ignore_unit_id5
+1,3,0,4,1,0,4,0,2,2,,,,,,,3,,,,,,,,,,
+2,2,0,4,0,2,2,,,,,,,,,,2,,,,,,,,,,
+3,3,0,4,1,0,4,0,1,2,0,3,2,,,,4,,,,,,,,,,
+4,1,0,4,0,1,2,,,,,,,,,,2,,,,,,,,,,
+5,1,0,4,0,1,2,,,,,,,,,,2,190901,,,,,,,,,

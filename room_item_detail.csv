@@ -14,7 +14,8 @@ room_item_id,level,item_detail,lvup_trigger_type,lvup_trigger_id,lvup_trigger_va
 1,13,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,130,0,0,0,1,0,65000,900
 1,14,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,140,0,0,0,1,0,70000,900
 1,15,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,150,0,0,0,1,0,112500,900
-1,16,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,0,0,0,0,1,0,120000,900
+1,16,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,160,0,0,0,1,0,120000,900
+1,17,"The desk Karin, caretaker of the guildhouse, uses for work. This is where she handles all of her paperwork and tasks, such as issuing skip tickets.",101,0,0,0,0,0,1,0,0,0
 3,1,"Landosol scenery reminiscent of home that puts you at ease.",0,0,0,0,0,0,0,0,0,0
 4,1,"Guildhouse wallpaper. The sunshine filtering through the window gently illuminates the room.",0,0,0,0,0,0,0,0,0,0
 5,1,"A transparent wall. You can't see it, but it will protect you from the wind and rain. The wall is made so that the outside can be seen from the inside, but the inside cannot be seen from the outside.",0,0,0,0,0,0,0,0,0,0
@@ -165,7 +166,8 @@ room_item_id,level,item_detail,lvup_trigger_type,lvup_trigger_id,lvup_trigger_va
 140,13,"An endless mountain of sweets that is something out of a dream. Eat to your heart's content and be happy!",101,0,130,0,0,0,1,0,65000,900
 140,14,"An endless mountain of sweets that is something out of a dream. Eat to your heart's content and be happy!",101,0,140,0,0,0,1,0,70000,900
 140,15,"An endless mountain of sweets that is something out of a dream. Eat to your heart's content and be happy!",101,0,150,0,0,0,1,0,112500,900
-140,16,"An endless mountain of sweets that is something out of a dream. Eat to your heart's content and be happy!",101,0,0,0,0,0,1,0,120000,900
+140,16,"An endless mountain of sweets that is something out of a dream. Eat to your heart's content and be happy!",101,0,160,0,0,0,1,0,120000,900
+140,17,"An endless mountain of sweets that is something out of a dream. Eat to your heart's content and be happy!",101,0,0,0,0,0,1,0,0,0
 141,1,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,10,0,0,0,1,0,1000,5
 141,2,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,20,0,0,0,1,0,2000,30
 141,3,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,30,0,0,0,1,0,3000,60
@@ -181,7 +183,8 @@ room_item_id,level,item_detail,lvup_trigger_type,lvup_trigger_id,lvup_trigger_va
 141,13,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,130,0,0,0,1,0,65000,900
 141,14,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,140,0,0,0,1,0,70000,900
 141,15,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,150,0,0,0,1,0,112500,900
-141,16,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,0,0,0,0,1,0,120000,900
+141,16,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,160,0,0,0,1,0,120000,900
+141,17,"When water is poured over it, it changes into a magical potion. Its refreshing, sweet taste helps one recover from fatigue, though it can be enjoyed at any time.",101,0,0,0,0,0,1,0,0,0
 142,1,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,10,0,0,0,1,0,1000,5
 142,2,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,20,0,0,0,1,0,2000,30
 142,3,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,30,0,0,0,1,0,3000,60
@@ -197,7 +200,8 @@ room_item_id,level,item_detail,lvup_trigger_type,lvup_trigger_id,lvup_trigger_va
 142,13,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,130,0,0,0,1,0,65000,900
 142,14,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,140,0,0,0,1,0,70000,900
 142,15,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,150,0,0,0,1,0,112500,900
-142,16,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,0,0,0,0,1,0,120000,900
+142,16,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,160,0,0,0,1,0,120000,900
+142,17,"An egg-shaped device that automatically makes mana and emits a beautiful, green light. You need to be qualified to use it, but the device can be easily set up thanks to Karin's certification.",101,0,0,0,0,0,1,0,0,0
 143,1,"A menu board, just like those found in cafes. Desserts of the day are usually written on the blackboard with markers and chalk.",0,0,0,0,0,0,0,0,0,0
 144,1,"Proof that you have conquered the ""Cloudtop Peak."" Rare, mouthwatering monster meat with the finest marbling that appears only near the summit.",101,0,0,0,0,0,0,0,0,0
 145,1,"Proof that you have conquered the ""Deepwood Oak."" It is also known as the ""World's Most Delicious Fruit."" Though the skin is hard and difficult to pierce, the flesh is exquisite.",101,0,0,0,0,0,0,0,0,0
@@ -456,3 +460,14 @@ room_item_id,level,item_detail,lvup_trigger_type,lvup_trigger_id,lvup_trigger_va
 2507,1,"A partition featuring a pair of pastel pink curtains. Although its design tends towards the cute, its curtains are more than capable of concealing any secrets a lady would rather not reveal. Though there's always the temptation to nudge them aside and take a forbidden peek...",0,0,0,0,0,0,0,0,0,0
 2508,1,"A wall design decorated with curtains in creamy, comforting colors. The floral window frame and minimalist yet luxuriant decorations make for a refined atmosphere.",0,0,0,0,0,0,0,0,0,0
 2509,1,"A floor design featuring a distinctive floral emblem in the center and a checkered design. The warm colors put the mind at ease and elevate one's mood, to the point that many customers report breaking out into a spontaneous jig.",0,0,0,0,0,0,0,0,0,0
+2601,1,"A classic blackboard combined with a similarly traditional teacher's desk. Whether you want to teach a real lesson or just doodle with chalk, this installation has got you covered! Just don't forget to tidy up when you're done.",0,0,0,0,0,0,0,0,0,0
+2602,1,"A wooden school desk with a matching seat. Just the right height for studying... or, if you use the textbooks as a handy pillow, for taking a nap when the teacher isn't looking.",0,0,0,0,0,0,0,0,0,0
+2603,1,"A supply set consisting of a broom and dustpan. Designed in a slightly larger-than-average size to increase cleaning efficiency.",0,0,0,0,0,0,0,0,0,0
+2604,1,"A wooden locker for personal use. The tall size makes it possible to stow even full outfits without any folding. Try to keep the contents in order, though, because if it gets too messy, you might fall victim to a veritable avalanche upon opening it.",0,0,0,0,0,0,0,0,0,0
+2605,1,"A double-sided wooden bookcase. Popular with bookworms for its significant storage capacity. The subtle decorative elements are clearly the work of an artisan.",0,0,0,0,0,0,0,0,0,0
+2606,1,"A retro style of wall clock popular with educational institutions. The pendulum ticks along with a reassuring rhythm, lulling students to sleep while they're supposed to be taking exams.",0,0,0,0,0,0,0,0,0,0
+2607,1,"A corkboard for posting notices, lesson materials and the like. Perfect for timetables or reminders, it comes in useful for all kinds of school activities. The colorful decorations were designed by creative students.",0,0,0,0,0,0,0,0,0,0
+2608,1,"A stairwell that seems likely to lead to the upper floors of a classic wooden schoolhouse. The sturdy design has a comforting, nostalgic quality.",0,0,0,0,0,0,0,0,0,0
+2609,1,"A stairwell that seems likely to lead to the lower floors of a classic wooden schoolhouse. The corners are liable to gather dust, so take extra care when cleaning them.",0,0,0,0,0,0,0,0,0,0
+2610,1,"A wall design straight out of a school classroom. Don't forget to close the windows at the end of the day, or the memos and lesson materials posted to the walls might blow away.",0,0,0,0,0,0,0,0,0,0
+2611,1,"A wooden floor that has stood the test of time. The waxed surface is easy to clean and difficult to damage. If you're planning to make a classroom, this floor is a good place to start!",0,0,0,0,0,0,0,0,0,0
