@@ -9,3 +9,15 @@ id,sekai_id,name,description,top_bg,position_x,position_y,scale_ratio,sheet_id,q
 10,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,3,1001006,0,0,"2022/04/01 13:00:00","2022/04/01 17:59:59",300,0
 11,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,1,1001004,0,0,"2022/04/01 18:00:00","2022/04/01 20:59:59",180,0
 12,1001,"Attack of the Robo Lima!","Countdown to Landosol's End　～04/01 23：59",100584,0,0,1.0,bgm_M220,bgm_M220,2,1001005,0,0,"2022/04/01 21:00:00","2022/04/01 23:59:59",180,0
+15,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,1,1002001,500000000000,250000000001,"2023/04/01 0:00:00","2023/04/01 7:59:59",480,4004101
+16,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,2,1002002,250000000000,150000000001,"2023/04/01 8:00:00","2023/04/01 12:59:59",300,4004102
+17,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,3,1002003,150000000000,50000000001,"2023/04/01 13:00:00","2023/04/01 17:59:59",300,4004103
+18,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,1,1002001,50000000000,25000000001,"2023/04/01 18:00:00","2023/04/01 19:59:59",120,4004104
+19,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,2,1002002,25000000000,0,"2023/04/01 20:00:00","2023/04/01 23:59:59",240,0
+22,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,1,1002004,0,0,"2023/04/01 0:00:00","2023/04/01 7:59:59",480,4004109
+23,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,2,1002005,0,0,"2023/04/01 8:00:00","2023/04/01 12:59:59",300,0
+24,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,3,1002006,0,0,"2023/04/01 13:00:00","2023/04/01 17:59:59",300,0
+25,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,1,1002004,0,0,"2023/04/01 18:00:00","2023/04/01 20:59:59",180,0
+26,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,2,1002005,0,0,"2023/04/01 21:00:00","2023/04/01 21:59:59",60,0
+27,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,3,1002006,0,0,"2023/04/01 22:00:00","2023/04/01 22:59:59",60,0
+28,1002,"Return of the Colossus","Landosol Wars: Return of the Colossus　Ends 4/1, 11:59 p.m. (UTC)",100584,0,0,1.0,bgm_M220,bgm_M220,1,1002004,0,0,"2023/04/01 23:00:00","2023/04/01 23:59:59",60,0
