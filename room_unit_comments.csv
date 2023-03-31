@@ -3614,3 +3614,27 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 3971,110901,3,5,1,0,1,"You know, aren't marshmallows cuter when you don't toast them?",0
 3973,110901,3,7,1,0,1,"I can eat tons and never gain weight, okay~?",0
 3974,110901,3,8,1,0,1,"Sure, I like reading!\nIt's plenty of fun,\nand it just adds to my charm!",0
+3976,112701,1,1,1,0,1,"People look at me differently when I wear this. I mean, not that I care.",0
+3977,112701,1,2,1,0,1,"What an exhausting day... I'm all out of motivation, so maybe I'll just sleep.",0
+3978,112701,1,3,1,0,1,"Anyone wanna do all my work for me?",0
+3979,112701,1,4,1,0,1,"Nothing beats a sweet bun after a bit of hard work!",0
+3980,112701,1,5,1,0,1,"Lemme take a quick break from working. Mmm, tasty acorns...",0
+3981,112701,1,101,4,0,1,"My pay just came in, so maybe I'll buy him a little something...",0
+3982,112701,1,102,8,0,1,"Next time I have a day off, I just wanna laze around with him the whole day long.",0
+3983,112701,2,1,1,0,1,"I respond to praise, not punishment.\nSo go on, praise me!",0
+3984,112701,2,2,1,0,1,"Ooh, you brought snacks? I like the way you think. Thanks.",0
+3985,112701,2,3,1,0,1,"A new job? I can't do any more today...\nWe're closed for business!",0
+3986,112701,2,4,1,0,1,"I-I'm not slacking off!\nI was just taking a break, that's all!",0
+3987,112701,2,101,4,0,1,"Hey, you wanna skip work with me? It's not healthy to push yourself too hard.",0
+3988,112701,2,102,8,0,1,"When you're around, it feels like the strain of work gets a little bit lighter.",0
+3989,112701,2,1,1,1,1,"*sigh*... Guess I've gotta wake up.\nHere comes another day of grueling work.",0
+3990,112701,2,2,1,2,1,"Urk... I think I had too many sweet buns for lunch. My tummy hurts... I'm sleepy...",0
+3991,112701,2,3,1,3,1,"No work tomorrow, so I'm gonna stay up aaaall night long!",0
+3993,112701,3,2,1,0,1,"I just wanna curl up like a cat! ...Or a squirrel, I guess.",0
+3994,112701,3,3,1,0,1,"Ooh, fluffy!\nIt could give my tail a run for its money.",0
+3995,112701,3,4,1,0,1,"Why aren't there any fragrances that smell like sweet buns?",0
+3996,112701,3,5,1,0,1,"This warmth seems dangerous. I think it's sapping my will to do any work.",0
+3998,112701,3,7,1,0,1,"I worked hard, so I can eat all I like and gain zero calories.",0
+3999,112701,3,8,1,0,1,"Hey, even I read books sometimes.\n...I know it doesn't seem like my style.",0
+4001,104601,1,103,12,0,1,"This brand-nyew original taiyaki I made... I wonder if he'll like it.",0
+4002,104601,2,103,12,0,1,"Oh—welcome home! Eheheh. It feels weirdly nyice to be able to say that! ♪",0
