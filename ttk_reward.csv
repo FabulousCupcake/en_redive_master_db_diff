@@ -1,0 +1,16 @@
+id,ttk_score,mission_detail,reward_type_1,reward_id_1,reward_count_1,reward_type_2,reward_id_2,reward_count_2,reward_type_3,reward_id_3,reward_count_3,reward_type_4,reward_id_4,reward_count_4,reward_type_5,reward_id_5,reward_count_5
+1,32000,"Achieve a total score of 32,000.",12,94002,20000,0,0,0,0,0,0,0,0,0,0,0,0
+2,64000,"Achieve a total score of 64,000.",12,94002,30000,0,0,0,0,0,0,0,0,0,0,0,0
+3,96000,"Achieve a total score of 96,000.",12,94002,40000,0,0,0,0,0,0,0,0,0,0,0,0
+4,128000,"Achieve a total score of 128,000.",12,94002,50000,0,0,0,0,0,0,0,0,0,0,0,0
+5,160000,"Achieve a total score of 160,000.",8,91002,25,0,0,0,0,0,0,0,0,0,0,0,0
+6,192000,"Achieve a total score of 192,000.",15,11001071,1,0,0,0,0,0,0,0,0,0,0,0,0
+7,224000,"Achieve a total score of 224,000.",2,23001,20,0,0,0,0,0,0,0,0,0,0,0,0
+8,256000,"Achieve a total score of 256,000.",8,91002,50,0,0,0,0,0,0,0,0,0,0,0,0
+9,288000,"Achieve a total score of 288,000.",12,94002,70000,0,0,0,0,0,0,0,0,0,0,0,0
+10,320000,"Achieve a total score of 320,000.",12,94002,80000,0,0,0,0,0,0,0,0,0,0,0,0
+11,352000,"Achieve a total score of 352,000.",8,91002,75,0,0,0,0,0,0,0,0,0,0,0,0
+12,384000,"Achieve a total score of 384,000.",12,94002,100000,0,0,0,0,0,0,0,0,0,0,0,0
+13,416000,"Achieve a total score of 416,000.",2,23001,45,0,0,0,0,0,0,0,0,0,0,0,0
+14,448000,"Achieve a total score of 448,000.",8,91002,100,0,0,0,0,0,0,0,0,0,0,0,0
+15,480000,"Achieve a total score of 480,000.",15,11001072,1,0,0,0,0,0,0,0,0,0,0,0,0

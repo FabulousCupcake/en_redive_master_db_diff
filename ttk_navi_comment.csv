@@ -1,0 +1,14 @@
+comment_id,where_type,character_id,face_type,character_name,description,voice_id,start_time,end_time,pos_x,pos_y,change_face_time,change_face_type,event_id
+24001,24,102601,1,Rin,"When I actually do a job,\nI do it properly!",0,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,1,10040
+24002,24,102601,1,Rin,"Whew...\nThat should be the end of\nmy work for today.",1,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,1,10040
+24003,24,102601,1,Rin,"And that's a wrap.\nWho knew I could take care\nof all this on my own?",2,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,1,10040
+24004,24,102601,2,Rin,"All right!\nNow I finally have a chance\nto slack off...",3,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,2,10040
+24005,24,102601,1,Rin,"If you want the cheese so bad,\ngo earn a proper living wage\nand buy it from us!",4,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,1,10040
+24006,24,102601,2,Rin,"Now you see what happens\nwhen you make an enemy\nout of me!",5,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,2,10040
+24007,24,102601,2,Rin,"I'm more effective than\nyou'd think, aren't I?",6,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,2,10040
+24008,24,102601,4,Rin,"Man, I'm pooped...\nWhy do they have to scurry\naround so fast...?",7,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,4,10040
+24009,24,102601,4,Rin,"At this rate,\nMahy's gonna give me\na huge telling-off!",8,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,4,10040
+24010,24,102601,4,Rin,"I thought I was working\npretty hard, too...\nHow did this happen?!",9,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,4,10040
+24011,24,102601,4,Rin,"They got me...\nMice are trickier little beasts\nthan I thought.",10,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,4,10040
+24012,24,102601,4,Rin,"Curse you, mice...!\nHow dare you steal\nmy delicious cheese?!",11,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,0.0,4,10040
+24013,24,102601,4,Rin,"So... tired...\nBut next time, I swear\nI'll keep the cheese safe...",12,"2023/04/02 23:00:00","2030/12/17 14:59:59",0.0,0.0,1.81,1,10040

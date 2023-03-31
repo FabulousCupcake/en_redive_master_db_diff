@@ -69,6 +69,7 @@ area_id,area_name,area_display_name,map_type,sheet_id,que_id,start_time,end_time
 13019,"19. Phaethon Fields (South)","19. Phaethon Fields (South)",102,bgm_M179,bgm_M179,"2022/09/01 08:00:00","2030/12/17 14:59:00"
 13020,"20. Castalia Woods (West)","20. Castalia Woods (West)",102,bgm_M180,bgm_M180,"2015/12/17 15:00:00","2030/12/17 14:59:59"
 13021,"21. Castalia Woods (East)","21. Castalia Woods (East)",102,bgm_M180,bgm_M180,"2015/12/17 15:00:00","2030/12/17 14:59:59"
+13022,"22. Mathilde Ridges (South)","22. Mathilde Ridges (South)",102,bgm_M232,bgm_M232,"2015/12/17 15:00:00","2030/12/17 14:59:59"
 18001,"Sanctum Survey","Sanctum Survey",0,"","","2015/12/17 15:00:00","2030/12/17 14:59:59"
 19001,"Temple Trek","Temple Trek",0,"","","2022/08/04 13:00:00","2030/12/17 14:59:00"
 21001,"Mana Quests","Mana Quests",0,"","","2015/12/17 15:00:00","2030/12/17 14:59:59"

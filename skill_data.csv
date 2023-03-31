@@ -250,6 +250,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1046001,"Kitty Cat-aclysm",0,0,0.0,104600101,104600102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy with the highest magical attack.",1001
 1046002,"Feline Fling",0,0,1.325,104600201,104600202,0,0,0,0,0,0,104600201,0,0,0,0,0,"Deals moderate physical damage to the enemy with the highest magical attack and lowers its magical attack by a small amount.",2001
 1046003,"Finicky Feline",0,0,1.325,104600301,104600302,0,0,0,0,0,0,0,0,0,0,0,0,"Reduces the TP of the enemy with the highest magical attack power by a small amount while also recovering own TP by a small amount.",2006
+1046011,"Phantom Cat-astrophe",0,0,0.0,104601101,104601102,104601103,104601104,0,0,0,0,104601101,104601101,104601103,0,0,0,"Deals massive physical damage to the enemy with the highest magical attack. If the target uses magical attacks, deals increased damage and lowers their physical defense by a massive amount.",1001
 1046012,"Feline Fling+",0,0,1.325,104601201,104601202,104601203,0,0,0,0,0,104601201,104601201,0,0,0,0,"Deals moderate physical damage to the enemy with the highest magical attack, lowers its magical attack by a moderate amount, and inflicts Stun.",2001
 1046501,"One Myarvelous Cat",0,0,0.0,104650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1046511,"One Myarvelous Cat+",0,0,0.0,104651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
@@ -641,6 +642,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1126003,"Keep On Fighting! ☆",1,0,0.97,112600301,112600302,0,0,0,0,0,0,112600301,0,0,0,0,0,"Recovers the HP of all allies near the ally with the lowest HP by a small amount.",2005
 1126501,"Natural Charm",0,0,0.0,112650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical attack at start of battle.",3003
 1126511,"Natural Charm+",0,0,0.0,112651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical attack at start of battle.",3003
+1127001,"Nutty Execution",0,0,0.0,112700101,112700102,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to enemies in range and lowers their physical defense by a small amount.",1001
+1127002,"Nut Cracker",0,0,0.0,112700201,112700202,112700203,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to enemies in range and lowers their physical defense by a moderate amount, but lowers own action speed by a massive amount.",2001
+1127003,"Nut Slash",0,0,0.62,112700301,112700302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to enemies in range and lowers their physical defense by a small amount.",2001
+1127501,"Nut-ritional Benefits",0,0,0.0,112750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1127511,"Nut-ritional Benefits+",0,0,0.0,112751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1804001,"Ultimate Princess Strike",1,0,0.0,180400101,180400102,180400103,180400104,0,0,0,0,0,0,180400103,0,0,0,"Deals massive physical damage to an enemy directly in front. Deals more damage the higher Pecorine's HP. If HP is below 50%, grants Knight's Blessing to self. If HP falls to 0 while Knight's Blessing is active, Pecorine will consume Knight's Blessing and recover HP instead of being defeated.",1001
 1804002,"Rice Ball Time",0,0,0.92,180400201,180400202,180400203,180400204,0,0,0,0,0,0,180400203,0,0,0,"Large boost to own physical attack. Boost increases based on Pecorine's own remaining HP. If HP is below 50%, deploys a barrier around self that absorbs physical and magical damage.",2003
 1804003,"Royal Slash",1,0,0.62,180400301,180400302,180400303,180400304,180400305,180400306,180400307,0,0,0,0,180400303,0,180400303,"Deals moderate physical damage to all enemies in range. Damage increases based on Pecorine's own remaining HP. If HP is 50% or above, boosts own physical attack based on total damage. If HP is below 50%, recovers own HP based on total damage.",2001
@@ -760,6 +766,7 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2083001,"",1,0,5.0,208300101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow HP",1001
 2083002,"",1,0,5.0,208300201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow TP",1001
 2083003,"",1,0,5.0,208300301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow TP",1001
+2083004,"",1,0,5.0,208300401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Recovers Shadow TP",1001
 2084001,"",0,0,3.0,208400101,208400102,0,0,0,0,0,0,208400101,0,0,0,0,0,"Peckpecker Skill",1001
 2085001,"",0,0,3.0,208500101,208500102,0,0,0,0,0,0,208500101,0,0,0,0,0,"Strawberry Serpent Skill",1001
 2085011,"",0,0,3.0,208500101,208500102,0,0,0,0,0,0,208500101,0,0,0,0,0,"Strawberry Serpent Skill",1001
@@ -804,6 +811,12 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2093041,"",1,0,3.0,209304101,209304102,0,0,0,0,0,0,0,0,0,0,0,0,"Kyukon-chan: SP3",1001
 2096011,"",1,0,0.0,209601101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rin (IM@S CG) Shadow: Moderate-strength standard attack",1001
 2096012,"",0,0,0.0,209601201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Rin (IM@S CG) Shadow: Large-strength standard attack",1001
+2097001,"",0,0,2.0,209700101,209700102,209700103,209700104,209700105,209700106,209700107,0,0,0,0,0,0,0,"",1001
+2097002,"",0,0,99.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+2097031,"",0,0,2.0,209703101,209703102,209703103,209703104,209703105,209703106,209703107,0,0,0,0,0,0,0,"",1001
+2098001,"",0,0,0.0,209800101,209800102,0,0,0,0,0,0,209800101,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front and inflicts Stun.",1001
+2098002,"",0,0,1.4,209800201,209800202,0,0,0,0,0,0,209800201,0,0,0,0,0,"Deals small physical damage to an enemy directly in front and knocks it back slightly.",2001
+2098003,"",0,0,1.4,209800301,209800302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front. Small boost to own physical attack.",2001
 3001001,"",0,0,3.0,300100101,300100102,0,0,0,0,0,0,300100101,0,0,0,0,0,sample,1001
 3001002,"",0,0,3.0,300100201,300100202,300100203,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3001003,"",1,0,3.0,300100301,300100302,0,0,0,0,0,0,300100301,0,0,0,0,0,sample,1001
@@ -1653,6 +1666,31 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3107005,"",0,0,1.5,310700501,310700502,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
 3107006,"",0,0,3.3,310700601,310700602,310700603,0,0,0,0,0,310700601,310700601,0,0,0,0,"",1001
 3107007,"",0,0,0.0,310700701,310700702,310700703,310700704,0,0,0,0,0,0,0,0,0,0,"",1001
+3108001,"",0,0,2.0,310800101,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108002,"",0,0,2.0,310800201,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108003,"",0,0,2.0,310800301,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108004,"",0,0,2.0,310800401,310800402,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108005,"",0,0,2.0,310800501,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108006,"",0,0,0.0,310800601,310800602,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108007,"",0,0,0.0,310800701,310800702,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108008,"",0,0,0.0,310800801,310800802,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108017,"",0,0,0.0,310801701,310801702,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108027,"",0,0,0.0,310802701,310802702,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108037,"",0,0,0.0,310803701,310803702,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108051,"",0,0,2.0,310805101,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108052,"",0,0,2.0,310805201,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108053,"",0,0,2.0,310805301,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108054,"",0,0,2.0,310805401,310805402,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108055,"",0,0,2.0,310805501,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108056,"",0,0,0.0,310805601,310805602,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108057,"",0,0,0.0,310805701,310805702,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108061,"",0,0,2.0,310806101,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108062,"",0,0,2.0,310806201,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108063,"",0,0,2.0,310806301,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108064,"",0,0,2.0,310806401,310806402,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108065,"",0,0,2.0,310806501,0,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108066,"",0,0,0.0,310806601,310806602,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
+3108067,"",0,0,0.0,310806701,310806702,0,0,0,0,0,0,0,0,0,0,0,0,"",1001
 3109001,"",0,0,8.0,310900101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Flying Saucer UB",1001
 3109002,"",0,0,0.0,310900201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Flying Saucer Skill 2",1001
 3109003,"",0,0,8.0,310900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Flying Saucer Skill 3",1001
