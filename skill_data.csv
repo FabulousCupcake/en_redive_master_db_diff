@@ -494,11 +494,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1095001,"Dance of Purest Ecstasy",1,0,0.0,109500101,109500102,109500103,0,0,0,0,0,0,0,0,0,0,0,"Massively recovers own HP. Large boost to physical and magical defense of all nearby allies.",1005
 1095002,"Let's Get Passionate!",1,0,0.675,109500201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to magical attack of all allies.",2003
 1095003,"My Breath Is Bewitching!",1,0,0.715,109500301,109500302,0,0,0,0,0,0,0,109500302,0,0,0,0,"Deals small magical damage to an enemy directly in front and lowers its magical defense by a small amount.",2002
+1095012,"Let's Get Passionate!+",1,0,0.675,109501201,109501202,109501203,0,0,0,0,0,0,0,0,0,0,0,"Large boost to magical attack and moderate boost to magical critical rate and action speed of all allies.",2003
 1095501,"Opulent Trip Zone",0,0,0.0,109550101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own magical defense at start of battle.",3004
 1095511,"Opulent Trip Zone+",0,0,0.0,109551101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own magical defense at start of battle.",3004
 1096001,"Ninpo: Fujiyama Shuriken",1,0,0.0,109600101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Deals massive physical damage to an enemy directly in front. When this skill is a critical hit, its damage is tripled instead of doubled.",1001
 1096002,"Ninpo: Swoopy Swallow",0,0,0.34,109600201,109600202,0,0,0,0,0,0,109600201,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount.",2001
 1096003,"Ninpo: Shadow Clone no Jutsu",1,0,0.34,109600301,109600302,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack and large boost to own action speed.",2003
+1096012,"Ninpo: Swoopy Swallow+",0,0,0.34,109601201,109601202,0,0,0,0,0,0,109601201,0,0,0,0,0,"Deals moderate physical damage to an enemy directly in front and lowers its physical defense by a small amount. When this skill is a critical hit, its damage is tripled instead of doubled.",2001
 1096501,"Ninpo: Ultra Superstrength",0,0,0.0,109650101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1096511,"Ninpo: Ultra Superstrength+",0,0,0.0,109651101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1097001,"Al Huma",1,0,0.0,109700101,109700102,109700103,0,0,0,0,0,109700101,109700101,0,0,0,0,"Deals large physical damage to all enemies in range. Damage increases for enemies that are unable to move.",1001
