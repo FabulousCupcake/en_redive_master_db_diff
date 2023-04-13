@@ -649,6 +649,11 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 1127003,"Nut Slash",0,0,0.62,112700301,112700302,0,0,0,0,0,0,0,0,0,0,0,0,"Deals small physical damage to enemies in range and lowers their physical defense by a small amount.",2001
 1127501,"Nut-ritional Benefits",0,0,0.0,112750101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
 1127511,"Nut-ritional Benefits+",0,0,0.0,112751101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
+1128001,"Elizabeth Carnival",0,0,0.0,112800101,112800102,0,0,0,0,0,0,112800101,0,0,0,0,0,"Deals moderate physical damage to all enemies in range and inflicts Confusion.",1024
+1128002,"No Milk, No Life",0,0,0.59,112800201,112800202,0,0,0,0,0,0,0,0,0,0,0,0,"Boosts own physical attack by a moderate amount and grants TP regen.",2003
+1128003,"Farmer's Rush",0,0,0.59,112800301,112800302,112800303,0,0,0,0,0,0,0,0,0,0,0,"Deals moderate physical damage to all enemies in range. This damage increases based on the number of enemies in range. Additionally knocks the closest enemy back a large distance.",2001
+1128501,"All for Elizabeth",0,0,0.0,112850101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Moderate boost to own physical attack at start of battle.",3001
+1128511,"All for Elizabeth+",0,0,0.0,112851101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Large boost to own physical attack at start of battle.",3001
 1804001,"Ultimate Princess Strike",1,0,0.0,180400101,180400102,180400103,180400104,0,0,0,0,0,0,180400103,0,0,0,"Deals massive physical damage to an enemy directly in front. Deals more damage the higher Pecorine's HP. If HP is below 50%, grants Knight's Blessing to self. If HP falls to 0 while Knight's Blessing is active, Pecorine will consume Knight's Blessing and recover HP instead of being defeated.",1001
 1804002,"Rice Ball Time",0,0,0.92,180400201,180400202,180400203,180400204,0,0,0,0,0,0,180400203,0,0,0,"Large boost to own physical attack. Boost increases based on Pecorine's own remaining HP. If HP is below 50%, deploys a barrier around self that absorbs physical and magical damage.",2003
 1804003,"Royal Slash",1,0,0.62,180400301,180400302,180400303,180400304,180400305,180400306,180400307,0,0,0,0,180400303,0,180400303,"Deals moderate physical damage to all enemies in range. Damage increases based on Pecorine's own remaining HP. If HP is 50% or above, boosts own physical attack based on total damage. If HP is below 50%, recovers own HP based on total damage.",2001
@@ -755,6 +760,14 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 2076002,"",0,0,0.0,207600201,207600202,207600203,0,0,0,0,0,0,0,0,0,0,0,"",1001
 2077001,"",0,0,1.0,207700101,207700102,0,0,0,0,0,0,0,0,0,0,0,0,"Applies Stealth to self when HP falls below 1%",1001
 2077002,"",0,0,1.0,207700201,207700202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
+2077021,"",0,0,1.0,207702101,207702102,0,0,0,0,0,0,0,0,0,0,0,0,"Applies Stealth to self when HP falls below 1%",1001
+2077022,"",0,0,1.0,207702201,207702202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
+2077032,"",0,0,1.0,207703201,207703202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
+2077042,"",0,0,1.0,207704201,207704202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
+2077052,"",0,0,1.0,207705201,207705202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
+2077062,"",0,0,1.0,207706201,207706202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
+2077072,"",0,0,1.0,207707201,207707202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
+2077082,"",0,0,1.0,207708201,207708202,0,0,0,0,0,0,0,0,0,0,0,0,"When in Stealth and damage-taking actions have ended, applies Sturdy to self, removes self from win-lose conditions, and deals physical damage to an enemy",1001
 2078001,"",0,0,1.0,207800101,207800102,0,0,0,0,0,0,0,0,0,0,0,0,"Stealth after 8 seconds + attacks enemy",1001
 2078002,"",0,0,1.0,207800201,207800202,207800203,0,0,0,0,0,0,0,0,0,0,0,"Applies Sturdy, when HP falls below 1% attacks boss in Stealth",1001
 2079001,"",0,0,180.0,207900101,207900102,207900103,0,0,0,0,0,0,0,0,0,0,0,"Deploys field",1001
@@ -934,7 +947,13 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3011001,"",0,0,2.0,301100101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Orc Leader Skill 1",1001
 3011002,"",0,0,2.0,301100201,301100202,301100203,0,0,0,0,0,301100201,301100202,0,0,0,0,"Orc Leader Skill 2",1001
 3011011,"",0,0,2.0,301101101,301101102,0,0,0,0,0,0,301101101,0,0,0,0,0,"Orc Leader Skill 1",1001
-3011012,"",0,0,2.0,301101201,301100202,0,0,0,0,0,0,301100201,0,0,0,0,0,"Orc Leader Skill 2",1001
+3011012,"",0,0,2.0,301101201,301101202,301101203,301101204,0,0,0,0,301101201,301101202,301101202,0,0,0,"Orc Leader Skill 2",1001
+3011013,"",0,0,2.0,301101301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Standard Attack",1001
+3011014,"",0,0,0.0,301101401,301101402,0,0,0,0,0,0,0,0,0,0,0,0,"Damage limit",1001
+3011021,"",0,0,2.0,301102101,301102102,0,0,0,0,0,0,301102101,0,0,0,0,0,"Mad Bear UB",1001
+3011022,"",0,0,2.0,301102201,301102202,301102203,301102204,0,0,0,0,301102201,301102202,301102202,0,0,0,"Mad Bear Skill1",1001
+3011023,"",0,0,2.0,301102301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Standard Attack",1001
+3011024,"",0,0,0.0,301102401,301102402,0,0,0,0,0,0,0,0,0,0,0,0,"Damage limit",1001
 3012001,"",0,0,2.0,301200101,301200102,0,0,0,0,0,0,301200101,0,0,0,0,0,"Greater Golem Skill 1",1001
 3012002,"",0,0,2.0,301200201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Greater Golem Skill 2",1001
 3012011,"",0,0,2.0,301201101,301201102,301201103,301201104,301201105,0,0,0,0,0,0,0,0,0,"Crystal Golem Skill 0",1001
@@ -1070,21 +1089,27 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3026001,"",0,0,2.0,302600101,302600102,0,0,0,0,0,0,302600101,0,0,0,0,0,"Twin Pigs UB",1001
 3026002,"",0,0,2.0,302600201,302600202,0,0,0,0,0,0,302600201,0,0,0,0,0,"Twin Pigs Skill 1",1001
 3026003,"",0,0,2.0,302600301,302600302,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Skill 2",1001
-3026004,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,(Unused),1001
-3026005,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,(Unused),1001
-3026006,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,(Unused),1001
-3026007,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,(Unused),1001
-3026008,"",0,0,3.0,302600801,302600802,302600803,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 1",1001
-3026009,"",0,0,3.0,302600901,302600902,302600903,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 2",1001
+3026004,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Standard Attack",1001
+3026005,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 1",1001
+3026006,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 2",1001
+3026007,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs damage limit",1001
 3026011,"",0,0,2.0,302601101,302601102,0,0,0,0,0,0,302601101,0,0,0,0,0,"Twin Pigs UB",1001
 3026012,"",0,0,2.0,302601201,302601202,0,0,0,0,0,0,302601201,0,0,0,0,0,"Twin Pigs Skill 1",1001
 3026013,"",0,0,2.0,302601301,302601302,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Skill 2",1001
 3026014,"",0,0,3.0,302601401,302601402,302601403,302601404,302601405,0,0,0,0,0,0,0,0,0,"Twin Pigs Skill 3",1001
-3026015,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,(Unused),1001
-3026016,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,(Unused),1001
-3026017,"",0,0,3.0,302600401,0,0,0,0,0,0,0,0,0,0,0,0,0,(Unused),1001
-3026018,"",0,0,3.0,302601801,302601802,302601803,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 1",1001
-3026019,"",0,0,3.0,302601901,302601902,302601903,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 2",1001
+3026015,"",0,0,3.0,302601501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Standard Attack",1001
+3026016,"",0,0,3.0,302601601,302601602,302601603,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 1",1001
+3026017,"",0,0,3.0,302601701,302601702,302601703,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 2",1001
+3026018,"",0,0,3.0,302601801,302601802,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs damage limit",1001
+3026021,"",0,0,2.0,302602101,302602102,0,0,0,0,0,0,302602101,0,0,0,0,0,"Twin Pigs UB",1001
+3026022,"",0,0,2.0,302602201,302602202,0,0,0,0,0,0,302602201,0,0,0,0,0,"Twin Pigs Skill 1",1001
+3026023,"",0,0,2.0,302602301,302602302,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Skill 2",1001
+3026024,"",0,0,3.0,302602401,302602402,302602403,302602404,302602405,0,0,0,0,0,0,0,0,0,"Twin Pigs Skill 3",1001
+3026025,"",0,0,3.0,302602501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Standard Attack",1001
+3026026,"",0,0,3.0,302602601,302602602,302602603,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Skill 4",1001
+3026027,"",0,0,3.0,302602701,302602702,302602703,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 1",1001
+3026028,"",0,0,3.0,302602801,302602802,302602803,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs Break 2",1001
+3026029,"",0,0,3.0,302602901,302602902,0,0,0,0,0,0,0,0,0,0,0,0,"Twin Pigs damage limit",1001
 3027001,"",0,0,2.0,302700101,302700102,0,0,0,0,0,0,302700101,0,0,0,0,0,-,1001
 3027002,"",0,0,2.0,302700201,302700202,0,0,0,0,0,0,302700201,0,0,0,0,0,-,1001
 3027003,"",0,0,2.0,302700301,0,0,0,0,0,0,0,0,0,0,0,0,0,-,1001
@@ -1370,6 +1395,14 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3060075,"",0,0,4.2,306007501,0,0,0,0,0,0,0,0,0,0,0,0,0,"Mochifiend Gummy skill2",1001
 3061001,"",0,0,2.0,306100101,306100102,0,0,0,0,0,0,306100101,0,0,0,0,0,"Jackal Thief: Union Burst",1001
 3061002,"",0,0,2.0,306100201,306100202,306100203,306100204,0,0,0,0,306100201,306100201,0,0,0,0,"Jackal Thief: Skill",1001
+3061011,"",0,0,2.0,306101101,306101102,0,0,0,0,0,0,306101101,0,0,0,0,0,"Jackal Thief UB",1001
+3061012,"",0,0,2.0,306101201,306101202,306101203,0,0,0,0,0,306101201,0,0,0,0,0,"Jackal Thief Skill1",1001
+3061013,"",0,0,2.0,306101301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jackal Thief Standard Attack",1001
+3061014,"",0,0,3.0,306101401,306101402,0,0,0,0,0,0,0,0,0,0,0,0,"Jackal Thief damage limit",1001
+3061021,"",0,0,2.0,306102101,306102102,0,0,0,0,0,0,306102101,0,0,0,0,0,"Jackal Thief UB",1001
+3061022,"",0,0,2.0,306102201,306102202,306102203,306102204,306102205,0,0,0,306102201,306102201,0,306102204,0,0,"Jackal Thief Skill1",1001
+3061023,"",0,0,2.0,306101301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Jackal Thief Standard Attack",1001
+3061024,"",0,0,3.0,306101401,306101402,0,0,0,0,0,0,0,0,0,0,0,0,"Jackal Thief damage limit",1001
 3062001,"",0,0,2.0,306200101,306200102,306200103,0,0,0,0,0,0,0,0,0,0,0,"Sham Raccoon: Union Burst",1001
 3062002,"",0,0,2.0,306200201,306200202,306200203,306200204,306200205,0,0,0,306200201,306200201,306200203,0,0,0,"Sham Raccoon: Skill",1001
 3062011,"",0,0,2.0,306201101,306201102,306201103,0,0,0,0,0,0,0,0,0,0,0,"Master Senri: Union Burst",1001
@@ -1474,6 +1507,22 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3073006,"",0,0,0.0,307300601,307300602,307300603,307300604,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
 3073007,"",0,0,1.8,307300701,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
 3073008,"",0,0,1.8,307300801,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073071,"",0,0,0.0,307307101,307307102,307307103,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073072,"",0,0,1.8,307307201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073073,"",0,0,1.8,307307301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073074,"",0,0,0.0,307307401,307307402,307307403,307307404,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073075,"",0,0,0.3,307307501,307307502,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073076,"",0,0,0.0,307307601,307307602,307307603,307307604,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073077,"",0,0,1.8,307307701,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073078,"",0,0,1.8,307307801,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073082,"",0,0,1.8,307308201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073083,"",0,0,1.8,307308301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073087,"",0,0,1.8,307308701,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073088,"",0,0,1.8,307308801,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073092,"",0,0,1.8,307309201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073093,"",0,0,1.8,307309301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073097,"",0,0,1.8,307309701,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
+3073098,"",0,0,1.8,307309801,0,0,0,0,0,0,0,0,0,0,0,0,0,"Evil Magistrate",1001
 3074001,"",0,0,1.8,307400101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Petelgeuse UB",1001
 3074002,"",0,0,1.8,307400201,307400202,307400203,0,0,0,0,0,307400201,0,0,0,0,0,"Petelgeuse Skill 1 (Evil Aura)",1001
 3074003,"",0,0,1.8,307400301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Petelgeuse Skill 2 (Rearguard Rush)",1001
@@ -1696,6 +1745,14 @@ skill_id,name,skill_type,skill_area_width,skill_cast_time,action_1,action_2,acti
 3109001,"",0,0,8.0,310900101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Flying Saucer UB",1001
 3109002,"",0,0,0.0,310900201,0,0,0,0,0,0,0,0,0,0,0,0,0,"Flying Saucer Skill 2",1001
 3109003,"",0,0,8.0,310900301,0,0,0,0,0,0,0,0,0,0,0,0,0,"Flying Saucer Skill 3",1001
+3110001,"",0,0,3.0,311000101,0,0,0,0,0,0,0,0,0,0,0,0,0,"Treant Castle: Union Burst",1001
+3110002,"",0,0,1.5,311000201,311000203,311000204,0,0,0,0,0,311000201,311000201,0,0,0,0,"Treant Castle: Skill 1",1001
+3110003,"",0,0,1.5,311000301,311000302,311000303,311000304,0,0,0,0,311000301,311000301,0,0,0,0,"Treant Castle: Skill 2",1001
+3110004,"",0,0,1.5,311000401,311000402,311000403,311000404,0,0,0,0,311000401,311000401,311000401,0,0,0,"Treant Castle: Awakening",1001
+3112001,"",0,0,3.0,311200101,311200102,0,0,0,0,0,0,0,0,0,0,0,0,"Rafflesia: UB (Damage to area in front)",1001
+3112002,"",0,0,3.0,311200201,311200202,0,0,0,0,0,0,0,0,0,0,0,0,"Rafflesia: Skill 1 (Damage & debuff to an enemy in front)",1001
+3112003,"",0,0,3.0,311200301,311200302,0,0,0,0,0,0,311200301,0,0,0,0,0,"Rafflesia: Skill 2 (Self buff)",1001
+3112004,"",0,0,3.0,311200401,311200402,0,0,0,0,0,0,311200401,0,0,0,0,0,"Rafflesia: Skill 2 (Self buff)",1001
 3901002,"",0,0,3.0,390100201,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901003,"",0,0,3.0,390100301,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
 3901004,"",0,0,3.0,390100401,0,0,0,0,0,0,0,0,0,0,0,0,0,sample,1001
