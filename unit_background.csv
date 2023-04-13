@@ -57,6 +57,8 @@ unit_id,unit_name,bg_id,bg_name,position,face_type
 106101,Muimi,500341,"Labyrinth Hideout",0.0,20
 106301,Arisa,500170,"Mysterion Woods",0.0,3
 106501,Kaya,500833,"Jungle - Tent",0.0,4
+106601,Inori,500833,"Jungle - Tent",0.0,4
+106701,Homare,500833,"Jungle - Tent",0.0,2
 106801,"Akira Mosakuji",500030,"Landosol - Business District",0.0,2
 107001,Neneka,500341,"Labyrinth Hideout",0.0,2
 107101,"Christina Morgan",500090,"Landosol - Palace Entrance",0.0,2
@@ -111,4 +113,5 @@ unit_id,unit_name,bg_id,bg_name,position,face_type
 112501,"Rin (IM@S CG)",500920,"Musa Town (Day)",0.0,2
 112601,"Mio (IM@S CG)",500920,"Musa Town (Day)",0.0,4
 112701,"Rin (Ranger)",500995,"Farm (Day)",0.0,2
+112801,"Mahiru (Ranger)",500995,"Farm (Day)",0.0,2
 180401,"Pecorine (Princess)",500130,"Esterella Road",0.0,4
